@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T16:31:37+00:00",
+  "generated_at": "2026-09-21T23:41:09+00:00",
   "channel": "-1004483833987",
-  "count": 2447,
+  "count": 2448,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -117433,6 +117433,74 @@
         3222
       ],
       "video_message_id": 3222
+    },
+    {
+      "tmdb_id": 467012,
+      "title": "Os Escravos de Satanás",
+      "original_title": "Pengabdi Setan",
+      "year": "2017",
+      "poster_url": "https://image.tmdb.org/t/p/w500/obTigUyIJwpgRU4kDpKyzVde0fs.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5PD7GeOq9Npk7wz7QPz1MoK09Mh.jpg",
+      "overview": "Rini, uma jovem de 20 anos, mora em uma casa com toda a sua família, incluindo sua avó e mãe que estão doentes. Após um pesadelo, ela descobre que sua mãe morreu. Logo depois do funeral, a família começa a experienciar atividade paranormais, envolvendo uma figura que parece com a mãe.",
+      "genres": [
+        "Terror",
+        "Mistério"
+      ],
+      "cast": [
+        {
+          "name": "Tara Basro",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d9asO9KVxwNoT1Fhhvuo7GKimBJ.jpg"
+        },
+        {
+          "name": "Bront Palarae",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mk7v78F2QPV1jmwjjo19PONugkR.jpg"
+        },
+        {
+          "name": "Endy Arfian",
+          "photo_url": "https://image.tmdb.org/t/p/w185/v9yWVWqD5SeDuU8l8rb71BYmlvI.jpg"
+        },
+        {
+          "name": "Nasar Anuz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rpn7UUV3UYVih0jmans15MRA5ki.jpg"
+        },
+        {
+          "name": "M. Adhiyat",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yXSGQIdGvnTPmYjhcrEFHkvIAO2.jpg"
+        },
+        {
+          "name": "Ayu Laksmi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6Ij0ul9puMjFwioSYkvbmJbFUid.jpg"
+        },
+        {
+          "name": "Elly D. Luthan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mlXKirRYfh2u1EDskTS6mpHNsd7.jpg"
+        },
+        {
+          "name": "Arswendy Bening Swara",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fzC4pbmAIeqFqBMoAVa42vHV4vz.jpg"
+        },
+        {
+          "name": "Dimas Aditya",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jzy7OlHRiheBRk5zLDnCI0QxAYc.jpg"
+        },
+        {
+          "name": "Egy Fedly",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kGlLAf9HnrySKR6MP4vasbUtgth.jpg"
+        },
+        {
+          "name": "Joko Anwar",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eOyZy4HSxbdcKR9JIc7093d0alb.jpg"
+        },
+        {
+          "name": "Fachry Albar",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dUoNiWs6xxRJUCFa3Szq8MdPIMX.jpg"
+        }
+      ],
+      "message_ids": [
+        6579,
+        6580
+      ],
+      "video_message_id": 6580
     },
     {
       "tmdb_id": 9957,

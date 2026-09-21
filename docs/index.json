@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T23:41:17+00:00",
+  "generated_at": "2026-09-21T23:41:25+00:00",
   "channel": "-1004483833987",
-  "count": 2449,
+  "count": 2450,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -27374,6 +27374,74 @@
         1595
       ],
       "video_message_id": 1595
+    },
+    {
+      "tmdb_id": 495764,
+      "title": "Aves de Rapina: Arlequina e sua Emancipação Fantabulosa",
+      "original_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "year": "2020",
+      "poster_url": "https://image.tmdb.org/t/p/w500/A50Ngq9lh9aCTGHC6kttrppHNoF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3zBjU7mXlzxJKAStRzlNDZRGT0m.jpg",
+      "overview": "Arlequina, Canário Negro, Caçadora, Cassandra Cain e a policial Renée Montoya formam um grupo inusitado de heroínas. Quando um perigoso criminoso começa a causar destruição em Gotham, as cinco mulheres precisam se unir para defender a cidade.",
+      "genres": [
+        "Ação",
+        "Crime"
+      ],
+      "cast": [
+        {
+          "name": "Margot Robbie",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8LqG2N6j98lFGMpuYsRUAhOunSd.jpg"
+        },
+        {
+          "name": "Rosie Perez",
+          "photo_url": "https://image.tmdb.org/t/p/w185/g6iJNyIhVDY5NxZU1jbKMjPnNYf.jpg"
+        },
+        {
+          "name": "Mary Elizabeth Winstead",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cBMtncBcUrKMTB8CifDG23THuCE.jpg"
+        },
+        {
+          "name": "Jurnee Smollett-Bell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ohvV70Ar4rlL5I3WzxQGtRjpsgS.jpg"
+        },
+        {
+          "name": "Ewan McGregor",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aEmyadfRXTmmR7UW7OXsm5a6smS.jpg"
+        },
+        {
+          "name": "Ella Jay Basco",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pvbIkOzprqteMtVH5hdaQ7VZMWB.jpg"
+        },
+        {
+          "name": "Chris Messina",
+          "photo_url": "https://image.tmdb.org/t/p/w185/l9DbQTK5pI6SOGpmfbADGLhdOYS.jpg"
+        },
+        {
+          "name": "Ali Wong",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vpVDlzPIIzgwdO23MbbwvfmPtXQ.jpg"
+        },
+        {
+          "name": "David Ury",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7PxPrnttpomJ9FuX4iSUwapRqR3.jpg"
+        },
+        {
+          "name": "Sara Montez",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9esIG5yFs0i1vu9H7rQsMSJ4kBr.jpg"
+        },
+        {
+          "name": "Izabel Pakzad",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jiHfnCgAhBHzuumv01UHIW0vE9s.jpg"
+        },
+        {
+          "name": "Daniel Bernhardt",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3BLz32inDr1jznU6pKQmh20zfhK.jpg"
+        }
+      ],
+      "message_ids": [
+        6583,
+        6584
+      ],
+      "video_message_id": 6584
     },
     {
       "tmdb_id": 1275945,

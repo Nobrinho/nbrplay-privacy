@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T23:41:09+00:00",
+  "generated_at": "2026-09-21T23:41:17+00:00",
   "channel": "-1004483833987",
-  "count": 2448,
+  "count": 2449,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -79738,6 +79738,75 @@
         984
       ],
       "video_message_id": 984
+    },
+    {
+      "tmdb_id": 791373,
+      "title": "Liga da Justiça de Zack Snyder",
+      "original_title": "Zack Snyder's Justice League",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lsZ5dmMuvZVNMBrkozvJedujbgU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9WoLTsRgrupkvCgs3bhsl2EjLhs.jpg",
+      "overview": "Determinado a garantir que o sacrifício final do Superman não foi em vão, Bruce Wayne alinha forças com Diana Prince com planos de recrutar uma equipe de metahumanos para proteger o mundo de uma ameaça de proporções catastróficas que se aproxima.",
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Fantasia"
+      ],
+      "cast": [
+        {
+          "name": "Ben Affleck",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+        },
+        {
+          "name": "Henry Cavill",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg"
+        },
+        {
+          "name": "Gal Gadot",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AbXKtWQwuDiwhoQLh34VRglwuBE.jpg"
+        },
+        {
+          "name": "Ray Fisher",
+          "photo_url": "https://image.tmdb.org/t/p/w185/310snvA05xDOQZDn2fJSp242GHw.jpg"
+        },
+        {
+          "name": "Jason Momoa",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+        },
+        {
+          "name": "Ezra Miller",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6wmTpbYpmhthaxzM5ss3377F9IV.jpg"
+        },
+        {
+          "name": "Ciarán Hinds",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+        },
+        {
+          "name": "Amy Adams",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1h2r2VTpoFb5QefAaBYYQgQzL9z.jpg"
+        },
+        {
+          "name": "Willem Dafoe",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+        },
+        {
+          "name": "Jeremy Irons",
+          "photo_url": "https://image.tmdb.org/t/p/w185/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
+        },
+        {
+          "name": "Jesse Eisenberg",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2ojZrkt5rdkUi857WSeCatxXdGS.jpg"
+        },
+        {
+          "name": "Diane Lane",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6OfP3vFMuCL51zamFKgb8aS74hs.jpg"
+        }
+      ],
+      "message_ids": [
+        6581,
+        6582
+      ],
+      "video_message_id": 6582
     },
     {
       "tmdb_id": 9303,

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T23:41:25+00:00",
+  "generated_at": "2026-09-22T00:29:13+00:00",
   "channel": "-1004483833987",
-  "count": 2450,
+  "count": 2451,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -63676,6 +63676,39 @@
         5732
       ],
       "video_message_id": 5732
+    },
+    {
+      "tmdb_id": 1744462,
+      "title": "Grand Theft Auto VI: Um Olhar Estendido",
+      "original_title": "Grand Theft Auto VI: An Extended Look",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iww7yBKMEFGm2KSAawCi0b825oT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/po0uFYwWNByHQzHLCVJ6FetkN4M.jpg",
+      "overview": "Assista à mais recente evolução da arrojada série Grand Theft Auto. Disponível em 19 de novembro para PlayStation 5 e XBOX Series X|S.",
+      "genres": [
+        "Animação",
+        "Ação",
+        "Aventura",
+        "Crime"
+      ],
+      "cast": [
+        {
+          "name": "Manni L. Perez",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tDlJ6on1pgtAWbp9xt3haVTLI9I.jpg"
+        },
+        {
+          "name": "Dylan Rourke",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8yAAllBLJJKWrGEk1QuagZRlvfb.jpg"
+        },
+        {
+          "name": "Stephen Root",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+        }
+      ],
+      "message_ids": [
+        6585
+      ],
+      "video_message_id": 6585
     },
     {
       "tmdb_id": 621,

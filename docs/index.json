@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T00:29:27+00:00",
+  "generated_at": "2026-09-22T00:37:29+00:00",
   "channel": "-1004483833987",
-  "count": 2452,
+  "count": 2453,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -86574,6 +86574,75 @@
         5051
       ],
       "video_message_id": 5051
+    },
+    {
+      "tmdb_id": 8619,
+      "title": "Mestre dos Mares: O Lado Mais Distante do Mundo",
+      "original_title": "Master and Commander: The Far Side of the World",
+      "year": "2003",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lhgSUevLdvfzeRGa5dm4LAwAoyw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zMHyNxNt4zhL939XX8QLBW3gWfu.jpg",
+      "overview": "Jack Aubrey é o capitão do H.M.S. Surprise, um dos principais navios de guerra da marinha britânica. Com seu país em guerra contra a França de Napoleão Bonaparte, Aubrey é atacado por um navio inimigo mais poderoso, que fere boa parte de sua tripulação e ainda danifica o navio. Aubrey então se sente dividido entre cumprir seu dever e tentar derrotar o inimigo ou retornar para cuidar dos feridos.",
+      "genres": [
+        "Aventura",
+        "Drama",
+        "Guerra"
+      ],
+      "cast": [
+        {
+          "name": "Russell Crowe",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+        },
+        {
+          "name": "Paul Bettany",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg"
+        },
+        {
+          "name": "James D'Arcy",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6CInTvBeLwXLx2id9TgaULaVEO4.jpg"
+        },
+        {
+          "name": "Robert Pugh",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rHThJc9AxpeoOkPuAHixVfN9AqV.jpg"
+        },
+        {
+          "name": "David Threlfall",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9wPLuPJOTCtNddJYNV5GyLkcYD.jpg"
+        },
+        {
+          "name": "Lee Ingleby",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vgLBNxTIC9DjfIJZVS83bbyzQOU.jpg"
+        },
+        {
+          "name": "Max Pirkis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eZn9hZvzzQOyrDT6oOq7bK4VLiZ.jpg"
+        },
+        {
+          "name": "Max Benitz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ja6aUnrNsLd1qnCl56K4f5lrllq.jpg"
+        },
+        {
+          "name": "Billy Boyd",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jluumxuDr7rm2f97NFf9LydBdaZ.jpg"
+        },
+        {
+          "name": "Edward Woodall",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1PyuKWM2280EvYs5m8XNIrsG66B.jpg"
+        },
+        {
+          "name": "Chris Larkin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9o4epHGaMjumXcoDg44DVJWL8Sp.jpg"
+        },
+        {
+          "name": "George Innes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xaraT12GDSCx93jeSvCiJEV88vg.jpg"
+        }
+      ],
+      "message_ids": [
+        6588,
+        6589
+      ],
+      "video_message_id": 6589
     },
     {
       "tmdb_id": 454639,

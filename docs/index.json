@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T00:29:13+00:00",
+  "generated_at": "2026-09-22T00:29:27+00:00",
   "channel": "-1004483833987",
-  "count": 2451,
+  "count": 2452,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -100549,6 +100549,75 @@
         3546
       ],
       "video_message_id": 3546
+    },
+    {
+      "tmdb_id": 436969,
+      "title": "O Esquadrão Suicida",
+      "original_title": "The Suicide Squad",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wTS3dS2DJiMFFgqKDz5fxMTri.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
+      "overview": "Bem-vindos ao inferno: Belle Reve, a prisão com a maior taxa de mortalidade dos Estados Unidos. É aqui que os piores supervilões são mantidos e onde eles fazem de tudo para sair, até mesmo se unir à misteriosa e supersecreta Força-Tarefa X.",
+      "genres": [
+        "Ação",
+        "Comédia",
+        "Aventura"
+      ],
+      "cast": [
+        {
+          "name": "Margot Robbie",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8LqG2N6j98lFGMpuYsRUAhOunSd.jpg"
+        },
+        {
+          "name": "Idris Elba",
+          "photo_url": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+        },
+        {
+          "name": "John Cena",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+        },
+        {
+          "name": "Joel Kinnaman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cVfYzTyQdJ4xtxKPZe7IcW3BJN4.jpg"
+        },
+        {
+          "name": "Sylvester Stallone",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+        },
+        {
+          "name": "Viola Davis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xDssw6vpYNRjsybvMPRE30e0dPN.jpg"
+        },
+        {
+          "name": "David Dastmalchian",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nER1Vzhk51pGHb60KBF1Ja5tEXA.jpg"
+        },
+        {
+          "name": "Daniela Melchior",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tjAEB90Sa7DJtyTlDAkzVhPLQin.jpg"
+        },
+        {
+          "name": "Michael Rooker",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ngOuHNIAGrKyY1O7F0f9C5Q9ONg.jpg"
+        },
+        {
+          "name": "Jai Courtney",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6vEaNwbOKov6yzQx15CdtrqfK3L.jpg"
+        },
+        {
+          "name": "Peter Capaldi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/r5bEXZBOSA89SZvv4jjqa4iSgst.jpg"
+        },
+        {
+          "name": "Alice Braga",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d9JdgvUiqyWuGQLmozNfGZOpIBz.jpg"
+        }
+      ],
+      "message_ids": [
+        6586,
+        6587
+      ],
+      "video_message_id": 6587
     },
     {
       "tmdb_id": 379149,

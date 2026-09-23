@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:38:05+00:00",
+  "generated_at": "2026-09-23T02:38:13+00:00",
   "channel": "-1004483833987",
-  "count": 2461,
+  "count": 2462,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -16729,6 +16729,76 @@
         805
       ],
       "video_message_id": 805
+    },
+    {
+      "tmdb_id": 604822,
+      "title": "Agentes Vanguard",
+      "original_title": "急先锋",
+      "year": "2020",
+      "poster_url": "https://image.tmdb.org/t/p/w500/slR16xWVy7kc3xr1GlSK41ZSjpa.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4TGqXMsy9qM2nAUq4rYrErjkMXL.jpg",
+      "overview": "A empresa de segurança secreta Vanguard é a última esperança de sobrevivência para um contador, depois que ele é alvo da organização mercenária mais mortal do mundo.",
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Comédia",
+        "Crime",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Jackie Chan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+        },
+        {
+          "name": "杨洋",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lEBuoN1XItYMLpgsMmtORrEx1BY.jpg"
+        },
+        {
+          "name": "艾伦",
+          "photo_url": "https://image.tmdb.org/t/p/w185/r2LykUtJ1fXCFKuzuS1vaGF9s3p.jpg"
+        },
+        {
+          "name": "Miya Muqi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bRnt4FwvIFLXcIBdnZJmUnjbnxj.jpg"
+        },
+        {
+          "name": "徐若晗",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2STQEbzr74sOlJ4iGZLyWxsMenp.jpg"
+        },
+        {
+          "name": "樓學賢",
+          "photo_url": "https://image.tmdb.org/t/p/w185/DurtXiK4QT3r9dBuQt3nyPISNW.jpg"
+        },
+        {
+          "name": "Eyad Hourani",
+          "photo_url": "https://image.tmdb.org/t/p/w185/z64w7ppxZxdJIBd6ibO8gM3NBxN.jpg"
+        },
+        {
+          "name": "朱正廷",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ovZZOqe9MaojSoT9h0aHPPJJYYi.jpg"
+        },
+        {
+          "name": "楊建平",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fEyM2YmhSTmEzNQ4qpt6uEvm5MF.jpg"
+        },
+        {
+          "name": "Zhou Bin",
+          "photo_url": null
+        },
+        {
+          "name": "Wang Yanlong",
+          "photo_url": "https://image.tmdb.org/t/p/w185/y1tZ8HgVhohel8h0HQLVLr2Dcn2.jpg"
+        },
+        {
+          "name": "Roy Wong Kui",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6606
+      ],
+      "video_message_id": 6606
     },
     {
       "tmdb_id": 291272,

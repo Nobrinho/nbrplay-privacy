@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T03:03:40+00:00",
+  "generated_at": "2026-09-23T03:04:22+00:00",
   "channel": "-1004483833987",
-  "count": 2500,
+  "count": 2501,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -29384,6 +29384,76 @@
         5562
       ],
       "video_message_id": 5562
+    },
+    {
+      "tmdb_id": 300168,
+      "title": "Batalha dos Impérios",
+      "original_title": "天將雄師",
+      "year": "2015",
+      "poster_url": "https://image.tmdb.org/t/p/w500/h7eFL7CZh0ejPNic6QPxxpVbOfv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rnNkUJlo03a8D0utxiOrADstaMT.jpg",
+      "overview": "No ano 48 a.C., o general romano Lucius foge com seu pelotão e o herdeiro do Cônsul Romano, Publius, para escapar do imperador Tiberius que deseja tomar o trono e matar Publius. Em um forte na fronteira da Rota da Seda, o grupo conhece o huno Huo An que é responsável por proteger o local. Quando descobre que o imperador está à caminho, Huo An recruta um exército e se une aos romanos em uma épica batalha.",
+      "genres": [
+        "Aventura",
+        "História",
+        "Ação",
+        "Fantasia"
+      ],
+      "cast": [
+        {
+          "name": "Jackie Chan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+        },
+        {
+          "name": "John Cusack",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg"
+        },
+        {
+          "name": "Adrien Brody",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
+        },
+        {
+          "name": "Sharni Vinson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vy5c6P2S3kOA9iDg8OOagWo850t.jpg"
+        },
+        {
+          "name": "Kevin Lee",
+          "photo_url": "https://image.tmdb.org/t/p/w185/569jeEGzXEdoTBJww26IpcmQ1uR.jpg"
+        },
+        {
+          "name": "Robert Peoples",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ueeeZ5R9bcCBzIG0mf5A9bkb6O3.jpg"
+        },
+        {
+          "name": "Tomer Oz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9y3grtvYq8JMpzawlBAzs4rTsSA.jpg"
+        },
+        {
+          "name": "Alfred Hsing",
+          "photo_url": "https://image.tmdb.org/t/p/w185/b1cXnVypaxUzj7bq7GpyNAE6rCt.jpg"
+        },
+        {
+          "name": "Max Huang",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pHntB82hNVVKZtTAUgUKr2KE1Zt.jpg"
+        },
+        {
+          "name": "洪天照",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rf2o9Z3HM6vyO4VufwRYz71KvkX.jpg"
+        },
+        {
+          "name": "Paul Philip Clark",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nXpD3UvpCBsfmFVOZRgrKEBOUAa.jpg"
+        },
+        {
+          "name": "Lorie Pester",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rojuzjvu695rwALgkyL6MU7ugay.jpg"
+        }
+      ],
+      "message_ids": [
+        6676,
+        6677
+      ],
+      "video_message_id": 6677
     },
     {
       "tmdb_id": 3176,

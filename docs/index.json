@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:41:50+00:00",
+  "generated_at": "2026-09-23T02:41:57+00:00",
   "channel": "-1004483833987",
-  "count": 2472,
+  "count": 2473,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -127637,6 +127637,58 @@
         1662
       ],
       "video_message_id": 1662
+    },
+    {
+      "tmdb_id": 796339,
+      "title": "Presságios",
+      "original_title": "Insight",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dinY8mjw6NLMmyPZHjyQYlGmKaN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yzTjd5VsR6AIOHGbMjzqd324aQw.jpg",
+      "overview": "Jian, um lutador de artes marciais que nasceu com o dom da clarividência, investiga a morte de seu irmão, com a ajuda da detetive Abby. Juntos, eles buscam justiça enquanto lutam contra um criminoso armado com a mais alta tecnologia.",
+      "genres": [
+        "Ação",
+        "Ficção científica",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Ken Zheng",
+          "photo_url": null
+        },
+        {
+          "name": "Tony Todd",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cNUIRoewwiLi8JxyA1J2zb1z5SN.jpg"
+        },
+        {
+          "name": "Keith David",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg"
+        },
+        {
+          "name": "Madeline Zima",
+          "photo_url": "https://image.tmdb.org/t/p/w185/luUY62Par5jzrnrhgNMdPIOfjmy.jpg"
+        },
+        {
+          "name": "John Savage",
+          "photo_url": "https://image.tmdb.org/t/p/w185/exzL5D7RSnIepF9FsFlzCs248he.jpg"
+        },
+        {
+          "name": "Adam Huss",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4cBTh35FwL8pyXr0FMeYCZIZLLQ.jpg"
+        },
+        {
+          "name": "Sunny May Allison",
+          "photo_url": null
+        },
+        {
+          "name": "Kenny Apel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AifVeN5cnFmsF7m6y1DdIeTW7XR.jpg"
+        }
+      ],
+      "message_ids": [
+        6624
+      ],
+      "video_message_id": 6624
     },
     {
       "tmdb_id": 339527,

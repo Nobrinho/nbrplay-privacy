@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:46:44+00:00",
+  "generated_at": "2026-09-23T02:47:23+00:00",
   "channel": "-1004483833987",
-  "count": 2484,
+  "count": 2485,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -35173,6 +35173,75 @@
         699
       ],
       "video_message_id": 699
+    },
+    {
+      "tmdb_id": 152760,
+      "title": "Caçadores de Obras-Primas",
+      "original_title": "The Monuments Men",
+      "year": "2014",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pPr0yONkXWA9GgX3PAoM1YA8P9W.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vsLrBh3MALRGRB1pMErDQQz3l3c.jpg",
+      "overview": "Durante o declínio de Hitler na Alemanha, um grupo de 13 especialistas vindos de países diferentes é reunido para reencontrar obras de arte roubadas pelos nazistas durante a Segunda Guerra Mundial. George Stout (George Clooney), um oficial americano e conservador de obras de arte, lidera a equipe.",
+      "genres": [
+        "Guerra",
+        "Drama",
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "George Clooney",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dt0a7DT0SQeHb7NpURD6ifyEzsN.jpg"
+        },
+        {
+          "name": "Matt Damon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+        },
+        {
+          "name": "Bill Murray",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
+        },
+        {
+          "name": "John Goodman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
+        },
+        {
+          "name": "Cate Blanchett",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
+        },
+        {
+          "name": "Hugh Bonneville",
+          "photo_url": "https://image.tmdb.org/t/p/w185/skbxj8MUuNiI39ZkP38uEirU0bC.jpg"
+        },
+        {
+          "name": "Sam Hazeldine",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zyt5yR8hXMA9ZcwtL0yDadwvi4m.jpg"
+        },
+        {
+          "name": "Jean Dujardin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iPtSWWoO8vajj6fIUQLQeuGOCsk.jpg"
+        },
+        {
+          "name": "Bob Balaban",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qceORed11dvRnxQjVGexPvgF5Xu.jpg"
+        },
+        {
+          "name": "Holger Handtke",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bMPv1yyBq20wwlFioft1uxglJXV.jpg"
+        },
+        {
+          "name": "Dimitri Leonidas",
+          "photo_url": "https://image.tmdb.org/t/p/w185/abqmwLK3X6R3GpyDhAP9GHWFnO8.jpg"
+        },
+        {
+          "name": "Justus von Dohnányi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2zg2pY7w3X3z4FyYEqzlBHFZXK1.jpg"
+        }
+      ],
+      "message_ids": [
+        6646,
+        6647
+      ],
+      "video_message_id": 6647
     },
     {
       "tmdb_id": 507244,

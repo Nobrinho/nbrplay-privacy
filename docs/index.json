@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:23:40+00:00",
+  "generated_at": "2026-09-23T02:23:45+00:00",
   "channel": "-1004483833987",
-  "count": 2455,
+  "count": 2456,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -54031,6 +54031,77 @@
         1417
       ],
       "video_message_id": 1417
+    },
+    {
+      "tmdb_id": 377447,
+      "title": "Esquadrão Tigre",
+      "original_title": "铁道飞虎",
+      "year": "2016",
+      "poster_url": "https://image.tmdb.org/t/p/w500/t2WHlbKY35YxGi7Tgd5xpRPFZgB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ygcbiJgTQMjnoSLyzKLmzR7u3gN.jpg",
+      "overview": "Em dezembro de 1941, o Japão decide expandir sua dominação a países vizinhos para o Sudeste Asiático, e acabam tomando a estrada de ferro de Tianjin para Nanjing, no leste da China, transformando-a em uma rota de transporte militar vigiada por soldados armados. Inconformado, o trabalhador ferroviário Ma Yuan (Jackie Chan) vai liderar uma equipe de lutadores em busca da da liberdade do local. Usando seu profundo conhecimento sobre a rede ferroviária, ele e seus homens vão iniciar uma guerra por justiça.",
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Comédia",
+        "Família",
+        "Guerra"
+      ],
+      "cast": [
+        {
+          "name": "Jackie Chan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+        },
+        {
+          "name": "Huang Zitao",
+          "photo_url": "https://image.tmdb.org/t/p/w185/u8ecA7rvR1jlWFqmBzhzIBwjjVM.jpg"
+        },
+        {
+          "name": "Jaycee Chan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fQafEcMcURUkOY1zOygfwOp0AWf.jpg"
+        },
+        {
+          "name": "王凯",
+          "photo_url": "https://image.tmdb.org/t/p/w185/35Lm6dPSN5qygFC5PrDbjqjWJdG.jpg"
+        },
+        {
+          "name": "徐帆",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pmpW5uYJr6GZZKFK1AJGYZz3y4F.jpg"
+        },
+        {
+          "name": "池内博之",
+          "photo_url": "https://image.tmdb.org/t/p/w185/m2uHh24jBPHlRO8cc4gyCCghT5c.jpg"
+        },
+        {
+          "name": "桑平",
+          "photo_url": "https://image.tmdb.org/t/p/w185/y8hUYao9AN3c73PrJVOY2yTJVQy.jpg"
+        },
+        {
+          "name": "吳永倫",
+          "photo_url": "https://image.tmdb.org/t/p/w185/z6rJenJqjzzOFkUAGbHQfXBc1NA.jpg"
+        },
+        {
+          "name": "王大陸",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3CDx0mIClEqcUt8E6ToEkdQypzK.jpg"
+        },
+        {
+          "name": "Zhang Lanxin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8qI5n4rGcv12XTsrRMKsBUOjQPY.jpg"
+        },
+        {
+          "name": "那威",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7z6FUeXEH4p07qDPBcxx1rwL3io.jpg"
+        },
+        {
+          "name": "何云伟",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mEalsvwAHJvxYtItnse8QWTHEge.jpg"
+        }
+      ],
+      "message_ids": [
+        6594,
+        6595
+      ],
+      "video_message_id": 6595
     },
     {
       "tmdb_id": 771,

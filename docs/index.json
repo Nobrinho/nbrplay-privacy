@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T08:52:54+00:00",
+  "generated_at": "2026-09-23T09:17:26+00:00",
   "channel": "-1004483833987",
-  "count": 2506,
+  "count": 2507,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -2551,6 +2551,74 @@
         5723
       ],
       "video_message_id": 5723
+    },
+    {
+      "tmdb_id": 3021,
+      "title": "1408",
+      "original_title": "1408",
+      "year": "2007",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xVnBKnfNz51Yh0ChPGLBByO2oMe.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9CaNCElCXrjdJoUadfXHiNTMFcR.jpg",
+      "overview": "Mike é um famoso escritor de livros sobre lugares mal-assombrados. Ele resolve explorar o quarto 1408 do hotel Dolphin, local em que ninguém coloca os pés há muito tempo. Sem dar atenção às advertências do gerente, ele descobre o verdadeiro significado do terror quando passa uma noite no misterioso recinto.",
+      "genres": [
+        "Terror",
+        "Mistério"
+      ],
+      "cast": [
+        {
+          "name": "John Cusack",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg"
+        },
+        {
+          "name": "Samuel L. Jackson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+        },
+        {
+          "name": "Mary McCormack",
+          "photo_url": "https://image.tmdb.org/t/p/w185/e2brLtFCfgLdOp356bcEyRzQkoJ.jpg"
+        },
+        {
+          "name": "Jasmine Jessica Anthony",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7dx1ee9dRaSI1zT0DVxVw5fli5Y.jpg"
+        },
+        {
+          "name": "Tony Shalhoub",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1zfBSuAmOr1xXjNg4WzFWPm5B0Z.jpg"
+        },
+        {
+          "name": "Len Cariou",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9VJeCcxHkPkN4xH4izmwYHXRMy2.jpg"
+        },
+        {
+          "name": "Isiah Whitlock Jr.",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8OIhQb53rMX7VcTLZbAMeVd7tHc.jpg"
+        },
+        {
+          "name": "Noah Lee Margetts",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mqAyDsyvXVw2imY1L1GINBvgUkK.jpg"
+        },
+        {
+          "name": "William Armstrong",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lW4dqrVuKKi3CK094JBJedSH6Qz.jpg"
+        },
+        {
+          "name": "Paul Birchard",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lJUcOGz448DtoFJAQ35UwHCGJDl.jpg"
+        },
+        {
+          "name": "Margot Leicester",
+          "photo_url": "https://image.tmdb.org/t/p/w185/M2PEeYUdkrd4VjI1D0lsHbiG8t.jpg"
+        },
+        {
+          "name": "Alexandra Silber",
+          "photo_url": "https://image.tmdb.org/t/p/w185/x2NwKO2TmVqm0BX3HN4IGNKbZcV.jpg"
+        }
+      ],
+      "message_ids": [
+        6686,
+        6687
+      ],
+      "video_message_id": 6687
     },
     {
       "tmdb_id": 484638,

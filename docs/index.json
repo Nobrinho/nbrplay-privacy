@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:38:53+00:00",
+  "generated_at": "2026-09-23T02:39:15+00:00",
   "channel": "-1004483833987",
-  "count": 2463,
+  "count": 2464,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -139466,6 +139466,74 @@
         6479
       ],
       "video_message_id": 6479
+    },
+    {
+      "tmdb_id": 55292,
+      "title": "Shaolin",
+      "original_title": "新少林寺",
+      "year": "2011",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hEtN6CgtMLWopOGstYUFCcKrE3i.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lewuyD46yg3pjZpxqMLwfudIwWz.jpg",
+      "overview": "A China esta mergulhada em lutas de senhores da guerra, rivais tentam expandir seu poder sobre as terras vizinhas. Impulsionado pro seu sucesso no campo de batalha, o jovem e arrogante zomba Jie Hao um mestre de Shaolin quando ele bate em um deles em um duelo. Mas o orgulho vem antes da queda. Quando sua familia é exterminada por um caudilho rival, Hao é obrigado a refugiar-se.",
+      "genres": [
+        "Ação",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "劉德華",
+          "photo_url": "https://image.tmdb.org/t/p/w185/z9R2yerjfgxwDWIH8sjiS0hhcre.jpg"
+        },
+        {
+          "name": "謝霆鋒",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2oqpaOhEoKLdM4dePxOHJrI45n.jpg"
+        },
+        {
+          "name": "范冰冰",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pV2wYJiiPd6cgHK580PKD0GM4Dc.jpg"
+        },
+        {
+          "name": "Jackie Chan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+        },
+        {
+          "name": "吴京",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pgE2SqqtbT6dNo8waDMTpYuVVCj.jpg"
+        },
+        {
+          "name": "Yu Shaoqun",
+          "photo_url": "https://image.tmdb.org/t/p/w185/piLVxaIz8IxG953hRSzubJARvCf.jpg"
+        },
+        {
+          "name": "释行宇",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tsbmvldckYiFPeDfFSvgzNrJsUK.jpg"
+        },
+        {
+          "name": "Yu Hai",
+          "photo_url": "https://image.tmdb.org/t/p/w185/da9f7tRmKhCeRztrj1ABD9LLB1d.jpg"
+        },
+        {
+          "name": "熊欣欣",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cpJikUtykWmK02h5m9gYEzUuYui.jpg"
+        },
+        {
+          "name": "白冰",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nfrH7OSmsk6tYrpDQMJrKmMAZ5K.jpg"
+        },
+        {
+          "name": "Sang Weilin",
+          "photo_url": null
+        },
+        {
+          "name": "Shi Xiao-Hong",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wuljLn6HEHcDoiQAlHqSzUVh9XE.jpg"
+        }
+      ],
+      "message_ids": [
+        6609,
+        6610
+      ],
+      "video_message_id": 6610
     },
     {
       "tmdb_id": 287947,

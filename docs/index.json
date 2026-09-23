@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:46:14+00:00",
+  "generated_at": "2026-09-23T02:46:44+00:00",
   "channel": "-1004483833987",
-  "count": 2483,
+  "count": 2484,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -9533,6 +9533,75 @@
         6427
       ],
       "video_message_id": 6427
+    },
+    {
+      "tmdb_id": 17457,
+      "title": "A Liga Contra o Mal",
+      "original_title": "千機變",
+      "year": "2003",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2uuLJffA9DgpYLfQm3YX0GdAiO7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jkEoGVpGmhDyRrF7xhPgtE0tM8o.jpg",
+      "overview": "A misteriosa Hong-Kong é o cenário perfeito para um violento conflito entre diferentes etnias de vampiros. Entre os labirintos de néon das suas ruas, Kazaf, único sobrevivente de um atentado a cinco príncipes vampiros, é perseguido pelo Duque Dekotes, um poderoso vampiro que está disposto a tudo para conseguir o poder. No meio do conflito, o detective e caça-vampiros Reeve, tenta evitar que a destruição provocada por estas forças do mal se abatam sobre vítimas inocentes. Para tudo isto, ele vai contar com a preciosa ajuda de Jackie, onde as turbulentas lutas das noites da cidade se transformam em cenas eletrizantes.",
+      "genres": [
+        "Ação",
+        "Comédia",
+        "Terror"
+      ],
+      "cast": [
+        {
+          "name": "陳冠希",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9JsNQ3m7oZLfmnql5I8qP1RC3sd.jpg"
+        },
+        {
+          "name": "蔡卓妍",
+          "photo_url": "https://image.tmdb.org/t/p/w185/m9e8DI0DUbLiwTX4uehJZGDvNdd.jpg"
+        },
+        {
+          "name": "鍾欣潼",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4JjevqOLAgAdm8VhMgsD4vd2PY2.jpg"
+        },
+        {
+          "name": "鄭伊健",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dS42D99itm6n5ROUoGxJFRH802j.jpg"
+        },
+        {
+          "name": "Jackie Chan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+        },
+        {
+          "name": "莫文蔚",
+          "photo_url": "https://image.tmdb.org/t/p/w185/b0scABsp11kvXx15RvolTUqucNm.jpg"
+        },
+        {
+          "name": "何超儀",
+          "photo_url": "https://image.tmdb.org/t/p/w185/v835PjfpHAId1suZ1LNRj2Cr5fJ.jpg"
+        },
+        {
+          "name": "黃秋生",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ijV0EFpwgWkRB7VRwKH7BpGkwTQ.jpg"
+        },
+        {
+          "name": "Mickey Hardt",
+          "photo_url": "https://image.tmdb.org/t/p/w185/y5gykopulr1D3sZg0ApCZMGqQs7.jpg"
+        },
+        {
+          "name": "林尚義",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wd3qRmWTxu129qoCXKRCgW8XHjw.jpg"
+        },
+        {
+          "name": "鄒凱光",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pfwfIvjKJ5rVLCTELoj46kbict2.jpg"
+        },
+        {
+          "name": "杜汶澤",
+          "photo_url": "https://image.tmdb.org/t/p/w185/deb2iBGpzwvkEwlTvLA3rX2HOiY.jpg"
+        }
+      ],
+      "message_ids": [
+        6644,
+        6645
+      ],
+      "video_message_id": 6645
     },
     {
       "tmdb_id": 424,

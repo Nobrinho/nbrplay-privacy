@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:37:50+00:00",
+  "generated_at": "2026-09-23T02:38:05+00:00",
   "channel": "-1004483833987",
-  "count": 2460,
+  "count": 2461,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -5791,6 +5791,74 @@
         1717
       ],
       "video_message_id": 1717
+    },
+    {
+      "tmdb_id": 38033,
+      "title": "A Corrente do Mal",
+      "original_title": "Chain Letter",
+      "year": "2010",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AqseTuFQAFtjTJUNJPqz35tatOR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jx744afQpw67FuIxMdYuujmmHMb.jpg",
+      "overview": "O mundo está repleto de correntes, um sistema irritante usado para propagar mensagens absurdas usando a superstição das pessoas. Mas e se a pessoa que começou uma dessas correntes fosse um serial killer pronto para matar qualquer um que tentar interferir em seu planos? Elos devem ser mantidos.",
+      "genres": [
+        "Terror",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Nikki Reed",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xNIXLZ9giqTdvjkBUGq1bJqPe5D.jpg"
+        },
+        {
+          "name": "Keith David",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg"
+        },
+        {
+          "name": "Michael Bailey Smith",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9ajqFWi9JN6LBE0tb0RU3UfwaQu.jpg"
+        },
+        {
+          "name": "Brad Dourif",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ex7AmuHM3owhUetYZAyOmN1ehWS.jpg"
+        },
+        {
+          "name": "Betsy Russell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kXXYUAwC1HGTzIyyHEdw7WeXnuL.jpg"
+        },
+        {
+          "name": "Cherilyn Wilson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/k8itd4vlL7vGYDZUuAhrMrVq5pO.jpg"
+        },
+        {
+          "name": "Matt Cohen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/liCyy2p2qOo4WV3Y7mpo4QKp3fm.jpg"
+        },
+        {
+          "name": "Noah Segan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/j1mjH6uOZlKaiQ18U4SaTnmnjMl.jpg"
+        },
+        {
+          "name": "Madison Bauer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ix6swk9IfHepeh2G7WzcvlLkALU.jpg"
+        },
+        {
+          "name": "Phil Austin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rfgWK2zjC9qTNu9jXSqmFqXQl3a.jpg"
+        },
+        {
+          "name": "Cody Kasch",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1zEC1AUbg903dkY8d4ikj9T0JBT.jpg"
+        },
+        {
+          "name": "Michael J. Pagan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1s5cROK5a0zGhUDxCoXd8B5vbug.jpg"
+        }
+      ],
+      "message_ids": [
+        6604,
+        6605
+      ],
+      "video_message_id": 6605
     },
     {
       "tmdb_id": 1046758,

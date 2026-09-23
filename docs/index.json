@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:41:57+00:00",
+  "generated_at": "2026-09-23T02:42:19+00:00",
   "channel": "-1004483833987",
-  "count": 2473,
+  "count": 2474,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -139030,6 +139030,74 @@
         611
       ],
       "video_message_id": 611
+    },
+    {
+      "tmdb_id": 244539,
+      "title": "Sentimentos que Curam",
+      "original_title": "Infinitely Polar Bear",
+      "year": "2014",
+      "poster_url": "https://image.tmdb.org/t/p/w500/VEGbDdtOrj6PXnTlCKm3Q8XO2w.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cgu22PGyj7Bi5sSGA5VuymI2Z7n.jpg",
+      "overview": "Boston, Estados Unidos. O fato de Cameron (Mark Ruffalo) ser maníaco-depressivo não impediu que Maggie (Zoe Saldana) se envolvesse com ele. O casal teve duas filhas, mas os constantes colapsos nervosos de Cameron fizeram com que eles deixassem de morar juntos, por mais que mantivessem contato constante. Em 1978, devido às dificuldades financeiras, Maggie resolve fazer um curso de especialização em Nova York, com duração de 18 meses. A saída para que o plano dê certo é que Cameron deixe o hospital psiquiátrico em que vive para voltar a morar em casa, cuidando das garotas, com Maggie visitando o trio aos finais de semana. Trata-se de um grande desafio para Cameron, que precisa assumir de vez as responsabilidades de pai e aprender a controlar a própria doença.",
+      "genres": [
+        "Drama",
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Mark Ruffalo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+        },
+        {
+          "name": "Zoe Saldaña",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+        },
+        {
+          "name": "Imogene Wolodarsky",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ggpWBJWOtL8kZF1QDYEsGWbXRi5.jpg"
+        },
+        {
+          "name": "Ashley Aufderheide",
+          "photo_url": "https://image.tmdb.org/t/p/w185/riywGeTlke8RvXNuF7CVqX19q0b.jpg"
+        },
+        {
+          "name": "Wallace Wolodarsky",
+          "photo_url": "https://image.tmdb.org/t/p/w185/a6npTg5wUQIHkyH17m5FPc9hJPV.jpg"
+        },
+        {
+          "name": "Keir Dullea",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5QyrGWxujX8XA3Ny3M8D18TWupi.jpg"
+        },
+        {
+          "name": "Beth Dixon",
+          "photo_url": null
+        },
+        {
+          "name": "Georgia Lyman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ktLM8PeCXNjm7qu0jFKxgqmhI50.jpg"
+        },
+        {
+          "name": "William Xifaras",
+          "photo_url": "https://image.tmdb.org/t/p/w185/laxmuLJVUl0vUPt2sQdWFSEk7ut.jpg"
+        },
+        {
+          "name": "Mary O'Rourke",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mWWKF8bNLNFltMRrjsvu8brlowW.jpg"
+        },
+        {
+          "name": "Chris Papavasiliou",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ytmISwwwM541NUlCQKp9QibxV1Q.jpg"
+        },
+        {
+          "name": "Liam McNeill",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6625,
+        6626
+      ],
+      "video_message_id": 6626
     },
     {
       "tmdb_id": 611468,

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:24:06+00:00",
+  "generated_at": "2026-09-23T02:37:14+00:00",
   "channel": "-1004483833987",
-  "count": 2458,
+  "count": 2459,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -137602,6 +137602,74 @@
         1122
       ],
       "video_message_id": 1122
+    },
+    {
+      "tmdb_id": 624,
+      "title": "Sem Destino",
+      "original_title": "Easy Rider",
+      "year": "1969",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1BiyKm5OYFYd9fTP6Llj8GLE90S.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qvTmYyYsv71qTq5syAq24k1kGk.jpg",
+      "overview": "Após vender uma quantidade razoável de cocaína, os integrantes da contracultura hippie Wyatt e Billy compram duas motos e partem numa viagem de Los Angeles até Nova Orleans, para ver um festival conhecido como Mardi Gras. Enquanto atravessam o país, os dois encarnam o espírito libertário dos anos 1960, mas se deparam com uma sociedade preconceituosa em seu caminho.",
+      "genres": [
+        "Aventura",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Peter Fonda",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dgorN06SQ9ZNL2NY3I7BNxg93lc.jpg"
+        },
+        {
+          "name": "Dennis Hopper",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kqyNvLHi5RZGZcZMxl7e6XvoB5U.jpg"
+        },
+        {
+          "name": "Jack Nicholson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg"
+        },
+        {
+          "name": "Antonio Mendoza",
+          "photo_url": null
+        },
+        {
+          "name": "Phil Spector",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sCWVTDNUn7Ni7Ct79njisdnJTNc.jpg"
+        },
+        {
+          "name": "Mac Mashourian",
+          "photo_url": null
+        },
+        {
+          "name": "Warren Finnerty",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9lDbTZCKKyaVit2MfNt4qp4Ljpk.jpg"
+        },
+        {
+          "name": "Tita Colorado",
+          "photo_url": null
+        },
+        {
+          "name": "Luke Askew",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fZnBGTtY24YAaebGdlRA2gMeYS.jpg"
+        },
+        {
+          "name": "Luana Anders",
+          "photo_url": "https://image.tmdb.org/t/p/w185/opeNjMejxVUtlHvjO8QW2LLzpVr.jpg"
+        },
+        {
+          "name": "Sabrina Scharf",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oKdgcOvaFGRyhC2ML05BTyBzTm4.jpg"
+        },
+        {
+          "name": "Sandy Brown Wyeth",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6600,
+        6601
+      ],
+      "video_message_id": 6601
     },
     {
       "tmdb_id": 550097,

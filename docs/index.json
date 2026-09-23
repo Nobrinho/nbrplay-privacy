@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T09:17:26+00:00",
+  "generated_at": "2026-09-23T13:13:29+00:00",
   "channel": "-1004483833987",
-  "count": 2507,
+  "count": 2508,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -101508,6 +101508,75 @@
         1384
       ],
       "video_message_id": 1384
+    },
+    {
+      "tmdb_id": 551,
+      "title": "O Destino do Poseidon",
+      "original_title": "The Poseidon Adventure",
+      "year": "1972",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lZgtbanH0RIMD52azO3mpOGI7ej.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ejLsnT6KmMpvtoPHMp40m54hRDd.jpg",
+      "overview": "Em virtude de um maremoto, um transatlântico de luxo é atingido na véspera de Ano Novo por uma onda gigantesca, fazendo-o virar totalmente. Os sobreviventes do choque inicial são liderados pelo reverendo Frank Scott e tentam escapar de qualquer maneira da embarcação.",
+      "genres": [
+        "Aventura",
+        "Drama",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Gene Hackman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zDlv9vXjnRsvwNI0bARG0uOt5CJ.jpg"
+        },
+        {
+          "name": "Ernest Borgnine",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vlq94UdNfjLnd9DAkKC94vKLfJJ.jpg"
+        },
+        {
+          "name": "Stella Stevens",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qtAO54E8URyIKbzpDj3DjX7U9qE.jpg"
+        },
+        {
+          "name": "Shelley Winters",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sY7LVp0M8yJgFD0o2uAIJgfLGm9.jpg"
+        },
+        {
+          "name": "Jack Albertson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6Ed6n1sfOlOvr0F7sEDiHvQnp96.jpg"
+        },
+        {
+          "name": "Red Buttons",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bZYvuKzOnF181Tz0wqT4sbPZLnc.jpg"
+        },
+        {
+          "name": "Roddy McDowall",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mGO0pDPi5p91k2Og09HTf270rxL.jpg"
+        },
+        {
+          "name": "Carol Lynley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kIs3zLyRkIFvcsWXlOzoExx4UDI.jpg"
+        },
+        {
+          "name": "Pamela Sue Martin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mXv4146mU7pWic8hrkeh1NuTpqS.jpg"
+        },
+        {
+          "name": "Eric Shea",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yPwmhmnz6xwWbqruDgyrpHzSO1e.jpg"
+        },
+        {
+          "name": "Arthur O'Connell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jJh2FxbrpIm5GzIMP8uA0cWNQdc.jpg"
+        },
+        {
+          "name": "Leslie Nielsen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rMz3ZUmFE7lQCP51Ql7IcMHJIUZ.jpg"
+        }
+      ],
+      "message_ids": [
+        6688,
+        6689
+      ],
+      "video_message_id": 6689
     },
     {
       "tmdb_id": 12629,

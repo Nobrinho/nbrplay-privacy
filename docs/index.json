@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T03:05:24+00:00",
+  "generated_at": "2026-09-23T03:31:14+00:00",
   "channel": "-1004483833987",
-  "count": 2502,
+  "count": 2503,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -122095,6 +122095,74 @@
         5669
       ],
       "video_message_id": 5669
+    },
+    {
+      "tmdb_id": 46059,
+      "title": "Os Quatro Picaretas",
+      "original_title": "The Hot Rock",
+      "year": "1972",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vzfGNqmANfRbavk5XdQTsfnjmeH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aWCVLOsrSOzdbT4zIg4AIpnNopR.jpg",
+      "overview": "O africano Dr. Amusa aproxima-se do americano John Archibald Dortmunder para falar do enorme valor para todos os africanos de uma jóia exposta num museu da África. O gatuno Dortmunder então junta seu bando e elabora um grande plano para roubar a tal jóia. Apesar do cuidado e experiência, Dortmunder não conseguirá o que deseja com tanta facilidade.",
+      "genres": [
+        "Crime",
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Robert Redford",
+          "photo_url": "https://image.tmdb.org/t/p/w185/m5ayL8ASLdaaFYzqJZNYvrKRuhD.jpg"
+        },
+        {
+          "name": "George Segal",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nkAMWhWNdCaRp1wPOOsaXuWnwoB.jpg"
+        },
+        {
+          "name": "Ron Leibman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9jlCMwql67sAKSzDiADlRYveCRN.jpg"
+        },
+        {
+          "name": "Paul Sand",
+          "photo_url": "https://image.tmdb.org/t/p/w185/h6PTXhdiAH94dSrs5UutrzZZhH6.jpg"
+        },
+        {
+          "name": "Moses Gunn",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oVO7uoXbXMuV5Xq6aN2HQEeFWMi.jpg"
+        },
+        {
+          "name": "William Redfield",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6w7BRi6bTRZq263Bxkfogy4ekLB.jpg"
+        },
+        {
+          "name": "Topo Swope",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6DSzwn7ZXaL3s1vCPAORHAS9U87.jpg"
+        },
+        {
+          "name": "Charlotte Rae",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9ZM9GjGHd8JuPH3l8SJn6w3jUnE.jpg"
+        },
+        {
+          "name": "Graham Jarvis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bVwjPeo7mAvzqCulFE4Yhx6NYsa.jpg"
+        },
+        {
+          "name": "Christopher Guest",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ofLhsKLZ4YAet8XIsNj7oA3blgh.jpg"
+        },
+        {
+          "name": "Zero Mostel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/15kRWmicFWhV06o7kc1L8OOfulY.jpg"
+        },
+        {
+          "name": "Harry Bellaver",
+          "photo_url": "https://image.tmdb.org/t/p/w185/acEDJIsVSoGe70ArHTwkBlN6KEQ.jpg"
+        }
+      ],
+      "message_ids": [
+        6680,
+        6681
+      ],
+      "video_message_id": 6681
     },
     {
       "tmdb_id": 1266,

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:39:57+00:00",
+  "generated_at": "2026-09-23T02:40:04+00:00",
   "channel": "-1004483833987",
-  "count": 2467,
+  "count": 2468,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -138701,6 +138701,40 @@
         611
       ],
       "video_message_id": 611
+    },
+    {
+      "tmdb_id": 611468,
+      "title": "Sequestrando Stella",
+      "original_title": "Kidnapping Stella",
+      "year": "2019",
+      "poster_url": "https://image.tmdb.org/t/p/w500/SR6S1bbolvgbLwYknVIfk3Qlzb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/e0TNO1ZqAhKFFZfwpLeWzIS9597.jpg",
+      "overview": "Uma jovem, sequestrada e mantida em cativeiro para ser trocada por um resgate, faz de tudo para estragar os planos dos seus raptores.",
+      "genres": [
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Max von der Groeben",
+          "photo_url": "https://image.tmdb.org/t/p/w185/izWHeMb3t5137H7guTqsKnOFSkT.jpg"
+        },
+        {
+          "name": "Clemens Schick",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3ANnyM49vTvcT9MyyVvjl5UAdpj.jpg"
+        },
+        {
+          "name": "Jella Haase",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kwbw9Q4Cnk1Oiwz8ktIQXgECLTx.jpg"
+        },
+        {
+          "name": "Jarrod Pistilli",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tSKoHj2653iBgdpcbpBcA6SKqVL.jpg"
+        }
+      ],
+      "message_ids": [
+        6615
+      ],
+      "video_message_id": 6615
     },
     {
       "tmdb_id": 1580353,

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:51:14+00:00",
+  "generated_at": "2026-09-23T02:54:32+00:00",
   "channel": "-1004483833987",
-  "count": 2488,
+  "count": 2489,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -35033,6 +35033,77 @@
         6264
       ],
       "video_message_id": 6264
+    },
+    {
+      "tmdb_id": 683311,
+      "title": "Castle Falls",
+      "original_title": "Castle Falls",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/g918jDm2NxYtnOQ83nda82otfdG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9KDFobjmeU4TK1FFBybwmEhKWXA.jpg",
+      "overview": "Gangues rivais procuram milhões de dólares escondidos dentro de um condomínio de luxo que está programado para ser demolido, mas primeiro eles têm que lidar com o tripulante de preparação de demolição que encontrou o saque primeiro.",
+      "genres": [
+        "Ação",
+        "Crime",
+        "Thriller",
+        "Drama",
+        "Cinema TV"
+      ],
+      "cast": [
+        {
+          "name": "Scott Adkins",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg"
+        },
+        {
+          "name": "Dolph Lundgren",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fB1tOws6Gav0xE8LYlELEb82hJt.jpg"
+        },
+        {
+          "name": "Kim DeLonghi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2eSJYs4rcliLsBAGEFuAEeLzfx3.jpg"
+        },
+        {
+          "name": "Jim E. Chandler",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aqapPNP4axZI9roXrlfdwf0shgo.jpg"
+        },
+        {
+          "name": "Kevin Wayne",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eYQc6bGKnURBTCwcOflTfgmHe0S.jpg"
+        },
+        {
+          "name": "Scott Hunter",
+          "photo_url": "https://image.tmdb.org/t/p/w185/A7QQAXP8kqXqSNODmELIZ0mP1bI.jpg"
+        },
+        {
+          "name": "Dave Halls",
+          "photo_url": null
+        },
+        {
+          "name": "Ida Lundgren",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4ugZB68FzeK8GcicLTa1Qnh66BU.jpg"
+        },
+        {
+          "name": "Oren Hawxhurst",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fzPRlw2IKsU00xIUYYFKRuyZ7X0.jpg"
+        },
+        {
+          "name": "Billy Culbertson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eznY3uuVWOWdVWMRvug8EeONv0A.jpg"
+        },
+        {
+          "name": "Vas Sanchez",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gdtxziy3fL7H3fcaPEIU9hpG8q5.jpg"
+        },
+        {
+          "name": "Evan Dane Taylor",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vAa36T4nIgAsDT3KRfllm5DxbWy.jpg"
+        }
+      ],
+      "message_ids": [
+        6654,
+        6655
+      ],
+      "video_message_id": 6655
     },
     {
       "tmdb_id": 2153,

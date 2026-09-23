@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T03:31:14+00:00",
+  "generated_at": "2026-09-23T03:59:27+00:00",
   "channel": "-1004483833987",
-  "count": 2503,
+  "count": 2504,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -11847,6 +11847,73 @@
         5328
       ],
       "video_message_id": 5328
+    },
+    {
+      "tmdb_id": 18666,
+      "title": "A Nova Fúria do Dragão",
+      "original_title": "新精武門",
+      "year": "1976",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sZdBX73PWLXZTfb9qn6V9R3YqX7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tcoZj2kgjjLdacEjqD8nMjWMiEx.jpg",
+      "overview": "Após a morte do grande mestre Chen Chun, o serviço secreto se apodera de sua academia para transformá-la numa escola de assassinos profissionais. Mas, um jovem aluno se rebela e decide lutar para reverter a situação.",
+      "genres": [
+        "Ação",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Jackie Chan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+        },
+        {
+          "name": "苗可秀",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qKLizRzcgVQ3wjJ0dMAwMmmdlog.jpg"
+        },
+        {
+          "name": "陳星",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ipHYxKTAa1VM8DBGZlRTVoUbWJx.jpg"
+        },
+        {
+          "name": "陸一龍",
+          "photo_url": "https://image.tmdb.org/t/p/w185/g40wl5TXIPV54sA1VbUj1L7yVbz.jpg"
+        },
+        {
+          "name": "儀銘",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ltnBuL50X9awCMluFwzNvjCd1EZ.jpg"
+        },
+        {
+          "name": "Sun Lan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gggfVn7hcBVkvNgBb4JpfS4R20B.jpg"
+        },
+        {
+          "name": "Liu Ming",
+          "photo_url": null
+        },
+        {
+          "name": "Cheng Siu-Siu",
+          "photo_url": null
+        },
+        {
+          "name": "韓甦",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sgcyhBIlO3ic7SPMhguFoZocXo3.jpg"
+        },
+        {
+          "name": "韩英杰",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7mO543A4lFwRjW7bcKmlujPVQS3.jpg"
+        },
+        {
+          "name": "羅維",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qo5dFi2icEcJPDxQy1VdU0uJgcO.jpg"
+        },
+        {
+          "name": "蔣金",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cPtAtgjpIFnvVKhhuMEp4NvJwIT.jpg"
+        }
+      ],
+      "message_ids": [
+        6682
+      ],
+      "video_message_id": 6682
     },
     {
       "tmdb_id": 846864,

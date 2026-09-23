@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:42:36+00:00",
+  "generated_at": "2026-09-23T02:43:04+00:00",
   "channel": "-1004483833987",
-  "count": 2475,
+  "count": 2476,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -31829,6 +31829,75 @@
         6023
       ],
       "video_message_id": 6023
+    },
+    {
+      "tmdb_id": 32593,
+      "title": "Branca de Neve",
+      "original_title": "Snow White",
+      "year": "2001",
+      "poster_url": "https://image.tmdb.org/t/p/w500/r9gjrwJasvel2yPxz2CMst99THj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/p1iGi77Bf5Sj9eERNA62ZQ4l48Y.jpg",
+      "overview": "Com a morte de sua esposa, John fica com um pequeno bebê para cuidar… era a linda garotinha chamada Branca de Neve. O desespero do pai em busca de leite para o bebê o leva às lágrimas. E graças a elas, um ser ´enterrado´ na neve renasce e concede alguns pedidos a John… prontamente Branca de Neve ganha leite e na sequência um reino… com direito a uma madrasta obcecada pela sua beleza e que também vai morrer de inveja quando a garota se tornar uma linda jovem… mais bela do que ela!",
+      "genres": [
+        "Aventura",
+        "Fantasia",
+        "Cinema TV"
+      ],
+      "cast": [
+        {
+          "name": "Miranda Richardson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2IEW3fxqHb4AHBl5xU8JuipJbNK.jpg"
+        },
+        {
+          "name": "Tom Irwin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8b7rYs71tWWWFiObyqxoIzJwbRJ.jpg"
+        },
+        {
+          "name": "Vera Farmiga",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
+        },
+        {
+          "name": "Kristin Kreuk",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jQVGylAfotE7osIGwGivh6LpCdl.jpg"
+        },
+        {
+          "name": "Clancy Brown",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
+        },
+        {
+          "name": "Vincent Schiavelli",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8wq2WF9ohUUZZjfVxEEiUGxLHzp.jpg"
+        },
+        {
+          "name": "José Zúñiga",
+          "photo_url": "https://image.tmdb.org/t/p/w185/r6nFkJkMHP9tFDohwfav9Bf2rCR.jpg"
+        },
+        {
+          "name": "Michael J. Anderson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kw2isWTidlGOnBe1LPlFrSvNfNX.jpg"
+        },
+        {
+          "name": "Warwick Davis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vUwjgAYcBEcCv0OVAN00qUUXX3V.jpg"
+        },
+        {
+          "name": "Tyron Leitso",
+          "photo_url": "https://image.tmdb.org/t/p/w185/97MInhXaUcN2uYnvcvjrzIKSJug.jpg"
+        },
+        {
+          "name": "Michael Gilden",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rZk317gtqOAF6MgImnJ6l5j9RQL.jpg"
+        },
+        {
+          "name": "Mark J. Trombino",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6629,
+        6630
+      ],
+      "video_message_id": 6630
     },
     {
       "tmdb_id": 447273,

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:59:10+00:00",
+  "generated_at": "2026-09-23T02:59:14+00:00",
   "channel": "-1004483833987",
-  "count": 2490,
+  "count": 2491,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -137663,6 +137663,75 @@
         602
       ],
       "video_message_id": 602
+    },
+    {
+      "tmdb_id": 29993,
+      "title": "Sansão e Dalila",
+      "original_title": "Samson and Delilah",
+      "year": "1949",
+      "poster_url": "https://image.tmdb.org/t/p/w500/81WBTwGTZCxc34oZCbzY2hkf8Ab.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2ak3COMEe5g7JN8WvJhpoBxBqcp.jpg",
+      "overview": "Sansão, um forte homem de uma tribo escravizado pelos filisteus, se apaixona por Semadar, uma devota ao reino dominante que se envolve com Ahtur, o que leva a uma guerra entre os dois povos. Na briga, Semadar acaba morta e sua irmã Dalila, que sempre amou Sansão secretamente, jura vingança. Ela planeja seduzi-lo para que ele revele seu segredo para entregá-lo ao seu líder, Saran de Gaza.",
+      "genres": [
+        "Romance",
+        "Drama",
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "Hedy Lamarr",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qH15pDp99SXcMIuGFV7fU1x4Wqt.jpg"
+        },
+        {
+          "name": "Victor Mature",
+          "photo_url": "https://image.tmdb.org/t/p/w185/trTvjfUNOFxYL0Se70ZJMYKUsqS.jpg"
+        },
+        {
+          "name": "George Sanders",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5tzdY4lCnfbLZU8Wblp5xfjn10B.jpg"
+        },
+        {
+          "name": "Angela Lansbury",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gGAWbfMqhJnXzC8dRLeOSXOo9vO.jpg"
+        },
+        {
+          "name": "Henry Wilcoxon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xO7tbWF9pAQrPmwHBeMrlv8iOw6.jpg"
+        },
+        {
+          "name": "Olive Deering",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jUTZ7IEaWEiiHpehN9s3fW0FrYL.jpg"
+        },
+        {
+          "name": "Fay Holden",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ib5cRcNnL17hO0rzO5xskNFq7PF.jpg"
+        },
+        {
+          "name": "Julia Faye",
+          "photo_url": "https://image.tmdb.org/t/p/w185/geCmuERa7Bz1VvBbniWxaLEsuWm.jpg"
+        },
+        {
+          "name": "Russ Tamblyn",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yNy2xvNTGVvFxIQthtxA5md6HDN.jpg"
+        },
+        {
+          "name": "William Farnum",
+          "photo_url": "https://image.tmdb.org/t/p/w185/a2N7jJoXYLHaUFBDMGMuIgqja60.jpg"
+        },
+        {
+          "name": "Lane Chandler",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zwUk9TYX6u2Y7jr6VDEW1NW7Flr.jpg"
+        },
+        {
+          "name": "Moroni Olsen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xJ56TNofwpQH3b0UAs8spNq35OR.jpg"
+        }
+      ],
+      "message_ids": [
+        6658,
+        6659
+      ],
+      "video_message_id": 6659
     },
     {
       "tmdb_id": 1187762,

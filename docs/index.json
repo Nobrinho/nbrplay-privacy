@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:18:49+00:00",
+  "generated_at": "2026-09-23T02:23:40+00:00",
   "channel": "-1004483833987",
-  "count": 2454,
+  "count": 2455,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -54442,6 +54442,45 @@
         4152
       ],
       "video_message_id": 4152
+    },
+    {
+      "tmdb_id": 804779,
+      "title": "Esse é o Meu Lugar",
+      "original_title": "We Burn Like This",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qJRhpW1vvL0ABZvttHP5zE0uV4o.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tzuJBvtXphfkAbHG9v3P8qyiy80.jpg",
+      "overview": "Quando Rae, uma garota de 22 anos, descendente de sobreviventes do Holocausto, é visada por neonazistas na cidade de Billings, em Montana, o trauma de seus ancestrais se torna real. Rae, então, volta para a casa da mãe e descobre a verdade sobre um acidente da infância. À medida que o antissemitismo continua a crescer na comunidade, seguimos Rae em uma jornada para perdoar a si mesma, a mãe e o mundo despedaçado ao seu redor. Inspirado em eventos reais, essa história de amadurecimento mostra os efeitos herdados de um trauma histórico e a força da sobrevivência e da cura.",
+      "genres": [
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Madeleine Coghlan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6LAp7Ncc0xI8jVPpsuxg5HfJI1p.jpg"
+        },
+        {
+          "name": "Devery Jacobs",
+          "photo_url": "https://image.tmdb.org/t/p/w185/74QH7KCW6ZI2ekIYYCV4NyGet4X.jpg"
+        },
+        {
+          "name": "Casidee Riley",
+          "photo_url": null
+        },
+        {
+          "name": "Angelo Rizzo",
+          "photo_url": null
+        },
+        {
+          "name": "Kendra Mylnechuk",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xuY3xx6YOTMsPLeYFoRCP7zky39.jpg"
+        }
+      ],
+      "message_ids": [
+        6592,
+        6593
+      ],
+      "video_message_id": 6593
     },
     {
       "tmdb_id": 87428,

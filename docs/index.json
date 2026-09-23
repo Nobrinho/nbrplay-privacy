@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:39:31+00:00",
+  "generated_at": "2026-09-23T02:39:42+00:00",
   "channel": "-1004483833987",
-  "count": 2465,
+  "count": 2466,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -49722,6 +49722,74 @@
         464
       ],
       "video_message_id": 464
+    },
+    {
+      "tmdb_id": 18764,
+      "title": "Dragões em Dose Dupla",
+      "original_title": "双龙会",
+      "year": "1992",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hLYylwAitbJjBukvqqBDhGkLbRu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/h3vctOuLlF0V3liuTfaWVC9utKG.jpg",
+      "overview": "Dois bebês gêmeos são separados no berço. Um deles vira maestro e o outro mecânico. A confusão está formada quando o destino leva os dois a se encontrarem num hotel em Hong Kong.",
+      "genres": [
+        "Ação",
+        "Comédia",
+        "Crime"
+      ],
+      "cast": [
+        {
+          "name": "Jackie Chan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+        },
+        {
+          "name": "泰迪羅賓",
+          "photo_url": "https://image.tmdb.org/t/p/w185/H0m6swp53hydoCTUHivklF3US0.jpg"
+        },
+        {
+          "name": "Maggie Cheung",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hre6xmoDbh67YN7wR5nhUazPTlb.jpg"
+        },
+        {
+          "name": "利智",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7c4aCvQ7L6XHjLlO5wLmSEqZSv3.jpg"
+        },
+        {
+          "name": "黃霑",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gmZZNrvwFIpo3kB9L51wQircqlH.jpg"
+        },
+        {
+          "name": "張艾嘉",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sCG4y9V8PXq7nGeo5cveWA44pT7.jpg"
+        },
+        {
+          "name": "黃志強",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3UHPRlBET3x7YHjKheyJpnjJMDJ.jpg"
+        },
+        {
+          "name": "姜大衞",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7Wwna95s5U3g7T3z4s7uD51ZAXX.jpg"
+        },
+        {
+          "name": "張婉婷",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9vjoyaOxVr0a0ifLy57P8w7hV9z.jpg"
+        },
+        {
+          "name": "張堅庭",
+          "photo_url": "https://image.tmdb.org/t/p/w185/veaGtUTk9MSN2mlG7Ghw5tqVDBd.jpg"
+        },
+        {
+          "name": "王龙威",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7UQv8ANa55XRMoA1eYlzPZ4drGY.jpg"
+        },
+        {
+          "name": "陳友",
+          "photo_url": "https://image.tmdb.org/t/p/w185/neuuHgRqrszDQC1qA3rMmNUFcKo.jpg"
+        }
+      ],
+      "message_ids": [
+        6613
+      ],
+      "video_message_id": 6613
     },
     {
       "tmdb_id": 64690,

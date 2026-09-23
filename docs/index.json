@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T03:02:11+00:00",
+  "generated_at": "2026-09-23T03:02:44+00:00",
   "channel": "-1004483833987",
-  "count": 2494,
+  "count": 2496,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -80507,6 +80507,73 @@
       "video_message_id": 498
     },
     {
+      "tmdb_id": 104923,
+      "title": "Le Dialogue des Carmélites",
+      "original_title": "Le Dialogue des Carmélites",
+      "year": "1960",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9E0kXbfvpX7gooj2AgxiX9TwU7Z.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aGpLZdV7qkwQbu52V7hE01wbAZB.jpg",
+      "overview": "This drama about the Carmelite order of nuns is set during the French Revolution. A young woman seeks refuge with the Carmelites because she is terrified of dying during the upheaval. The longer she associates with the nuns the more she is transformed by their faith and devotion.",
+      "genres": [
+        "Drama",
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "Jeanne Moreau",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lsIlRbcStJev5n1mypIeUUYKWuy.jpg"
+        },
+        {
+          "name": "Alida Valli",
+          "photo_url": "https://image.tmdb.org/t/p/w185/11s7AosF2LHIGgdACpyPyoPlAyI.jpg"
+        },
+        {
+          "name": "Madeleine Renaud",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2V50NFeaAU9AvER0aNVTlrXnbpO.jpg"
+        },
+        {
+          "name": "Pascale Audret",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eSROl612Yrws8H2kawMXnAxYbAb.jpg"
+        },
+        {
+          "name": "Pierre Brasseur",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n15deEWYZZrzbaozdGSL9kxl8lI.jpg"
+        },
+        {
+          "name": "Georges Wilson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hifU1QhRKnX44VyrRBHmPldTsRy.jpg"
+        },
+        {
+          "name": "Anne Doat",
+          "photo_url": "https://image.tmdb.org/t/p/w185/c2ArkvrxmZhNNIqnxfE1xbirmxJ.jpg"
+        },
+        {
+          "name": "Claude Laydu",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6XXbHzGLIku27hrsxxuyfKFmIqA.jpg"
+        },
+        {
+          "name": "Jean-Louis Barrault",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mjXQFa2pzgQwiaaGzU79GK8BF9N.jpg"
+        },
+        {
+          "name": "Pierre Bertin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/q384IH4ZAVYabUd9ynR3NE8Jmkd.jpg"
+        },
+        {
+          "name": "Judith Magre",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1hyIhIEkZLdhUWSmwwbbbymHnmW.jpg"
+        },
+        {
+          "name": "Simone Angèle",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6666
+      ],
+      "video_message_id": 6666
+    },
+    {
       "tmdb_id": 8835,
       "title": "Legalmente Loira",
       "original_title": "Legally Blonde",
@@ -86071,6 +86138,73 @@
         6250
       ],
       "video_message_id": 6250
+    },
+    {
+      "tmdb_id": 787923,
+      "title": "Marvel Por Trás da Máscara",
+      "original_title": "Marvel's Behind the Mask",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kKAJjnhNfw4uxkHwRfduHHR8EQJ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/69GY219MYBurtf8joA2okEa3x8I.jpg",
+      "overview": "Um documentário especial que explora o poder da identidade por trás dos super-heróis icônicos que conhecemos e amamos. Essas criações e histórias lendárias da Marvel não somente refletiram o mundo exterior – elas se tornaram um reflexo de nossas próprias identidades e de quem somos de verdade.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Joe Quesada",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lXvr9yj4OpPDLojusbKYowp9zZX.jpg"
+        },
+        {
+          "name": "Peter Sanderson",
+          "photo_url": null
+        },
+        {
+          "name": "Sana Amanat",
+          "photo_url": "https://image.tmdb.org/t/p/w185/82RbDrWssbFC9cYXGlZQHhmvwR9.jpg"
+        },
+        {
+          "name": "Neal Kirby",
+          "photo_url": null
+        },
+        {
+          "name": "Reginald Hudlin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/z2O30pOwkKpZBCyZpwZ80ouKcQA.jpg"
+        },
+        {
+          "name": "Darryl 'DMC' McDaniels",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yqBGZpqSTj3sQPSq90v56AG543Y.jpg"
+        },
+        {
+          "name": "Ann Nocenti",
+          "photo_url": null
+        },
+        {
+          "name": "Roy Thomas",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2ZzN71BDvknZKTkIYmwNCa2uQMQ.jpg"
+        },
+        {
+          "name": "Jenny Blake Isabella",
+          "photo_url": null
+        },
+        {
+          "name": "Larry Hama",
+          "photo_url": "https://image.tmdb.org/t/p/w185/l19Jv6MelJfzIix8s8rsAGw9DGU.jpg"
+        },
+        {
+          "name": "Gerry Conway",
+          "photo_url": null
+        },
+        {
+          "name": "Kelly Sue DeConnick",
+          "photo_url": "https://image.tmdb.org/t/p/w185/q9VLVEVCRVLyoMqJZL2UJip2228.jpg"
+        }
+      ],
+      "message_ids": [
+        6667,
+        6668
+      ],
+      "video_message_id": 6668
     },
     {
       "tmdb_id": 24238,

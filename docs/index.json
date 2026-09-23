@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:37:14+00:00",
+  "generated_at": "2026-09-23T02:37:50+00:00",
   "channel": "-1004483833987",
-  "count": 2459,
+  "count": 2460,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -125459,6 +125459,75 @@
         4283
       ],
       "video_message_id": 4283
+    },
+    {
+      "tmdb_id": 219572,
+      "title": "Police Story 6: Em Nome da Lei",
+      "original_title": "警察故事2013",
+      "year": "2013",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4ziOzAyviTr359Ys93uef8dtraz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7hJxwdm2OSE4Umsta7rYIxDaymU.jpg",
+      "overview": "Um agente da Interpol, o Capitão Zhong Wen (Jackie Chan) sabe tudo sobre sacrifício. Ele sempre foi muito ocupado perseguindo bandidos para ser um pai para sua filha Miao (Jing Tian). Uma noite, ele é convidado a conhecer o seu noivo, dono do clube, Wu Jiang (Liu Ye). Mas os planos do noivo incluem tomar Miao, Zhong, e todo o clube refém.",
+      "genres": [
+        "Ação",
+        "Crime",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Jackie Chan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+        },
+        {
+          "name": "刘烨",
+          "photo_url": "https://image.tmdb.org/t/p/w185/viShE7lIq0EBZYSY8R64wRaYJus.jpg"
+        },
+        {
+          "name": "景甜",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7jP3VMJOMjx90EalALHnlWKU36n.jpg"
+        },
+        {
+          "name": "于荣光",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qRPhrqPLYvca6Wdv9lMxwEm7ZD6.jpg"
+        },
+        {
+          "name": "殷桃",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iSHgfG1hp3oTL1EklP3GTRZ4PC0.jpg"
+        },
+        {
+          "name": "那威",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7z6FUeXEH4p07qDPBcxx1rwL3io.jpg"
+        },
+        {
+          "name": "Liu Yiwei",
+          "photo_url": "https://image.tmdb.org/t/p/w185/s1Srvu0Fpk1lyrcoagBzXGI0upU.jpg"
+        },
+        {
+          "name": "Liu Hailong",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zKG0vURZ52fA47OqF16fKUwB4OY.jpg"
+        },
+        {
+          "name": "刘佩琦",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5AVVGJjyJixP6qKRic0pfDPvITr.jpg"
+        },
+        {
+          "name": "古力娜扎",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9HZkWl3glcA56J1rWlMU1TKh71q.jpg"
+        },
+        {
+          "name": "周晓鸥",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nAOEt5t1L5fECCs6FZsBGDOARcS.jpg"
+        },
+        {
+          "name": "吴樾",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hRePA3mh9mfAqX7SJ4rGxrNrxT7.jpg"
+        }
+      ],
+      "message_ids": [
+        6602,
+        6603
+      ],
+      "video_message_id": 6603
     },
     {
       "tmdb_id": 323675,

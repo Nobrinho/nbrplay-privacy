@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T03:04:22+00:00",
+  "generated_at": "2026-09-23T03:05:24+00:00",
   "channel": "-1004483833987",
-  "count": 2501,
+  "count": 2502,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -2906,6 +2906,75 @@
         6617
       ],
       "video_message_id": 6617
+    },
+    {
+      "tmdb_id": 62,
+      "title": "2001: Uma Odisséia no Espaço",
+      "original_title": "2001: A Space Odyssey",
+      "year": "1968",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pVCmLuATJ0lQs4Vx1zUJUN0if2A.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+      "overview": "Desde a “Aurora do Homem” (a pré-história), um misterioso monólito negro parece emitir sinais de outra civilização, assim interferindo no nosso planeta. Quatro milhões de anos depois, no século XXI, uma equipe de astronautas liderados pelo experiente David Bowman e Frank Poole é enviada ao planeta Júpiter para investigar o enigmático monólito na nave Discovery, totalmente controlada pelo computador HAL-9000. Entretanto, no meio da viagem, HAL-9000 entra em pane e tenta assumir o controle da nave, eliminando um a um os tripulantes.",
+      "genres": [
+        "Ficção científica",
+        "Mistério",
+        "Aventura"
+      ],
+      "cast": [
+        {
+          "name": "Keir Dullea",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5QyrGWxujX8XA3Ny3M8D18TWupi.jpg"
+        },
+        {
+          "name": "Gary Lockwood",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1tfGE7RW8GgCLEFFJUXETq9Td1T.jpg"
+        },
+        {
+          "name": "William Sylvester",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4NaExzBKqv4GPEfJ2w7S16MYS2y.jpg"
+        },
+        {
+          "name": "Douglas Rain",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wCjNcbW1u9cYc7jzlV5FPKqXGNF.jpg"
+        },
+        {
+          "name": "Daniel Richter",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cq8Fprv33RgYPwu39cGx6fxk5Qp.jpg"
+        },
+        {
+          "name": "Leonard Rossiter",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qXjGUJ2TjO3ltiEYMEJ658VeqkA.jpg"
+        },
+        {
+          "name": "Margaret Tyzack",
+          "photo_url": "https://image.tmdb.org/t/p/w185/b0p8ztjdsqcG1jEua8iJG1TITIM.jpg"
+        },
+        {
+          "name": "Robert Beatty",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zsVtibd7wYlt6p6pShgOhLBMS1j.jpg"
+        },
+        {
+          "name": "Sean Sullivan",
+          "photo_url": null
+        },
+        {
+          "name": "Frank W. Miller",
+          "photo_url": null
+        },
+        {
+          "name": "Bill Weston",
+          "photo_url": null
+        },
+        {
+          "name": "Ed Bishop",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uLLoKf4BknxuF1SOSD0EBB4gSmc.jpg"
+        }
+      ],
+      "message_ids": [
+        6678,
+        6679
+      ],
+      "video_message_id": 6679
     },
     {
       "tmdb_id": 1233974,

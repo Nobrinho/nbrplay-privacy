@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:49:42+00:00",
+  "generated_at": "2026-09-23T02:51:14+00:00",
   "channel": "-1004483833987",
-  "count": 2487,
+  "count": 2488,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -17075,6 +17075,72 @@
         6606
       ],
       "video_message_id": 6606
+    },
+    {
+      "tmdb_id": 588921,
+      "title": "Ainbo: A Guerreira da Amazônia",
+      "original_title": "Ainbo: Spirit of the Amazon",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xGkmm8YB1HzM3GaQ3FBv1NTwWxS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/v4NDRjYO3HYj8nt321BEZB65tWl.jpg",
+      "overview": "Ainbo nasceu e foi criada na aldeia de Candámo, na floresta Amazônica. Um dia, ele descobre que sua tribo está sendo ameaçada por outros seres humanos. A garota enfrenta a missão de reverter essa destruição e extinguir a maldade dos Yakuruna, a escuridão que habita o coração de gente gananciosa.",
+      "genres": [
+        "Aventura",
+        "Animação",
+        "Família",
+        "Fantasia"
+      ],
+      "cast": [
+        {
+          "name": "Lola Raie",
+          "photo_url": "https://image.tmdb.org/t/p/w185/y2CQ8VldUJkdjgGVHNdmH3dNy6Y.jpg"
+        },
+        {
+          "name": "Alejandra Gollas",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7qnV56TkAoGi7YJeasUDa98Qtl2.jpg"
+        },
+        {
+          "name": "Thom Hoffman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9idfzAANRjFDPnPHsRVVBb2LbNR.jpg"
+        },
+        {
+          "name": "Bernardo de Paula",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sjvTZ6sfF3xeRsbAaPdV4Qeh2bO.jpg"
+        },
+        {
+          "name": "Dino Andrade",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eoP6UUSYeuGmgnJ1DQYZRHRgXdn.jpg"
+        },
+        {
+          "name": "Yeni Alvarez",
+          "photo_url": null
+        },
+        {
+          "name": "Rene Mujica",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oJmMW1jD3pgXEgwRH5H6QxF5EvJ.jpg"
+        },
+        {
+          "name": "Susana Ballesteros",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dp7z8WXUdOurI2u448lSfsdQyuo.jpg"
+        },
+        {
+          "name": "Naomi Serrano",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wpS5sLVriFIIhXvss2qUZIZFgGY.jpg"
+        },
+        {
+          "name": "Gerardo Prat",
+          "photo_url": null
+        },
+        {
+          "name": "Rico Sola",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6652,
+        6653
+      ],
+      "video_message_id": 6653
     },
     {
       "tmdb_id": 291272,

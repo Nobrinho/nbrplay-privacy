@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:39:15+00:00",
+  "generated_at": "2026-09-23T02:39:31+00:00",
   "channel": "-1004483833987",
-  "count": 2464,
+  "count": 2465,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -96434,6 +96434,75 @@
         5922
       ],
       "video_message_id": 5922
+    },
+    {
+      "tmdb_id": 997120,
+      "title": "O Atirador: Missão Secreta",
+      "original_title": "Sniper: Rogue Mission",
+      "year": "2022",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uga2O42E9ZyDGaYvxrjML59Zzm9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vz3bzzB2E3l3IkZoJYCIuMo8Bav.jpg",
+      "overview": "Quando um agente federal corrupto está envolvido em uma rede de tráfico sexual humano, Sniper e CIA Rookie Sniper Brandon Beckett se torna desonesto, juntando-se a seus ex-aliados Homeland Security Agent Zero e a assassina Lady Death para descobrir o agente corrupto e derrubar a organização criminosa.",
+      "genres": [
+        "Ação",
+        "Thriller",
+        "Mistério"
+      ],
+      "cast": [
+        {
+          "name": "Chad Michael Collins",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9lcEpAYRBCylYIVMZYXHqfmRzfP.jpg"
+        },
+        {
+          "name": "Ryan Robbins",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kZrq5a760JU1kHuxQ7Q8YCgsOr6.jpg"
+        },
+        {
+          "name": "秋元才加",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2MxwyfkqBFwSSvAFBKUir4e1NV8.jpg"
+        },
+        {
+          "name": "Brendan Sexton III",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kfvO3Mdk5yqzuaN8aIeaFfVl4T5.jpg"
+        },
+        {
+          "name": "Josh Brener",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sIyQYq2imu1V2RxRQ1zp70RSqTi.jpg"
+        },
+        {
+          "name": "Dennis Haysbert",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lcnjaw2CFN6q9eaes1jTYrUB0rb.jpg"
+        },
+        {
+          "name": "Jocelyn Hudon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/quI2sUAc3opQ3Bb2H2OMHEMchGf.jpg"
+        },
+        {
+          "name": "David MacInnis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sIqdonn5NvUvJoWQbTWO7NDCgE3.jpg"
+        },
+        {
+          "name": "Paul Essiembre",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cM9uhNoWtNBfjVpmESoL0HJf9UX.jpg"
+        },
+        {
+          "name": "Erik Athavale",
+          "photo_url": "https://image.tmdb.org/t/p/w185/v5J8qSMldAixR3PcUoQmbAPlOOM.jpg"
+        },
+        {
+          "name": "Toby Hughes",
+          "photo_url": null
+        },
+        {
+          "name": "Adam Hurtig",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sJ0RxYecZCJ5zybOsQjTedhMwp.jpg"
+        }
+      ],
+      "message_ids": [
+        6611,
+        6612
+      ],
+      "video_message_id": 6612
     },
     {
       "tmdb_id": 40096,

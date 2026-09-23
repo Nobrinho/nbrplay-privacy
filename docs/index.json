@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:47:55+00:00",
+  "generated_at": "2026-09-23T02:49:42+00:00",
   "channel": "-1004483833987",
-  "count": 2486,
+  "count": 2487,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -108427,6 +108427,75 @@
         3853
       ],
       "video_message_id": 3853
+    },
+    {
+      "tmdb_id": 9529,
+      "title": "O Mistério de Candyman",
+      "original_title": "Candyman",
+      "year": "1992",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ro5OqAeL8OQzeTJMnBchKg25rEg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/l0JgqFNxeMb1OoHq1CzdYC3Y5J8.jpg",
+      "overview": "Uma estudante decide provar que Candyman, uma lenda urbana, não existe. Ela, então, segue para o local de um crime brutal e o invoca. Para sua surpresa, ele surge iniciando horríveis assassinatos.",
+      "genres": [
+        "Drama",
+        "Terror",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Virginia Madsen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2u72BF7i189nAcX1kEJLjGMsb0c.jpg"
+        },
+        {
+          "name": "Tony Todd",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cNUIRoewwiLi8JxyA1J2zb1z5SN.jpg"
+        },
+        {
+          "name": "Xander Berkeley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oBoKGfngGGZmSVGFslphYjc23WO.jpg"
+        },
+        {
+          "name": "Kasi Lemmons",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7iiZTyu8TnN242AS9m3LcrwVuzz.jpg"
+        },
+        {
+          "name": "Vanessa Williams",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ncHclCZvHSjG38zZnqGIFh05eLE.jpg"
+        },
+        {
+          "name": "DeJuan Guy",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jq1t8xuQu8CPKvrPoXKtLamtbEw.jpg"
+        },
+        {
+          "name": "Michael Culkin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eUTAyHEEKE3ZVVqKuEiPG8APU14.jpg"
+        },
+        {
+          "name": "Stanley DeSantis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4pdkgjIGI5gW7Mf39tBXe7yaOg5.jpg"
+        },
+        {
+          "name": "Gilbert Lewis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4gf2lIlQZfr0fcgnJQqcsI01uq0.jpg"
+        },
+        {
+          "name": "Marianna Elliott",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7bq0JskdQIewQJ5M7UjNuthRIZf.jpg"
+        },
+        {
+          "name": "Ted Raimi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/juhz6ajCjjHlLPzYBxPtDxwX6em.jpg"
+        },
+        {
+          "name": "Ria Pavia",
+          "photo_url": "https://image.tmdb.org/t/p/w185/h6vVdlBjFHkd97Y2pALfWuArej2.jpg"
+        }
+      ],
+      "message_ids": [
+        6650,
+        6651
+      ],
+      "video_message_id": 6651
     },
     {
       "tmdb_id": 22826,

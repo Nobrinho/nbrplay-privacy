@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T01:13:03+00:00",
+  "generated_at": "2026-09-23T02:18:49+00:00",
   "channel": "-1004483833987",
-  "count": 2453,
+  "count": 2454,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -29176,6 +29176,76 @@
         4826
       ],
       "video_message_id": 4826
+    },
+    {
+      "tmdb_id": 1560520,
+      "title": "Batman: A Queda do Morcego - Parte 1",
+      "original_title": "Batman: Knightfall Part 1: Knightfall",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kOeLi6uIhAlWchS7ZkgDwWSavYT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
+      "overview": "O Asilo Arkham foi destruído, e todos os seus detentos foram soltos em Gotham City. Enquanto corre contra o tempo para capturar alguns de seus maiores inimigos, Batman é levado ao limite de suas capacidades físicas e mentais, rumo a um confronto final contra uma nova ameaça: o homem chamado Bane!",
+      "genres": [
+        "Animação",
+        "Ação",
+        "Aventura",
+        "Ficção científica"
+      ],
+      "cast": [
+        {
+          "name": "Anson Mount",
+          "photo_url": "https://image.tmdb.org/t/p/w185/A4YBdwnzJKRcZXfodjT4UalHOK9.jpg"
+        },
+        {
+          "name": "Michael Mando",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gvM2wG66bjEpiirdeQdyG9EzUfv.jpg"
+        },
+        {
+          "name": "Pablo Schreiber",
+          "photo_url": "https://image.tmdb.org/t/p/w185/trKW3kwhwx4UeCNZg43A1x1h4Uv.jpg"
+        },
+        {
+          "name": "Jeff Bennett",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+        },
+        {
+          "name": "Luis Bermudez",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cn1yzMsCrUatAqjDEIxTb8h38X9.jpg"
+        },
+        {
+          "name": "Bruce Boxleitner",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1x99F4oJTFAFY2HR4PbQdxiGyMH.jpg"
+        },
+        {
+          "name": "Jessica Camacho",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rmms55MpLdBWRDX8LLDTctgXUuA.jpg"
+        },
+        {
+          "name": "Anthony Crivello",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AmeKWIanHlHYEDXpDfySEk95Myo.jpg"
+        },
+        {
+          "name": "David Dastmalchian",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nER1Vzhk51pGHb60KBF1Ja5tEXA.jpg"
+        },
+        {
+          "name": "Jason Flemyng",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nYl0180ACnLzVlGbaAfuPtdGr9K.jpg"
+        },
+        {
+          "name": "Jack Griffo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tG3K8Lpwb0FXHEMLTvCbwUyH1LR.jpg"
+        },
+        {
+          "name": "Jason Hightower",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wdNUd3qVk66VunB2wH9iYLqgxhk.jpg"
+        }
+      ],
+      "message_ids": [
+        6590,
+        6591
+      ],
+      "video_message_id": 6591
     },
     {
       "tmdb_id": 155,

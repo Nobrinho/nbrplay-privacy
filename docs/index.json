@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:44:46+00:00",
+  "generated_at": "2026-09-23T02:45:20+00:00",
   "channel": "-1004483833987",
-  "count": 2480,
+  "count": 2481,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -8915,6 +8915,75 @@
         905
       ],
       "video_message_id": 905
+    },
+    {
+      "tmdb_id": 923939,
+      "title": "A Incrível História de Henry Sugar",
+      "original_title": "The Wonderful Story of Henry Sugar",
+      "year": "2023",
+      "poster_url": "https://image.tmdb.org/t/p/w500/azRL9bmByicPRzP0ljDNzFCwyUX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dS4JR8gmj8UnamjuLEyAkEFoppy.jpg",
+      "overview": "Wes Anderson dirige esta adaptação do conto de Roald Dahl sobre um homem rico determinado a dominar uma técnica extraordinária para trapacear no jogo.",
+      "genres": [
+        "Fantasia",
+        "Aventura",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Ralph Fiennes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+        },
+        {
+          "name": "Benedict Cumberbatch",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+        },
+        {
+          "name": "Dev Patel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/byAo6xoleVSG5O9YpGrQ5YuCRX7.jpg"
+        },
+        {
+          "name": "Ben Kingsley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/k3Dmu49B2akwDvgqy52MOxznI59.jpg"
+        },
+        {
+          "name": "Richard Ayoade",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qHKoy9kP4bsv4G9EkvU4FMUmYkS.jpg"
+        },
+        {
+          "name": "Jarvis Cocker",
+          "photo_url": "https://image.tmdb.org/t/p/w185/i4EzLcmH0OPoEicgE4hasgFdkIl.jpg"
+        },
+        {
+          "name": "Rebecca Cornford",
+          "photo_url": null
+        },
+        {
+          "name": "David Gant",
+          "photo_url": "https://image.tmdb.org/t/p/w185/s5XZhuzETEbEIv4YanpR2Ng2URq.jpg"
+        },
+        {
+          "name": "Martin Foreman",
+          "photo_url": null
+        },
+        {
+          "name": "Agatino Trimarchi",
+          "photo_url": null
+        },
+        {
+          "name": "Christopher J. Long",
+          "photo_url": null
+        },
+        {
+          "name": "Richard Sisson",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6638,
+        6639
+      ],
+      "video_message_id": 6639
     },
     {
       "tmdb_id": 13346,

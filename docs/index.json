@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:44:29+00:00",
+  "generated_at": "2026-09-23T02:44:46+00:00",
   "channel": "-1004483833987",
-  "count": 2479,
+  "count": 2480,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -161570,6 +161570,75 @@
         5376
       ],
       "video_message_id": 5376
+    },
+    {
+      "tmdb_id": 11571,
+      "title": "Viagem ao Centro da Terra",
+      "original_title": "Journey to the Center of the Earth",
+      "year": "1959",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2OEH8UlhUzugpWxrjCgU74mmNmv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/74aJhP8R5WzmFOEJzR9eUMDiiSH.jpg",
+      "overview": "O professor universitário de Edimburgo, Sir Oliver Lindenbrook, acredita ter encontrado uma mensagem muito antiga de um cientista há muito perdido que pode ter encontrado o caminho para viajar ao centro da Terra. Com seu assistente, o estudante Alec McKuen, ele parte para a Islândia, onde se encontra uma entrada em uma cordilheira vulcânica. Eles logo se juntam a Carla Goetabaug, cujo marido-cientista foi recentemente assassinado, e ao islandês Hans Belker enquanto descem às entranhas da Terra. Lá eles encontrarão criaturas fantásticas, plantas exóticas, a cidade perdida de Atlântida e um inimigo que deseja manter para si o conhecimento deste submundo.",
+      "genres": [
+        "Aventura",
+        "Fantasia",
+        "Família"
+      ],
+      "cast": [
+        {
+          "name": "James Mason",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vCABivuMBCT78sh5G0q8jO5rkT.jpg"
+        },
+        {
+          "name": "Arlene Dahl",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aTgUgnpdi5bwIQYgt8s4LzPcM5m.jpg"
+        },
+        {
+          "name": "Pat Boone",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qD1cNNYYGBYL5O9EM8o3YNr1HEU.jpg"
+        },
+        {
+          "name": "Peter Ronson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rsvjIUUBDUMYEzSZ801XqaArA84.jpg"
+        },
+        {
+          "name": "Thayer David",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gAkmthly4dMu2Az8SNVWNSeRsYy.jpg"
+        },
+        {
+          "name": "Diane Baker",
+          "photo_url": "https://image.tmdb.org/t/p/w185/doyBqSMhFzf4XJgOQJxJCYe5n54.jpg"
+        },
+        {
+          "name": "Alan Napier",
+          "photo_url": "https://image.tmdb.org/t/p/w185/90TwBLqH94JqWeVBXqkkYR2wsp2.jpg"
+        },
+        {
+          "name": "Ben Wright",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7io2bWkZ0vYLNyWqPoADf9O2LD3.jpg"
+        },
+        {
+          "name": "Alex Finlayson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oF0pcO8Rpycthx8nhqlXjQjcUTC.jpg"
+        },
+        {
+          "name": "Edith Evanson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cCQQcs7TPz4IvSyZXG4kd1nHqmY.jpg"
+        },
+        {
+          "name": "Ivan Triesault",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pNrEdprQB7ON6M5CcBaBxCVxq5Y.jpg"
+        },
+        {
+          "name": "Robert Adler",
+          "photo_url": "https://image.tmdb.org/t/p/w185/w9ppKkrjl2t65WeW0CPbQ1dDbjP.jpg"
+        }
+      ],
+      "message_ids": [
+        6636,
+        6637
+      ],
+      "video_message_id": 6637
     },
     {
       "tmdb_id": 16929,

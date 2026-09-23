@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:45:48+00:00",
+  "generated_at": "2026-09-23T02:46:14+00:00",
   "channel": "-1004483833987",
-  "count": 2482,
+  "count": 2483,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -157385,6 +157385,75 @@
         5177
       ],
       "video_message_id": 5177
+    },
+    {
+      "tmdb_id": 6933,
+      "title": "Uma Chamada Perdida",
+      "original_title": "One Missed Call",
+      "year": "2008",
+      "poster_url": "https://image.tmdb.org/t/p/w500/z3ZqXMlSG5t4POLj4BKPdUy1fFY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/t3pSR0WtmGpogFIj8JqBUXQrJbn.jpg",
+      "overview": "Tudo começa inocentemente, uma chamada não atendida no celular. Mas o correio de voz foi deixado por você, três dias no futuro, e o som que você ouve é o som do seu assassinato. Começa com uma chamada, mas esse não é o fim deste conto de terror arrepiante.",
+      "genres": [
+        "Terror",
+        "Mistério",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Shannyn Sossamon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/h7oiKMaoq0J5DM3PBZxffF9uJo4.jpg"
+        },
+        {
+          "name": "Edward Burns",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pTLdPUSxDUcdmvy91LGCF3pk0AM.jpg"
+        },
+        {
+          "name": "Ana Claudia Talancón",
+          "photo_url": "https://image.tmdb.org/t/p/w185/es8No01z8G0MFX2KeiAa2ouRfCD.jpg"
+        },
+        {
+          "name": "Ray Wise",
+          "photo_url": "https://image.tmdb.org/t/p/w185/60313U01R1j9eueDBXiIh9o55RQ.jpg"
+        },
+        {
+          "name": "Azura Skye",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xy1wzIxo8RHGbwhlA8LseFt1pjm.jpg"
+        },
+        {
+          "name": "Johnny Lewis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ebfmLC4cr4F31aDw6DGMJcjOJNz.jpg"
+        },
+        {
+          "name": "Meagan Good",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iwSNBQKKDhEbtNe8I4ROYoYmWqE.jpg"
+        },
+        {
+          "name": "Jason Beghe",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hrTwOPWek7nkPJgFhh6inFu7vSS.jpg"
+        },
+        {
+          "name": "Rhoda Griffis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jO50PgihnZ0gAlJDulpzxMoLgRB.jpg"
+        },
+        {
+          "name": "Ariel Winter",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1h0XaXnieP5CdTAeRGuALBJmD4R.jpg"
+        },
+        {
+          "name": "Margaret Cho",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lsHpa4aRrBMn7LtFX8AdPTFBMGY.jpg"
+        },
+        {
+          "name": "Dawn Dininger",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aBAQfSBbpsWnXUZkOxCBNm9qZcZ.jpg"
+        }
+      ],
+      "message_ids": [
+        6642,
+        6643
+      ],
+      "video_message_id": 6643
     },
     {
       "tmdb_id": 10073,

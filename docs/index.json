@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T03:02:44+00:00",
+  "generated_at": "2026-09-23T03:03:07+00:00",
   "channel": "-1004483833987",
-  "count": 2496,
+  "count": 2497,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -72480,6 +72480,58 @@
         3871
       ],
       "video_message_id": 3871
+    },
+    {
+      "tmdb_id": 768447,
+      "title": "Instinto Materno",
+      "original_title": "Motherly",
+      "year": "2022",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rAbreodoriF4LeyEjm3DrypFMTB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ugZbX5lKx4L9ONEu0WTNbR96J0t.jpg",
+      "overview": "Após um trauma, uma mãe solteira se muda com a filha para uma isolada fazenda no interior. Mas logo coisas sinistras voltam a acontecer e seus instintos maternos serão colocados à prova novamente. Até onde ela irá para proteger sua filha?",
+      "genres": [
+        "Thriller",
+        "Terror"
+      ],
+      "cast": [
+        {
+          "name": "Lora Burke",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hkK47d2DduNisGUYfAXmSFcr97D.jpg"
+        },
+        {
+          "name": "Tessa Kozma",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jIEH0AzQPXuk3z4E63CYhSNNcvw.jpg"
+        },
+        {
+          "name": "Kristen MacCulloch",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1NVjmQzdHGXssb8MFNKDRmokxuG.jpg"
+        },
+        {
+          "name": "Nick Smyth",
+          "photo_url": "https://image.tmdb.org/t/p/w185/p646wRSMA2ladOAf4ONf6xWaSjF.jpg"
+        },
+        {
+          "name": "Colin Paradine",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zrXoUkSEiPeqGzVhEAN68dwFItb.jpg"
+        },
+        {
+          "name": "Angel Gallego",
+          "photo_url": null
+        },
+        {
+          "name": "Laura Tremblay",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eRzNc4SO1Xy6GghHxHeYzd8rkrz.jpg"
+        },
+        {
+          "name": "Christina Bryson",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6669,
+        6670
+      ],
+      "video_message_id": 6670
     },
     {
       "tmdb_id": 320,

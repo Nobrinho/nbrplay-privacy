@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T08:33:32+00:00",
+  "generated_at": "2026-09-23T08:52:54+00:00",
   "channel": "-1004483833987",
-  "count": 2505,
+  "count": 2506,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -114877,6 +114877,73 @@
         722
       ],
       "video_message_id": 722
+    },
+    {
+      "tmdb_id": 74549,
+      "title": "O Segredo",
+      "original_title": "The Shunning",
+      "year": "2011",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rFxrhILvK7PESo5sZRVCVwGvIlW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/db9fdmsDKlvzaa28kTyISLJN0pa.jpg",
+      "overview": "A bela Katie Lapp sempre sentiu que algo faltava em sua simples existência Amish, até que uma mulher inglesa misteriosa vem ao condado de Lancaster procurar o bebê que deu para adoção há 19 anos atrás.",
+      "genres": [
+        "Drama",
+        "Cinema TV"
+      ],
+      "cast": [
+        {
+          "name": "Danielle Panabaker",
+          "photo_url": "https://image.tmdb.org/t/p/w185/faX0EDc44GL5ZcsEcxTOBcfWpCP.jpg"
+        },
+        {
+          "name": "Sherry Stringfield",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7lPiHUumii7Bc6P5GLd9cVQPZO8.jpg"
+        },
+        {
+          "name": "Sarah Maine",
+          "photo_url": null
+        },
+        {
+          "name": "Willie Stratford",
+          "photo_url": null
+        },
+        {
+          "name": "Jason Loughlin",
+          "photo_url": null
+        },
+        {
+          "name": "Sandra Elise Williams",
+          "photo_url": "https://image.tmdb.org/t/p/w185/e7IYQZ7p12zWbaWvB9rGTP0qBFJ.jpg"
+        },
+        {
+          "name": "Bill Oberst Jr.",
+          "photo_url": "https://image.tmdb.org/t/p/w185/m8XSyHqKGxOWXZaLpyapFfu2PJx.jpg"
+        },
+        {
+          "name": "Wyatt Lanier",
+          "photo_url": null
+        },
+        {
+          "name": "Burgess Jenkins",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tLuduvqouKKaGpSbq5npmUGCAvX.jpg"
+        },
+        {
+          "name": "Dalton Parrish",
+          "photo_url": null
+        },
+        {
+          "name": "David Topp",
+          "photo_url": null
+        },
+        {
+          "name": "Richard Fullerton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7jLHLWzDlsUadbtGr3fF8etvsz0.jpg"
+        }
+      ],
+      "message_ids": [
+        6685
+      ],
+      "video_message_id": 6685
     },
     {
       "tmdb_id": 22970,

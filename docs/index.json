@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:40:58+00:00",
+  "generated_at": "2026-09-23T02:41:50+00:00",
   "channel": "-1004483833987",
-  "count": 2471,
+  "count": 2472,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -131240,6 +131240,76 @@
         3991
       ],
       "video_message_id": 3991
+    },
+    {
+      "tmdb_id": 8697,
+      "title": "Quem Sou Eu?",
+      "original_title": "我是誰",
+      "year": "1998",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zHuyJ8kJTGJKEvN1eGbvISkMuf9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8jjd2Ui4VgtKaWGvwP8pkT91ilQ.jpg",
+      "overview": "Deixado para morrer por um agente traidor da CIA, um soldado (Chan) luta para recuperar a memória e desfazer um elo internacional de espionagem, antes que inimigos possam acionar uma poderosa e mortal fonte de energia. Com o auxílio de duas belas ajudantes, Jackie abre seu caminho através de continentes, enfrenta assassinos armados e planos sinistros em cada esquina. Para elevar os níveis de adrenalina e ação espetacular, não há nada melhor do que Jackie Chan.",
+      "genres": [
+        "Aventura",
+        "Ação",
+        "Comédia",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Jackie Chan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+        },
+        {
+          "name": "Michelle Ferre",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uQXHx9NYXmqqESkBIR2DJNhJDXX.jpg"
+        },
+        {
+          "name": "山本未來",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pfwAxX4sBGrKfgcxHeFOHbqX91I.jpg"
+        },
+        {
+          "name": "Ron Smerczak",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bLdgFZi6DRChTpfgm2BUOnAiqMb.jpg"
+        },
+        {
+          "name": "Ed Nelson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pEDqGHZ958ciZhr4MVxqJzkwkL4.jpg"
+        },
+        {
+          "name": "Ton Pompert",
+          "photo_url": null
+        },
+        {
+          "name": "Glory Simon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ecHYyXRTic3ospXG21txWtpuv0z.jpg"
+        },
+        {
+          "name": "Fred van Ditmarsch",
+          "photo_url": null
+        },
+        {
+          "name": "Fritz Krommenhoek",
+          "photo_url": null
+        },
+        {
+          "name": "Dick Rienstra",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aurxCLqqVlIasZhm3ylRvAXE8JC.jpg"
+        },
+        {
+          "name": "Rinaldo van Ommeren",
+          "photo_url": null
+        },
+        {
+          "name": "Pim Daane",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6622,
+        6623
+      ],
+      "video_message_id": 6623
     },
     {
       "tmdb_id": 27458,

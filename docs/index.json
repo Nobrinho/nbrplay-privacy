@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:54:32+00:00",
+  "generated_at": "2026-09-23T02:59:10+00:00",
   "channel": "-1004483833987",
-  "count": 2489,
+  "count": 2490,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -8574,6 +8574,76 @@
         5074
       ],
       "video_message_id": 5074
+    },
+    {
+      "tmdb_id": 11636,
+      "title": "A Hora do Acerto",
+      "original_title": "新警察故事",
+      "year": "2004",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dRo2DSWSwWGoRiXXpSReZLuP3iE.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qDcLJIeg2z1oMtAWs9qFLeJVJ6E.jpg",
+      "overview": "Para a Gangue dos 5, tudo é um videogame: matar policiais, armar emboscadas e criar requintes de crueldade. Quem se torna vítima de suas armadilhas é o inspetor de polícia Wing e todo o seu time de policiais, que são brutalmente assassinados. Após a matança, um jovem novato cheio de energia é designado para ajudá-lo, mas a Gangue dos 5 volta a agir, iniciando uma aventura cheia de ação e vingança.",
+      "genres": [
+        "Ação",
+        "Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Jackie Chan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+        },
+        {
+          "name": "謝霆鋒",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2oqpaOhEoKLdM4dePxOHJrI45n.jpg"
+        },
+        {
+          "name": "楊采妮",
+          "photo_url": "https://image.tmdb.org/t/p/w185/peIJZb7cc3RtMhZjRbHqR3u4ac3.jpg"
+        },
+        {
+          "name": "蔡卓妍",
+          "photo_url": "https://image.tmdb.org/t/p/w185/m9e8DI0DUbLiwTX4uehJZGDvNdd.jpg"
+        },
+        {
+          "name": "吳彥祖",
+          "photo_url": "https://image.tmdb.org/t/p/w185/w6fCmYDlTNYfgdXBZjZH107c9zJ.jpg"
+        },
+        {
+          "name": "安志傑",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zbH0l4V3QJdvkLKPhBr5EB5JWnB.jpg"
+        },
+        {
+          "name": "尹子維",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oMM2WF0hqqel4OJJMyUHZW9feT6.jpg"
+        },
+        {
+          "name": "葉山豪",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gGF0DgY2OJmarMWcE9jdM7zWg8g.jpg"
+        },
+        {
+          "name": "蔣怡",
+          "photo_url": "https://image.tmdb.org/t/p/w185/scvHQuyzdK8E1AgWsnN9nA8onBO.jpg"
+        },
+        {
+          "name": "王傑",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aZdVQfrXLd5z88ZaVVf3mMoTszu.jpg"
+        },
+        {
+          "name": "于荣光",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qRPhrqPLYvca6Wdv9lMxwEm7ZD6.jpg"
+        },
+        {
+          "name": "廖啟智",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jrpcUFkt1qfsN3hdCT3NkektanC.jpg"
+        }
+      ],
+      "message_ids": [
+        6656,
+        6657
+      ],
+      "video_message_id": 6657
     },
     {
       "tmdb_id": 17898,

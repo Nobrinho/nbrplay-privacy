@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T03:03:07+00:00",
+  "generated_at": "2026-09-23T03:03:22+00:00",
   "channel": "-1004483833987",
-  "count": 2497,
+  "count": 2498,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -33730,6 +33730,74 @@
         5269
       ],
       "video_message_id": 5269
+    },
+    {
+      "tmdb_id": 12485,
+      "title": "Candyman 3 - Dia dos Mortos",
+      "original_title": "Candyman: Day of the Dead",
+      "year": "1999",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tBsKrOmm9N9H17CYEgY3t5uy5aC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5QUQvk4wfJnnR5wc4T61X2wvzwA.jpg",
+      "overview": "Assassinatos em série aterrorizam um bairro de Los Angeles, e o responsável é o fantasma de um pintor morto há dois séculos conhecido como Candyman. Todos os moradores acreditam no retorno do maléfico espírito com exceção de Caroline McKeever, que descobrirá ter um segredo em comum com o homem que utiliza um gancho no lugar das mãos.",
+      "genres": [
+        "Terror",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Tony Todd",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cNUIRoewwiLi8JxyA1J2zb1z5SN.jpg"
+        },
+        {
+          "name": "Donna D'Errico",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3CZam7OEflZDs5vPRkwdipGKmx5.jpg"
+        },
+        {
+          "name": "Alexia Robinson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7cfCgEzoEuYRZAuhf7RqjuOpFI7.jpg"
+        },
+        {
+          "name": "Mike Moroff",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ani0XQFTLNI6zf1PeKEkw0WtIHD.jpg"
+        },
+        {
+          "name": "Mark Adair-Rios",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5RC49TiV8KhHeRUWIBGgR8t933O.jpg"
+        },
+        {
+          "name": "Jsu Garcia",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fXbhpqgxV5a2mnZykuwxc6ecGyF.jpg"
+        },
+        {
+          "name": "Wade Williams",
+          "photo_url": "https://image.tmdb.org/t/p/w185/s9WjsTpC8a5KfxuoJnb5I35S2SM.jpg"
+        },
+        {
+          "name": "Ernie Hudson Jr.",
+          "photo_url": null
+        },
+        {
+          "name": "Lupe Ontiveros",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bFlpBo46W4KXQVNspvPTUhZvsmQ.jpg"
+        },
+        {
+          "name": "Robert O'Reilly",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kY5lTGYwmsMPJuZj8NDz1brGypV.jpg"
+        },
+        {
+          "name": "Rena Riffel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qqqKiHKztOWulPnqvbapDRvtMEE.jpg"
+        },
+        {
+          "name": "Laura Mazur",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6671,
+        6672
+      ],
+      "video_message_id": 6672
     },
     {
       "tmdb_id": 10628,

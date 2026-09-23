@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:43:58+00:00",
+  "generated_at": "2026-09-23T02:44:29+00:00",
   "channel": "-1004483833987",
-  "count": 2477,
+  "count": 2479,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -6194,6 +6194,75 @@
         5611
       ],
       "video_message_id": 5611
+    },
+    {
+      "tmdb_id": 81342,
+      "title": "A Delicadeza do Amor",
+      "original_title": "La Délicatesse",
+      "year": "2011",
+      "poster_url": "https://image.tmdb.org/t/p/w500/flj2uNvlfldgPpccXBkQ8Nefrmm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xFADrLaDM7Lc9eJx9wI5pLqQVMB.jpg",
+      "overview": "Uma bela jovem perde o marido em um terrível acidente. Inconsolável, ela decide mergulhar de cabeça no trabalho, se dedicando de forma integral. No entanto, um beijo sem motivo aparente em um colega muda essa situação.",
+      "genres": [
+        "Drama",
+        "Comédia",
+        "Romance"
+      ],
+      "cast": [
+        {
+          "name": "Audrey Tautou",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d1HVrV8zXy1FJVptmOCkHWG8Jf2.jpg"
+        },
+        {
+          "name": "François Damiens",
+          "photo_url": "https://image.tmdb.org/t/p/w185/agHzt46feTHdFK9YdgRjmnqFUtS.jpg"
+        },
+        {
+          "name": "Mélanie Bernier",
+          "photo_url": "https://image.tmdb.org/t/p/w185/83BOjMLKFv7ygHmtyVNuNJ1oUA6.jpg"
+        },
+        {
+          "name": "Joséphine de Meaux",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kpkTzxQTcVhaANLEtqX5TKZ9Njr.jpg"
+        },
+        {
+          "name": "Pio Marmaï",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kLsPUbNFFIRSWvtwpPA6ftbgwxF.jpg"
+        },
+        {
+          "name": "Bruno Todeschini",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gDyctO2bjftYvS1nEnIu8i5KKxu.jpg"
+        },
+        {
+          "name": "Marc Citti",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2JBiL4zPNzv0b2DxqZcE4B3UaYU.jpg"
+        },
+        {
+          "name": "Alexandre Pavloff",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sFDwfiSxspoSoqZFVvbGaDtxbsp.jpg"
+        },
+        {
+          "name": "Monique Chaumette",
+          "photo_url": "https://image.tmdb.org/t/p/w185/r0CbDI2pWFGToHm2jkCTRx3JTab.jpg"
+        },
+        {
+          "name": "Vittoria Scognamiglio",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4fMlmEuNsD5QAihduimWvFSm00N.jpg"
+        },
+        {
+          "name": "Olivier Cruveiller",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pOVfqyR6yUM3o9jZcSXEoG19D9T.jpg"
+        },
+        {
+          "name": "Ariane Ascaride",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fSiJ0k87UrIYymLD7G82OXjSfTk.jpg"
+        }
+      ],
+      "message_ids": [
+        6634,
+        6635
+      ],
+      "video_message_id": 6635
     },
     {
       "tmdb_id": 1368166,
@@ -48167,6 +48236,74 @@
         3917
       ],
       "video_message_id": 3917
+    },
+    {
+      "tmdb_id": 1058619,
+      "title": "Divinity",
+      "original_title": "Divinity",
+      "year": "2023",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3Ri4XxXNCUKwlZWXgoVNftF7GIY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iu5RMfBVlU4v0drskl7sx3Gai0s.jpg",
+      "overview": "Two brothers crash into the decaying Earth to stop a capitalist from manufacturing an immortality serum, which is synthesized utilizing heinous methods and leaving an increasingly dire infertility rate in its wake.",
+      "genres": [
+        "Ficção científica",
+        "Fantasia",
+        "Terror"
+      ],
+      "cast": [
+        {
+          "name": "Stephen Dorff",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bhlM1xNzBvc8jTw42YloUKlGTCL.jpg"
+        },
+        {
+          "name": "Moisés Arias",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fc7krDmEA4VkIY4KOJjpMXGdsfg.jpg"
+        },
+        {
+          "name": "Jason Genao",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4n3nEr6XefYeNub1fUkO6sMnaPW.jpg"
+        },
+        {
+          "name": "Bella Thorne",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lgz1eArGmzrN8pDbFhRnoXxC7c4.jpg"
+        },
+        {
+          "name": "Scott Bakula",
+          "photo_url": "https://image.tmdb.org/t/p/w185/meZvcpXmcFlrJUeme4UpH4GZeNV.jpg"
+        },
+        {
+          "name": "Emily Willis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4l2exbHVH5m0HwKeXi822kpiAX1.jpg"
+        },
+        {
+          "name": "Mike O'Hearn",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fHf5V4b22aurrmUgpDY2haWOAkn.jpg"
+        },
+        {
+          "name": "Caylee Cowan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zFwy68wS4voB5DeVzIc8g6Yo5Gs.jpg"
+        },
+        {
+          "name": "Karrueche Tran",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zWvMAHDHlonbihbBQ6w9zz15Ka5.jpg"
+        },
+        {
+          "name": "Thomas Hildreth",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fR5GximTH0QK5jGhnw4JlYLy2Mh.jpg"
+        },
+        {
+          "name": "Sawyer Jones",
+          "photo_url": "https://image.tmdb.org/t/p/w185/a4lzFLV55fykCrrYhd0QQOuJScx.jpg"
+        },
+        {
+          "name": "Dean Norris Jr.",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6633
+      ],
+      "video_message_id": 6633
     },
     {
       "tmdb_id": 33217,

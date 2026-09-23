@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:38:13+00:00",
+  "generated_at": "2026-09-23T02:38:53+00:00",
   "channel": "-1004483833987",
-  "count": 2462,
+  "count": 2463,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -142450,6 +142450,75 @@
         4273
       ],
       "video_message_id": 4273
+    },
+    {
+      "tmdb_id": 11428,
+      "title": "Sonâmbulos",
+      "original_title": "Sleepwalkers",
+      "year": "1992",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zOJc9y2jqaYoyPYAdHMfpJMMFyM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2GcMfxqQdB4xuyetOYPREdnu7ey.jpg",
+      "overview": "Charles Brady e sua mãe, Mary, são os últimos de uma raça em extinção cujas necessidades não são deste mundo. Eles são sonâmbulos — capazes de sobreviver apenas alimentando-se da força vital dos inocentes, mas destinados a vagar pela Terra, evitando serem descobertos enquanto procuram sua próxima vítima. Essa busca os leva à sonolenta cidadezinha de Travis, Indiana, onde a bela adolescente Tanya Robertson está prestes a se tornar um peão involuntário em sua luta de pesadelo pela sobrevivência.",
+      "genres": [
+        "Terror",
+        "Fantasia",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Brian Krause",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jW2vwTvcJAGxbiWMXD3p065Lhs1.jpg"
+        },
+        {
+          "name": "Mädchen Amick",
+          "photo_url": "https://image.tmdb.org/t/p/w185/Af47IaCUF9BYzmGBycZiKjqIwYf.jpg"
+        },
+        {
+          "name": "Alice Krige",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jHOknQMjkIqqrm5RjtMCnJfnGXl.jpg"
+        },
+        {
+          "name": "Jim Haynie",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xOOfHlwhjY9OKeLeUCJ2oiSz8gn.jpg"
+        },
+        {
+          "name": "Cindy Pickett",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oZMzCxIIv0od25webjx8Z6foNjR.jpg"
+        },
+        {
+          "name": "Ron Perlman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nfky6J9ueey1gMdWMNU9k9YdfGP.jpg"
+        },
+        {
+          "name": "Lyman Ward",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zFBlLLgbLLDcEf7SvXlJCVPpg3V.jpg"
+        },
+        {
+          "name": "Dan Martin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/brRz4upQrDPULNuoBUG6LFVK6NO.jpg"
+        },
+        {
+          "name": "Glenn Shadix",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iWh3R2F3ejiNZxE6tiFcPF5c6G9.jpg"
+        },
+        {
+          "name": "Cynthia Garris",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uAys5RtdP3e2cAGFZ0sL7ACAbdf.jpg"
+        },
+        {
+          "name": "Monty Bane",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xxr0Dck6DwgOH2eaynLySsSmq7p.jpg"
+        },
+        {
+          "name": "John Landis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nXKdxxELgAaGecCpxAWCoj6TV3f.jpg"
+        }
+      ],
+      "message_ids": [
+        6607,
+        6608
+      ],
+      "video_message_id": 6608
     },
     {
       "tmdb_id": 882598,

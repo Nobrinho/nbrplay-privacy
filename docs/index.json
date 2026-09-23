@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T02:40:04+00:00",
+  "generated_at": "2026-09-23T02:40:22+00:00",
   "channel": "-1004483833987",
-  "count": 2468,
+  "count": 2469,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -2837,6 +2837,75 @@
         388
       ],
       "video_message_id": 388
+    },
+    {
+      "tmdb_id": 173,
+      "title": "20.000 Léguas Submarinas",
+      "original_title": "20,000 Leagues Under the Sea",
+      "year": "1954",
+      "poster_url": "https://image.tmdb.org/t/p/w500/t6IkR2Ol5vVbMIJm9r2BJmhOkW1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6kN5rkADuRtVw7kLD08JyQHZ5OB.jpg",
+      "overview": "Em 1866, o Professor Pierre M. Aronnax e seu assistente Conseil, que estão em São Francisco para pesquisar relatos de um monstro marinho gigante atacando navios no Oceano Pacífico, são convidados a participar de uma expedição para procurar tal criatura. Durante a busca, eles e o arpoador Ned Land são lançados ao mar durante um ataque, acabando por descobrir que o monstro é na verdade um submarino pilotado pelo brilhante, mas assombrado, Capitão Nemo.",
+      "genres": [
+        "Aventura",
+        "Ficção científica",
+        "Fantasia"
+      ],
+      "cast": [
+        {
+          "name": "Kirk Douglas",
+          "photo_url": "https://image.tmdb.org/t/p/w185/t94It9bPI6uBvNuuQlQipyYyURC.jpg"
+        },
+        {
+          "name": "James Mason",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vCABivuMBCT78sh5G0q8jO5rkT.jpg"
+        },
+        {
+          "name": "Paul Lukas",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uPN8hpMtacoFylb0Ez9j800bilZ.jpg"
+        },
+        {
+          "name": "Peter Lorre",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hgum7XGkYgiJ8jkFr4MC03PCnD4.jpg"
+        },
+        {
+          "name": "Robert J. Wilke",
+          "photo_url": "https://image.tmdb.org/t/p/w185/voEW3MGhV6wLjWSGO3TsWqYSMdi.jpg"
+        },
+        {
+          "name": "Ted de Corsia",
+          "photo_url": "https://image.tmdb.org/t/p/w185/o3gh6BOXOjrRDXBND1mmeif9nlo.jpg"
+        },
+        {
+          "name": "Carleton Young",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9J6Ab8fV0UDH04mMCfDeVEfgpJA.jpg"
+        },
+        {
+          "name": "J.M. Kerrigan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2AE4lldtdkQEEcRl647xlMTpvD8.jpg"
+        },
+        {
+          "name": "Percy Helton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4dGePXw3uVfMviRiyN0ufPAo7Zn.jpg"
+        },
+        {
+          "name": "Gloria Pall",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oRTLac8gYPfsZ5oS8oiNcCfo15Q.jpg"
+        },
+        {
+          "name": "Ron Nyman",
+          "photo_url": null
+        },
+        {
+          "name": "Fred Graham",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ygNqVn4LI0c08wF54e0ueOzwe4G.jpg"
+        }
+      ],
+      "message_ids": [
+        6616,
+        6617
+      ],
+      "video_message_id": 6617
     },
     {
       "tmdb_id": 1233974,

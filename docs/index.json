@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T03:59:27+00:00",
+  "generated_at": "2026-09-23T08:33:32+00:00",
   "channel": "-1004483833987",
-  "count": 2504,
+  "count": 2505,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -163309,6 +163309,69 @@
         5655
       ],
       "video_message_id": 5655
+    },
+    {
+      "tmdb_id": 88751,
+      "title": "Viagem ao Centro da Terra: O Filme",
+      "original_title": "Journey to the Center of the Earth",
+      "year": "2008",
+      "poster_url": "https://image.tmdb.org/t/p/w500/35AI4Bmo1JrEzgMOxOARRUT9Pn6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/Adlc8JMVEXOelFO6hYpIYcGBx2T.jpg",
+      "overview": "Durante uma expedição na Islândia, o professor Trevor Anderson, o seu sobrinho Sean, e sua guia Hannah ficam presos em uma caverna. Enquanto seguem sua rota de fuga mais abaixo da superfície da Terra, eles passam por lugares estranhos e encontram criaturas incríveis, incluindo dinossauros. Porém, como a atividade vulcânica à sua volta aumenta, eles percebem que precisam encontrar o caminho para fora rapidamente.",
+      "genres": [
+        "Ação",
+        "Ficção científica",
+        "Aventura",
+        "Comédia",
+        "Família"
+      ],
+      "cast": [
+        {
+          "name": "Brendan Fraser",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+        },
+        {
+          "name": "Josh Hutcherson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/f0eosZ1Fx0VBUyspq8K2f8sUSBn.jpg"
+        },
+        {
+          "name": "Anita Briem",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8M6MkLKpAXKRoYlhOH5LzBhBGFv.jpg"
+        },
+        {
+          "name": "Seth Meyers",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nCcvpJFHWYHfu5oPxTOyA1uSdqA.jpg"
+        },
+        {
+          "name": "Jean Michel Paré",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tU5YL4ekpCpOgUtGSGXkCJaTVvV.jpg"
+        },
+        {
+          "name": "Jane Wheeler",
+          "photo_url": "https://image.tmdb.org/t/p/w185/Ab3vhCpbY364Ba1bClpUsrJbYfE.jpg"
+        },
+        {
+          "name": "Frank Fontaine",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2cycxGSFPgeNyKoL9v23ed3xA0A.jpg"
+        },
+        {
+          "name": "Giancarlo Caltabiano",
+          "photo_url": "https://image.tmdb.org/t/p/w185/u5xCcmBZ6JMJngBGezkyewEpwSY.jpg"
+        },
+        {
+          "name": "Kaniehtiio Horn",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9ut7shQuUKtxgP6AAu48tBYiUbA.jpg"
+        },
+        {
+          "name": "Garth Gilker",
+          "photo_url": "https://image.tmdb.org/t/p/w185/u1Gw6q0vSE5Nfzc36dX5DvvpPys.jpg"
+        }
+      ],
+      "message_ids": [
+        6683,
+        6684
+      ],
+      "video_message_id": 6684
     },
     {
       "tmdb_id": 9872,

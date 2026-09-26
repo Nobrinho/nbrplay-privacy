@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T04:00:33+00:00",
+  "generated_at": "2026-09-26T04:00:37+00:00",
   "channel": "-1004483833987",
-  "count": 2512,
+  "count": 2513,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -57387,6 +57387,76 @@
         3301
       ],
       "video_message_id": 3301
+    },
+    {
+      "tmdb_id": 11893,
+      "title": "Expresso para o Inferno",
+      "original_title": "Runaway Train",
+      "year": "1985",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gwWRiR3WPhCB0FbCvDNCgQgWSEp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9GHsA3bt6MYW7Cpur91GeVBQKIC.jpg",
+      "overview": "Manny e Buck são dois fugitivos de um presídio de segurança máxima que fica numa região desolada do Alasca. Depois de sobreviverem à travessia pela planície coberta de neve, eles chegam a uma estação e se escondem no vagão de um trem de carga. Mas o maquinista é fulminado por um ataque cardíaco após colocar o veículo em movimento, deixando os dois presidiários desesperados a bordo do trem desgovernado e em alta velocidade.",
+      "genres": [
+        "Ação",
+        "Thriller",
+        "Drama",
+        "Aventura"
+      ],
+      "cast": [
+        {
+          "name": "Jon Voight",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bmfwKaLxUt4qck2UJgm2maWVMTR.jpg"
+        },
+        {
+          "name": "Eric Roberts",
+          "photo_url": "https://image.tmdb.org/t/p/w185/NiWg1TaUcal7xn1ZQeyA2dLd5F.jpg"
+        },
+        {
+          "name": "Rebecca De Mornay",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zC2RrrdZv4UKUtHgCfKD6bJY1Qy.jpg"
+        },
+        {
+          "name": "Kyle T. Heffner",
+          "photo_url": "https://image.tmdb.org/t/p/w185/q1gtv6XvTCyCwaop5kelxajXdSW.jpg"
+        },
+        {
+          "name": "John P. Ryan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6WV5Sv2YnFG0W1rVnxOxpLyIFUM.jpg"
+        },
+        {
+          "name": "T.K. Carter",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rqlDLtg8USZsO07VEiYQpQyjyA2.jpg"
+        },
+        {
+          "name": "Kenneth McMillan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iGRcxZOLPMCsgg06kYW1aVfxGqi.jpg"
+        },
+        {
+          "name": "Stacey Pickren",
+          "photo_url": "https://image.tmdb.org/t/p/w185/teTrtI7e7kgIgAI5CeEKtbbSxbz.jpg"
+        },
+        {
+          "name": "Walter Wyatt",
+          "photo_url": null
+        },
+        {
+          "name": "Edward Bunker",
+          "photo_url": "https://image.tmdb.org/t/p/w185/or5afkJZ6wVCL9XWOxs7tjft2El.jpg"
+        },
+        {
+          "name": "Reid Cruickshanks",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uyBspmHZLmrLKCX1KobVWUapU86.jpg"
+        },
+        {
+          "name": "Dan Wray",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6697,
+        6698
+      ],
+      "video_message_id": 6698
     },
     {
       "tmdb_id": 560491,

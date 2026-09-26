@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T00:58:16+00:00",
+  "generated_at": "2026-09-26T03:36:14+00:00",
   "channel": "-1004483833987",
-  "count": 2508,
+  "count": 2509,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -164800,6 +164800,23 @@
         4207
       ],
       "video_message_id": 4207
+    },
+    {
+      "tmdb_id": 978406,
+      "title": "Visitas Extraterrestres",
+      "original_title": "Alien Endgame",
+      "year": "2022",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mC0GjHcnrkQRVBmHEVd54dGV1m0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wQ6eCfcnp64U48nb2iVyJCjFwwE.jpg",
+      "overview": "Em 2021, um relatório do Pentágono revelou o que o governo negou por décadas: óvnis são reais e podem ser uma ameaça ao nosso planeta. Agora, ex-membros das Forças Armadas americanas quebram o silêncio sobre seus contatos.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [],
+      "message_ids": [
+        6690
+      ],
+      "video_message_id": 6690
     },
     {
       "tmdb_id": 354912,

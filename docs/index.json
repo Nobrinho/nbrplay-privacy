@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T03:40:09+00:00",
+  "generated_at": "2026-09-26T04:00:33+00:00",
   "channel": "-1004483833987",
-  "count": 2511,
+  "count": 2512,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -11915,6 +11915,76 @@
         5328
       ],
       "video_message_id": 5328
+    },
+    {
+      "tmdb_id": 407655,
+      "title": "A Nova Cinderela: Se O Sapato Encaixar",
+      "original_title": "A Cinderella Story: If the Shoe Fits",
+      "year": "2016",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ta6OU7MVKaEExDHL1dRVg9mS0hH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/adM7v1IbTXRKuE4AlQ5VyM5GQpt.jpg",
+      "overview": "Tessa (Sofia Carson) é uma jovem sonhadora que vive uma vida infeliz ao lado de sua madrasta e sua meio-irmãs. Quando a madrasta a obriga a ser sua assistente em um concurso de talentos, ela descobre uma grande oportunidade: seguir seu coração e se inscrever as audições para mostrar o seu talento. Com a ajuda de seus amigos e descobrindo um novo amor, Tessa vai viver uma história digna do clássico Cinderela.",
+      "genres": [
+        "Comédia",
+        "Família",
+        "Fantasia",
+        "Música"
+      ],
+      "cast": [
+        {
+          "name": "Sofia Carson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aQudxuIAd2UEGQD1YWsdrHH11Kc.jpg"
+        },
+        {
+          "name": "Thomas Law",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aUOcW65UXBLzFECw59Li17ilHw2.jpg"
+        },
+        {
+          "name": "Jennifer Tilly",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9vYoYF385cVq9oDO3pDpXihP4vz.jpg"
+        },
+        {
+          "name": "Jazzara Jaslyn",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7XoeGZnjuOAqlpldmIJP5wfZwYP.jpg"
+        },
+        {
+          "name": "Nicole Fortuin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6YxW3hZANTmhrESXIdFtqvfIjtq.jpg"
+        },
+        {
+          "name": "Amy Louise Wilson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lWRPibUfN53CsTHhwZqb0ih7ifu.jpg"
+        },
+        {
+          "name": "Ashley de Lange",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wcwGT7D32qBrWPu6lUDD6YtQ7VT.jpg"
+        },
+        {
+          "name": "David Ury",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7PxPrnttpomJ9FuX4iSUwapRqR3.jpg"
+        },
+        {
+          "name": "Chloe Perling",
+          "photo_url": null
+        },
+        {
+          "name": "Ally White",
+          "photo_url": null
+        },
+        {
+          "name": "Carlo McFarlane",
+          "photo_url": null
+        },
+        {
+          "name": "Sven Ruygrok",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6695,
+        6696
+      ],
+      "video_message_id": 6696
     },
     {
       "tmdb_id": 18666,

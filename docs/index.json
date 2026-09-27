@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:37:09+00:00",
+  "generated_at": "2026-09-27T07:38:29+00:00",
   "channel": "-1004483833987",
-  "count": 2864,
-  "movie_count": 2718,
+  "count": 2865,
+  "movie_count": 2719,
   "series_count": 23,
   "episode_count": 146,
   "movies": [
@@ -66351,6 +66351,75 @@
         1208
       ],
       "video_message_id": 1208
+    },
+    {
+      "tmdb_id": 10718,
+      "title": "Fúria em Duas Rodas",
+      "original_title": "Torque",
+      "year": "2004",
+      "poster_url": "https://image.tmdb.org/t/p/w500/shT762VRNg1JJGSmQRqvBz8o7B.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/giQy3vmsOIbNCMZ9EAZScSQZ3jo.jpg",
+      "overview": "Cary Ford é um motociclista que tem recebido constantes ameaças de um velho rival, por causa do assassinato de um integrante de outro grupo de motoqueiros. Temendo ser assassinado por Trey, irmão do motoqueiro morto, Cary decide fugir. Porém Trey e várias gangues partem em seu encalço.",
+      "genres": [
+        "Ação",
+        "Comédia",
+        "Crime"
+      ],
+      "cast": [
+        {
+          "name": "Martin Henderson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/avJFARzEPaB24rKQUYLinGQqilL.jpg"
+        },
+        {
+          "name": "Ice Cube",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9EghwabQ1wIQT4oN69qtPlzqGn4.jpg"
+        },
+        {
+          "name": "Monet Mazur",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3i7cXN0GoVAejogJtLSONhwqgfE.jpg"
+        },
+        {
+          "name": "Adam Scott",
+          "photo_url": "https://image.tmdb.org/t/p/w185/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg"
+        },
+        {
+          "name": "Matt Schulze",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1dPinwDyFIEN30wUQG9Mm3Emnjh.jpg"
+        },
+        {
+          "name": "Will Yun Lee",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg"
+        },
+        {
+          "name": "Jaime Pressly",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sST9yap7qQXr6Us9rg6w9GwaFDH.jpg"
+        },
+        {
+          "name": "Max Beesley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kUBoZ4cMo1i6ojBci0VMznmbn9y.jpg"
+        },
+        {
+          "name": "Christina Milian",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9aBvgyiWKk90pbCFMR1JBgwcriu.jpg"
+        },
+        {
+          "name": "Jay Hernandez",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rh4pzTAJvy0i84HYV4xZxCXuXgV.jpg"
+        },
+        {
+          "name": "Faizon Love",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dK3hUGpG3SzmqTCy6rQzyK6YaCy.jpg"
+        },
+        {
+          "name": "Fredro Starr",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2N2JWF1S353JFcbpkEHkg06b1o.jpg"
+        }
+      ],
+      "message_ids": [
+        7169,
+        7170
+      ],
+      "video_message_id": 7170
     },
     {
       "tmdb_id": 625568,

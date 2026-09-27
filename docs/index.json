@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:48:04+00:00",
+  "generated_at": "2026-09-27T04:48:21+00:00",
   "channel": "-1004483833987",
-  "count": 2624,
-  "movie_count": 2594,
+  "count": 2625,
+  "movie_count": 2595,
   "series_count": 7,
   "episode_count": 30,
   "movies": [
@@ -142667,6 +142667,23 @@
         6659
       ],
       "video_message_id": 6659
+    },
+    {
+      "tmdb_id": 476107,
+      "title": "Saturno: A Joia do Universo",
+      "original_title": "Mission Saturn",
+      "year": "2017",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8y35mjsP5g0yoEa8aq805sMJXWp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7ivX2RBtiIofyisPxN0MnFGnrnF.jpg",
+      "overview": "Com acesso ao interior do Laboratório de Propulsão a Jato da NASA, este documentário revela a engenharia da nave Cassini, a mais completa nave interplanetária já construída pela NASA e de sua sonda Hugyens que aterrissou em Encélado, a maior Lua de Saturno e um dos corpos celestes mais parecidos com a Terra no sistema solar.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [],
+      "message_ids": [
+        6845
+      ],
+      "video_message_id": 6845
     },
     {
       "tmdb_id": 1187762,

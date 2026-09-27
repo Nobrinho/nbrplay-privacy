@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T16:10:51+00:00",
+  "generated_at": "2026-09-27T16:11:02+00:00",
   "channel": "-1004483833987",
-  "count": 2936,
-  "movie_count": 2779,
+  "count": 2937,
+  "movie_count": 2780,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -9072,6 +9072,37 @@
         5034
       ],
       "video_message_id": 5034
+    },
+    {
+      "tmdb_id": 106493,
+      "title": "A História do Mundo em Duas Horas",
+      "original_title": "History of the World in Two Hours",
+      "year": "2011",
+      "poster_url": "https://image.tmdb.org/t/p/w500/czRERSSJbTMFmgNWQGEeo4kJaKc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/AbfK5jJsmvoAX93osidGeV9Nh7P.jpg",
+      "overview": "Neste especial, contaremos 14 milhões de anos de história, através de uma viagem rápida de 120 minutos, desde o início dos tempos até a atualidade, fazendo escalas para explorar os pontos mais marcantes, os momentos históricos e as conexões extraordinárias entre o passado distante e nossa vida cotidiana. Esta é uma nova forma de ver a história do universo, do planeta Terra e da humanidade: o surgimento da vida, os avanços do homem e o crescimento da civilização.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Corey Burton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wcpFwdL7m01cZoBJiUSMQVakK2G.jpg"
+        },
+        {
+          "name": "Elise Cantu",
+          "photo_url": null
+        },
+        {
+          "name": "Robert R. Cargill",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7291,
+        7292
+      ],
+      "video_message_id": 7292
     },
     {
       "tmdb_id": 520900,

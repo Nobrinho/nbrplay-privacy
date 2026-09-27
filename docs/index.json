@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:58:16+00:00",
+  "generated_at": "2026-09-27T06:58:36+00:00",
   "channel": "-1004483833987",
-  "count": 2769,
-  "movie_count": 2692,
+  "count": 2770,
+  "movie_count": 2693,
   "series_count": 18,
   "episode_count": 77,
   "movies": [
@@ -19226,6 +19226,36 @@
         1477
       ],
       "video_message_id": 1477
+    },
+    {
+      "tmdb_id": 1413805,
+      "title": "Alabama: Presos do Sistema",
+      "original_title": "The Alabama Solution",
+      "year": "2025",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f8uYfNyw56gnHC1gscmMxgYFasv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/s9oWvDQoVka7Zisi3rmJ3Lj9WA.jpg",
+      "overview": "Filmado com celulares contrabandeados, este documentário da HBO analisa um dos sistemas prisionais mais perigosos dos EUA.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Robert Earl Council",
+          "photo_url": null
+        },
+        {
+          "name": "Melvin Ray",
+          "photo_url": null
+        },
+        {
+          "name": "Kay Ivey",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7038
+      ],
+      "video_message_id": 7038
     },
     {
       "tmdb_id": 812,

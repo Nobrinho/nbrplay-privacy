@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:52:20+00:00",
+  "generated_at": "2026-09-27T19:52:24+00:00",
   "channel": "-1004483833987",
-  "count": 3039,
+  "count": 3040,
   "movie_count": 2804,
   "series_count": 35,
-  "episode_count": 235,
+  "episode_count": 236,
   "custom_count": 0,
   "movies": [
     {
@@ -185996,7 +185996,7 @@
       "title": "Câmera Crime",
       "original_title": "The Murder Tapes",
       "poster_url": "https://image.tmdb.org/t/p/w500/teMuAubTeofuSxGVGCSkFJ9Vwrv.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fquNeDYFm9KktJmGTAoPDMBAwdb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/748q63Nc3LkusSyMYsH6dw4GlHP.jpg",
       "genres": [
         "Crime",
         "Documentário"
@@ -186005,6 +186005,24 @@
         {
           "number": 6,
           "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 3522931,
+              "title": "Episódio 1",
+              "air_date": "2022-02-15",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/748q63Nc3LkusSyMYsH6dw4GlHP.jpg",
+              "cast": [
+                {
+                  "name": "Dave DeAndrea",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7427
+              ],
+              "video_message_id": 7427
+            },
             {
               "number": 2,
               "tmdb_id": 3522932,

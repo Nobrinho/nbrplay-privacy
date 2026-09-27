@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:54:28+00:00",
+  "generated_at": "2026-09-27T05:55:42+00:00",
   "channel": "-1004483833987",
-  "count": 2685,
-  "movie_count": 2641,
+  "count": 2686,
+  "movie_count": 2642,
   "series_count": 10,
   "episode_count": 44,
   "movies": [
@@ -20775,6 +20775,61 @@
         5227
       ],
       "video_message_id": 5227
+    },
+    {
+      "tmdb_id": 1229958,
+      "title": "Amante, Stalker e Mortal",
+      "original_title": "Lover, Stalker, Killer",
+      "year": "2024",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6kQodHV31ffIaE1vhEBo3as8Hon.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zMZUzJOMtdT0UyevOsq9F6qTooS.jpg",
+      "overview": "Neste documentário, um mecânico entra em um aplicativo de relacionamentos pela primeira vez e conhece uma mulher que leva sua obsessão amorosa a um nível extremo e fatal.",
+      "genres": [
+        "Crime",
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Dave Kroupa",
+          "photo_url": null
+        },
+        {
+          "name": "Liz Golyar",
+          "photo_url": null
+        },
+        {
+          "name": "Cari Farver",
+          "photo_url": null
+        },
+        {
+          "name": "Amy Flora",
+          "photo_url": null
+        },
+        {
+          "name": "Nancy Raney",
+          "photo_url": null
+        },
+        {
+          "name": "Ryan Avis",
+          "photo_url": null
+        },
+        {
+          "name": "Chris Maher",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6PE2RxHMOD0icGTtbHjswNqulI0.jpg"
+        },
+        {
+          "name": "Jessica Johnson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zjPItgZGpN3D9fY9bAV8moXtzat.jpg"
+        },
+        {
+          "name": "Katie Otten",
+          "photo_url": "https://image.tmdb.org/t/p/w185/k1M6eICvZesyf3og3KoUHv6GzuG.jpg"
+        }
+      ],
+      "message_ids": [
+        6923
+      ],
+      "video_message_id": 6923
     },
     {
       "tmdb_id": 356199,

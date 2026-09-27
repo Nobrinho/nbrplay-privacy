@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T16:56:32+00:00",
+  "generated_at": "2026-09-27T16:56:44+00:00",
   "channel": "-1004483833987",
-  "count": 2942,
-  "movie_count": 2785,
+  "count": 2943,
+  "movie_count": 2786,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -122809,6 +122809,45 @@
         653
       ],
       "video_message_id": 653
+    },
+    {
+      "tmdb_id": 1261924,
+      "title": "O Que Jennifer Fez?",
+      "original_title": "What Jennifer Did",
+      "year": "2024",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6IY8XqXmABgT50bvUfJr1rbG1Sv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/YP6FhLBnw8gwFb5RmL9i1Exm2c.jpg",
+      "overview": "Quando Jennifer Pan liga para a polícia para comunicar um atentado contra seus pais, ela acaba se tornando o foco deste fascinante caso criminal.",
+      "genres": [
+        "Documentário",
+        "Crime"
+      ],
+      "cast": [
+        {
+          "name": "Fernando Baldassini",
+          "photo_url": null
+        },
+        {
+          "name": "Samantha Chang",
+          "photo_url": null
+        },
+        {
+          "name": "Alan Cooke",
+          "photo_url": null
+        },
+        {
+          "name": "Bill Courtice",
+          "photo_url": null
+        },
+        {
+          "name": "Deborah Gladding",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7300
+      ],
+      "video_message_id": 7300
     },
     {
       "tmdb_id": 957258,

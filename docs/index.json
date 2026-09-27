@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T02:44:14+00:00",
+  "generated_at": "2026-09-27T02:45:01+00:00",
   "channel": "-1004483833987",
-  "count": 2527,
-  "movie_count": 2527,
+  "count": 2528,
+  "movie_count": 2528,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -139566,6 +139566,76 @@
         6468
       ],
       "video_message_id": 6468
+    },
+    {
+      "tmdb_id": 221731,
+      "title": "Samurai X: O Inferno de Kyoto",
+      "original_title": "るろうに剣心 京都大火編",
+      "year": "2014",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fXrRMSXndVuYQ1GSXi1sFR7pvvM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/q3jiq1PRpOGnRScbj3cur7RkZYv.jpg",
+      "overview": "O maléfico Makoto Shishio tenta derrubar o governo Meji. Kenshin Himura não tem outra escolha a não ser sacar a espada mais uma vez (apesar de ter prometido não fazê-lo) e lutar pela paz no Japão.",
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Drama",
+        "Fantasia"
+      ],
+      "cast": [
+        {
+          "name": "佐藤健",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dKWtZXEnTOedUUnDwBCZZN7w2uG.jpg"
+        },
+        {
+          "name": "武井咲",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aGg47CnHc1wgIOtwt4rbQWbWuDg.jpg"
+        },
+        {
+          "name": "Munetaka Aoki",
+          "photo_url": "https://image.tmdb.org/t/p/w185/l5GdFPBBz717Kiimyqp5ieaglVo.jpg"
+        },
+        {
+          "name": "大八木 凯斗",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nNBzUf2iIC3b71qLjFCpspKPnS9.jpg"
+        },
+        {
+          "name": "Yu Aoi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xxZuHK0Be3caq3iTe03rbfzC5xB.jpg"
+        },
+        {
+          "name": "江口洋介",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lRLNrQ4Nv4CdWxWwAUQsu3p3NGR.jpg"
+        },
+        {
+          "name": "伊勢谷友介",
+          "photo_url": "https://image.tmdb.org/t/p/w185/Api6CNgxMxoR4BBmvwptZeDfoeQ.jpg"
+        },
+        {
+          "name": "田中泯",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bXmBnejA48Da7LzLdJqTKSVPCwd.jpg"
+        },
+        {
+          "name": "土屋太鳳",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n2665l3bguzDTm5CnyP99ipU9Z0.jpg"
+        },
+        {
+          "name": "Ryunosuke Kamiki",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+        },
+        {
+          "name": "高橋メアリージュン",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mgq9uq3KzssMX6gkg34ZvwSl75M.jpg"
+        },
+        {
+          "name": "藤原竜也",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lxPjnmbu3DyoEioVPfuY75fKoQL.jpg"
+        }
+      ],
+      "message_ids": [
+        6726,
+        6727
+      ],
+      "video_message_id": 6727
     },
     {
       "tmdb_id": 64397,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:57:54+00:00",
+  "generated_at": "2026-09-27T05:58:17+00:00",
   "channel": "-1004483833987",
-  "count": 2694,
-  "movie_count": 2650,
+  "count": 2695,
+  "movie_count": 2651,
   "series_count": 10,
   "episode_count": 44,
   "movies": [
@@ -78477,6 +78477,73 @@
         5938
       ],
       "video_message_id": 5938
+    },
+    {
+      "tmdb_id": 1155525,
+      "title": "Javier Milei: A Revolução Liberal",
+      "original_title": "Javier Milei: la revolución liberal",
+      "year": "2023",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8GTqy7GXeu7jPD1VSlAsTEvjlM6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1IU8dcWRRPGzlvFpdMivuRjIAMJ.jpg",
+      "overview": "Um retrato do político libertário argentino Javier Milei.",
+      "genres": [
+        "Documentário",
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "Javier Milei",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d5e7SF09dSZVRIuUTzTrXEGxyLH.jpg"
+        },
+        {
+          "name": "Santiago Oría",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nztIkLwZj2GK9VCW2EQauMWjF3w.jpg"
+        },
+        {
+          "name": "Karina Milei",
+          "photo_url": null
+        },
+        {
+          "name": "Victoria Villarruel",
+          "photo_url": null
+        },
+        {
+          "name": "Ramiro Marra",
+          "photo_url": null
+        },
+        {
+          "name": "Lilia Lemoine",
+          "photo_url": "https://image.tmdb.org/t/p/w185/k0UdBkz4emVYCxtueMiLoEk8wcg.jpg"
+        },
+        {
+          "name": "Nicolás Emma",
+          "photo_url": null
+        },
+        {
+          "name": "Alberto Benegas Lynch Jr.",
+          "photo_url": null
+        },
+        {
+          "name": "Miguel Boggiano",
+          "photo_url": null
+        },
+        {
+          "name": "Manuel Adorni",
+          "photo_url": null
+        },
+        {
+          "name": "Bertie Benegas Lynch",
+          "photo_url": null
+        },
+        {
+          "name": "Agustín Laje",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9yIwdzt7zNxhs6SGiyrGED0JFdz.jpg"
+        }
+      ],
+      "message_ids": [
+        6934
+      ],
+      "video_message_id": 6934
     },
     {
       "tmdb_id": 147619,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:16:03+00:00",
+  "generated_at": "2026-09-27T07:19:04+00:00",
   "channel": "-1004483833987",
-  "count": 2788,
-  "movie_count": 2708,
+  "count": 2789,
+  "movie_count": 2709,
   "series_count": 19,
   "episode_count": 80,
   "movies": [
@@ -94763,6 +94763,28 @@
         6149
       ],
       "video_message_id": 6149
+    },
+    {
+      "tmdb_id": 1755506,
+      "title": "Meu Nome é Enéas: Muito Além dos 15 Segundos",
+      "original_title": "Meu Nome é Enéas: Muito Além dos 15 Segundos",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nz7DNjZ7wtsuxktqLHij6Af7x0M.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/57K9WtvxoduSJ0zp6d2ha0BvfeX.jpg",
+      "overview": "Na década de 1990, um médico que também possuía diploma em matemática e física tentou mudar o Brasil, mas foi ridicularizado pela imprensa. Com apenas 15 segundos no horário eleitoral, ele conseguiu fazer com que o país inteiro decorasse seu seu nome, Enéas Carneiro.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Enéas Carneiro",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jARePmLAVCQlXsLJoJ766ZJ3FM4.jpg"
+        }
+      ],
+      "message_ids": [
+        7064
+      ],
+      "video_message_id": 7064
     },
     {
       "tmdb_id": 8457,

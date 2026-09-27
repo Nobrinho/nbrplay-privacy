@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:22:56+00:00",
+  "generated_at": "2026-09-27T19:23:02+00:00",
   "channel": "-1004483833987",
-  "count": 2990,
+  "count": 2992,
   "movie_count": 2789,
-  "series_count": 28,
-  "episode_count": 201,
+  "series_count": 29,
+  "episode_count": 203,
   "custom_count": 0,
   "movies": [
     {
@@ -185931,6 +185931,74 @@
       ]
     },
     {
+      "tmdb_id": 323111,
+      "title": "Michael Jackson: O Veredito",
+      "original_title": "Michael Jackson: The Verdict",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5PBXN5Z9BCQaxT8QrLX3f8CSjxS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9Xk0tPIQwaes7jbv2uT9gPuhUk1.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 3,
+              "tmdb_id": 7294420,
+              "title": "Episódio 3",
+              "air_date": "2026-06-03",
+              "overview": "Apesar dos relatos incriminatórios de ex-funcionários do Neverland, testemunhas importantes viram o jogo a favor de Michael. Mas o julgamento deixa marcas profundas.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/9Xk0tPIQwaes7jbv2uT9gPuhUk1.jpg",
+              "cast": [
+                {
+                  "name": "Michael Jackson",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7n395uswvEXjVLk7784q8yxugvx.jpg"
+                },
+                {
+                  "name": "Martin Bashir",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/wKOGmi3xYgXMxMpbAiCfhtSdOdu.jpg"
+                },
+                {
+                  "name": "Ron Zonen",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/AiJ7e0HLVNgRyTPKwPMsAIPHyI8.jpg"
+                },
+                {
+                  "name": "Brian Oxman",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/8FMuRRzmEY1jDwOpc3FnaCu5BpE.jpg"
+                },
+                {
+                  "name": "Diane Dimond",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/o651e1orSdyTTxVfDRgbMj9h3qm.jpg"
+                },
+                {
+                  "name": "J. Randy Taraborrelli",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xbyoS6GdqWEi5bpfaqIre4M31HJ.jpg"
+                },
+                {
+                  "name": "Raymone Bain",
+                  "photo_url": null
+                },
+                {
+                  "name": "Louise Palanker",
+                  "photo_url": null
+                },
+                {
+                  "name": "Stacy Brown",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7356,
+                7357
+              ],
+              "video_message_id": 7357
+            }
+          ]
+        }
+      ]
+    },
+    {
       "tmdb_id": 116986,
       "title": "O Arsenal dos Espiões",
       "original_title": "Spycraft",
@@ -190077,6 +190145,40 @@
                 7355
               ],
               "video_message_id": 7355
+            },
+            {
+              "number": 4,
+              "tmdb_id": 414435,
+              "title": "Episódio 4",
+              "air_date": "1969-10-19",
+              "overview": null,
+              "backdrop_url": null,
+              "cast": [
+                {
+                  "name": "John Forsythe",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/lfhKEIepJXdIW9JVCZZ15ULYy8n.jpg"
+                },
+                {
+                  "name": "Joyce Menges",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ikTSmZgaUt07FHQxEOBcvxSrBQj.jpg"
+                },
+                {
+                  "name": "Melanie Fullerton",
+                  "photo_url": null
+                },
+                {
+                  "name": "Brenda Benet",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/a7Mh7qsXUnge67RCggAjzbNQeiW.jpg"
+                },
+                {
+                  "name": "Susan Neher",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7358
+              ],
+              "video_message_id": 7358
             },
             {
               "number": 5,

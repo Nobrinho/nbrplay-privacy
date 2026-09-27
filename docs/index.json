@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:55:17+00:00",
+  "generated_at": "2026-09-27T05:03:02+00:00",
   "channel": "-1004483833987",
-  "count": 2630,
-  "movie_count": 2600,
+  "count": 2631,
+  "movie_count": 2601,
   "series_count": 7,
   "episode_count": 30,
   "movies": [
@@ -128883,6 +128883,61 @@
         6015
       ],
       "video_message_id": 6015
+    },
+    {
+      "tmdb_id": 785976,
+      "title": "Pelé",
+      "original_title": "Pelé",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/h4NnleSubeOosvmyBRZmjq2A6iX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/scWLG4K7ogWbOpHMhE6dwedeUh7.jpg",
+      "overview": "Documentário que retrata a vida de Pelé, da busca pela perfeição à condição de mito. Abrangendo um extraordinário período de 12 anos, a produção mostra como o único jogador a vencer três Copas do Mundo passou de astro do futebol em 1958 a herói nacional em 1970, uma época radical e turbulenta no Brasil.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Pelé",
+          "photo_url": "https://image.tmdb.org/t/p/w185/e5M1Jn4ugSmWvuNPuHteDDcb40P.jpg"
+        },
+        {
+          "name": "Zagallo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ow6bmcLRqK4BDFUlPUwnSPck7gi.jpg"
+        },
+        {
+          "name": "Gilberto Gil",
+          "photo_url": "https://image.tmdb.org/t/p/w185/noyYXGTomUxdMfCI8g5VgK4ty8h.jpg"
+        },
+        {
+          "name": "Benedita da Silva",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dJ1rwGk04la10rKKl9DycbTRgKm.jpg"
+        },
+        {
+          "name": "Fernando Henrique Cardoso",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xowAhQ6vwT1QMKIoFSHalRkHNEb.jpg"
+        },
+        {
+          "name": "Amarildo",
+          "photo_url": null
+        },
+        {
+          "name": "Rivelino",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6lroRMMDIsbV1vGS2wNUIJJD2w.jpg"
+        },
+        {
+          "name": "Robert F. Kennedy",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zlunWEFq6i2C9c7dhUqyMtTxEfi.jpg"
+        },
+        {
+          "name": "Muhammad Ali",
+          "photo_url": "https://image.tmdb.org/t/p/w185/u1ck2Lfx34GvW3YOoEE1ddNVdw6.jpg"
+        }
+      ],
+      "message_ids": [
+        6852,
+        6853
+      ],
+      "video_message_id": 6853
     },
     {
       "tmdb_id": 773,

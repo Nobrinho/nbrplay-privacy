@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:04:15+00:00",
+  "generated_at": "2026-09-27T06:05:13+00:00",
   "channel": "-1004483833987",
-  "count": 2703,
+  "count": 2704,
   "movie_count": 2659,
-  "series_count": 10,
-  "episode_count": 44,
+  "series_count": 11,
+  "episode_count": 45,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -177959,6 +177959,54 @@
                 6922
               ],
               "video_message_id": 6922
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 124714,
+      "title": "O Rei da TV",
+      "original_title": "O Rei da TV",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6Wo3lnnZnKMBEAN8wk5IQL3icn6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pFE4tQgONCrVuFc1rw2KgROtW2s.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "seasons": [
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 4270156,
+              "title": "O Poder dos Palcos",
+              "air_date": "2023-03-29",
+              "overview": "Curado da doença que quase o tirou dos palcos e liderando com sucesso o SBT, Silvio Santos candidata-se à Presidência da República e precisa convencer os aliados o quanto sua candidatura é forte. Em 2010, a ligação de uma jornalista alerta Silvio sobre problemas graves na administração do Banco PanAmericano, que podem fazê-lo perder toda sua fortuna.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/pFE4tQgONCrVuFc1rw2KgROtW2s.jpg",
+              "cast": [
+                {
+                  "name": "José Rubens Chachá",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/1CvvDlkKL3W6jnuSr4OK6TJTp9K.jpg"
+                },
+                {
+                  "name": "Leona Cavalli",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/b1wi0Lkcf2UjlbWz9arhFwBKaff.jpg"
+                },
+                {
+                  "name": "Larissa Nunes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3zVdzi7SvNJbYH3mfEjm9YxkqNN.jpg"
+                },
+                {
+                  "name": "Daniela Paschoal",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/kI4Ohlg5gMr5TE8oT1XKpHYzMiZ.jpg"
+                }
+              ],
+              "message_ids": [
+                6946,
+                6947
+              ],
+              "video_message_id": 6947
             }
           ]
         }

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:01:00+00:00",
+  "generated_at": "2026-09-27T04:01:05+00:00",
   "channel": "-1004483833987",
-  "count": 2564,
+  "count": 2565,
   "movie_count": 2559,
   "series_count": 2,
-  "episode_count": 5,
+  "episode_count": 6,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -171897,6 +171897,48 @@
                 6781
               ],
               "video_message_id": 6781
+            },
+            {
+              "number": 2,
+              "tmdb_id": 3055418,
+              "title": "Uma vida de princesa",
+              "air_date": "2021-07-08",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/2tME25scQGQs6BtlZOWuFXDsJNR.jpg",
+              "cast": [
+                {
+                  "name": "Elize Matsunaga",
+                  "photo_url": null
+                },
+                {
+                  "name": "Thaís Nunes",
+                  "photo_url": null
+                },
+                {
+                  "name": "Juliana Santoro",
+                  "photo_url": null
+                },
+                {
+                  "name": "Luciano Santoro",
+                  "photo_url": null
+                },
+                {
+                  "name": "Luiz Flávio D'Urso",
+                  "photo_url": null
+                },
+                {
+                  "name": "Flávio Varella",
+                  "photo_url": null
+                },
+                {
+                  "name": "Mauro Dias",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                6782
+              ],
+              "video_message_id": 6782
             }
           ]
         }

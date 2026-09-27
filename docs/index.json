@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:31:57+00:00",
+  "generated_at": "2026-09-27T07:33:25+00:00",
   "channel": "-1004483833987",
-  "count": 2828,
+  "count": 2829,
   "movie_count": 2713,
-  "series_count": 22,
-  "episode_count": 115,
+  "series_count": 23,
+  "episode_count": 116,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -183967,6 +183967,62 @@
                 7134
               ],
               "video_message_id": 7134
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 32351,
+      "title": "Ugly Americans",
+      "original_title": "Ugly Americans",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lGwH9KWYhU16ZYyNX7mz30M0J1U.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/opyTolP4n5rbRnGcuSWZyrXGxPa.jpg",
+      "genres": [
+        "Animação",
+        "Comédia"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 765434,
+              "title": "Episódio 1",
+              "air_date": "2010-03-17",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/opyTolP4n5rbRnGcuSWZyrXGxPa.jpg",
+              "cast": [
+                {
+                  "name": "Matt Oberg",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/kMMqMnG9TGYCcgldFAFUUajoomq.jpg"
+                },
+                {
+                  "name": "Kurt Metzger",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/uEAmGPqhXwRHsr06rc6M2J5WHNx.jpg"
+                },
+                {
+                  "name": "Natasha Leggero",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/v8aWI7x8rCHm5BqidbLtMXfz55C.jpg"
+                },
+                {
+                  "name": "Michael-Leon Wooley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/tMUNtp3xPTHRBUhnOiHcU5sjBDS.jpg"
+                },
+                {
+                  "name": "Larry Murphy",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/bcKH9bGuVuoXdfhM7k0iE7kBiPQ.jpg"
+                },
+                {
+                  "name": "Randy Pearlstein",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/aM3CpPbB9jBCNmiUwe8qIFB1XDa.jpg"
+                }
+              ],
+              "message_ids": [
+                7135
+              ],
+              "video_message_id": 7135
             }
           ]
         }

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:24:14+00:00",
+  "generated_at": "2026-09-27T19:24:18+00:00",
   "channel": "-1004483833987",
-  "count": 2997,
-  "movie_count": 2790,
+  "count": 2998,
+  "movie_count": 2791,
   "series_count": 31,
   "episode_count": 207,
   "custom_count": 0,
@@ -4444,6 +4444,74 @@
         1281
       ],
       "video_message_id": 1281
+    },
+    {
+      "tmdb_id": 50183,
+      "title": "A Ascensão",
+      "original_title": "Восхождение",
+      "year": "1977",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yaIhtz5HRMbuUVti0G0lXXP4wnt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/A2IJUMyMJZCowjWq32GWqLcEmg9.jpg",
+      "overview": "Na Bielorrússia ocupada pelos nazistas, no inverno de 1942, dois partisans soviéticos – Sotnikov, jovem e debilitado, e Rybak, mais forte e experiente – saem em busca de suprimentos para sustentar o grupo. Capturados, interrogados e torturados por soldados alemães e colaboracionistas, os dois enfrentam dilemas morais e existenciais extremos, sendo levados a escolher entre a morte e a traição como única forma de sobrevivência.",
+      "genres": [
+        "Drama",
+        "Guerra"
+      ],
+      "cast": [
+        {
+          "name": "Борис Плотников",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xR5yV0x80DISvbz2N1wziLq51oc.jpg"
+        },
+        {
+          "name": "Владимир Гостюхин",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lqxdac5HsamHAgPkJXZsg4yb2qr.jpg"
+        },
+        {
+          "name": "Анатолий Солоницын",
+          "photo_url": "https://image.tmdb.org/t/p/w185/37Vb7vNMHAz1s2WI5kW4BHt0X0N.jpg"
+        },
+        {
+          "name": "Людмила Полякова",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vXwfOw8ZIXU8eKMSzxWKLWq8Wdr.jpg"
+        },
+        {
+          "name": "Виктория Гольдентул",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iPOAO1PqkH0sNg9WWZZDlpZGWJR.jpg"
+        },
+        {
+          "name": "Сергей Яковлев",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d5n1955w0W9qok6Uasy1zaKpXPB.jpg"
+        },
+        {
+          "name": "Мария Виноградова",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zKHNXkyIozwxFxfpxNHtKP3trGX.jpg"
+        },
+        {
+          "name": "Микола Сектименко",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2u3BPiHzmtWF55Ho7UJJQI8fizQ.jpg"
+        },
+        {
+          "name": "Леонид Юхин",
+          "photo_url": "https://image.tmdb.org/t/p/w185/b9MQkR0U0lm7ZmpkZSpabYsn6r2.jpg"
+        },
+        {
+          "name": "Александр Звенигорский",
+          "photo_url": null
+        },
+        {
+          "name": "Владимир Рудый",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cC49kuF0QlvtGsL0wuKKciN3thD.jpg"
+        },
+        {
+          "name": "Анатолий Чеботарёв",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7366,
+        7368
+      ],
+      "video_message_id": 7368
     },
     {
       "tmdb_id": 397243,

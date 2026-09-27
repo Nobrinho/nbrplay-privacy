@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:53:53+00:00",
+  "generated_at": "2026-09-27T04:55:17+00:00",
   "channel": "-1004483833987",
-  "count": 2629,
-  "movie_count": 2599,
+  "count": 2630,
+  "movie_count": 2600,
   "series_count": 7,
   "episode_count": 30,
   "movies": [
@@ -21305,6 +21305,70 @@
         5553
       ],
       "video_message_id": 5553
+    },
+    {
+      "tmdb_id": 892078,
+      "title": "Amy Winehouse: The Price of Fame",
+      "original_title": "Amy Winehouse: The Price of Fame",
+      "year": "2020",
+      "poster_url": "https://image.tmdb.org/t/p/w500/y9bYmIBnfRr7vHhIuz3oAWnfCBj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/r7qpQLlUUr9EZpcZ9dS6Ax3B2pA.jpg",
+      "overview": "Amy Winehouse was one of the most iconic and versatile singer-songwriters the industry had ever seen. Her sound was new, refreshing, and recognizable, and helped her win countless awards. But with the success came the fame. In just over 7 years, Amy Winehouse's health plummeted as she was faced with life-threatening addiction and constant lawsuits. Her ongoing battle with the media also led to her being a prisoner in her own home. Witness the tragic rise and fall of the music industry's most infamous icon and the price she paid for fame. This is the story of Amy Winehouse.",
+      "genres": [
+        "Documentário",
+        "Drama",
+        "Música"
+      ],
+      "cast": [
+        {
+          "name": "Amy Winehouse",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7Imqp8eqt1je4kMwJrV7WfhAZnW.jpg"
+        },
+        {
+          "name": "Amanda Simpson",
+          "photo_url": null
+        },
+        {
+          "name": "Tony Bennett",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gcbLJMKNsbhkvOobTDOT7DfdDZF.jpg"
+        },
+        {
+          "name": "Sid Griffin",
+          "photo_url": null
+        },
+        {
+          "name": "Peter Hughes",
+          "photo_url": null
+        },
+        {
+          "name": "Martel Maxwell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aglq2wQZGXSIxvDsYA31tLEDiNm.jpg"
+        },
+        {
+          "name": "Mica Paris",
+          "photo_url": "https://image.tmdb.org/t/p/w185/s58810kYrpIkOGquoF3pPEgM3EQ.jpg"
+        },
+        {
+          "name": "Mark Ronson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8GTi2eUkcirPDtYMh1GlvjACvTv.jpg"
+        },
+        {
+          "name": "Frank Sinatra",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dafKPsivu50RdChBSrgGmMRenYt.jpg"
+        },
+        {
+          "name": "Mitch Winehouse",
+          "photo_url": "https://image.tmdb.org/t/p/w185/z0xsTK60uUjYLnEM0TGLjWOe3Ah.jpg"
+        },
+        {
+          "name": "Dan Wootton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iCUqnbiiN0wbGmKbW27etDM8hev.jpg"
+        }
+      ],
+      "message_ids": [
+        6851
+      ],
+      "video_message_id": 6851
     },
     {
       "tmdb_id": 531122,

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:08:15+00:00",
+  "generated_at": "2026-09-27T19:09:28+00:00",
   "channel": "-1004483833987",
-  "count": 2972,
+  "count": 2973,
   "movie_count": 2788,
   "series_count": 28,
-  "episode_count": 184,
+  "episode_count": 185,
   "custom_count": 0,
   "movies": [
     {
@@ -189994,6 +189994,48 @@
         {
           "number": 2,
           "episodes": [
+            {
+              "number": 7,
+              "tmdb_id": 414464,
+              "title": "Episódio 7",
+              "air_date": "1970-10-27",
+              "overview": null,
+              "backdrop_url": null,
+              "cast": [
+                {
+                  "name": "John Forsythe",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/lfhKEIepJXdIW9JVCZZ15ULYy8n.jpg"
+                },
+                {
+                  "name": "Joyce Menges",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ikTSmZgaUt07FHQxEOBcvxSrBQj.jpg"
+                },
+                {
+                  "name": "Melanie Fullerton",
+                  "photo_url": null
+                },
+                {
+                  "name": "Brenda Benet",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/a7Mh7qsXUnge67RCggAjzbNQeiW.jpg"
+                },
+                {
+                  "name": "Susan Neher",
+                  "photo_url": null
+                },
+                {
+                  "name": "Walter Brennan",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7hlZ3WbT4JQxeN3fLMongUXNHma.jpg"
+                },
+                {
+                  "name": "Kay Medford",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/lKZ8tZwfHoJc7Qld9Ncvr71MEc8.jpg"
+                }
+              ],
+              "message_ids": [
+                7339
+              ],
+              "video_message_id": 7339
+            },
             {
               "number": 9,
               "tmdb_id": 414466,

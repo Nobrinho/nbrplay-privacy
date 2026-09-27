@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:21:41+00:00",
+  "generated_at": "2026-09-27T07:21:45+00:00",
   "channel": "-1004483833987",
-  "count": 2791,
+  "count": 2792,
   "movie_count": 2709,
   "series_count": 20,
-  "episode_count": 82,
+  "episode_count": 83,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -179309,6 +179309,19 @@
                 7066
               ],
               "video_message_id": 7066
+            },
+            {
+              "number": 3,
+              "tmdb_id": 7754439,
+              "title": "Episódio 3",
+              "air_date": "2026-09-01",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/3anEQE0dwXrBJQrDbNjrjyYThlF.jpg",
+              "cast": [],
+              "message_ids": [
+                7067
+              ],
+              "video_message_id": 7067
             }
           ]
         }

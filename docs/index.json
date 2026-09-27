@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:05:18+00:00",
+  "generated_at": "2026-09-27T06:05:22+00:00",
   "channel": "-1004483833987",
-  "count": 2705,
+  "count": 2706,
   "movie_count": 2659,
   "series_count": 11,
-  "episode_count": 46,
+  "episode_count": 47,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -178038,6 +178038,37 @@
                 6949
               ],
               "video_message_id": 6949
+            },
+            {
+              "number": 3,
+              "tmdb_id": 4270158,
+              "title": "O Novo SBT",
+              "air_date": "2023-03-29",
+              "overview": "Humilhado pelos acontecimentos na eleição, Silvio decide tomar o lugar da Globo e levar o SBT para o primeiro lugar no Ibope. Para isso, conta com a ajuda de um jovem marqueteiro empenhado em modernizar o canal. Em 2010, enquanto a jornalista procura pistas sobre o PanAmericano, Silvio descobre que o rombo financeiro é ainda maior do que imaginava.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/qr2dfefSEK0CzFsDW6flQdVP0UF.jpg",
+              "cast": [
+                {
+                  "name": "José Rubens Chachá",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/1CvvDlkKL3W6jnuSr4OK6TJTp9K.jpg"
+                },
+                {
+                  "name": "Leona Cavalli",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/b1wi0Lkcf2UjlbWz9arhFwBKaff.jpg"
+                },
+                {
+                  "name": "Larissa Nunes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3zVdzi7SvNJbYH3mfEjm9YxkqNN.jpg"
+                },
+                {
+                  "name": "Daniela Paschoal",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/kI4Ohlg5gMr5TE8oT1XKpHYzMiZ.jpg"
+                }
+              ],
+              "message_ids": [
+                6950,
+                6951
+              ],
+              "video_message_id": 6951
             }
           ]
         }

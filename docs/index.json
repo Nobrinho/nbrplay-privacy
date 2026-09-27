@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T02:38:52+00:00",
+  "generated_at": "2026-09-27T02:39:26+00:00",
   "channel": "-1004483833987",
-  "count": 2519,
-  "movie_count": 2519,
+  "count": 2520,
+  "movie_count": 2520,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -50522,6 +50522,75 @@
         3417
       ],
       "video_message_id": 3417
+    },
+    {
+      "tmdb_id": 1909,
+      "title": "Don Juan DeMarco",
+      "original_title": "Don Juan DeMarco",
+      "year": "1994",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6vpqHYPqvqTQHvphWWDTU0FLYAJ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nnrITCU29fAVFDngn3eEwBsECPX.jpg",
+      "overview": "Um homem de 21 anos (Johnny Depp) dizendo ser o famoso amante Don Juan vai até Nova York para encontrar seu amor perdido, mas, sentindo que não alcançará seu objetivo, tenta se matar. Porém, um psiquiatra (Marlon Brando) consegue convencê-lo a mudar de idéia e começa a tratá-lo. Entretanto, o paciente possui um romantismo irrecuperável e contagioso, que começa a influenciar o comportamento do médico.",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Johnny Depp",
+          "photo_url": "https://image.tmdb.org/t/p/w185/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg"
+        },
+        {
+          "name": "Marlon Brando",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fuTEPMsBtV1zE98ujPONbKiYDc2.jpg"
+        },
+        {
+          "name": "Faye Dunaway",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bwHJPkiDOjTslgrl0mri1Ndvx2V.jpg"
+        },
+        {
+          "name": "Géraldine Pailhas",
+          "photo_url": "https://image.tmdb.org/t/p/w185/e1xAdLDPKOO3sfMU2I52vL6pL2I.jpg"
+        },
+        {
+          "name": "Bob Dishy",
+          "photo_url": "https://image.tmdb.org/t/p/w185/VmtKTZPYNUePKeVXRTgUo7qUED.jpg"
+        },
+        {
+          "name": "Rachel Ticotin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ihLzHGkgQcpUX26K5AtfG8VuYGB.jpg"
+        },
+        {
+          "name": "Talisa Soto",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tpEGbGgASne8m1iHzncuxdSLIkX.jpg"
+        },
+        {
+          "name": "Stephen Singer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/v8kDAW4RyIafAZngZ5XXNOuPRKN.jpg"
+        },
+        {
+          "name": "Jo Champa",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rM1nctMAsmyyKbffIYM8elMss9F.jpg"
+        },
+        {
+          "name": "Marita Geraghty",
+          "photo_url": "https://image.tmdb.org/t/p/w185/trncDdjDlN81VrMNPr71ZZVZFCR.jpg"
+        },
+        {
+          "name": "Richard C. Sarafian",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5r4AFht3ecnl4V2w8KvfmV7A4yB.jpg"
+        },
+        {
+          "name": "Tresa Hughes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eP7fx7fvh0WtOd6Zq1BKbKnsnXG.jpg"
+        }
+      ],
+      "message_ids": [
+        6711,
+        6712
+      ],
+      "video_message_id": 6712
     },
     {
       "tmdb_id": 141,

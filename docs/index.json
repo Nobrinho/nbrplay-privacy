@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:14:05+00:00",
+  "generated_at": "2026-09-27T06:16:10+00:00",
   "channel": "-1004483833987",
-  "count": 2720,
-  "movie_count": 2664,
+  "count": 2721,
+  "movie_count": 2665,
   "series_count": 12,
   "episode_count": 56,
   "movies": [
@@ -55342,6 +55342,32 @@
         6314
       ],
       "video_message_id": 6314
+    },
+    {
+      "tmdb_id": 60142,
+      "title": "Edifício Master",
+      "original_title": "Edifício Master",
+      "year": "2002",
+      "poster_url": "https://image.tmdb.org/t/p/w500/n3Nf5XD3PjoQoX0z41bNBwOC8Kx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4VVw78ytllyGkc8C7yjNATGq56i.jpg",
+      "overview": "O grande documentarista Eduardo Coutinho usa como mote um enorme edifício em Copacabana, como se fosse falar ou fazer os moradores falarem sobre o dia-a-dia do lugar mas, de forma espontânea, recebe e nos passa histórias de vidas, segredos e confidências, deixando mais claro ainda o tamanho da diversidade de rumos que tomamos neste mundo, separados apenas por umas paredes.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Fernando José",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6bSK9YdH9psG8bI3vRe8n1tMZMH.jpg"
+        },
+        {
+          "name": "Eduardo Coutinho",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rlBQPHJT3l5mRjeglgAOYzRgdU7.jpg"
+        }
+      ],
+      "message_ids": [
+        6976
+      ],
+      "video_message_id": 6976
     },
     {
       "tmdb_id": 24684,

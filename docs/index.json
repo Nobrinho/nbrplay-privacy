@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:32:12+00:00",
+  "generated_at": "2026-09-27T04:33:42+00:00",
   "channel": "-1004483833987",
-  "count": 2618,
-  "movie_count": 2588,
+  "count": 2619,
+  "movie_count": 2589,
   "series_count": 7,
   "episode_count": 30,
   "movies": [
@@ -144811,6 +144811,45 @@
         5052
       ],
       "video_message_id": 5052
+    },
+    {
+      "tmdb_id": 869250,
+      "title": "Ser James Bond",
+      "original_title": "Being James Bond",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ootlps6nqZgVVqrRl5GEIHJDTmj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8Bcm0qBnS6yjwTFad8eI6thzRub.jpg",
+      "overview": "Daniel Craig reflete abertamente sobre sua aventura de 15 anos como James Bond. Incluindo imagens de arquivo nunca antes vistas de Casino Royale ao 25º filme, No Time To Die, Craig compartilha suas memórias pessoais em uma conversa com os produtores de 007, Michael G. Wilson e Barbara Broccoli.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Daniel Craig",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg"
+        },
+        {
+          "name": "Michael G. Wilson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zcf7J90ubDxrm9D113D5b59KWAp.jpg"
+        },
+        {
+          "name": "Barbara Broccoli",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AhZYRh7lSJj4vXMcHHRzYDe21JA.jpg"
+        },
+        {
+          "name": "Harrison Ford",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pjBMJVPpcZK23Vt1nzr1zEBTWrP.jpg"
+        },
+        {
+          "name": "Rami Malek",
+          "photo_url": "https://image.tmdb.org/t/p/w185/drLMI978uj3Rpc1TcIJarKf3Jfi.jpg"
+        }
+      ],
+      "message_ids": [
+        6836,
+        6837
+      ],
+      "video_message_id": 6837
     },
     {
       "tmdb_id": 9035,

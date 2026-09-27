@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:35:45+00:00",
+  "generated_at": "2026-09-27T07:36:05+00:00",
   "channel": "-1004483833987",
-  "count": 2860,
-  "movie_count": 2714,
+  "count": 2861,
+  "movie_count": 2715,
   "series_count": 23,
   "episode_count": 146,
   "movies": [
@@ -90471,6 +90471,74 @@
         1729
       ],
       "video_message_id": 1729
+    },
+    {
+      "tmdb_id": 11282,
+      "title": "Madrugada Muito Louca",
+      "original_title": "Harold & Kumar Go to White Castle",
+      "year": "2004",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uaDQ9iqXDHnA1dlF6CLQu83OOnq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dzloVSv0FGM8fs4L5w9yV60p0PT.jpg",
+      "overview": "Harold e Kumar, obcecados com o hambúrguer da White Castle que viram na TV, partem tarde da noite para Nova Jersey a fim de comprá-lo. Mas tudo sai errado, e eles fogem da polícia e de um ladrão de carros antes de saborear o cobiçado sanduíche.",
+      "genres": [
+        "Comédia",
+        "Aventura"
+      ],
+      "cast": [
+        {
+          "name": "John Cho",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4Lar4uy8gk78cEocq6ERPRFWt3e.jpg"
+        },
+        {
+          "name": "Kal Penn",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yICM1JcxKbEpaqTUreY0yFMIc8W.jpg"
+        },
+        {
+          "name": "Paula Garcés",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ukwCVnfSp5qYGbdXHVeCwOXiZyu.jpg"
+        },
+        {
+          "name": "Neil Patrick Harris",
+          "photo_url": "https://image.tmdb.org/t/p/w185/r2twLWLwDpKJ7JyhWsD1YsL7rJV.jpg"
+        },
+        {
+          "name": "David Krumholtz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2vaimzfyPQVxZGHbQS5M3z3tZw0.jpg"
+        },
+        {
+          "name": "Eddie Kaye Thomas",
+          "photo_url": "https://image.tmdb.org/t/p/w185/k8f8MK8KSOyLozl9pQGaSpYMbpM.jpg"
+        },
+        {
+          "name": "Christopher Meloni",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nHlFFbRTh85vkohBBtRQjYnWEtb.jpg"
+        },
+        {
+          "name": "Malin Akerman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/u38qRcCAiO3SZdFKJKx3fncDyef.jpg"
+        },
+        {
+          "name": "Ryan Reynolds",
+          "photo_url": "https://image.tmdb.org/t/p/w185/trzgptffGvAlAT6MEu01fz47cLW.jpg"
+        },
+        {
+          "name": "Fred Willard",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AaHxpkee9nQfBpQeDyJLoPNtYR6.jpg"
+        },
+        {
+          "name": "Kate Kelton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qd0xgcWWagR8P7dRiCdTJETwNbt.jpg"
+        },
+        {
+          "name": "Brooke D'Orsay",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8lBeEbyKz8KWz6XDdbymRpKoM9N.jpg"
+        }
+      ],
+      "message_ids": [
+        7167,
+        7168
+      ],
+      "video_message_id": 7168
     },
     {
       "tmdb_id": 522627,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:42:52+00:00",
+  "generated_at": "2026-09-27T07:43:40+00:00",
   "channel": "-1004483833987",
-  "count": 2881,
-  "movie_count": 2735,
+  "count": 2882,
+  "movie_count": 2736,
   "series_count": 23,
   "episode_count": 146,
   "movies": [
@@ -99351,6 +99351,75 @@
         5852
       ],
       "video_message_id": 5852
+    },
+    {
+      "tmdb_id": 10622,
+      "title": "Mr. Nice Guy: Bom de Briga",
+      "original_title": "一個好人",
+      "year": "1997",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lRCQ9zm7SDQc1zWCjurmeWLNuEn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ntcAJpibO5hkp74BKBlzzh5MGjY.jpg",
+      "overview": "Melbourne, Austrália. A jornalista Diana (Gabrielle Fitzpatrick) tem uma fita que contém uma prova contra o traficante Giancarlo (Richard Norton), o que a torna presa fácil para os bandidos. Ela pede ajuda ao simpático cozinheiro Jackie (Jackie Chan), mestre em artes marciais, que aceita proteger a repórter. Acidentalmente, a fita VHS se confunde com alguns filmes infantis no carro de Jackie e agora nem ele, nem Diana, nem os bandidos sabem onde o vídeo está. Quando a máfia sequestra a namorada de Jackie, o cozinheiro do kung fu irá mostrar para Giancarlo que a brincadeira acabou.",
+      "genres": [
+        "Crime",
+        "Ação",
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Jackie Chan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+        },
+        {
+          "name": "Richard Norton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fojWPlb36d63UMzhFL8jOzGbfnP.jpg"
+        },
+        {
+          "name": "李亭頤",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4SyU6luY0TmQ1Yaln5NKmAQOms8.jpg"
+        },
+        {
+          "name": "Karen McLymont",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AoRXFWxaus7iVd9ko7u1UNfJ0vY.jpg"
+        },
+        {
+          "name": "Gabrielle Fitzpatrick",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rnaR1kCmP9ZLFiKcWoxpOG7BePG.jpg"
+        },
+        {
+          "name": "Vince Poletto",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gPuLngRZwyEERYvLdcHJ02wvU3Q.jpg"
+        },
+        {
+          "name": "Barry Otto",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mj26EPgD1Yi5VA9N1T5Jpln57Ju.jpg"
+        },
+        {
+          "name": "洪金寶",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AsB9uRDQWdIbFGnkICEl8I2gDWn.jpg"
+        },
+        {
+          "name": "周華健",
+          "photo_url": "https://image.tmdb.org/t/p/w185/czuEFuQeqXryf4RapQgi6OwRDEj.jpg"
+        },
+        {
+          "name": "高麗虹",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eFSl7i8h2tGvYj7NJT5AgXPFolI.jpg"
+        },
+        {
+          "name": "Peter Houghton",
+          "photo_url": null
+        },
+        {
+          "name": "Peter Lindsay",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7202,
+        7203
+      ],
+      "video_message_id": 7203
     },
     {
       "tmdb_id": 1423642,

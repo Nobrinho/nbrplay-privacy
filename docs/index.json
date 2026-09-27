@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:40:58+00:00",
+  "generated_at": "2026-09-27T07:41:10+00:00",
   "channel": "-1004483833987",
-  "count": 2875,
-  "movie_count": 2729,
+  "count": 2876,
+  "movie_count": 2730,
   "series_count": 23,
   "episode_count": 146,
   "movies": [
@@ -116341,6 +116341,74 @@
         7190
       ],
       "video_message_id": 7190
+    },
+    {
+      "tmdb_id": 27767,
+      "title": "O Massacre 3",
+      "original_title": "Slumber Party Massacre III",
+      "year": "1990",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oFYbpbXTPdyODIqf0e0G4aa905J.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8IArH7qxzFMYXSwH3piefaix2CM.jpg",
+      "overview": "Depois de um dia inteiro jogando vôlei na praia, uma garota aproveita que seus pais estão fora para promover uma festa do pijama para os amigos. Mas um assassino mascarado, armado com uma furadeira, aparece para estragar os planos.",
+      "genres": [
+        "Terror",
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Keely Christian",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xyUnGePRBtnnOBlcCmDs2Kxq5AI.jpg"
+        },
+        {
+          "name": "Brittain Frye",
+          "photo_url": null
+        },
+        {
+          "name": "Michael Harris",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3Hyl1L6mbqFHxdBseCWudF9x0uG.jpg"
+        },
+        {
+          "name": "David Greenlee",
+          "photo_url": null
+        },
+        {
+          "name": "Brandi Burkett",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tIMY9YYawuLECCRhA0SOiyibkuq.jpg"
+        },
+        {
+          "name": "Hope Marie Carlton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dSGy125O9kMnV8jDIBatbyJ3UDW.jpg"
+        },
+        {
+          "name": "Maria Claire",
+          "photo_url": null
+        },
+        {
+          "name": "Maria Ford",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yLYZv83pFj50tHXhGK41KvsyuZR.jpg"
+        },
+        {
+          "name": "Garon Grigsby",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1ut7i6FpCsbae0nBRPm0t4Pl1Xl.jpg"
+        },
+        {
+          "name": "Devon Jenkin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/j1UthwqMpdjEhiQCp1AuowNStG9.jpg"
+        },
+        {
+          "name": "David Kriegel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ZaFsIbsB9Tt9ReoB7vLPNzBeaX.jpg"
+        },
+        {
+          "name": "David Lawrence",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7191,
+        7192
+      ],
+      "video_message_id": 7192
     },
     {
       "tmdb_id": 30497,

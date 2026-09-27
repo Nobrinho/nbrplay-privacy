@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T16:08:35+00:00",
+  "generated_at": "2026-09-27T16:09:15+00:00",
   "channel": "-1004483833987",
-  "count": 2931,
-  "movie_count": 2774,
+  "count": 2932,
+  "movie_count": 2775,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -47391,6 +47391,62 @@
         6818
       ],
       "video_message_id": 6818
+    },
+    {
+      "tmdb_id": 213849,
+      "title": "Cristóvão Colombo: A Última Viagem",
+      "original_title": "Columbus The Lost Voyage",
+      "year": "2007",
+      "poster_url": "https://image.tmdb.org/t/p/w500/z1c7J4TZxPbs3IfKsR1DKXKDGhZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3IT6PEcgbVigyNLFgbPD2SOr22D.jpg",
+      "overview": "O historiador, explorador e escritor Martin Dugard revela os triunfos, desastres e traições ocorridos durante a última viagem de Cristóvão Colombo",
+      "genres": [
+        "Documentário",
+        "Drama",
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "Олег Фёдоров",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AioE82aHGgUQeVppJDqFdFfvc4M.jpg"
+        },
+        {
+          "name": "Alvaro Martin",
+          "photo_url": null
+        },
+        {
+          "name": "David Sant",
+          "photo_url": null
+        },
+        {
+          "name": "Javier Mazan",
+          "photo_url": null
+        },
+        {
+          "name": "Ivan de Lucas",
+          "photo_url": null
+        },
+        {
+          "name": "Carlos J. de la Torre",
+          "photo_url": null
+        },
+        {
+          "name": "Edward Herrmann",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ov33sPPuTzw21KYwAkkAB8AmjIV.jpg"
+        },
+        {
+          "name": "Martin Dugard",
+          "photo_url": null
+        },
+        {
+          "name": "Mark Horton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/z9bjbOYaWMoFuyVoAnj4jbuM4q4.jpg"
+        }
+      ],
+      "message_ids": [
+        7285
+      ],
+      "video_message_id": 7285
     },
     {
       "tmdb_id": 625450,

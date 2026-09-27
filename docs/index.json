@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:29:09+00:00",
+  "generated_at": "2026-09-27T05:32:07+00:00",
   "channel": "-1004483833987",
-  "count": 2657,
-  "movie_count": 2624,
+  "count": 2658,
+  "movie_count": 2625,
   "series_count": 8,
   "episode_count": 33,
   "movies": [
@@ -57400,6 +57400,29 @@
         458
       ],
       "video_message_id": 458
+    },
+    {
+      "tmdb_id": 1045533,
+      "title": "Escola Base: Um Repórter Enfrenta o Passado",
+      "original_title": "Escola Base: Um Repórter Enfrenta o Passado",
+      "year": "2022",
+      "poster_url": "https://image.tmdb.org/t/p/w500/arEmnjAJoOVAXUwz6DBBao21On1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/A7tsUE7FQgJINc9mXjYFiTsjyo.jpg",
+      "overview": "Valmir Salaro foi o primeiro repórter a noticiar uma acusação de abusos de crianças de 4 anos. Os denunciados eram inocentes e o caso virou escândalo nacional. 28 anos depois, ele reencontra os acusados.",
+      "genres": [
+        "Documentário",
+        "Crime"
+      ],
+      "cast": [
+        {
+          "name": "Valmir Salaro",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6886
+      ],
+      "video_message_id": 6886
     },
     {
       "tmdb_id": 440918,

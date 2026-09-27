@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:05:40+00:00",
+  "generated_at": "2026-09-27T06:05:45+00:00",
   "channel": "-1004483833987",
-  "count": 2707,
+  "count": 2708,
   "movie_count": 2659,
   "series_count": 11,
-  "episode_count": 48,
+  "episode_count": 49,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -178100,6 +178100,37 @@
                 6953
               ],
               "video_message_id": 6953
+            },
+            {
+              "number": 6,
+              "tmdb_id": 4270161,
+              "title": "Tudo pelo Ibope",
+              "air_date": "2023-03-29",
+              "overview": "A chegada do Ibope em tempo real muda as regras da disputa entre emissoras. A guerra de audiência entre SBT e Globo cria um novo patamar de baixaria na televisão brasileira e deixa o SBT próximo do primeiro lugar.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/zVMs4YivZ3FkoJA4qM0IaSbfNCZ.jpg",
+              "cast": [
+                {
+                  "name": "José Rubens Chachá",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/1CvvDlkKL3W6jnuSr4OK6TJTp9K.jpg"
+                },
+                {
+                  "name": "Leona Cavalli",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/b1wi0Lkcf2UjlbWz9arhFwBKaff.jpg"
+                },
+                {
+                  "name": "Larissa Nunes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3zVdzi7SvNJbYH3mfEjm9YxkqNN.jpg"
+                },
+                {
+                  "name": "Daniela Paschoal",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/kI4Ohlg5gMr5TE8oT1XKpHYzMiZ.jpg"
+                }
+              ],
+              "message_ids": [
+                6954,
+                6955
+              ],
+              "video_message_id": 6955
             }
           ]
         }

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:20:43+00:00",
+  "generated_at": "2026-09-27T04:21:12+00:00",
   "channel": "-1004483833987",
-  "count": 2586,
+  "count": 2587,
   "movie_count": 2578,
-  "series_count": 2,
-  "episode_count": 8,
+  "series_count": 3,
+  "episode_count": 9,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -172836,6 +172836,37 @@
                 6784
               ],
               "video_message_id": 6784
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 117220,
+      "title": "Mercado Negro",
+      "original_title": "Mercado Negro",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1mR4KoVf1n4OA89x3Odcuz67U4G.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dKqm3uzOa5hJTzhTafQhF48Y6Lz.jpg",
+      "genres": [
+        "Documentário",
+        "Crime"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 2667463,
+              "title": "Episódio 1",
+              "air_date": "2020-12-01",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/dKqm3uzOa5hJTzhTafQhF48Y6Lz.jpg",
+              "cast": [],
+              "message_ids": [
+                6805
+              ],
+              "video_message_id": 6805
             }
           ]
         }

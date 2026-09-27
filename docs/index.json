@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:23:06+00:00",
+  "generated_at": "2026-09-27T19:23:11+00:00",
   "channel": "-1004483833987",
-  "count": 2993,
+  "count": 2994,
   "movie_count": 2789,
-  "series_count": 29,
-  "episode_count": 204,
+  "series_count": 30,
+  "episode_count": 205,
   "custom_count": 0,
   "movies": [
     {
@@ -185493,6 +185493,41 @@
                 6986
               ],
               "video_message_id": 6986
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 302,
+      "title": "Jim Rome Is Burning",
+      "original_title": "Jim Rome Is Burning",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6DPIT0Qpm5AHCmxCj4loMQP1ZuX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8ddXIzw60jRMUDnGmWWbMU7TAuF.jpg",
+      "genres": [
+        "Talk"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 3949745,
+              "title": "Episódio 1",
+              "air_date": "2003-05-06",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/8ddXIzw60jRMUDnGmWWbMU7TAuF.jpg",
+              "cast": [
+                {
+                  "name": "Jim Rome",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/sjOC4elKT66hjd4kUXTpBNmhfoO.jpg"
+                }
+              ],
+              "message_ids": [
+                7360
+              ],
+              "video_message_id": 7360
             }
           ]
         }

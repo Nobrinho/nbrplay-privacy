@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:36:47+00:00",
+  "generated_at": "2026-09-27T19:37:32+00:00",
   "channel": "-1004483833987",
-  "count": 3022,
+  "count": 3023,
   "movie_count": 2802,
-  "series_count": 32,
-  "episode_count": 220,
+  "series_count": 33,
+  "episode_count": 221,
   "custom_count": 0,
   "movies": [
     {
@@ -193793,6 +193793,36 @@
                 6833
               ],
               "video_message_id": 6833
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 331061,
+      "title": "Voepass 2283: A Queda",
+      "original_title": "Voepass 2283: A Queda",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kyhA75vhZ5OtWtLWSgNQloHdY9L.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lNd5nihm4A5ftdM3iWlv83TaLl3.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 3,
+              "tmdb_id": 7655249,
+              "title": "Crime?",
+              "air_date": "2026-08-07",
+              "overview": "Dois anos após a tragédia, as investigações da Aeronáutica e da Polícia Federal se aproximam do fim, com descobertas sobre a companhia aérea e os últimos momentos do voo.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/lNd5nihm4A5ftdM3iWlv83TaLl3.jpg",
+              "cast": [],
+              "message_ids": [
+                7406
+              ],
+              "video_message_id": 7406
             }
           ]
         }

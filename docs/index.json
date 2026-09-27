@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:47:11+00:00",
+  "generated_at": "2026-09-27T07:47:22+00:00",
   "channel": "-1004483833987",
-  "count": 2893,
-  "movie_count": 2736,
+  "count": 2894,
+  "movie_count": 2737,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -115466,6 +115466,75 @@
         6072
       ],
       "video_message_id": 6072
+    },
+    {
+      "tmdb_id": 8867,
+      "title": "O Justiceiro",
+      "original_title": "The Punisher",
+      "year": "1989",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ymYOIoWu4bfHmU6XYInvpMDAevw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tFmrdnfXM0p6ihMTFpptYOKEfSl.jpg",
+      "overview": "A polícia está em polvorosa devido a uma série de 125 assassinatos realizados. Decidido a acabar com a onda de crimes, Frank Castle toma a dianteira e passa a investigar o caso. Castle é um ex-policial que está em busca de vingança desde que sua esposa e filho foram assassinados, tendo a partir de então se dedicado a combater o crime nas ruas por conta própria. Quando Castle acredita estar com a organização quase destruída, ele passa a enfrentar um novo grupo criminoso, que pretende ocupar o lugar vago.",
+      "genres": [
+        "Ação",
+        "Crime",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Dolph Lundgren",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fB1tOws6Gav0xE8LYlELEb82hJt.jpg"
+        },
+        {
+          "name": "Louis Gossett Jr.",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gNdTmckVFDz5M9k9zMiwCFb2cl9.jpg"
+        },
+        {
+          "name": "Jeroen Krabbé",
+          "photo_url": "https://image.tmdb.org/t/p/w185/r26lZKUeLIaUt8DMotm4mdc4EaY.jpg"
+        },
+        {
+          "name": "Kim Miyori",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9ObH7PKyl3DsnWABHUF1rZUCOS8.jpg"
+        },
+        {
+          "name": "Bryan Marshall",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7g6rBCW7N49J9wwuFxoUr3KSeFk.jpg"
+        },
+        {
+          "name": "Nancy Everhard",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nnusgoUuzDD4vXfl2wmg6I7ebeF.jpg"
+        },
+        {
+          "name": "Barry Otto",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mj26EPgD1Yi5VA9N1T5Jpln57Ju.jpg"
+        },
+        {
+          "name": "Brian Rooney",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bOcNWQJKXwzdlvW3BwLwu7cMWUP.jpg"
+        },
+        {
+          "name": "Zoshka Mizak",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wjoo0zv3jf4OiHeCP9wSJ1s7y4u.jpg"
+        },
+        {
+          "name": "八巻建弐",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dkf8woUjDnOb9m9Q3e0OxJEqUgl.jpg"
+        },
+        {
+          "name": "Hirofumi Kanayama",
+          "photo_url": null
+        },
+        {
+          "name": "Larry McCormick",
+          "photo_url": "https://image.tmdb.org/t/p/w185/12mmY3wVA0v7wlifrYhTXQho7l9.jpg"
+        }
+      ],
+      "message_ids": [
+        7226,
+        7227
+      ],
+      "video_message_id": 7227
     },
     {
       "tmdb_id": 13056,

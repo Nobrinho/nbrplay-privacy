@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:53:32+00:00",
+  "generated_at": "2026-09-27T06:54:29+00:00",
   "channel": "-1004483833987",
-  "count": 2765,
-  "movie_count": 2688,
+  "count": 2766,
+  "movie_count": 2689,
   "series_count": 18,
   "episode_count": 77,
   "movies": [
@@ -150011,6 +150011,73 @@
         5936
       ],
       "video_message_id": 5936
+    },
+    {
+      "tmdb_id": 1516391,
+      "title": "Seymour Hersh: Em Busca da Verdade",
+      "original_title": "Cover-Up",
+      "year": "2025",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jFg7WAHUX8l9PyG2CXvHi92qmeP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/e0z1lFuOLuQibEKtodWbUdI9jL5.jpg",
+      "overview": "Ele dedicou a carreira a descobrir as verdades que os poderosos queriam esconder. De My Lai a Abu Ghraib, conheça melhor o trabalho de Seymour Hersh.",
+      "genres": [
+        "Documentário",
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "Seymour Hersh",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8ndZ1dRwDi5SrbgMt7k6FSAl2fl.jpg"
+        },
+        {
+          "name": "Jeff Gerth",
+          "photo_url": null
+        },
+        {
+          "name": "David Obst",
+          "photo_url": null
+        },
+        {
+          "name": "Bob Woodward",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5hf9YjElQC9i3JuEIbHcqTFaNTm.jpg"
+        },
+        {
+          "name": "Max Friedman",
+          "photo_url": null
+        },
+        {
+          "name": "Amy Davidson Sorkin",
+          "photo_url": null
+        },
+        {
+          "name": "Antonio Taguba",
+          "photo_url": null
+        },
+        {
+          "name": "Camille Lo Sapio",
+          "photo_url": null
+        },
+        {
+          "name": "Isador Hersh",
+          "photo_url": null
+        },
+        {
+          "name": "Dorothy Hersh",
+          "photo_url": null
+        },
+        {
+          "name": "Alan Hersh",
+          "photo_url": null
+        },
+        {
+          "name": "Elizabeth Klein Hersh",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7033
+      ],
+      "video_message_id": 7033
     },
     {
       "tmdb_id": 1187619,

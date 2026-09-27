@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T15:48:31+00:00",
+  "generated_at": "2026-09-27T15:52:51+00:00",
   "channel": "-1004483833987",
-  "count": 2925,
-  "movie_count": 2768,
+  "count": 2926,
+  "movie_count": 2769,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -42128,6 +42128,36 @@
         4176
       ],
       "video_message_id": 4176
+    },
+    {
+      "tmdb_id": 418900,
+      "title": "Como Nasceu Nosso Planeta",
+      "original_title": "How the Earth Was Made",
+      "year": "2007",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wYnuPDGBqgw8wQ7Os8SpUFLsOw4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4ghrVNlFlLxjiaFJEKp4xbsGKmJ.jpg",
+      "overview": "Um breve relato da progressão geológica da Terra, desde sua criação há 4,6 bilhões de anos até as previsões dos cientistas sobre sua morte de mais de 2,5 bilhões de anos no futuro.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Geoffrey Boulton",
+          "photo_url": null
+        },
+        {
+          "name": "Gary L. Stevens",
+          "photo_url": null
+        },
+        {
+          "name": "Dan Durda",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7276
+      ],
+      "video_message_id": 7276
     },
     {
       "tmdb_id": 188538,

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T18:55:12+00:00",
+  "generated_at": "2026-09-27T18:55:22+00:00",
   "channel": "-1004483833987",
-  "count": 2966,
+  "count": 2968,
   "movie_count": 2786,
   "series_count": 27,
-  "episode_count": 180,
+  "episode_count": 182,
   "custom_count": 0,
   "movies": [
     {
@@ -183717,7 +183717,7 @@
       "title": "Blade Runner: Black Lotus",
       "original_title": "Blade Runner: Black Lotus",
       "poster_url": "https://image.tmdb.org/t/p/w500/4e0bY3weyKiVe58kMS34ddOdc4Q.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kmVgxphFQafkwTg5HD4pXHOglmC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/idDlEjiDmPTWmKMv7ks58zAnbPc.jpg",
       "genres": [
         "Animação",
         "Sci-Fi & Fantasy",
@@ -183727,6 +183727,68 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 8,
+              "tmdb_id": 3396150,
+              "title": "O Relatório da Davis",
+              "air_date": "2022-01-02",
+              "overview": "Em seu relatório, Davis recapitula todos os acontecimentos do caso Lótus Negra até então.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/idDlEjiDmPTWmKMv7ks58zAnbPc.jpg",
+              "cast": [
+                {
+                  "name": "Jessica Henwick",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hRrEqDIWlov1FvYRmBN2vLaAxyl.jpg"
+                },
+                {
+                  "name": "Will Yun Lee",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg"
+                },
+                {
+                  "name": "Wes Bentley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+                },
+                {
+                  "name": "Samira Wiley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/m45A0hYcpnGckwxqs7j0I6Sp2Dj.jpg"
+                }
+              ],
+              "message_ids": [
+                7335,
+                7336
+              ],
+              "video_message_id": 7336
+            },
+            {
+              "number": 9,
+              "tmdb_id": 3396151,
+              "title": "Livre Arbítrio",
+              "air_date": "2022-01-09",
+              "overview": "Elle confronta J por seu passado de Blade Runner. Niander Wallace Senior sabe que é o próximo alvo da replicante e monta um aparato de proteção gigantesco para deter seu avanço.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/fke1VzwpVMrlGJAdhnZ8DWslN86.jpg",
+              "cast": [
+                {
+                  "name": "Jessica Henwick",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hRrEqDIWlov1FvYRmBN2vLaAxyl.jpg"
+                },
+                {
+                  "name": "Will Yun Lee",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg"
+                },
+                {
+                  "name": "Wes Bentley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+                },
+                {
+                  "name": "Samira Wiley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/m45A0hYcpnGckwxqs7j0I6Sp2Dj.jpg"
+                }
+              ],
+              "message_ids": [
+                7333,
+                7334
+              ],
+              "video_message_id": 7334
+            },
             {
               "number": 10,
               "tmdb_id": 3396152,

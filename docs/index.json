@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:31:03+00:00",
+  "generated_at": "2026-09-27T19:31:46+00:00",
   "channel": "-1004483833987",
-  "count": 3016,
+  "count": 3017,
   "movie_count": 2797,
   "series_count": 32,
-  "episode_count": 219,
+  "episode_count": 220,
   "custom_count": 0,
   "movies": [
     {
@@ -184316,7 +184316,7 @@
       "title": "Blade Runner: Black Lotus",
       "original_title": "Blade Runner: Black Lotus",
       "poster_url": "https://image.tmdb.org/t/p/w500/4e0bY3weyKiVe58kMS34ddOdc4Q.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mer8dtRkkoykS8rgoVXBALJOOnA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9Y7qeHbggXANMCr5DXJisYG1a8w.jpg",
       "genres": [
         "Animação",
         "Sci-Fi & Fantasy",
@@ -184326,6 +184326,37 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 2365701,
+              "title": "Cidade dos Anjos",
+              "air_date": "2021-11-14",
+              "overview": "Elle acorda dentro de um trailer, sem memória e próxima de um dispositivo que parece uma câmera. Ela desce do veículo e vaga até chegar na cidade de Los Angeles, onde tudo mudou e ela não consegue encontrar a própria casa. Quando Elle é ataca por uma gangue, ela os repele com força descomunal e recorda-se de seu nome. Ao chegar no muro com um anjo grafitado, ela encontra Doc Badger, um malandro da região que se oferece para ajudá-la.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/9Y7qeHbggXANMCr5DXJisYG1a8w.jpg",
+              "cast": [
+                {
+                  "name": "Jessica Henwick",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hRrEqDIWlov1FvYRmBN2vLaAxyl.jpg"
+                },
+                {
+                  "name": "Will Yun Lee",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg"
+                },
+                {
+                  "name": "Wes Bentley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+                },
+                {
+                  "name": "Samira Wiley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/m45A0hYcpnGckwxqs7j0I6Sp2Dj.jpg"
+                }
+              ],
+              "message_ids": [
+                7398,
+                7399
+              ],
+              "video_message_id": 7399
+            },
             {
               "number": 2,
               "tmdb_id": 3269953,

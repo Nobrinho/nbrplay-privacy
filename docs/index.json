@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:56:38+00:00",
+  "generated_at": "2026-09-27T05:56:51+00:00",
   "channel": "-1004483833987",
-  "count": 2690,
-  "movie_count": 2646,
+  "count": 2691,
+  "movie_count": 2647,
   "series_count": 10,
   "episode_count": 44,
   "movies": [
@@ -26970,6 +26970,72 @@
         990
       ],
       "video_message_id": 990
+    },
+    {
+      "tmdb_id": 653574,
+      "title": "As Mortes de Dick Johnson",
+      "original_title": "Dick Johnson Is Dead",
+      "year": "2020",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7Gu8QodLefx66wEn5vHuTXZuEi3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qhG2hGAf4kgNUphdvsOZMn4z6QY.jpg",
+      "overview": "Em Dick Johnson Is Dead, a diretora Kirsten Johnson busca uma maneira de manter vivo seu pai de 86 anos para sempre. Utilizando a magia do cinema e o humor sombrio de sua família, ela comemora os últimos anos do Dr. Dick Johnson encenando fantasias da morte e além. Juntos, pai e filha enfrentam a grande inevitabilidade que nos espera.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Richard Johnson",
+          "photo_url": null
+        },
+        {
+          "name": "Kirsten Johnson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9h1DYSYLnPujVBtM4mklFDnZByj.jpg"
+        },
+        {
+          "name": "Isla Sierck",
+          "photo_url": null
+        },
+        {
+          "name": "Jed Sierck",
+          "photo_url": null
+        },
+        {
+          "name": "Felix Torres",
+          "photo_url": null
+        },
+        {
+          "name": "Viva Torres",
+          "photo_url": null
+        },
+        {
+          "name": "Raymond Damazo",
+          "photo_url": null
+        },
+        {
+          "name": "Michael Hilow",
+          "photo_url": null
+        },
+        {
+          "name": "Michael Melton",
+          "photo_url": null
+        },
+        {
+          "name": "Joanne Reiner Tucker",
+          "photo_url": null
+        },
+        {
+          "name": "Ken Tucker",
+          "photo_url": null
+        },
+        {
+          "name": "Laurie McEwan",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6928
+      ],
+      "video_message_id": 6928
     },
     {
       "tmdb_id": 10869,

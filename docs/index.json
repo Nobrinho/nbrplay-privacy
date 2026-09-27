@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T02:49:33+00:00",
+  "generated_at": "2026-09-27T02:50:07+00:00",
   "channel": "-1004483833987",
-  "count": 2533,
-  "movie_count": 2533,
+  "count": 2534,
+  "movie_count": 2534,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -33250,6 +33250,66 @@
         4662
       ],
       "video_message_id": 4662
+    },
+    {
+      "tmdb_id": 459075,
+      "title": "BraveStorm",
+      "original_title": "BRAVE STORM ブレイブストーム",
+      "year": "2017",
+      "poster_url": "https://image.tmdb.org/t/p/w500/naprix35dmLBA3dDwDZprVXfPd2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/l5pLJx5zHymaK9EewGgQXQWtN9q.jpg",
+      "overview": "Membros de uma mesma família - vivendo em períodos históricos diferentes - conseguem se transportar no tempo para criar um robô gigante capaz de enfrentar a ameaça alienígena que, no futuro, exterminará a raça humana.",
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Ficção científica"
+      ],
+      "cast": [
+        {
+          "name": "大東駿介",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nsR6QC5ckWmY03Ug6VVwIcFGALO.jpg"
+        },
+        {
+          "name": "壇蜜",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4f1cZIwhbBNmxA93eAlzoJyJfta.jpg"
+        },
+        {
+          "name": "渡部秀",
+          "photo_url": "https://image.tmdb.org/t/p/w185/guWWJGJDtQP8jtdbDlKDadXwQAb.jpg"
+        },
+        {
+          "name": "山本千尋",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rdrIuK5bxqJIPdolAhsAlMqn4pM.jpg"
+        },
+        {
+          "name": "藤田富",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9kxNQMyVca1UF0NB6XgifeDqM9M.jpg"
+        },
+        {
+          "name": "タモト清嵐",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cD1HqUSHNTdifcw8cm5TeGxgTiK.jpg"
+        },
+        {
+          "name": "松崎悠希",
+          "photo_url": "https://image.tmdb.org/t/p/w185/QpZYsDT5b61yyc9luFH7wC3l6T.jpg"
+        },
+        {
+          "name": "寺脇康文",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gEMhLFmU5K8DlHJ2WRLfomOa8Sa.jpg"
+        },
+        {
+          "name": "吉沢悠",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mvlgkzXK1JNyuxJInxyCGJqpdWs.jpg"
+        },
+        {
+          "name": "森下能幸",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yG5wnn8UrvZ1qelNpit6Lnba0xC.jpg"
+        }
+      ],
+      "message_ids": [
+        6737
+      ],
+      "video_message_id": 6737
     },
     {
       "tmdb_id": 44264,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:56:23+00:00",
+  "generated_at": "2026-09-27T05:56:38+00:00",
   "channel": "-1004483833987",
-  "count": 2689,
-  "movie_count": 2645,
+  "count": 2690,
+  "movie_count": 2646,
   "series_count": 10,
   "episode_count": 44,
   "movies": [
@@ -10105,6 +10105,72 @@
         3607
       ],
       "video_message_id": 3607
+    },
+    {
+      "tmdb_id": 509903,
+      "title": "A Lenda da Ilha do Pó",
+      "original_title": "The Legend of Cocaine Island",
+      "year": "2018",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ciw1epKpAGUtoW8wHw1JZ95nHKd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tZX1O63srMRADPYi5S8hw8YZdIQ.jpg",
+      "overview": "Um homem desesperado faz uma caça ao tesouro enterrada por US $ 2 milhões em cocaína.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Bo Butterworth",
+          "photo_url": null
+        },
+        {
+          "name": "Bri Bryant",
+          "photo_url": null
+        },
+        {
+          "name": "Andy Culpepper",
+          "photo_url": null
+        },
+        {
+          "name": "Arthur Dean",
+          "photo_url": null
+        },
+        {
+          "name": "Greg Engleberg",
+          "photo_url": null
+        },
+        {
+          "name": "Matthew Ezell",
+          "photo_url": null
+        },
+        {
+          "name": "Edward Steven Harris II",
+          "photo_url": null
+        },
+        {
+          "name": "Emily Hyden",
+          "photo_url": null
+        },
+        {
+          "name": "Jamie Hyden",
+          "photo_url": null
+        },
+        {
+          "name": "Rodney Hyden",
+          "photo_url": null
+        },
+        {
+          "name": "Michael Opal",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cFEYsOdE4fZhJIaB23H3zyHF5Gw.jpg"
+        },
+        {
+          "name": "Danny Pardo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jqJkEdkTna0bXPoOQJgt9IXHHJ0.jpg"
+        }
+      ],
+      "message_ids": [
+        6927
+      ],
+      "video_message_id": 6927
     },
     {
       "tmdb_id": 565028,

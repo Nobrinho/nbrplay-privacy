@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T20:24:31+00:00",
+  "generated_at": "2026-09-27T20:31:52+00:00",
   "channel": "-1004483833987",
-  "count": 3083,
-  "movie_count": 2806,
+  "count": 3084,
+  "movie_count": 2807,
   "series_count": 37,
   "episode_count": 277,
   "custom_count": 0,
@@ -39363,6 +39363,34 @@
         6021
       ],
       "video_message_id": 6021
+    },
+    {
+      "tmdb_id": 303191,
+      "title": "Caçador de Marajás — S01E07 — Não Me Deixem Só",
+      "original_title": "거짓말 2014",
+      "year": "2025",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bFQaA04sKOxTCj6GoGhwiFRl4h9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/c7tX6TBKRZv5WFIRNBJkHyVOu1k.jpg",
+      "overview": "Jin-hee (Yoon Seol-hee) meets married man Min-ki (Hong Seok-yeon) on an online meeting site to make a living for herself and her incompetent boyfriend. She meets him for money but they slowly fall into something more than just a physical relationship. One day, a rumor spreads that she's a whore and breaks up with her boyfriend. With the betrayal for her boyfriend and love for Min-ki growing deeper, Jin-hee decides to put everything in the past and go abroad. The day before she leaves, she goes to meet Min-ki for the last time...",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "cast": [
+        {
+          "name": "윤설희",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kHiSjNIovGMOHs6ItH5YMDzrr9T.jpg"
+        },
+        {
+          "name": "홍석연",
+          "photo_url": "https://image.tmdb.org/t/p/w185/koTFgBF5vXHsPd5w8OocDv952Jv.jpg"
+        }
+      ],
+      "message_ids": [
+        7462,
+        7463
+      ],
+      "video_message_id": 7463
     },
     {
       "tmdb_id": 419831,

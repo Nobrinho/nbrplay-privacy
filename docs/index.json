@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:57:21+00:00",
+  "generated_at": "2026-09-27T05:57:54+00:00",
   "channel": "-1004483833987",
-  "count": 2693,
-  "movie_count": 2649,
+  "count": 2694,
+  "movie_count": 2650,
   "series_count": 10,
   "episode_count": 44,
   "movies": [
@@ -157256,6 +157256,74 @@
         4001
       ],
       "video_message_id": 4001
+    },
+    {
+      "tmdb_id": 1430,
+      "title": "Tiros em Columbine",
+      "original_title": "Bowling for Columbine",
+      "year": "2002",
+      "poster_url": "https://image.tmdb.org/t/p/w500/u78e1u4bowv6ZIhcmIedVEgFdRf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/70uUnpfe7en9x011UjpZoub101l.jpg",
+      "overview": "Documentário que investiga a fascinação dos americanos pelas armas de fogo. Michael Moore, diretor e narrador do filme, questiona a origem dessa cultura bélica e busca respostas visitando pequenas cidades dos Estados Unidos, onde a maior parte dos moradores guarda uma arma em casa. Entre essas cidades está Littleton, no Colorado, onde fica o colégio Columbine. Lá os adolescentes Dylan Klebold e Eric Harris pegaram as armas dos pais e mataram 14 estudantes e um professor no refeitório. Michael Moore também faz uma visita ao ator Charlton Heston, presidente da Associação Americana do Rifle.",
+      "genres": [
+        "Documentário",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Michael Moore",
+          "photo_url": "https://image.tmdb.org/t/p/w185/m5YViuBUXfKAHNEUObGpzhzQPgE.jpg"
+        },
+        {
+          "name": "George H. W. Bush",
+          "photo_url": "https://image.tmdb.org/t/p/w185/skB35M0jMrXfnY8mshwSh8ShCf0.jpg"
+        },
+        {
+          "name": "George W. Bush",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6u9fUB5p0ugbMrPoQ5GF7baERiA.jpg"
+        },
+        {
+          "name": "Charlton Heston",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mJabHWZrjlFiF8U8Bbr8lSFtLX6.jpg"
+        },
+        {
+          "name": "Jacobo Árbenz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aPJB2OiN9UYHjo1hzyU8pXwYoLW.jpg"
+        },
+        {
+          "name": "Mike Bradley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ccl8GXixoFQ3VfDgtnsj0xzwzmM.jpg"
+        },
+        {
+          "name": "Dick Clark",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5b0BckJqRZIwi1LcbuA8o2KPZTZ.jpg"
+        },
+        {
+          "name": "Arthur A. Busch",
+          "photo_url": null
+        },
+        {
+          "name": "Michael Caldwell",
+          "photo_url": null
+        },
+        {
+          "name": "Richard Castaldo",
+          "photo_url": null
+        },
+        {
+          "name": "Bill Clinton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mIgqL0UAEKSl1Ry58wgQYq2sAt6.jpg"
+        },
+        {
+          "name": "Steve Davis",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6932,
+        6933
+      ],
+      "video_message_id": 6933
     },
     {
       "tmdb_id": 597,

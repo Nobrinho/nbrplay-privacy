@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:36:11+00:00",
+  "generated_at": "2026-09-27T19:36:47+00:00",
   "channel": "-1004483833987",
-  "count": 3020,
-  "movie_count": 2800,
+  "count": 3022,
+  "movie_count": 2802,
   "series_count": 32,
   "episode_count": 220,
   "custom_count": 0,
@@ -150913,6 +150913,23 @@
       "video_message_id": 4300
     },
     {
+      "tmdb_id": 1006082,
+      "title": "Salvador Dalí: Diaros de juventud – Episodio 1: 1904-1929",
+      "original_title": "Salvador Dalí: Diaros de juventud – Episodio 1: 1904-1929",
+      "year": "2022",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uSmgwULt7tQ506IVQ1OvjfkZoK0.jpg",
+      "backdrop_url": null,
+      "overview": null,
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [],
+      "message_ids": [
+        7405
+      ],
+      "video_message_id": 7405
+    },
+    {
       "tmdb_id": 565719,
       "title": "Salve Satanás?",
       "original_title": "Hail Satan?",
@@ -162936,6 +162953,22 @@
         5801
       ],
       "video_message_id": 5801
+    },
+    {
+      "tmdb_id": 321291,
+      "title": "Territórios - Sob o Domínio do Crime — S01E06 — Território da Corrupção",
+      "original_title": "Gongzilla: Live in Concert / The East Village Studio",
+      "year": "2026",
+      "poster_url": null,
+      "backdrop_url": null,
+      "overview": "An unbelievable five cameras cover this monster live show from Gongzilla, which includes a four-minute drum solo by jazz-rock guru Gary Husband. A memorable set list includes \"Sinister Minister,\" \"Hanniface,\" \"Aquila,\" \"Thrive,\" \"Lilly,\" \"Bad Habits,\" \"Gongzilla,\" \"Soli\" and \"Image,\" with a special guest appearance by Chuck Garvey from the jam band Giant Moe. Exclusive footage shot from a day with the band in the studio is also included.",
+      "genres": [],
+      "cast": [],
+      "message_ids": [
+        7374,
+        7375
+      ],
+      "video_message_id": 7375
     },
     {
       "tmdb_id": 11449,

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T21:29:48+00:00",
+  "generated_at": "2026-09-27T22:00:51+00:00",
   "channel": "-1004483833987",
-  "count": 3085,
+  "count": 3086,
   "movie_count": 2807,
   "series_count": 37,
-  "episode_count": 278,
+  "episode_count": 279,
   "custom_count": 0,
   "movies": [
     {
@@ -189120,6 +189120,37 @@
                 6955
               ],
               "video_message_id": 6955
+            },
+            {
+              "number": 7,
+              "tmdb_id": 4270162,
+              "title": "Ninguém Negocia como Silvio Santos",
+              "air_date": "2023-03-29",
+              "overview": "O sequestro da filha Patrícia tira Silvio Santos do prumo. Enquanto aguarda notícias dos sequestradores, precisa lidar com problemas do SBT, do Grupo Silvio Santos e de seu casamento com Íris. Silvio decide resolver o sequestro, sem imaginar que sua própria vida está em risco.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/Aqk3xQRWF5bk5nNuk9qUHycblnw.jpg",
+              "cast": [
+                {
+                  "name": "José Rubens Chachá",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/1CvvDlkKL3W6jnuSr4OK6TJTp9K.jpg"
+                },
+                {
+                  "name": "Leona Cavalli",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/b1wi0Lkcf2UjlbWz9arhFwBKaff.jpg"
+                },
+                {
+                  "name": "Larissa Nunes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3zVdzi7SvNJbYH3mfEjm9YxkqNN.jpg"
+                },
+                {
+                  "name": "Daniela Paschoal",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/kI4Ohlg5gMr5TE8oT1XKpHYzMiZ.jpg"
+                }
+              ],
+              "message_ids": [
+                7478,
+                7479
+              ],
+              "video_message_id": 7479
             },
             {
               "number": 8,

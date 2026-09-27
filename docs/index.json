@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:41:24+00:00",
+  "generated_at": "2026-09-27T07:41:38+00:00",
   "channel": "-1004483833987",
-  "count": 2877,
-  "movie_count": 2731,
+  "count": 2878,
+  "movie_count": 2732,
   "series_count": 23,
   "episode_count": 146,
   "movies": [
@@ -43258,6 +43258,56 @@
         474
       ],
       "video_message_id": 474
+    },
+    {
+      "tmdb_id": 791348,
+      "title": "Constantine: A Casa dos Mistérios",
+      "original_title": "DC Showcase - Constantine: The House of Mystery",
+      "year": "2022",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vKhlysJxSWt4lzuC4ScjTuOBHpO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rQNWdUtbZxkvbFRfGZr9iUOizfs.jpg",
+      "overview": "Após reescrever o tempo e impedir que a Guerra de Apokolips aconteça, John Constantine percebe que está preso na Casa dos Mistérios enfrentando um castigo que ainda não entende. Enquanto explora os labirintos da Casa, ele logo encontra Zatanna e muitos amigos, mas esses encontros repetidamente acabam em uma morte brutal para ele. Enquanto enfrenta o ciclo interminável de sua própria morte, o sempre brilhante Constantine começa a desvendar o caminho que o levou a este confinamento infernal.",
+      "genres": [
+        "Animação",
+        "Ação",
+        "Aventura",
+        "Terror"
+      ],
+      "cast": [
+        {
+          "name": "Matt Ryan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qLx6rzn6MMcJtTals5Z7Mb6z4Y9.jpg"
+        },
+        {
+          "name": "Ray Chase",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xeJKJnvIwItI90roo7mMUduBbbq.jpg"
+        },
+        {
+          "name": "Robin Atkin Downes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg"
+        },
+        {
+          "name": "Grey DeLisle",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+        },
+        {
+          "name": "Camilla Luddington",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eKF5lSEdEtOCbsgb5mKjd8vYLck.jpg"
+        },
+        {
+          "name": "Damian O'Hare",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bO6TMDYluACYKy7zWEloym1SUa5.jpg"
+        },
+        {
+          "name": "Lou Diamond Phillips",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yqGZwaGe8XgoxfO7zmx7weGBaXZ.jpg"
+        }
+      ],
+      "message_ids": [
+        7195,
+        7196
+      ],
+      "video_message_id": 7196
     },
     {
       "tmdb_id": 16270,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T02:42:27+00:00",
+  "generated_at": "2026-09-27T02:43:59+00:00",
   "channel": "-1004483833987",
-  "count": 2525,
-  "movie_count": 2525,
+  "count": 2526,
+  "movie_count": 2526,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -60537,6 +60537,62 @@
         5233
       ],
       "video_message_id": 5233
+    },
+    {
+      "tmdb_id": 16999,
+      "title": "Fogo e Gelo",
+      "original_title": "Fire and Ice: The Dragon Chronicles",
+      "year": "2008",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tbubXIXtcKLoTHIWj9ryYOgIyum.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kF7wNxASM21cvHwDofFIt6Asyr.jpg",
+      "overview": "Governado pelo Rei Augustin, Carpia é um reino pacífico em um mundo habitado por dragões e cavaleiros. Mas a serenidade da terra é inesperadamente ameaçada por um dragão de fogo que espalha o medo.",
+      "genres": [
+        "Drama",
+        "Fantasia",
+        "Aventura"
+      ],
+      "cast": [
+        {
+          "name": "Amy Acker",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9lpLwfscOoG4jyYIH761SRnm09U.jpg"
+        },
+        {
+          "name": "Tom Wisdom",
+          "photo_url": "https://image.tmdb.org/t/p/w185/84jgVW6GGeha5T3FsFwN6BQ4qOu.jpg"
+        },
+        {
+          "name": "John Rhys-Davies",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qpXl1YnqQsUKYEDm3BB2zK5wbhe.jpg"
+        },
+        {
+          "name": "Arnold Vosloo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/o23Z1EvWEYR7PArq2w5UpreVipV.jpg"
+        },
+        {
+          "name": "Oana Pellea",
+          "photo_url": "https://image.tmdb.org/t/p/w185/x9QglnA7Qv3Wfd8nNsp0cThbS4c.jpg"
+        },
+        {
+          "name": "Razvan Vasilescu",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gAoVKmGp14BkcMGfPn3t0RFc2oq.jpg"
+        },
+        {
+          "name": "Cabral Ibacka",
+          "photo_url": null
+        },
+        {
+          "name": "Ovidiu Niculescu",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wU70aEjRCgXLw6bBMW0HhvFKCz7.jpg"
+        },
+        {
+          "name": "Loredana Groza",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hH9fk1YSvmKszqMY2TIgeD4eXln.jpg"
+        }
+      ],
+      "message_ids": [
+        6723
+      ],
+      "video_message_id": 6723
     },
     {
       "tmdb_id": 15613,

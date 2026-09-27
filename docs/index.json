@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T15:37:49+00:00",
+  "generated_at": "2026-09-27T15:37:59+00:00",
   "channel": "-1004483833987",
-  "count": 2915,
-  "movie_count": 2758,
+  "count": 2916,
+  "movie_count": 2759,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -137254,6 +137254,75 @@
         3570
       ],
       "video_message_id": 3570
+    },
+    {
+      "tmdb_id": 30675,
+      "title": "Planeta Hulk",
+      "original_title": "Planet Hulk",
+      "year": "2010",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rfJBYlVRAAxFCcbDX1thYhwwoK4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bXpGsWpNuIL1GfxU9oakKv2a0Dx.jpg",
+      "overview": "Ele era um monstro, impossível de controlar, demasiado perigoso para ser ignorado. Assim, os heróis mais poderosos da Terra o exilaram no espaço. Mas agora O Incrível Hulk está em Sakaar, um planeta distante, governado pelo tirano Rei Vermelho. Vendido como escravo, Hulk se torna o mais poderoso gladiador do planeta, mas seus novos donos recebem mais do que esperava quando ele forja um vínculo de fraternidade com outros lutadores. Ao contrário da Terra, as pessoas desesperadas de Sakaar acreditam que Hulk é tudo o que eles precisam.",
+      "genres": [
+        "Ficção científica",
+        "Animação",
+        "Ação"
+      ],
+      "cast": [
+        {
+          "name": "Rick D. Wasserman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gjjsSK4WMvDQhComOC02ht1Yo26.jpg"
+        },
+        {
+          "name": "Lisa Ann Beley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5Lz5k8JKoCE4NFK82gMOlMx6cK2.jpg"
+        },
+        {
+          "name": "Mark Hildreth",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pHkXbCjIPbUSeOZLV3z6dnj8WVB.jpg"
+        },
+        {
+          "name": "Liam O'Brien",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ko7Bba6fQEaAbVFAp1kQHTzuYCp.jpg"
+        },
+        {
+          "name": "Kevin Michael Richardson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg"
+        },
+        {
+          "name": "Sam Vincent",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eJadsFcztqQZQIKzL5cMyasi1oa.jpg"
+        },
+        {
+          "name": "Advah Soudack",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wY9wZdQ6a3kTA0CnNGjDEEcDHrD.jpg"
+        },
+        {
+          "name": "Michael Kopsa",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eGoaXyQMd9mfAkhc6PqMhFxef5m.jpg"
+        },
+        {
+          "name": "Paul Dobson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/huQqiIHgnswYR9x5V1e46FTYfSI.jpg"
+        },
+        {
+          "name": "Marc Worden",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d91IoBbnS5HX2I8lzGosvc39PgS.jpg"
+        },
+        {
+          "name": "Lee Tockar",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eloBMEfs9q0ypUzXueVg5qe4CJe.jpg"
+        },
+        {
+          "name": "Russell Roberts",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2ABWQGor0siDRrX0XQooqipoZi.jpg"
+        }
+      ],
+      "message_ids": [
+        7261,
+        7262
+      ],
+      "video_message_id": 7262
     },
     {
       "tmdb_id": 866346,

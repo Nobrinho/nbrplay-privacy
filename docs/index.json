@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:24:08+00:00",
+  "generated_at": "2026-09-27T19:24:14+00:00",
   "channel": "-1004483833987",
-  "count": 2996,
+  "count": 2997,
   "movie_count": 2790,
   "series_count": 31,
-  "episode_count": 206,
+  "episode_count": 207,
   "custom_count": 0,
   "movies": [
     {
@@ -184074,7 +184074,7 @@
       "title": "Brasil 70: A Saga do Tri",
       "original_title": "Brasil 70: A Saga do Tri",
       "poster_url": "https://image.tmdb.org/t/p/w500/AbacRmw60119iQEiDf0dfseVDuk.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/27oCk98OT9WPXrqDG2a53L6q47M.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mBLxrcLmXldAXlcG2vro8Y4O51t.jpg",
       "genres": [
         "Drama"
       ],
@@ -184082,6 +184082,69 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 3,
+              "tmdb_id": 6984942,
+              "title": "Que rei sou eu?",
+              "air_date": "2026-05-29",
+              "overview": "Enfrentando um adversário forte e unido, a equipe brasileira precisa deixar as diferenças políticas de lado para manter o foco no jogo... e continuar marcando gols.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/mBLxrcLmXldAXlcG2vro8Y4O51t.jpg",
+              "cast": [
+                {
+                  "name": "Lucas Agrícola",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qsqUdI0Un1OqBQYBizY8TrApQcC.jpg"
+                },
+                {
+                  "name": "Rodrigo Santoro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/d3MaF9SPHDn2PMYHuqdnO0Csik6.jpg"
+                },
+                {
+                  "name": "Bruno Mazzeo",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/putx30jjKXNV4URnlOl92Cu32Nv.jpg"
+                },
+                {
+                  "name": "Marcelo Adnet",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hCaB1q6CypBdQH1A7xuSehTfUdx.jpg"
+                },
+                {
+                  "name": "Ravel Andrade",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7s2SqObJ6f1rE1dfcrm9dwJdU4T.jpg"
+                },
+                {
+                  "name": "Hugo Haddad",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/d4GjXdG6b98Ceb5Bt9tLxpO7mWV.jpg"
+                },
+                {
+                  "name": "Maicon Rodrigues",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/oxyDj6chZA2NepR7r8efW2OWPy7.jpg"
+                },
+                {
+                  "name": "Daniel Blanco",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/pMQaQRTSfppd0XgzxBA4GrOX4RE.jpg"
+                },
+                {
+                  "name": "Fillipe Soutto",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/uvqiZbABuOJkb925WHE5yiA4vWv.jpg"
+                },
+                {
+                  "name": "Gui Ferraz",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ht3QjnNM5RH2rbUQd28UAErjk71.jpg"
+                },
+                {
+                  "name": "Caio Cabral",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3LrTmGhV73Hobez5egXjfLShqT7.jpg"
+                },
+                {
+                  "name": "Lucas Sá",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7365,
+                7367
+              ],
+              "video_message_id": 7367
+            },
             {
               "number": 5,
               "tmdb_id": 6984944,

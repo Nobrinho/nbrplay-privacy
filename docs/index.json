@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:24:35+00:00",
+  "generated_at": "2026-09-27T04:24:39+00:00",
   "channel": "-1004483833987",
-  "count": 2600,
+  "count": 2601,
   "movie_count": 2582,
-  "series_count": 5,
-  "episode_count": 18,
+  "series_count": 6,
+  "episode_count": 19,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -173375,6 +173375,42 @@
                 6807
               ],
               "video_message_id": 6807
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 116986,
+      "title": "O Arsenal dos Espiões",
+      "original_title": "Spycraft",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qE58fDadsNnGJzRrP3T1lefKrsK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qvELG2ZWBUA4UHFYtmvv2ukygCO.jpg",
+      "genres": [
+        "Documentário",
+        "War & Politics"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 2658438,
+              "title": "Vigilância de última geração",
+              "air_date": "2021-01-20",
+              "overview": "Ouvir é essencial para conseguir informações no mundo da espionagem, e o desenvolvimento de dispositivos de escuta exige soluções criativas e engenhosas.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/qvELG2ZWBUA4UHFYtmvv2ukygCO.jpg",
+              "cast": [
+                {
+                  "name": "Dylan Berry",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                6821
+              ],
+              "video_message_id": 6821
             }
           ]
         }

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T02:59:53+00:00",
+  "generated_at": "2026-09-27T03:05:25+00:00",
   "channel": "-1004483833987",
-  "count": 2539,
-  "movie_count": 2539,
+  "count": 2540,
+  "movie_count": 2540,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -91404,6 +91404,76 @@
         6706
       ],
       "video_message_id": 6706
+    },
+    {
+      "tmdb_id": 33613,
+      "title": "Millennium III: A Rainha do Castelo de Ar",
+      "original_title": "Luftslottet som sprängdes",
+      "year": "2009",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gIo8ARDHsxehIVTqW0r8uadlIj2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qhohCrCs4sv1M4H9NIRlhgl0lcE.jpg",
+      "overview": "Após quase ser morta pelo próprio pai, Lisbeth Salander é levada para o hospital em estado grave. Lá também está internado o pai dela, Alexander Zalachenko, que se tornou uma grande ameaça devido às informações que possui.",
+      "genres": [
+        "Ação",
+        "Thriller",
+        "Crime",
+        "Mistério"
+      ],
+      "cast": [
+        {
+          "name": "Michael Nyqvist",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d9nGt8MloJwosRbGp10gaeHExcZ.jpg"
+        },
+        {
+          "name": "Noomi Rapace",
+          "photo_url": "https://image.tmdb.org/t/p/w185/m0J6ZqEyNljqF1DXBoC9DcMStHP.jpg"
+        },
+        {
+          "name": "Lena Endre",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hWrqTNGRnXNhAIuVkOyxIhyCW1I.jpg"
+        },
+        {
+          "name": "Annika Hallin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/w0xkKmLS2AeXKB6HqrUqeq5LzRC.jpg"
+        },
+        {
+          "name": "Jacob Ericksson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8l9EzEu6c788jrNpdU9x5HF19qb.jpg"
+        },
+        {
+          "name": "Sofia Ledarp",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rvUygwmSbc2K8Gv4x6PnCaJWUE0.jpg"
+        },
+        {
+          "name": "Anders Ahlbom Rosendahl",
+          "photo_url": "https://image.tmdb.org/t/p/w185/o2qiTWPPpoNgRYSYrJafVzF9fln.jpg"
+        },
+        {
+          "name": "Micke Spreitz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vasKc6dnUcZo7JLHEH7g7CEvtzC.jpg"
+        },
+        {
+          "name": "Georgi Staykov",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kl4ypYc9NZkpkJyGeTY1i8NLIwB.jpg"
+        },
+        {
+          "name": "Mirja Turestedt",
+          "photo_url": "https://image.tmdb.org/t/p/w185/spqUzBGWTNk1rQ1rXo7LrsmChvD.jpg"
+        },
+        {
+          "name": "Hans Alfredson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iBcjQYWqeZAwyPtQxjwwhSLsu3I.jpg"
+        },
+        {
+          "name": "Lennart Hjulström",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hVWCWtpinF3Aki6Z37Xjn7Nhp47.jpg"
+        }
+      ],
+      "message_ids": [
+        6748,
+        6749
+      ],
+      "video_message_id": 6749
     },
     {
       "tmdb_id": 446807,

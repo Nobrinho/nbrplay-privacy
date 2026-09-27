@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T02:39:35+00:00",
+  "generated_at": "2026-09-27T02:40:46+00:00",
   "channel": "-1004483833987",
-  "count": 2521,
-  "movie_count": 2521,
+  "count": 2522,
+  "movie_count": 2522,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -14843,6 +14843,74 @@
         4208
       ],
       "video_message_id": 4208
+    },
+    {
+      "tmdb_id": 83542,
+      "title": "A Viagem",
+      "original_title": "Cloud Atlas",
+      "year": "2012",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hf7Mqgy79fyhgKJ5JmEuyWgh6LA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sFDntG0Z0Wjrsz26TVptfs5OSLT.jpg",
+      "overview": "O filme percorre séculos para revelar a formação das almas e o impacto duradouro das ações. Um escravo em fuga ajuda um advogado em 1849; um compositor na Inglaterra antes da Segunda Guerra tenta terminar a sua obra-prima; um trabalhador geneticamente modificado em 2144 sente o peso da consciência.",
+      "genres": [
+        "Drama",
+        "Ficção científica"
+      ],
+      "cast": [
+        {
+          "name": "Tom Hanks",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+        },
+        {
+          "name": "Halle Berry",
+          "photo_url": "https://image.tmdb.org/t/p/w185/84HRDZodRCuBSpYGSc3ow8WucI4.jpg"
+        },
+        {
+          "name": "Jim Broadbent",
+          "photo_url": "https://image.tmdb.org/t/p/w185/s7lXYfrsJoGA4vKmyv61SPgABmR.jpg"
+        },
+        {
+          "name": "Hugo Weaving",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+        },
+        {
+          "name": "Jim Sturgess",
+          "photo_url": "https://image.tmdb.org/t/p/w185/acDJi0yEAMy82wmngFrJ0KjVRm2.jpg"
+        },
+        {
+          "name": "배두나",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lCL08q20zkqHcLLLZQRlJfG09P4.jpg"
+        },
+        {
+          "name": "Ben Whishaw",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6iEdnDBCjuhJgATBMoieIr8p4oA.jpg"
+        },
+        {
+          "name": "James D'Arcy",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6CInTvBeLwXLx2id9TgaULaVEO4.jpg"
+        },
+        {
+          "name": "周迅",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gRn6nBL4LKedAZd02Zrnk3MCz7l.jpg"
+        },
+        {
+          "name": "Keith David",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg"
+        },
+        {
+          "name": "Susan Sarandon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jR6l2EfvvGA8qCzZ7MB5FT9ZLkq.jpg"
+        },
+        {
+          "name": "Hugh Grant",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg"
+        }
+      ],
+      "message_ids": [
+        6715,
+        6716
+      ],
+      "video_message_id": 6716
     },
     {
       "tmdb_id": 583,

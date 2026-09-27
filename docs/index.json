@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:19:43+00:00",
+  "generated_at": "2026-09-27T04:19:48+00:00",
   "channel": "-1004483833987",
-  "count": 2583,
-  "movie_count": 2575,
+  "count": 2584,
+  "movie_count": 2576,
   "series_count": 2,
   "episode_count": 8,
   "movies": [
@@ -132488,6 +132488,23 @@
         1585
       ],
       "video_message_id": 1585
+    },
+    {
+      "tmdb_id": 678246,
+      "title": "Pride & Protest",
+      "original_title": "Pride & Protest",
+      "year": "2020",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kDr9FCmb1TV06B2MaBDq8QrJRAH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fT1VAOXG9qjITsOHfNF63qDoCVW.jpg",
+      "overview": "In the wake of the Birmingham protests against LGBTQ+ relationship education in primary schools, a team of queer community reporters of colour challenge homophobia and call out racism in LGBTQ+ spaces.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [],
+      "message_ids": [
+        6800
+      ],
+      "video_message_id": 6800
     },
     {
       "tmdb_id": 433247,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:20:54+00:00",
+  "generated_at": "2026-09-27T06:25:33+00:00",
   "channel": "-1004483833987",
-  "count": 2731,
-  "movie_count": 2668,
+  "count": 2732,
+  "movie_count": 2669,
   "series_count": 14,
   "episode_count": 63,
   "movies": [
@@ -132373,6 +132373,73 @@
         998
       ],
       "video_message_id": 998
+    },
+    {
+      "tmdb_id": 1404522,
+      "title": "Phil Collins: Drummer First",
+      "original_title": "Phil Collins: Drummer First",
+      "year": "2024",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4DjNZ85mAknKSlFeBr0cEuY6Zjn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xZeBRPpwkcipefASwf3M6Ui8FDy.jpg",
+      "overview": "For the first time on film, Phil takes us on a journey through his life and career from a drumming perspective—from his early days behind the kit to his groundbreaking work with Genesis and his celebrated solo career, from his time with the jazz-fusion group Brand X to composing for Disney’s Tarzan, forming his own big band, and ultimately passing the torch to Nic during the final Genesis and Phil Collins tours.  This is Phil’s story, told in his own words.  This documentary offers a rare and personal glimpse into the life and legacy of a true drumming icon. Phil’s story is one of passion, perseverance, and sacrifice—a testament to the power of giving everything you have for what you love. We are deeply grateful to Phil for trusting Drumeo to share his remarkable story.",
+      "genres": [
+        "Documentário",
+        "Música"
+      ],
+      "cast": [
+        {
+          "name": "Phil Collins",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3Gq6UQH1HHWkFv59lY1BHFTk5yk.jpg"
+        },
+        {
+          "name": "Nic Collins",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4PoEjAib8z0jeOfG3sVzOma6qRs.jpg"
+        },
+        {
+          "name": "Brandon Toews",
+          "photo_url": null
+        },
+        {
+          "name": "Chad Smith",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2Ubkwfy27jrewWkMw1MHS34iQIN.jpg"
+        },
+        {
+          "name": "Benny Greb",
+          "photo_url": "https://image.tmdb.org/t/p/w185/f5M5mOeC763YGq7SAMFcNr8KeT3.jpg"
+        },
+        {
+          "name": "Gregg Bissonette",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rJ7mlUbDxApD5M2tNPy1KoKl6oO.jpg"
+        },
+        {
+          "name": "Tony Palermo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yiXpMIT3L7ksioQjr9MSYAqDFYf.jpg"
+        },
+        {
+          "name": "Linda-Philomène Tsoungui",
+          "photo_url": null
+        },
+        {
+          "name": "Jonathan Moffett",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mdMaNoeQhFtApfOe8KuI6pyINic.jpg"
+        },
+        {
+          "name": "Mike Portnoy",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tGXcleyhLkBh1Dugz1g6tmJhO0y.jpg"
+        },
+        {
+          "name": "Dom Famularo",
+          "photo_url": null
+        },
+        {
+          "name": "Glenn Kotche",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6989
+      ],
+      "video_message_id": 6989
     },
     {
       "tmdb_id": 473,

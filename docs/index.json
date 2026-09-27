@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T20:02:54+00:00",
+  "generated_at": "2026-09-27T20:02:58+00:00",
   "channel": "-1004483833987",
-  "count": 3074,
+  "count": 3075,
   "movie_count": 2805,
   "series_count": 36,
-  "episode_count": 269,
+  "episode_count": 270,
   "custom_count": 0,
   "movies": [
     {
@@ -190818,7 +190818,7 @@
       "title": "Sobrevivendo a Jeffrey Epstein",
       "original_title": "Surviving Jeffrey Epstein",
       "poster_url": "https://image.tmdb.org/t/p/w500/3BZS3xqniTSkAMjmvIAWsnaVZp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/gJqRm1OL6kJnykIGWIXqxHKsgPW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rTvihI5VG2VhWr9vAkqPAK48P9q.jpg",
       "genres": [
         "Documentário"
       ],
@@ -190826,6 +190826,19 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 2359927,
+              "title": "Episódio 1",
+              "air_date": "2020-08-09",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/rTvihI5VG2VhWr9vAkqPAK48P9q.jpg",
+              "cast": [],
+              "message_ids": [
+                7461
+              ],
+              "video_message_id": 7461
+            },
             {
               "number": 2,
               "tmdb_id": 2359931,

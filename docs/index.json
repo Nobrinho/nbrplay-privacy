@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:24:05+00:00",
+  "generated_at": "2026-09-27T05:24:18+00:00",
   "channel": "-1004483833987",
-  "count": 2652,
-  "movie_count": 2619,
+  "count": 2653,
+  "movie_count": 2620,
   "series_count": 8,
   "episode_count": 33,
   "movies": [
@@ -59185,6 +59185,60 @@
         5444
       ],
       "video_message_id": 5444
+    },
+    {
+      "tmdb_id": 1128719,
+      "title": "Explorando o Desconhecido: A Máquina do Tempo Cósmica",
+      "original_title": "Unknown: Cosmic Time Machine",
+      "year": "2023",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8mJkevQKSKyinWRa6XGVyluXJq8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gAWocJ4tlgwm6iDFrGeXOg1IAcv.jpg",
+      "overview": "O Telescópio Espacial James Webb consegue tirar fotos de galáxias distantes. Este documentário conta a história desse instrumento incrível.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Joe Biden",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fd1XKWTVBAUyvu4HeSNDCkrOSEI.jpg"
+        },
+        {
+          "name": "Amber Straughn",
+          "photo_url": null
+        },
+        {
+          "name": "Thomas Zurbuchen",
+          "photo_url": null
+        },
+        {
+          "name": "Becky Smethurst",
+          "photo_url": null
+        },
+        {
+          "name": "Scarlin Hernandez",
+          "photo_url": null
+        },
+        {
+          "name": "Alyssa Pagan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rhcpDKHxzB4HBBj6JRMdoxlYGKn.jpg"
+        },
+        {
+          "name": "Javier Alvarez Marquez",
+          "photo_url": null
+        },
+        {
+          "name": "Mike Wenz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/my0W0fekBbqnHs8XJF2b8aLRER7.jpg"
+        },
+        {
+          "name": "Kielan Wilcomb",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6879
+      ],
+      "video_message_id": 6879
     },
     {
       "tmdb_id": 1276073,

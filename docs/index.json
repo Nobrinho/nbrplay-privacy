@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:42:37+00:00",
+  "generated_at": "2026-09-27T06:42:48+00:00",
   "channel": "-1004483833987",
-  "count": 2753,
-  "movie_count": 2682,
+  "count": 2754,
+  "movie_count": 2683,
   "series_count": 15,
   "episode_count": 71,
   "movies": [
@@ -76613,6 +76613,68 @@
         4790
       ],
       "video_message_id": 4790
+    },
+    {
+      "tmdb_id": 565716,
+      "title": "Indústria Americana",
+      "original_title": "American Factory",
+      "year": "2019",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9kLpTYpnbnJWq6IwY6DOyyEDaN3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vzmUkbi07g2dKVL6YCr8FX3LFgn.jpg",
+      "overview": "Neste documentário, uma empresa chinesa reabre uma fábrica em Ohio e enche o povo de esperança. Mas os conflitos culturais podem destruir esse sonho americano.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Junming 'Jimmy' Wang",
+          "photo_url": null
+        },
+        {
+          "name": "Sherrod Brown",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7rCxWJzkpXN7KtCicrUKa3VVn5t.jpg"
+        },
+        {
+          "name": "Dave Burrows",
+          "photo_url": null
+        },
+        {
+          "name": "John Gauthier",
+          "photo_url": null
+        },
+        {
+          "name": "Rob Haerr",
+          "photo_url": null
+        },
+        {
+          "name": "Cynthia Harper",
+          "photo_url": null
+        },
+        {
+          "name": "Wong He",
+          "photo_url": null
+        },
+        {
+          "name": "Jill Lamantia",
+          "photo_url": null
+        },
+        {
+          "name": "Jeff Daochuan Liu",
+          "photo_url": null
+        },
+        {
+          "name": "Shawnea Rosser",
+          "photo_url": null
+        },
+        {
+          "name": "Rebecca Ruan-O'Shaughnessy",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7023
+      ],
+      "video_message_id": 7023
     },
     {
       "tmdb_id": 207932,

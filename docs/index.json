@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:12:32+00:00",
+  "generated_at": "2026-09-27T04:12:42+00:00",
   "channel": "-1004483833987",
-  "count": 2574,
-  "movie_count": 2566,
+  "count": 2575,
+  "movie_count": 2567,
   "series_count": 2,
   "episode_count": 8,
   "movies": [
@@ -126340,6 +126340,37 @@
         1515
       ],
       "video_message_id": 1515
+    },
+    {
+      "tmdb_id": 576017,
+      "title": "Para Sama",
+      "original_title": "For Sama",
+      "year": "2019",
+      "poster_url": "https://image.tmdb.org/t/p/w500/w8ZytqAN2B56ejEvIVjubVNL3oo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hiqB5fFZ230MeFAGLPahoy06UOE.jpg",
+      "overview": "A cineasta Waad al-Kateab filmou durante cinco anos sua vida na cidade de Aleppo tomada por rebeldes durante a rebelião síria.",
+      "genres": [
+        "Documentário",
+        "Guerra"
+      ],
+      "cast": [
+        {
+          "name": "Sama Al-Khateab",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ujR4KGJ7i2oqt7htGbdsvBxtUoL.jpg"
+        },
+        {
+          "name": "Hamza Al-Khateab",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tAmMSHrK5gcfTdCFkD5FMnzr7Tf.jpg"
+        },
+        {
+          "name": "Waad al-Kateab",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rhpBO1OBzwdn4BtERlEmwy5JupZ.jpg"
+        }
+      ],
+      "message_ids": [
+        6791
+      ],
+      "video_message_id": 6791
     },
     {
       "tmdb_id": 8271,

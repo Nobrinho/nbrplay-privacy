@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:35:32+00:00",
+  "generated_at": "2026-09-27T07:35:45+00:00",
   "channel": "-1004483833987",
-  "count": 2859,
-  "movie_count": 2713,
+  "count": 2860,
+  "movie_count": 2714,
   "series_count": 23,
   "episode_count": 146,
   "movies": [
@@ -175580,6 +175580,74 @@
         3427
       ],
       "video_message_id": 3427
+    },
+    {
+      "tmdb_id": 711963,
+      "title": "Voltando para Casa no Escuro",
+      "original_title": "Coming Home in the Dark",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uuZr3QWULCxsNQOO3FxUZUKtyID.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3ve2QEOTgOUfjGZosMFbb3ts3Us.jpg",
+      "overview": "Um passeio em família sofre uma reviravolta sinistra quando o professor Alan Hoaganraad, sua esposa e dois enteados se deparam com uma dupla de vagabundos sem escrúpulos em busca de vingança.",
+      "genres": [
+        "Crime",
+        "Terror",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Daniel Gillies",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3EVKjIDFZOHeLzxOvJ4DmAVYMXg.jpg"
+        },
+        {
+          "name": "Erik Thomson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tzt0gdYDxMPgTi12p0PMQke0Crh.jpg"
+        },
+        {
+          "name": "Miriama McDowell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sFuzG9IprUI7nAOosOl6B8hD7ZB.jpg"
+        },
+        {
+          "name": "Matthias Luafutu",
+          "photo_url": "https://image.tmdb.org/t/p/w185/65KBlRWu561lTVPHlhgHskprLOh.jpg"
+        },
+        {
+          "name": "Frankie Paratene",
+          "photo_url": null
+        },
+        {
+          "name": "Billy Paratene",
+          "photo_url": null
+        },
+        {
+          "name": "Alan Palmer",
+          "photo_url": null
+        },
+        {
+          "name": "Bailey Cowan",
+          "photo_url": null
+        },
+        {
+          "name": "Timon Zeiss",
+          "photo_url": null
+        },
+        {
+          "name": "Tioti O'Donnell",
+          "photo_url": null
+        },
+        {
+          "name": "Kaira O'Donnell",
+          "photo_url": null
+        },
+        {
+          "name": "Ike Hamon",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7166
+      ],
+      "video_message_id": 7166
     },
     {
       "tmdb_id": 642700,

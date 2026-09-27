@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:55:42+00:00",
+  "generated_at": "2026-09-27T05:55:57+00:00",
   "channel": "-1004483833987",
-  "count": 2686,
-  "movie_count": 2642,
+  "count": 2687,
+  "movie_count": 2643,
   "series_count": 10,
   "episode_count": 44,
   "movies": [
@@ -55004,6 +55004,73 @@
         4160
       ],
       "video_message_id": 4160
+    },
+    {
+      "tmdb_id": 1168709,
+      "title": "Einstein e a Bomba",
+      "original_title": "Einstein and the Bomb",
+      "year": "2024",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pGEB1qR73d8XNhnHCXqnkuMokIk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yLtSpzKeGKx5aa4oTLV8y00RxHf.jpg",
+      "overview": "O que aconteceu depois que Einstein fugiu da Alemanha nazista? Com imagens de arquivo e as palavras dele, este documentário mergulha na mente do gênio torturado.",
+      "genres": [
+        "Documentário",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Aidan McArdle",
+          "photo_url": "https://image.tmdb.org/t/p/w185/u4WvfQQ89EgsRJCz4lKduO6avC7.jpg"
+        },
+        {
+          "name": "Andrew Havill",
+          "photo_url": "https://image.tmdb.org/t/p/w185/135ru0B7vX7PXGQ7IjbDnBshk1C.jpg"
+        },
+        {
+          "name": "Rachel Barry",
+          "photo_url": null
+        },
+        {
+          "name": "Helena Westerman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fCAzSpqps5X3CypnlWamtk3rYwL.jpg"
+        },
+        {
+          "name": "Leo Ashizawa",
+          "photo_url": "https://image.tmdb.org/t/p/w185/y88XmwDPt5XW7cRQJqUeMsIYhHi.jpg"
+        },
+        {
+          "name": "Jay Lewis Mitchell",
+          "photo_url": null
+        },
+        {
+          "name": "Simon Markey",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jfJa2HpG8P2Ob7DmbKtSS0XUGH7.jpg"
+        },
+        {
+          "name": "James Musgrave",
+          "photo_url": null
+        },
+        {
+          "name": "Simon Haines",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xQPp2rHJ9pKHkCslBI6Hszv6HaQ.jpg"
+        },
+        {
+          "name": "Toby Longworth",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9WexKxvDlZDfYV7lqUBxY1FfxaY.jpg"
+        },
+        {
+          "name": "Jonathan Rhodes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2E8zOvsfGnYMtz9htIpqUSyphQt.jpg"
+        },
+        {
+          "name": "Gethin Alderman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jbISkXW38PS2pULiAByaN6rNDRE.jpg"
+        }
+      ],
+      "message_ids": [
+        6924
+      ],
+      "video_message_id": 6924
     },
     {
       "tmdb_id": 1699414,

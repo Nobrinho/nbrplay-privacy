@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:28:57+00:00",
+  "generated_at": "2026-09-27T19:29:43+00:00",
   "channel": "-1004483833987",
-  "count": 3013,
+  "count": 3014,
   "movie_count": 2797,
   "series_count": 32,
-  "episode_count": 216,
+  "episode_count": 217,
   "custom_count": 0,
   "movies": [
     {
@@ -184418,6 +184418,37 @@
                 7389
               ],
               "video_message_id": 7389
+            },
+            {
+              "number": 7,
+              "tmdb_id": 3390125,
+              "title": "Realidade",
+              "air_date": "2021-12-19",
+              "overview": "Após eliminar o chefe de polícia e sua esposa, Elle solicita ajuda de J. para encontrar seu último alvo. Davis confronta J. sobre seu passado de Blade Runner. Para proteger seus investimentos, Niander Wallace Sr. ordena o encerramento do envolvimento de sua empresa com replicantes, para o desgosto de seu filho. Elle encontra e desafia Dr. M., mas cai numa cilada e tem suas memórias reviradas por cientistas.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/5T8G6VsTHWSlWpbmZ4wLf1Moe5r.jpg",
+              "cast": [
+                {
+                  "name": "Jessica Henwick",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hRrEqDIWlov1FvYRmBN2vLaAxyl.jpg"
+                },
+                {
+                  "name": "Will Yun Lee",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg"
+                },
+                {
+                  "name": "Wes Bentley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+                },
+                {
+                  "name": "Samira Wiley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/m45A0hYcpnGckwxqs7j0I6Sp2Dj.jpg"
+                }
+              ],
+              "message_ids": [
+                7392,
+                7393
+              ],
+              "video_message_id": 7393
             },
             {
               "number": 8,

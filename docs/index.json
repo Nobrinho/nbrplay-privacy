@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:25:11+00:00",
+  "generated_at": "2026-09-27T07:26:13+00:00",
   "channel": "-1004483833987",
-  "count": 2796,
-  "movie_count": 2712,
+  "count": 2797,
+  "movie_count": 2713,
   "series_count": 20,
   "episode_count": 84,
   "movies": [
@@ -33174,6 +33174,42 @@
         1479
       ],
       "video_message_id": 1479
+    },
+    {
+      "tmdb_id": 333058,
+      "title": "Bem-vindo à Família: O Assassinato de Dan Markel — S01E01 — Episódio 1",
+      "original_title": "Parvandh",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1gY8keU4h9wuO53sX57Rw0SQN8d.jpg",
+      "backdrop_url": null,
+      "overview": "An imprisoned tough guy acts as a stool pigeon for the authorities, an action that violates the tough guys’ ideal code of conduct.",
+      "genres": [],
+      "cast": [
+        {
+          "name": "Faramarz Gharibian",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kVvYmkcJ9r7BXX1eJS8nXVPcubR.jpg"
+        },
+        {
+          "name": "Bijan Emkanian",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xLsxGPwfr4hLscHKqzf90Ab1ZFm.jpg"
+        },
+        {
+          "name": "Ferdous Kaviani",
+          "photo_url": null
+        },
+        {
+          "name": "Hossein Kasbian",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5VZ2rQWRE8nPSMYztO2cPsSFu3H.jpg"
+        },
+        {
+          "name": "Valiyollah Shirandami",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rIsoQVzS4UnqXEfkf11Xfn4KMWK.jpg"
+        }
+      ],
+      "message_ids": [
+        7065
+      ],
+      "video_message_id": 7065
     },
     {
       "tmdb_id": 665,

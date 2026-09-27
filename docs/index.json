@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:34:51+00:00",
+  "generated_at": "2026-09-27T06:37:28+00:00",
   "channel": "-1004483833987",
-  "count": 2750,
-  "movie_count": 2679,
+  "count": 2751,
+  "movie_count": 2680,
   "series_count": 15,
   "episode_count": 71,
   "movies": [
@@ -70778,6 +70778,72 @@
         859
       ],
       "video_message_id": 859
+    },
+    {
+      "tmdb_id": 1585208,
+      "title": "Half-Life: 25th Anniversary Documentary",
+      "original_title": "Half-Life: 25th Anniversary Documentary",
+      "year": "2023",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3xLLMpnr02scRZQ2wG5t2X9pLnQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rDp1dQSELr8UDzzyhj0g6PKMoE2.jpg",
+      "overview": "To celebrate the 25th Anniversary of the release of Half-Life we reunited the original development team to share their memories of creating Valve's first game.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Kelly Bailey",
+          "photo_url": null
+        },
+        {
+          "name": "Yahn Bernier",
+          "photo_url": null
+        },
+        {
+          "name": "Ken Birdwell",
+          "photo_url": null
+        },
+        {
+          "name": "Steve Bond",
+          "photo_url": null
+        },
+        {
+          "name": "Dario Casali",
+          "photo_url": null
+        },
+        {
+          "name": "Greg Coomer",
+          "photo_url": null
+        },
+        {
+          "name": "John Guthrie",
+          "photo_url": null
+        },
+        {
+          "name": "Michael Harrington",
+          "photo_url": null
+        },
+        {
+          "name": "Brett Johnson",
+          "photo_url": null
+        },
+        {
+          "name": "Chuck Jones",
+          "photo_url": null
+        },
+        {
+          "name": "Marc Laidlaw",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iqIh5kIERG4q8lVF0YKHvEb5QaM.jpg"
+        },
+        {
+          "name": "Karen Laur",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7021
+      ],
+      "video_message_id": 7021
     },
     {
       "tmdb_id": 948,

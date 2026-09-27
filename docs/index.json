@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:50:14+00:00",
+  "generated_at": "2026-09-27T07:50:32+00:00",
   "channel": "-1004483833987",
-  "count": 2903,
-  "movie_count": 2746,
+  "count": 2904,
+  "movie_count": 2747,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -119007,6 +119007,74 @@
         6283
       ],
       "video_message_id": 6283
+    },
+    {
+      "tmdb_id": 79934,
+      "title": "O Palhaço",
+      "original_title": "O Palhaço",
+      "year": "2011",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mXSdKbBa2k1qIXmtDAszMYy49jH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aVZkkQEfvsjneuN3yZ1JFNyun8m.jpg",
+      "overview": "Benjamim e Valdemar formam a fabulosa dupla de palhaços Pangaré e Puro Sangue. Benjamim é um palhaço sem identidade, CPF e comprovante de residência. Ele vive pelas estradas na companhia da divertida trupe do Circo Esperança. Mas Benjamim acha que perdeu a graça e parte em uma aventura atrás de um sonho.",
+      "genres": [
+        "Comédia",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Selton Mello",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sBVDTAAEDJuVBTKzVGA0PrqeD17.jpg"
+        },
+        {
+          "name": "Paulo José",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3weSAehRGHhOoa3BFPk8sUCl3sI.jpg"
+        },
+        {
+          "name": "Larissa Manoela",
+          "photo_url": "https://image.tmdb.org/t/p/w185/v8ks9RZ4TaIIJJfJjihcYrMysh9.jpg"
+        },
+        {
+          "name": "Danton Mello",
+          "photo_url": "https://image.tmdb.org/t/p/w185/i0AIfi8y7hh1OV0OPLv7VEk9LPX.jpg"
+        },
+        {
+          "name": "Giselle Motta",
+          "photo_url": null
+        },
+        {
+          "name": "Teuda Bara",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mK71NY1xtEyxFl05u0e9Jq9aePs.jpg"
+        },
+        {
+          "name": "Álamo Facó",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cwscLmJqEWzIR4C0moB7aEFSVsi.jpg"
+        },
+        {
+          "name": "Cadu Fávero",
+          "photo_url": "https://image.tmdb.org/t/p/w185/28CwD4T1QoPo9tAiUOkSPYmfkHH.jpg"
+        },
+        {
+          "name": "Erom Cordeiro",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6mRyylZGA7CNsHviNFNmMNZs4YF.jpg"
+        },
+        {
+          "name": "Hossen Minussi",
+          "photo_url": null
+        },
+        {
+          "name": "Maira Chasseroux",
+          "photo_url": null
+        },
+        {
+          "name": "Thogun Teixeira",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lZ7n8XW04BlySQkL3RGz2eEEPFH.jpg"
+        }
+      ],
+      "message_ids": [
+        7239,
+        7240
+      ],
+      "video_message_id": 7240
     },
     {
       "tmdb_id": 1530723,

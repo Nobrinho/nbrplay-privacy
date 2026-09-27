@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:04:58+00:00",
+  "generated_at": "2026-09-27T07:05:18+00:00",
   "channel": "-1004483833987",
-  "count": 2778,
-  "movie_count": 2698,
+  "count": 2779,
+  "movie_count": 2699,
   "series_count": 19,
   "episode_count": 80,
   "movies": [
@@ -37485,6 +37485,49 @@
         5023
       ],
       "video_message_id": 5023
+    },
+    {
+      "tmdb_id": 1129199,
+      "title": "Carlos",
+      "original_title": "Carlos",
+      "year": "2023",
+      "poster_url": "https://image.tmdb.org/t/p/w500/70BSOJc0UQyblnNiPmvWEuoigS1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5vDHazSOqZgOz1vtW3fZPWBcv1A.jpg",
+      "overview": "Acompanha a jornada de Santana, de músico de rua de 14 anos a uma sensação global ganhadora de 10 prêmios Grammy. Apresenta imagens de arquivo e faixas inéditas",
+      "genres": [
+        "Documentário",
+        "Música"
+      ],
+      "cast": [
+        {
+          "name": "Carlos Santana",
+          "photo_url": "https://image.tmdb.org/t/p/w185/x1SNrrKObL6pYvKa1YmoI6p5Rml.jpg"
+        },
+        {
+          "name": "Gregg Rolie",
+          "photo_url": "https://image.tmdb.org/t/p/w185/umDiaqxOhJrj8Xj5bjQWhyUT0QV.jpg"
+        },
+        {
+          "name": "Michael Carabello",
+          "photo_url": null
+        },
+        {
+          "name": "José Areas",
+          "photo_url": null
+        },
+        {
+          "name": "Mike Shrieve",
+          "photo_url": null
+        },
+        {
+          "name": "Cindy Blackman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gHHiJ0j5PW6liQWIuq2gTyQYE5X.jpg"
+        }
+      ],
+      "message_ids": [
+        7053
+      ],
+      "video_message_id": 7053
     },
     {
       "tmdb_id": 133805,

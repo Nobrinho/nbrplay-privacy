@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:22:56+00:00",
+  "generated_at": "2026-09-27T05:23:26+00:00",
   "channel": "-1004483833987",
-  "count": 2650,
-  "movie_count": 2617,
+  "count": 2651,
+  "movie_count": 2618,
   "series_count": 8,
   "episode_count": 33,
   "movies": [
@@ -65994,6 +65994,52 @@
         5512
       ],
       "video_message_id": 5512
+    },
+    {
+      "tmdb_id": 242318,
+      "title": "Getúlio Vargas",
+      "original_title": "Getúlio Vargas",
+      "year": "1974",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4sekAPOzjUfvMvPKR9msvWKpLhE.jpg",
+      "backdrop_url": null,
+      "overview": "Trata de um dos personagens mais controversos da história do Brasil: Getúlio Vargas, ditador e, depois, presidente constitucional, em mandato encerrado por seu suicídio. O filme utiliza cinejornais do Departamento de Imprensa e Propaganda e da Agência Nacional, além de imagens de arquivo da família de Vargas.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Getúlio Vargas",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eo8q8qAA62scOHqLTtjSrjA4IoX.jpg"
+        },
+        {
+          "name": "Paulo César Peréio",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ukpgW58r0fKQMPK8OvAhycPJg4d.jpg"
+        },
+        {
+          "name": "Eurico Gaspar Dutra",
+          "photo_url": null
+        },
+        {
+          "name": "Benito Mussolini",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rizo5Ct0esQP4gQmisdJ2FkkZhq.jpg"
+        },
+        {
+          "name": "Tancredo Neves",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6UKTwje2N2Wtt3JpMTY8miu5Xq.jpg"
+        },
+        {
+          "name": "Nelson Rockefeller",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vTbNS2gE35zFN6wSKjgZt8AYqqF.jpg"
+        },
+        {
+          "name": "Grande Otelo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/s3j11mMhLm4U50Ru2Qke3YaTvxz.jpg"
+        }
+      ],
+      "message_ids": [
+        6877
+      ],
+      "video_message_id": 6877
     },
     {
       "tmdb_id": 1203397,

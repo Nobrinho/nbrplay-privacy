@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:00:40+00:00",
+  "generated_at": "2026-09-27T06:01:11+00:00",
   "channel": "-1004483833987",
-  "count": 2700,
-  "movie_count": 2656,
+  "count": 2701,
+  "movie_count": 2657,
   "series_count": 10,
   "episode_count": 44,
   "movies": [
@@ -33524,6 +33524,75 @@
         1483
       ],
       "video_message_id": 1483
+    },
+    {
+      "tmdb_id": 1016084,
+      "title": "BlackBerry",
+      "original_title": "BlackBerry",
+      "year": "2023",
+      "poster_url": "https://image.tmdb.org/t/p/w500/neV35lK7em4rIY9QIoH1cruErPA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cUHxmWfkp6se0Rt10Kr86bMCYDE.jpg",
+      "overview": "A história dos empresários canadenses Mike Lazaridis (Jay Baruchel) e Jim Balsillie (Glenn Howerton), dois homens interessados em tecnologia que traçaram o plano de ascensão espetacular do primeiro smartphone do mundo, o modelo BlackBerry. No entanto, em apenas poucos anos, sua invenção enfrentou uma queda catastrófica com a chegada de outros dispositivos ao mercado.",
+      "genres": [
+        "Comédia",
+        "Drama",
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "Jay Baruchel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1GYJeQzPcY9Pfmc3FFsBwClkCv7.jpg"
+        },
+        {
+          "name": "Glenn Howerton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/r3KJd0Ea7lyrAHWl2Ww8lMh29hx.jpg"
+        },
+        {
+          "name": "Matt Johnson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3COKJ3lpoXhxgRELso9kmwDH29b.jpg"
+        },
+        {
+          "name": "Saul Rubinek",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vW4ERsjupcc9u1ipDR7w6h6sphe.jpg"
+        },
+        {
+          "name": "Cary Elwes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9UszBdQJ9PmyBydIeIBxlStozhW.jpg"
+        },
+        {
+          "name": "Rich Sommer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cfbJ3nyiyRpSq2mLrbbrbg1k3Dh.jpg"
+        },
+        {
+          "name": "Michael Ironside",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mzHmxtKcMJjDqWxKd67mKQJFW1B.jpg"
+        },
+        {
+          "name": "Martin Donovan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wTCmpcmd8mcAbsX6Yc7zFs2J98Q.jpg"
+        },
+        {
+          "name": "Michelle Giroux",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fvJedTiQO2eBDlcAe62S3MX8chM.jpg"
+        },
+        {
+          "name": "SungWon Cho",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jh5Au9smnPwfLoPNrcJ2VsJnbhU.jpg"
+        },
+        {
+          "name": "Mark Critch",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dpok71aGcWZb7AkROTgTMDC7nOB.jpg"
+        },
+        {
+          "name": "Kelly Van der Burg",
+          "photo_url": "https://image.tmdb.org/t/p/w185/axFNVt54lGkVxSVpVUyJ2fAFHPB.jpg"
+        }
+      ],
+      "message_ids": [
+        6941,
+        6942
+      ],
+      "video_message_id": 6942
     },
     {
       "tmdb_id": 158999,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:20:01+00:00",
+  "generated_at": "2026-09-27T04:20:43+00:00",
   "channel": "-1004483833987",
-  "count": 2585,
-  "movie_count": 2577,
+  "count": 2586,
+  "movie_count": 2578,
   "series_count": 2,
   "episode_count": 8,
   "movies": [
@@ -142103,6 +142103,73 @@
         440
       ],
       "video_message_id": 440
+    },
+    {
+      "tmdb_id": 855823,
+      "title": "Schumacher",
+      "original_title": "Schumacher",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ArpeW9q7rEwWyzZ3SZbBRsuvFPZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lqEjBR3osI3Ezup9onTXYz7RyNZ.jpg",
+      "overview": "Por meio de entrevistas exclusivas e imagens de arquivo, este documentário traça um perfil íntimo de Michael Schumacher, sete vezes campeão da Fórmula 1.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Michael Schumacher",
+          "photo_url": "https://image.tmdb.org/t/p/w185/soIayrvI5LVk7XTn644rAYGeiCd.jpg"
+        },
+        {
+          "name": "Mick Schumacher",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9LSKlCc3vrmytsUMeZfSCowdG8R.jpg"
+        },
+        {
+          "name": "Corinna Schumacher",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5pQZ1CxzlwCP5QVEY8FyXu7Z6za.jpg"
+        },
+        {
+          "name": "Ralf Schumacher",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n8uKkSdiHMLT12xFZTOJOZrynks.jpg"
+        },
+        {
+          "name": "Rolf Schumacher",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3ZKbdkr07Q0dp0uzilsKAxEkxTn.jpg"
+        },
+        {
+          "name": "Gina Schumacher",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nTEO2INFDAHtf0Y4h7ygTG8QMbO.jpg"
+        },
+        {
+          "name": "Jean Todt",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9VgzorhEhe4JeMM5vYX2EKN1l5l.jpg"
+        },
+        {
+          "name": "Bernie Ecclestone",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5HR6bsn3Ny5tiDhojZWe2ptZ23Q.jpg"
+        },
+        {
+          "name": "Sebastian Vettel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dzAh6yYAwuWfDIwHkhbXlc5DeH3.jpg"
+        },
+        {
+          "name": "Mika Häkkinen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bQYtRGhIrsgdUz07WuhQnu9x9Bm.jpg"
+        },
+        {
+          "name": "Damon Hill",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cUyZJlAVtr2F2DTTdk5MNsE1BQE.jpg"
+        },
+        {
+          "name": "Flavio Briatore",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1JQHb2ttMYrZhNPC7bV0xu1o4CD.jpg"
+        }
+      ],
+      "message_ids": [
+        6803,
+        6804
+      ],
+      "video_message_id": 6804
     },
     {
       "tmdb_id": 11024,

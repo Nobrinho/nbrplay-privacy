@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:47:44+00:00",
+  "generated_at": "2026-09-27T04:48:04+00:00",
   "channel": "-1004483833987",
-  "count": 2623,
-  "movie_count": 2593,
+  "count": 2624,
+  "movie_count": 2594,
   "series_count": 7,
   "episode_count": 30,
   "movies": [
@@ -133901,6 +133901,66 @@
         774
       ],
       "video_message_id": 774
+    },
+    {
+      "tmdb_id": 753325,
+      "title": "Projeto Mercury: Os Sete Escolhidos",
+      "original_title": "The Real Right Stuff",
+      "year": "2020",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sC3gj5GrU4wtkZt5BQTftnnqaNa.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cMtEhyQsamhxzKRsPblhx4WE9jp.jpg",
+      "overview": "Projeto Mercury: Os Sete Escolhidos transporta os espectadores de volta para o fim da década de 1950 para contar a história dos primeiros astronautas americanos, conhecidos como os Mercury 7. Intercalando noticiários da época, gravações de áudio da missão da NASA nunca antes ouvidas e um material raro e nunca visto, esse documentário leva os espectadores de volta a um dos períodos mais dramáticos da história norte-americana.",
+      "genres": [
+        "Documentário",
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "Tom Wolfe",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wiphKSB7zMy4p69FoSTMNkkRXOm.jpg"
+        },
+        {
+          "name": "John Glenn",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cdSQofWoB8jQBfAN4pNpt5ey3Cj.jpg"
+        },
+        {
+          "name": "Frank McGee",
+          "photo_url": null
+        },
+        {
+          "name": "Ralph Renick",
+          "photo_url": null
+        },
+        {
+          "name": "Virgil Gus Grissom",
+          "photo_url": null
+        },
+        {
+          "name": "Walter Cronkite",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hCIBybvwP7aMqwJFxcmVEyNrRyB.jpg"
+        },
+        {
+          "name": "John F. Kennedy",
+          "photo_url": "https://image.tmdb.org/t/p/w185/59L7ESQn3PCui8bVluY7H5Qu9Fv.jpg"
+        },
+        {
+          "name": "Alan Shepard",
+          "photo_url": null
+        },
+        {
+          "name": "Rene Carpenter",
+          "photo_url": null
+        },
+        {
+          "name": "Annie Glenn",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6843,
+        6844
+      ],
+      "video_message_id": 6844
     },
     {
       "tmdb_id": 57214,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:54:29+00:00",
+  "generated_at": "2026-09-27T06:54:34+00:00",
   "channel": "-1004483833987",
-  "count": 2766,
-  "movie_count": 2689,
+  "count": 2767,
+  "movie_count": 2690,
   "series_count": 18,
   "episode_count": 77,
   "movies": [
@@ -78080,6 +78080,29 @@
         780
       ],
       "video_message_id": 780
+    },
+    {
+      "tmdb_id": 1620991,
+      "title": "Investigando Lucy Letby",
+      "original_title": "The Investigation of Lucy Letby",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wgxGooHYBfsVDwmBCwyQ2WmCCFg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qhSfXdkrIzwYsyQ3Z9ehFmO3zjy.jpg",
+      "overview": "Imagens e depoimentos inéditos lançam luz sobre o polêmico caso de Lucy Letby, a enfermeira condenada pelo assassinato de recém-nascidos.",
+      "genres": [
+        "Documentário",
+        "Crime"
+      ],
+      "cast": [
+        {
+          "name": "Lucy Letby",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7034
+      ],
+      "video_message_id": 7034
     },
     {
       "tmdb_id": 22954,

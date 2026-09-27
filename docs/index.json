@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:04:49+00:00",
+  "generated_at": "2026-09-27T07:04:54+00:00",
   "channel": "-1004483833987",
-  "count": 2776,
+  "count": 2777,
   "movie_count": 2698,
   "series_count": 19,
-  "episode_count": 78,
+  "episode_count": 79,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -179224,6 +179224,69 @@
                 7048
               ],
               "video_message_id": 7048
+            },
+            {
+              "number": 3,
+              "tmdb_id": 7002691,
+              "title": "A gente tá bebendo água contaminada?",
+              "air_date": "2026-03-18",
+              "overview": "A crise se aprofunda, e o boato sobre a radiação na água da cidade se espalha. Alguns protestam contra os métodos dos médicos, outros apelam para a compaixão deles.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/suZyi1yu114HKx2eCinpzEtM53i.jpg",
+              "cast": [
+                {
+                  "name": "Johnny Massaro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/gPwKUHWiUpQAyITlCQZ0aCngiHJ.jpg"
+                },
+                {
+                  "name": "Paulo Gorgulho",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/sSWzsf7p4xHnOLIf61k7Jx7V0Q2.jpg"
+                },
+                {
+                  "name": "Ana Costa",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/cl9e0zmPwaxamALFaOefuJWgIgd.jpg"
+                },
+                {
+                  "name": "Bukassa Kabengele",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/wg1lFAnr2cYQsIC1DoES6i1VbCx.jpg"
+                },
+                {
+                  "name": "Alan Rocha",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/9Vc1TJtnF70SEC0oKZ99w20rhqf.jpg"
+                },
+                {
+                  "name": "Marina Merlino",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/sVsF5gA1tCEKG9D5DHv7H7l1UBa.jpg"
+                },
+                {
+                  "name": "William Costa",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/tHtzXety96qbFBcd4AySrRpQ10Z.jpg"
+                },
+                {
+                  "name": "Antonio Saboia",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/cjSFDPYxqR1duZjhwGwTr8LNFsj.jpg"
+                },
+                {
+                  "name": "Luiz Bertazzo",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/9rpkxfChPTkNkOscTfd2lqqENix.jpg"
+                },
+                {
+                  "name": "Clarissa Kiste",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/fAi4LdPgXMHLWtNNyxmPVbq2dyt.jpg"
+                },
+                {
+                  "name": "Douglas Simon",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/mftMMs1XQA38cYnvdE9TjaTXxiO.jpg"
+                },
+                {
+                  "name": "Tuca Andrada",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xK0464NhRY67ZTX45os2oEwRWyT.jpg"
+                }
+              ],
+              "message_ids": [
+                7049,
+                7050
+              ],
+              "video_message_id": 7050
             }
           ]
         }

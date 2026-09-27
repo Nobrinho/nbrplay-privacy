@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:53:57+00:00",
+  "generated_at": "2026-09-27T05:54:02+00:00",
   "channel": "-1004483833987",
-  "count": 2681,
+  "count": 2682,
   "movie_count": 2641,
   "series_count": 10,
-  "episode_count": 40,
+  "episode_count": 41,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -176814,6 +176814,19 @@
                 6918
               ],
               "video_message_id": 6918
+            },
+            {
+              "number": 4,
+              "tmdb_id": 2911508,
+              "title": "As Torturas",
+              "air_date": "2021-05-20",
+              "overview": "É na casa de veraneio do ditador paraguaio, Alfredo Stroessner que Osvaldo Marceneiro e Davi dos Santos Soares descrevem ter sido torturados.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/1cN1ogiwv4CDF82e2eApc4Vl4Dz.jpg",
+              "cast": [],
+              "message_ids": [
+                6919
+              ],
+              "video_message_id": 6919
             }
           ]
         }

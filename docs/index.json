@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:05:13+00:00",
+  "generated_at": "2026-09-27T05:06:19+00:00",
   "channel": "-1004483833987",
-  "count": 2632,
-  "movie_count": 2602,
+  "count": 2633,
+  "movie_count": 2603,
   "series_count": 7,
   "episode_count": 30,
   "movies": [
@@ -170079,6 +170079,40 @@
         3364
       ],
       "video_message_id": 3364
+    },
+    {
+      "tmdb_id": 507469,
+      "title": "Vladimir Putin",
+      "original_title": "America's Greatest Threat: Vladimir Putin",
+      "year": "2018",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7zs5EhAWR5Eib4leqCn1EP6bGkp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1MQNACTmel9acEFOOnFbMsjz3Km.jpg",
+      "overview": "Um olhar sobre a vida de Vladimir Putin, desde seu início humilde até sua transformação em uma das maiores ameaças aos EUA.",
+      "genres": [
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "Vladimir Kara-Murza",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tkpPxj2cmH1fOertvNJb31bTGsy.jpg"
+        },
+        {
+          "name": "Mikhail Kasyanov",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bDqP6076pyBmJ0vdDKMLFkDd5xX.jpg"
+        },
+        {
+          "name": "John McCain",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uRuJ4V13m0BEq1p2EFACco0b48X.jpg"
+        },
+        {
+          "name": "Nadezhda Tolokonnikova",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pLJb87JawrWYJfm2D34VvZYuKv2.jpg"
+        }
+      ],
+      "message_ids": [
+        6855
+      ],
+      "video_message_id": 6855
     },
     {
       "tmdb_id": 398181,

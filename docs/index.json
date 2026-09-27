@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T03:05:25+00:00",
+  "generated_at": "2026-09-27T03:06:18+00:00",
   "channel": "-1004483833987",
-  "count": 2540,
-  "movie_count": 2540,
+  "count": 2541,
+  "movie_count": 2541,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -6581,6 +6581,74 @@
         5249
       ],
       "video_message_id": 5249
+    },
+    {
+      "tmdb_id": 326316,
+      "title": "A Era de Ouro",
+      "original_title": "Spinning Gold",
+      "year": "2023",
+      "poster_url": "https://image.tmdb.org/t/p/w500/p7HiwisHEP9l1bF3LMnoF3R63nn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iByv5K0Msg8iiBlVeR1RqCa04Pj.jpg",
+      "overview": "Neil Bogart funda a gravadora Casablanca Records na década de 1970 e assina com grandes artistas como Donna Summer, Parliament, Gladys Knight, Isley Brothers, Village People, Bill Withers e Kiss. Com uma equipe de jovens e entusiasmados amantes da música, a Casablanca reescreve a história e muda a indústria fonográfica para sempre.",
+      "genres": [
+        "Música",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Jeremy Jordan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ev2bFhk810TlMtRsZIQhKylJPpK.jpg"
+        },
+        {
+          "name": "Michelle Monaghan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uK1qhSzKd9gkDh3p1H5e2PWMYyH.jpg"
+        },
+        {
+          "name": "Jay Pharoah",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qpCc7SshxYXcgZIjhv8xKWuzEp6.jpg"
+        },
+        {
+          "name": "Lyndsy Fonseca",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xPbbiLpUpmaHIVnyR3BAfG1tm5S.jpg"
+        },
+        {
+          "name": "Dan Fogler",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zJWbLEjfbDthBMucq9M6L4GJXL3.jpg"
+        },
+        {
+          "name": "Peyton List",
+          "photo_url": "https://image.tmdb.org/t/p/w185/b1rEqHlkyHwRtockTE7WQNLyu9t.jpg"
+        },
+        {
+          "name": "James Wolk",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kINM0yfNAznf777qc9srnbjovcZ.jpg"
+        },
+        {
+          "name": "Michael Ian Black",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qAOJfAK6VjV7ugRfy1zbud14OkQ.jpg"
+        },
+        {
+          "name": "Chris Redd",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nTisigWhjdQ10puFLTay9bqYl6s.jpg"
+        },
+        {
+          "name": "Sebastian Maniscalco",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bvJQGVOI8fJ9Y4eAvYqoQcOAbHZ.jpg"
+        },
+        {
+          "name": "Jason Isaacs",
+          "photo_url": "https://image.tmdb.org/t/p/w185/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+        },
+        {
+          "name": "Sam Nelson Harris",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4rSa9bkhYV4rE0zSaE7Qb5Xb2WK.jpg"
+        }
+      ],
+      "message_ids": [
+        6750,
+        6751
+      ],
+      "video_message_id": 6751
     },
     {
       "tmdb_id": 52247,

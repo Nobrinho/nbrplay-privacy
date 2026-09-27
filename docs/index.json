@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:13:19+00:00",
+  "generated_at": "2026-09-27T07:13:33+00:00",
   "channel": "-1004483833987",
-  "count": 2785,
-  "movie_count": 2705,
+  "count": 2786,
+  "movie_count": 2706,
   "series_count": 19,
   "episode_count": 80,
   "movies": [
@@ -51957,6 +51957,45 @@
         729
       ],
       "video_message_id": 729
+    },
+    {
+      "tmdb_id": 1686326,
+      "title": "Dibu Martínez: O Garoto que Parava o Tempo",
+      "original_title": "Dibu Martínez: El pibe que ataja el tiempo",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ns7hOXCSuDtoVUyqx1v806y0XGF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rAqFDIezocktFUtNCRqZ2wTKjUq.jpg",
+      "overview": "Combinando entrevistas e animação, este filme acompanha a jornada do lendário goleiro Emi Martínez, do interior da Argentina à glória mundial.",
+      "genres": [
+        "Animação",
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Emiliano Martínez",
+          "photo_url": "https://image.tmdb.org/t/p/w185/otA9buZ7tJJAJUw8zZW7sFTn3XN.jpg"
+        },
+        {
+          "name": "Lionel Messi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gyum5zHlEsvg3DlXgeNjhayUlNo.jpg"
+        },
+        {
+          "name": "Agustín Aristarán",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bLYj5IHVW1eWY6KAVzmnF8k13By.jpg"
+        },
+        {
+          "name": "Lionel Scaloni",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bkcJOGUmepTfQf667LpTy2Bfehv.jpg"
+        },
+        {
+          "name": "Miguel Ángel Santoro",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1C4VUelPKSx8g10aG4pJcWkomEP.jpg"
+        }
+      ],
+      "message_ids": [
+        7062
+      ],
+      "video_message_id": 7062
     },
     {
       "tmdb_id": 1411273,

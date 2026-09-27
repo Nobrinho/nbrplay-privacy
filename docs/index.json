@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T22:44:42+00:00",
+  "generated_at": "2026-09-27T22:44:54+00:00",
   "channel": "-1004483833987",
-  "count": 3098,
+  "count": 3100,
   "movie_count": 2807,
   "series_count": 40,
-  "episode_count": 291,
+  "episode_count": 293,
   "custom_count": 0,
   "movies": [
     {
@@ -184869,7 +184869,7 @@
       "title": "Bem-vindos à Terra",
       "original_title": "Welcome to Earth",
       "poster_url": "https://image.tmdb.org/t/p/w500/6tJMH9Qjbefj5kLoIeNcyR6Z4Ep.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/s3zyHFpUXgv7mPplG8WccNT5yRG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/k6MMAIhhkDE5BAt4WZp4H7aQJb4.jpg",
       "genres": [
         "Documentário"
       ],
@@ -184877,6 +184877,76 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 3030112,
+              "title": "O Rugido Silencioso",
+              "air_date": "2021-12-08",
+              "overview": "Aprendendo a ouvir os mistérios escondidos da Terra. Will Smith se une à uma aterrorizante expedição para fazer rapel em um vulcão ativo para investigar um novo universo de sons.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/k6MMAIhhkDE5BAt4WZp4H7aQJb4.jpg",
+              "cast": [
+                {
+                  "name": "Will Smith",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
+                },
+                {
+                  "name": "Dwayne Fields",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/jVWolBOJhp5tGlQhn6sEDxgPFAK.jpg"
+                },
+                {
+                  "name": "Erik Weihenmayer",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/vtcA8YKFSQh8W2SsOXXSX4I3chh.jpg"
+                },
+                {
+                  "name": "Cody Richardson",
+                  "photo_url": null
+                },
+                {
+                  "name": "Diva Amon",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7499,
+                7500
+              ],
+              "video_message_id": 7500
+            },
+            {
+              "number": 2,
+              "tmdb_id": 3329916,
+              "title": "A Descida Rumo à Escuridão",
+              "air_date": "2021-12-08",
+              "overview": "Em um submersível de águas profundas, Will Smith desce 1000 metros até o fundo do oceano, um lugar aonde foram menos pessoas que ao espaço sideral. Ao longo da descida, Will e a exploradora Diva Amon investigam como a cor é utilizada no mundo natural.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/ay7BASMAUIHupDLONifNjq10nZw.jpg",
+              "cast": [
+                {
+                  "name": "Will Smith",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
+                },
+                {
+                  "name": "Dwayne Fields",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/jVWolBOJhp5tGlQhn6sEDxgPFAK.jpg"
+                },
+                {
+                  "name": "Erik Weihenmayer",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/vtcA8YKFSQh8W2SsOXXSX4I3chh.jpg"
+                },
+                {
+                  "name": "Cody Richardson",
+                  "photo_url": null
+                },
+                {
+                  "name": "Diva Amon",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7497,
+                7498
+              ],
+              "video_message_id": 7498
+            },
             {
               "number": 3,
               "tmdb_id": 3329917,

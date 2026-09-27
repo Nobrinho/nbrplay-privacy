@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:27:04+00:00",
+  "generated_at": "2026-09-27T19:27:08+00:00",
   "channel": "-1004483833987",
-  "count": 3009,
+  "count": 3010,
   "movie_count": 2797,
   "series_count": 32,
-  "episode_count": 212,
+  "episode_count": 213,
   "custom_count": 0,
   "movies": [
     {
@@ -190861,7 +190861,7 @@
       "title": "Territórios - Sob o Domínio do Crime",
       "original_title": "Territórios - Sob o Domínio do Crime",
       "poster_url": "https://image.tmdb.org/t/p/w500/sq5oUBojNNbk97hKMAk0IqGo2Vc.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8MxJJCk9rRf7YEuMC81VunsKBV5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5kBj8OdMQ1GM7mPQOkRJs3sBmBx.jpg",
       "genres": [
         "Documentário",
         "Crime",
@@ -190871,6 +190871,45 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 7216346,
+              "title": "Quem Controla o Território?",
+              "air_date": "2026-04-30",
+              "overview": "Uma megaoperação no Rio de Janeiro retrata todas as dificuldades no enfrentamento às facções criminosas que se espalham pelo Brasil.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/5kBj8OdMQ1GM7mPQOkRJs3sBmBx.jpg",
+              "cast": [
+                {
+                  "name": "Paulo Renato Soares",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/45jlzHMHbfHNSSJmIXbw2QSa1Zs.jpg"
+                },
+                {
+                  "name": "Leslie Leitão",
+                  "photo_url": null
+                },
+                {
+                  "name": "Mahomed Saigg",
+                  "photo_url": null
+                },
+                {
+                  "name": "Luiz Fernando da Costa",
+                  "photo_url": null
+                },
+                {
+                  "name": "Delegado Fabrício",
+                  "photo_url": null
+                },
+                {
+                  "name": "Ivana David",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7384,
+                7385
+              ],
+              "video_message_id": 7385
+            },
             {
               "number": 3,
               "tmdb_id": 7216379,

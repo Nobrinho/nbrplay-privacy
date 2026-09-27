@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:24:02+00:00",
+  "generated_at": "2026-09-27T19:24:08+00:00",
   "channel": "-1004483833987",
-  "count": 2995,
-  "movie_count": 2789,
+  "count": 2996,
+  "movie_count": 2790,
   "series_count": 31,
   "episode_count": 206,
   "custom_count": 0,
@@ -111266,6 +111266,75 @@
         4089
       ],
       "video_message_id": 4089
+    },
+    {
+      "tmdb_id": 13486,
+      "title": "O Escorpião Rei 2: A Saga de um Guerreiro",
+      "original_title": "The Scorpion King 2: Rise of a Warrior",
+      "year": "2008",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cFN11ixhnyFp3QZF01ZaCUaNdFW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mFhz8N5lyficOCh9tA7pSebOdMw.jpg",
+      "overview": "Depois de um monte de escorpiões encantados matarem seu pai, Mathayus foge e promete acertar as contas com o cruel feiticeiro Sargon. Ao voltar para casa depois de anos de treinamento de combate, Mathayus descobre que Sargon se tornou rei e está protegido por um feitiço poderoso. Agora, para recuperar uma espada mística, que é a única arma capaz de atravessar o feitiço e destruir o tirano, Mathayus e a guerreira Layla precisam enfrentar um labirinto perigoso guardado por um Minotauro mortal.",
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Fantasia"
+      ],
+      "cast": [
+        {
+          "name": "Michael Copon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/i3k6kmAA3LLlPFEzkOs5hRIfwg6.jpg"
+        },
+        {
+          "name": "Randy Couture",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pmdPaQBWufFVwVxJYofLcERZr1l.jpg"
+        },
+        {
+          "name": "Karen David",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zi4fUbrhvXqufdR4Ws7WflNUGLs.jpg"
+        },
+        {
+          "name": "Simon Quarterman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/m9U1BfmPT9XJLizKaWb7mp9IZje.jpg"
+        },
+        {
+          "name": "Tom Wu",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qBQAerjLCCglXIyMURUj3hPpiCM.jpg"
+        },
+        {
+          "name": "Andreas Wisniewski",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sTI9mDwajw4j6HX3Ze4qoK3lhE7.jpg"
+        },
+        {
+          "name": "Natalie Becker",
+          "photo_url": "https://image.tmdb.org/t/p/w185/61BYuT0gYCGkCk7anrhm590pbAN.jpg"
+        },
+        {
+          "name": "Jeremy Crutchley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cXFWc8L1CyCfzpiBCzmSH5OAzgI.jpg"
+        },
+        {
+          "name": "Shane Manie",
+          "photo_url": null
+        },
+        {
+          "name": "Chase Agulhas",
+          "photo_url": null
+        },
+        {
+          "name": "Pierre Marais",
+          "photo_url": null
+        },
+        {
+          "name": "Warrick Grier",
+          "photo_url": "https://image.tmdb.org/t/p/w185/r10e3Ae78PZvGE3sADiiW51hihx.jpg"
+        }
+      ],
+      "message_ids": [
+        7363,
+        7364
+      ],
+      "video_message_id": 7364
     },
     {
       "tmdb_id": 10555,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:21:36+00:00",
+  "generated_at": "2026-09-27T05:22:35+00:00",
   "channel": "-1004483833987",
-  "count": 2648,
-  "movie_count": 2615,
+  "count": 2649,
+  "movie_count": 2616,
   "series_count": 8,
   "episode_count": 33,
   "movies": [
@@ -3613,6 +3613,72 @@
         3261
       ],
       "video_message_id": 3261
+    },
+    {
+      "tmdb_id": 1455198,
+      "title": "8 de Janeiro: O Dia que Abalou o Brasil",
+      "original_title": "8 de Janeiro: O Dia que Abalou o Brasil",
+      "year": "2023",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7KpeSapoMyatqmsXSciqR0ga3i4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eCGe9Y0a2GLL77sjnrKVWrIrklT.jpg",
+      "overview": "Just one week after the inauguration of the new president, Luiz Inácio Lula da Silva, supporters of his predecessor, Jair Bolsonaro, invaded and vandalized the headquarters of the three branches of government in Brasília: the National Congress, the Planalto Palace and the Supreme Federal Court. Unhappy with their defeat at the polls and guided by fake news and conspiracy theories, many of the pro-Bolsonaro invaders believed that the Armed Forces would overthrow the newly inaugurated government. The images of destruction made headlines around the world. In this special documentary, reporter Camilla Veras Mota and video journalist Giovanni Bello went to Brasília to speak with witnesses of what happened that day and, with the help of experts, piece together the pieces that made the January 8 attacks possible.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Camilla Veras Mota",
+          "photo_url": null
+        },
+        {
+          "name": "Flávio Dino",
+          "photo_url": null
+        },
+        {
+          "name": "Luiz Inácio Lula da Silva",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AtibuGdOqTQZFnNZqB7BZxKVEJr.jpg"
+        },
+        {
+          "name": "Jair Bolsonaro",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7C4ZYNuqESt4oSCge7pUxPDwfXR.jpg"
+        },
+        {
+          "name": "Alexandre de Moraes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/CaAfdf03RCMEewdNNybUTSqnvM.jpg"
+        },
+        {
+          "name": "Angela Maria Alonso",
+          "photo_url": null
+        },
+        {
+          "name": "Luis Fakhouri",
+          "photo_url": null
+        },
+        {
+          "name": "Anna Carolina Rocha",
+          "photo_url": null
+        },
+        {
+          "name": "Tânia Pinc",
+          "photo_url": null
+        },
+        {
+          "name": "Adilson Paz",
+          "photo_url": null
+        },
+        {
+          "name": "Ibaneis Rocha",
+          "photo_url": null
+        },
+        {
+          "name": "Anderson Torres",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6875
+      ],
+      "video_message_id": 6875
     },
     {
       "tmdb_id": 65,

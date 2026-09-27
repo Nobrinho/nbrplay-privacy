@@ -1,8 +1,11 @@
 {
-  "version": 1,
-  "generated_at": "2026-09-26T04:00:47+00:00",
+  "version": 2,
+  "generated_at": "2026-09-27T02:36:29+00:00",
   "channel": "-1004483833987",
-  "count": 2514,
+  "count": 2515,
+  "movie_count": 2515,
+  "series_count": 0,
+  "episode_count": 0,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -122987,6 +122990,76 @@
       "video_message_id": 430
     },
     {
+      "tmdb_id": 14611,
+      "title": "Os Supremos 2: Descubra o Poder da Pantera",
+      "original_title": "Ultimate Avengers 2",
+      "year": "2006",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5vFWN2t4VAmJ2VVKbZPG39ViAmb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hoJpIYgFPc75NhaSWPNUeMFPMy1.jpg",
+      "overview": "Uma poderosa força alienígena está prestes a invadir a Terra. Ela está em busca de algo escondido na nação secreta de Wakanda, governada pelo príncipe T´Challa (Jeffrey D. Sams), também conhecido como Pantera Negra. Decidido a combater sua nação, ele pede a ajuda dos Supremos, um grupo formado por sete dos maiores super-heróis do planeta: Capitão América (Justin Gross), Hulk (Fred Tatasciore), Vespa (Grey DeLisle), Homem de Ferro (Marc Worden), Viúva Negra (Olivia d´Abo), Thor (David Boat) e Gigante (Nolan North).",
+      "genres": [
+        "Aventura",
+        "Animação",
+        "Ação",
+        "Ficção científica"
+      ],
+      "cast": [
+        {
+          "name": "Justin Gross",
+          "photo_url": null
+        },
+        {
+          "name": "Jeffrey D. Sams",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tEjdUfCEiX7ZrPm2HTGs5Y1Sn7V.jpg"
+        },
+        {
+          "name": "Grey DeLisle",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+        },
+        {
+          "name": "Nolan North",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gb499KZIoBTZnKCGKE4zwzlcfSe.jpg"
+        },
+        {
+          "name": "Olivia D'Abo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sQTqkjNyUSl25cIDr8xhjmO4DhA.jpg"
+        },
+        {
+          "name": "Marc Worden",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d91IoBbnS5HX2I8lzGosvc39PgS.jpg"
+        },
+        {
+          "name": "Michael Massee",
+          "photo_url": "https://image.tmdb.org/t/p/w185/swlvVVcDhaJztxr3fgB04YGoX6I.jpg"
+        },
+        {
+          "name": "David Boat",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tuuqOfuwPGLqICofgPhHceIDhOX.jpg"
+        },
+        {
+          "name": "Andre Ware",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ukimnb2sfaZFSax8XqskWyLgoCc.jpg"
+        },
+        {
+          "name": "Fred Tatasciore",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xodxYKRC9mdvgquTdqpmYldliJ3.jpg"
+        },
+        {
+          "name": "Nan McNamara",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9JieLraLMvxSI3o9T5pNjydBzYo.jpg"
+        },
+        {
+          "name": "Jim Ward",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7Um56ftGoxN6c5GxJSNckeARCDy.jpg"
+        }
+      ],
+      "message_ids": [
+        6701,
+        6702
+      ],
+      "video_message_id": 6702
+    },
+    {
       "tmdb_id": 629,
       "title": "Os Suspeitos",
       "original_title": "The Usual Suspects",
@@ -169081,5 +169154,6 @@
       ],
       "video_message_id": 5318
     }
-  ]
+  ],
+  "series": []
 }

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:39:41+00:00",
+  "generated_at": "2026-09-27T05:39:54+00:00",
   "channel": "-1004483833987",
-  "count": 2662,
+  "count": 2663,
   "movie_count": 2629,
-  "series_count": 8,
-  "episode_count": 33,
+  "series_count": 9,
+  "episode_count": 34,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -174989,6 +174989,86 @@
     }
   ],
   "series": [
+    {
+      "tmdb_id": 236400,
+      "title": "Anderson Spider Silva",
+      "original_title": "Anderson Spider Silva",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aBwB6n8hQ5lLcc3WpCSvXqz9Pv8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aQ9ssSTOZ7iJdSZOGDQAKJP4Dh6.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 4789227,
+              "title": "Episódio 1",
+              "air_date": "2023-11-16",
+              "overview": "Depois de uma vitória difícil, voltamos à juventude de Anderson e examinamos o início de sua carreira, sua relação com a família e os perigos da cidade de Curitiba.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/aQ9ssSTOZ7iJdSZOGDQAKJP4Dh6.jpg",
+              "cast": [
+                {
+                  "name": "William Nascimento",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/wXrex1kLUW8DZmQ9UUndATI2sf9.jpg"
+                },
+                {
+                  "name": "Seu Jorge",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/p8VUk0ZSzfAF9uWjWg2jEVpPtTy.jpg"
+                },
+                {
+                  "name": "Jeniffer Dias",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/fic7v1eY6jO76xyhjlM3TyoU9PY.jpg"
+                },
+                {
+                  "name": "Tatiana Tiburcio",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/nINTA2OP0USeBT23GJ1wwX9DxsB.jpg"
+                },
+                {
+                  "name": "Bruno Vinicius",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/rJWCMYEkJ2Ie8b5XgnYO7FLZPh.jpg"
+                },
+                {
+                  "name": "Caetano Vieira",
+                  "photo_url": null
+                },
+                {
+                  "name": "Douglas Silva",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7C2ZoLBU0W2gwnGbNRbi1cyIU2h.jpg"
+                },
+                {
+                  "name": "Iza Moreira",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/rxrpouximelRZVvVTFipEhMQMth.jpg"
+                },
+                {
+                  "name": "Larissa Nunes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3zVdzi7SvNJbYH3mfEjm9YxkqNN.jpg"
+                },
+                {
+                  "name": "Lívia Silva",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/4RVM81EVloIUkOdoZU6Fxx2wf02.jpg"
+                },
+                {
+                  "name": "Milhem Cortaz",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/vA9hgFemy6JHxgjdbQW78xZyAnq.jpg"
+                },
+                {
+                  "name": "Vaneza Oliveira",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/6LwVfDcys25Z3ZsCPMaALLdmV3b.jpg"
+                }
+              ],
+              "message_ids": [
+                6894,
+                6895
+              ],
+              "video_message_id": 6895
+            }
+          ]
+        }
+      ]
+    },
     {
       "tmdb_id": 118585,
       "title": "Doutor Castor",

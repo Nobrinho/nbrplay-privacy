@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:42:38+00:00",
+  "generated_at": "2026-09-27T07:42:52+00:00",
   "channel": "-1004483833987",
-  "count": 2880,
-  "movie_count": 2734,
+  "count": 2881,
+  "movie_count": 2735,
   "series_count": 23,
   "episode_count": 146,
   "movies": [
@@ -89112,6 +89112,73 @@
         1021
       ],
       "video_message_id": 1021
+    },
+    {
+      "tmdb_id": 58231,
+      "title": "Loucuras de Carnaval",
+      "original_title": "Mardi Gras: Spring Break",
+      "year": "2011",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zRWca3SIwA8fhqypFiamteP4b7m.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uUogHb46ykdT5GdvjrTIKdyoYb4.jpg",
+      "overview": "Para três universitários, aquele é o último ano e a experiência numa faculdade mista os deixou na mão. A solução: Carnaval, onde belas garotas têm prazer em levantar as blusas e garrafas abertas são sempre bem-vindas. Mas depois de se vestirem de mulher, invadirem o quarto de hotel de Carmen Electra, fazerem um show sexual escandaloso e, sem querer, explodirem uma bomba de fezes num lobby de hotel chique, será que a magia do Carnaval vai entrar em cena e realizar as mais selvagens fantasias deles?",
+      "genres": [
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Nicholas D'Agosto",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pKLIlotHTzciDyaDxAMUACjxNLS.jpg"
+        },
+        {
+          "name": "Josh Gad",
+          "photo_url": "https://image.tmdb.org/t/p/w185/17iKlfWZBDTAucqjkhRKHr9xjIz.jpg"
+        },
+        {
+          "name": "Bret Harrison",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eRowiFEfgZZjDDeAQZk4SxQceM2.jpg"
+        },
+        {
+          "name": "Danneel Ackles",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7W3CZ4xMJure0ZiqYLAqPVvkbWK.jpg"
+        },
+        {
+          "name": "Arielle Kebbel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/c98cwlydVsihduXnq6VLW4fQFC.jpg"
+        },
+        {
+          "name": "Carmen Electra",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lBCUm1gGNTFI3OIjPx8maaEDXUQ.jpg"
+        },
+        {
+          "name": "Regina Hall",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg"
+        },
+        {
+          "name": "Gary Grubbs",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uXJG4skJTElTQ5BJ9pkJjzfKIDv.jpg"
+        },
+        {
+          "name": "Becky O'Donohue",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d6nWFpCGGPqC90i80IieM0nhLf8.jpg"
+        },
+        {
+          "name": "Jessie O'Donohue",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7GFAnpti24gdrGZJq1zJZYHhELm.jpg"
+        },
+        {
+          "name": "Marcelle Baer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/u6JcCQyReTXPLcTXIyScMWUS6S8.jpg"
+        },
+        {
+          "name": "Stephanie Honoré",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zndiOCjMjUCvv6toku9ntzkIM3A.jpg"
+        }
+      ],
+      "message_ids": [
+        7200,
+        7201
+      ],
+      "video_message_id": 7201
     },
     {
       "tmdb_id": 11469,

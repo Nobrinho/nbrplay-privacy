@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:37:28+00:00",
+  "generated_at": "2026-09-27T06:40:41+00:00",
   "channel": "-1004483833987",
-  "count": 2751,
-  "movie_count": 2680,
+  "count": 2752,
+  "movie_count": 2681,
   "series_count": 15,
   "episode_count": 71,
   "movies": [
@@ -60102,6 +60102,72 @@
         5350
       ],
       "video_message_id": 5350
+    },
+    {
+      "tmdb_id": 1426518,
+      "title": "Eu, Eddie",
+      "original_title": "Being Eddie",
+      "year": "2025",
+      "poster_url": "https://image.tmdb.org/t/p/w500/a2e5INPF9dgfOO3f50SeP7cdD0A.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9w6883OlULmjwLA0H0Zo4XYhZSR.jpg",
+      "overview": "Com sinceridade e humor, Eddie Murphy relembra sua jornada extraordinária de jovem comediante a lenda de Hollywood neste documentário cheio de participações especiais.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Eddie Murphy",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
+        },
+        {
+          "name": "Kevin Hart",
+          "photo_url": "https://image.tmdb.org/t/p/w185/byiNydUlM6oP8diA7WMvYbNM7a1.jpg"
+        },
+        {
+          "name": "Jamie Foxx",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zD8Nsy4Xrghp7WunwpCj5JKBPeU.jpg"
+        },
+        {
+          "name": "Pete Davidson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/f3kubnZu3KgMniExcq9nJy8RwjW.jpg"
+        },
+        {
+          "name": "John Landis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nXKdxxELgAaGecCpxAWCoj6TV3f.jpg"
+        },
+        {
+          "name": "Chris Rock",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5lILFeBvX3sC0EfbHhrvMEc7bPD.jpg"
+        },
+        {
+          "name": "Jerry Bruckheimer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sYjNrmbMi4DGAPX6Kt8wVy7LNXI.jpg"
+        },
+        {
+          "name": "Jerry Seinfeld",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9OSptNQPVCUKZs1J3tqKcwtaB2v.jpg"
+        },
+        {
+          "name": "Dave Chappelle",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hDVe67wjmjtbOTzDrFaJfcobcE.jpg"
+        },
+        {
+          "name": "Kenan Thompson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vHPhDGc1om91TzoIQ4zMscpNmxF.jpg"
+        },
+        {
+          "name": "Tracee Ellis Ross",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dIaX2VojiARhVpxDkOG9ozvsBB.jpg"
+        },
+        {
+          "name": "Adam Sandler",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+        }
+      ],
+      "message_ids": [
+        7022
+      ],
+      "video_message_id": 7022
     },
     {
       "tmdb_id": 2123,

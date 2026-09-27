@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:47:22+00:00",
+  "generated_at": "2026-09-27T07:47:40+00:00",
   "channel": "-1004483833987",
-  "count": 2894,
-  "movie_count": 2737,
+  "count": 2895,
+  "movie_count": 2738,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -140684,6 +140684,74 @@
         5320
       ],
       "video_message_id": 5320
+    },
+    {
+      "tmdb_id": 9902,
+      "title": "Pânico na Floresta",
+      "original_title": "Wrong Turn",
+      "year": "2003",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mQVIIUXHo3Qpd6nu0api7UyMpas.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/e8CS8iisJ7PCJUwWUm0KLbsnKWl.jpg",
+      "overview": "Cinco amigos percorrem uma trilha na floresta, em pleno estado da Virginia. Após pegarem o caminho errado, eles se deparam com uma família de canibais, que possui o rosto desfigurado devido a diversas gerações cosanguíneas terem nascido. Desesperados após serem capturados, os amigos agora querem apenas fugir do local o mais rápido possível.",
+      "genres": [
+        "Terror",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Eliza Dushku",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lvu4Vo9GL7uOjtU59MDiy3QDPAZ.jpg"
+        },
+        {
+          "name": "Desmond Harrington",
+          "photo_url": "https://image.tmdb.org/t/p/w185/toJbvangSsh9MQHFU9MxQi3S6h6.jpg"
+        },
+        {
+          "name": "Emmanuelle Chriqui",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5ll30bFOYMlIucGNrqWQ4bAA14U.jpg"
+        },
+        {
+          "name": "Jeremy Sisto",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1XfuASLjBhGOhJ4os7juRJot2we.jpg"
+        },
+        {
+          "name": "Kevin Zegers",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zRjasG4NXxKbe6e1c4enivAvfcH.jpg"
+        },
+        {
+          "name": "Lindy Booth",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5vT2mIIGTM7XQx4utAyRjW1aRPW.jpg"
+        },
+        {
+          "name": "Julian Richings",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6aXnbVDNlYXKFOUK7CZ2lboAlxE.jpg"
+        },
+        {
+          "name": "Garry Robbins",
+          "photo_url": null
+        },
+        {
+          "name": "James Downing",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zwMaHqLzkcAwSxPWMoAzG0BFls5.jpg"
+        },
+        {
+          "name": "Wayne Robson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/idYHGiGyWcUUrVFm9THGLzTgWHF.jpg"
+        },
+        {
+          "name": "David Huband",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ArFPUIHyPibOCBjqZXMZvrEX6ZF.jpg"
+        },
+        {
+          "name": "Yvonne Gaudry",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7228,
+        7229
+      ],
+      "video_message_id": 7229
     },
     {
       "tmdb_id": 13186,

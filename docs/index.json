@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T18:35:57+00:00",
+  "generated_at": "2026-09-27T18:36:02+00:00",
   "channel": "-1004483833987",
-  "count": 2947,
+  "count": 2948,
   "movie_count": 2786,
   "series_count": 25,
-  "episode_count": 161,
+  "episode_count": 162,
   "custom_count": 0,
   "movies": [
     {
@@ -186738,6 +186738,69 @@
         {
           "number": 2,
           "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 2411038,
+              "title": "Último Homem de Pé",
+              "air_date": "2019-05-10",
+              "overview": "Depois de espancar o filho de Galdino, Jorge está disposto a contar a verdade para seu Mestre, mesmo que isso signifique romper o relacionamento, mas algo o faz mudar de ideia.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/8uHaJDU4xgluCwQd36Xhw4JTs07.jpg",
+              "cast": [
+                {
+                  "name": "Murilo Rosa",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7151dJTIoayM6qJfxjYaD9jLJw2.jpg"
+                },
+                {
+                  "name": "Duda Nagle",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/46UzIu4pzIbnD47q60ndfC2Nocz.jpg"
+                },
+                {
+                  "name": "Juliana Araripe",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/fYng0fAq9qNboJeD2sO47lWbz2a.jpg"
+                },
+                {
+                  "name": "Luiz Guilherme",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/89CTjwCN2Xzt2HJ08RQjTaOXJlv.jpg"
+                },
+                {
+                  "name": "André Ramiro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/t0UlmNhX0eqj0KMLaOijvHQ9qLa.jpg"
+                },
+                {
+                  "name": "Charles Paraventi",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3vo65ipC5cSmctFdZoEbLSh03pH.jpg"
+                },
+                {
+                  "name": "Bruno Bellarmino",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zRJZAtvamzkrmIVUjutCdOsrX2R.jpg"
+                },
+                {
+                  "name": "Giovanni Gallo",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/A45YkzBZiFJVm8ZWkLYFRZWNJbb.jpg"
+                },
+                {
+                  "name": "Rafael Losso",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/mSo5wmZPWczy6msoVgCCl5bHHwf.jpg"
+                },
+                {
+                  "name": "Vinicius Teixeira",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/nQKbMWhHvhovLohPoSPkxEeUEht.jpg"
+                },
+                {
+                  "name": "Ronny Kriwat",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/bTHGSzqahavI9J2YZC9NW7KRuZQ.jpg"
+                },
+                {
+                  "name": "Marcos Reis",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7309,
+                7310
+              ],
+              "video_message_id": 7310
+            },
             {
               "number": 2,
               "tmdb_id": 2411039,

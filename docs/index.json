@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T18:55:08+00:00",
+  "generated_at": "2026-09-27T18:55:12+00:00",
   "channel": "-1004483833987",
-  "count": 2965,
+  "count": 2966,
   "movie_count": 2786,
   "series_count": 27,
-  "episode_count": 179,
+  "episode_count": 180,
   "custom_count": 0,
   "movies": [
     {
@@ -183717,7 +183717,7 @@
       "title": "Blade Runner: Black Lotus",
       "original_title": "Blade Runner: Black Lotus",
       "poster_url": "https://image.tmdb.org/t/p/w500/4e0bY3weyKiVe58kMS34ddOdc4Q.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/tEYkNs7PDBUguL0bvgI9zsylBKD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kmVgxphFQafkwTg5HD4pXHOglmC.jpg",
       "genres": [
         "Animação",
         "Sci-Fi & Fantasy",
@@ -183727,6 +183727,37 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 10,
+              "tmdb_id": 3396152,
+              "title": "Clair de Lune",
+              "air_date": "2022-01-16",
+              "overview": "Elle segue assombrada por seu passado traumático e pelo choque de descobrir a verdade. Numa tentativa de consolá-la, J revela seus próprios traumas, revivendo sua vida de Blade Runner. Elle decide sair em busca da única pessoa de seu passado da qual ainda se lembra.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/kmVgxphFQafkwTg5HD4pXHOglmC.jpg",
+              "cast": [
+                {
+                  "name": "Jessica Henwick",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hRrEqDIWlov1FvYRmBN2vLaAxyl.jpg"
+                },
+                {
+                  "name": "Will Yun Lee",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg"
+                },
+                {
+                  "name": "Wes Bentley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+                },
+                {
+                  "name": "Samira Wiley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/m45A0hYcpnGckwxqs7j0I6Sp2Dj.jpg"
+                }
+              ],
+              "message_ids": [
+                7331,
+                7332
+              ],
+              "video_message_id": 7332
+            },
             {
               "number": 11,
               "tmdb_id": 3396153,

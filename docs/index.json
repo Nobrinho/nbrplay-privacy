@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:04:35+00:00",
+  "generated_at": "2026-09-27T19:06:45+00:00",
   "channel": "-1004483833987",
-  "count": 2970,
+  "count": 2971,
   "movie_count": 2788,
-  "series_count": 27,
-  "episode_count": 182,
+  "series_count": 28,
+  "episode_count": 183,
   "custom_count": 0,
   "movies": [
     {
@@ -189976,6 +189976,65 @@
                 7134
               ],
               "video_message_id": 7134
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 9939,
+      "title": "To Rome with Love",
+      "original_title": "To Rome with Love",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yu2XvRk2ITT46dSKGvDtG4wjo2n.jpg",
+      "backdrop_url": null,
+      "genres": [
+        "Comédia"
+      ],
+      "seasons": [
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "number": 10,
+              "tmdb_id": 414467,
+              "title": "Episódio 10",
+              "air_date": "1970-11-24",
+              "overview": null,
+              "backdrop_url": null,
+              "cast": [
+                {
+                  "name": "John Forsythe",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/lfhKEIepJXdIW9JVCZZ15ULYy8n.jpg"
+                },
+                {
+                  "name": "Joyce Menges",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ikTSmZgaUt07FHQxEOBcvxSrBQj.jpg"
+                },
+                {
+                  "name": "Melanie Fullerton",
+                  "photo_url": null
+                },
+                {
+                  "name": "Brenda Benet",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/a7Mh7qsXUnge67RCggAjzbNQeiW.jpg"
+                },
+                {
+                  "name": "Susan Neher",
+                  "photo_url": null
+                },
+                {
+                  "name": "Walter Brennan",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7hlZ3WbT4JQxeN3fLMongUXNHma.jpg"
+                },
+                {
+                  "name": "Kay Medford",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/lKZ8tZwfHoJc7Qld9Ncvr71MEc8.jpg"
+                }
+              ],
+              "message_ids": [
+                7337
+              ],
+              "video_message_id": 7337
             }
           ]
         }

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:12:57+00:00",
+  "generated_at": "2026-09-27T05:13:12+00:00",
   "channel": "-1004483833987",
-  "count": 2640,
-  "movie_count": 2607,
+  "count": 2641,
+  "movie_count": 2608,
   "series_count": 8,
   "episode_count": 33,
   "movies": [
@@ -77654,6 +77654,74 @@
         6258
       ],
       "video_message_id": 6258
+    },
+    {
+      "tmdb_id": 115782,
+      "title": "Jobs",
+      "original_title": "Jobs",
+      "year": "2013",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mOyZ0UAWaOJartFq2G3Cv0soFtQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/k47gSbr0bqEgDAEedfyV2mAw5YU.jpg",
+      "overview": "A história da ascensão de Steve Jobs, de rejeitado no colégio até tornar-se um dos mais reverenciados empresários do universo da tecnologia no século 20. A trama passa pela jornada de auto descobrimento da juventude, pelos demônios pessoais que obscureceram sua visão e, finalmente, pelos triunfos que transformaram sua vida adulta.",
+      "genres": [
+        "Drama",
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "Ashton Kutcher",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qJlM29jTncF9GpmE0PPVwbp5iPB.jpg"
+        },
+        {
+          "name": "Josh Gad",
+          "photo_url": "https://image.tmdb.org/t/p/w185/17iKlfWZBDTAucqjkhRKHr9xjIz.jpg"
+        },
+        {
+          "name": "Lukas Haas",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6LNGu3o2aBiYNTDkbXMDIGyQtBh.jpg"
+        },
+        {
+          "name": "Victor Rasuk",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1vh2Yzp9bhmaxLfpNCrO7DVoURd.jpg"
+        },
+        {
+          "name": "Eddie Hassell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lgAfulzjRt1KWO3Ji6VsusTgl6V.jpg"
+        },
+        {
+          "name": "Ron Eldard",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5Ww9aaJZjg1N2S6zpJkrZmQVMEI.jpg"
+        },
+        {
+          "name": "Nelson Franklin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2YYnTxpFmS5i9qRkb6H4Nxky2px.jpg"
+        },
+        {
+          "name": "Elden Henson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8U5g30U76UJe0erbJdWjGLVz7NF.jpg"
+        },
+        {
+          "name": "Lenny Jacobson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ljpRA3yHIhjcsNTemUahpMAfGlS.jpg"
+        },
+        {
+          "name": "Giles Matthey",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aoVphKnWthaRKJRrpqOPS1LmUeW.jpg"
+        },
+        {
+          "name": "Dermot Mulroney",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kkrMKD6b4vEdphVgKsenRY4NgiC.jpg"
+        },
+        {
+          "name": "Matthew Modine",
+          "photo_url": "https://image.tmdb.org/t/p/w185/z974QEHL12qUvLyk6hlWGAmDgom.jpg"
+        }
+      ],
+      "message_ids": [
+        6865,
+        6866
+      ],
+      "video_message_id": 6866
     },
     {
       "tmdb_id": 333339,

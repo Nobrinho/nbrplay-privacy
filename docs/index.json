@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:36:48+00:00",
+  "generated_at": "2026-09-27T05:37:46+00:00",
   "channel": "-1004483833987",
-  "count": 2659,
-  "movie_count": 2626,
+  "count": 2660,
+  "movie_count": 2627,
   "series_count": 8,
   "episode_count": 33,
   "movies": [
@@ -20113,6 +20113,73 @@
         1625
       ],
       "video_message_id": 1625
+    },
+    {
+      "tmdb_id": 455008,
+      "title": "AlphaGo",
+      "original_title": "AlphaGo",
+      "year": "2017",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zDxZwTCX22gYREAy73wiibzu9H6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/j1uA9K21Dhu86mqyys8vqGgAB3u.jpg",
+      "overview": "Este é o documentário AlphaGo, mesmo nome da inteligência artificial que se dedica ao aprendizado do antigo jogo de tabuleiro Go. O documentário AlphaGo recebeu classificação de 100% através do Rotten Tomatoes e pontuação de 8,5 através do IMDb.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "이세돌",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xUFteVo8FnmAJjy9E5IreTPMsgu.jpg"
+        },
+        {
+          "name": "Demis Hassabis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/k5stoJZxASwM4PBiDkrVlsSXRFF.jpg"
+        },
+        {
+          "name": "David Silver",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5j5q1F7HhA97Bs11cdZE3Bo6gXb.jpg"
+        },
+        {
+          "name": "Aja Huang",
+          "photo_url": "https://image.tmdb.org/t/p/w185/s58NuBTD0NtcfCmDGHLS7g6olVd.jpg"
+        },
+        {
+          "name": "Fan Hui",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mi9jZ5Yt9ujVsz20VKBu9qD1zVo.jpg"
+        },
+        {
+          "name": "Frank Lantz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wL6MRMjgHsILFBYaKvlZSqfXCaI.jpg"
+        },
+        {
+          "name": "Cade Metz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ak5FHP0ouLiYb01oN3aIKTZtGBm.jpg"
+        },
+        {
+          "name": "Martin Rees",
+          "photo_url": "https://image.tmdb.org/t/p/w185/A5e457W5F5hn4zAP1UeSvRzDjZj.jpg"
+        },
+        {
+          "name": "Maddy Leach",
+          "photo_url": null
+        },
+        {
+          "name": "Nam Chi Hyung",
+          "photo_url": null
+        },
+        {
+          "name": "Nick Bostrom",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ru1Kt8jPv4wXQdYf6lLGJnsGAMN.jpg"
+        },
+        {
+          "name": "Julian Schrittwieser",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5i6cpNgKKxzqov3ezqmVFOqpVxv.jpg"
+        }
+      ],
+      "message_ids": [
+        6888,
+        6889
+      ],
+      "video_message_id": 6889
     },
     {
       "tmdb_id": 6477,

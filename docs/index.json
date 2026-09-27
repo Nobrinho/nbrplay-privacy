@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:45:06+00:00",
+  "generated_at": "2026-09-27T07:45:11+00:00",
   "channel": "-1004483833987",
-  "count": 2883,
+  "count": 2884,
   "movie_count": 2736,
   "series_count": 24,
-  "episode_count": 147,
+  "episode_count": 148,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -183568,6 +183568,69 @@
                 7205
               ],
               "video_message_id": 7205
+            },
+            {
+              "number": 4,
+              "tmdb_id": 1439623,
+              "title": "Animais",
+              "air_date": "2018-03-17",
+              "overview": "O campeonato segue com as lutas e Jorge precisa lidar com as emoções e confrontos dos lutadores. Ele descobre que Scott quer colocar briga de galo no site do Rio Heroes, mas é contra isso. Eles discutem e o campeonato corre risco de acabar.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/ezzFGo3C6TzDaOWP3iqvsx9MrfU.jpg",
+              "cast": [
+                {
+                  "name": "Murilo Rosa",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7151dJTIoayM6qJfxjYaD9jLJw2.jpg"
+                },
+                {
+                  "name": "Duda Nagle",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/46UzIu4pzIbnD47q60ndfC2Nocz.jpg"
+                },
+                {
+                  "name": "Ingrid Gaigher",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/kFo5faGaMtF5Gh76kfhVkZiJMFH.jpg"
+                },
+                {
+                  "name": "Juliana Araripe",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/fYng0fAq9qNboJeD2sO47lWbz2a.jpg"
+                },
+                {
+                  "name": "Luiz Guilherme",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/89CTjwCN2Xzt2HJ08RQjTaOXJlv.jpg"
+                },
+                {
+                  "name": "André Ramiro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/t0UlmNhX0eqj0KMLaOijvHQ9qLa.jpg"
+                },
+                {
+                  "name": "Charles Paraventi",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3vo65ipC5cSmctFdZoEbLSh03pH.jpg"
+                },
+                {
+                  "name": "Bruno Bellarmino",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zRJZAtvamzkrmIVUjutCdOsrX2R.jpg"
+                },
+                {
+                  "name": "Giovanni Gallo",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/A45YkzBZiFJVm8ZWkLYFRZWNJbb.jpg"
+                },
+                {
+                  "name": "Rafael Losso",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/mSo5wmZPWczy6msoVgCCl5bHHwf.jpg"
+                },
+                {
+                  "name": "Vinicius Teixeira",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/nQKbMWhHvhovLohPoSPkxEeUEht.jpg"
+                },
+                {
+                  "name": "Miguel Nader",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qWWhXRdCeJwku41L9skdzWmMZjY.jpg"
+                }
+              ],
+              "message_ids": [
+                7206,
+                7207
+              ],
+              "video_message_id": 7207
             }
           ]
         }

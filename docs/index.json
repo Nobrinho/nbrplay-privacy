@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:54:48+00:00",
+  "generated_at": "2026-09-27T06:58:16+00:00",
   "channel": "-1004483833987",
-  "count": 2768,
-  "movie_count": 2691,
+  "count": 2769,
+  "movie_count": 2692,
   "series_count": 18,
   "episode_count": 77,
   "movies": [
@@ -13991,6 +13991,72 @@
         4691
       ],
       "video_message_id": 4691
+    },
+    {
+      "tmdb_id": 1596291,
+      "title": "A Rainha do Xadrez",
+      "original_title": "Queen of Chess",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fAckgewEBm7lPkYDaqmBvxlcWf2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/y5haKgSz1hCDatwIOMuqZ1CFKPW.jpg",
+      "overview": "Fenômeno do xadrez, Judit Polgár enfrenta dúvidas, preconceitos e o invencível Garry Kasparov para ocupar seu lugar entre os melhores da história.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Judit Polgár",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uTRhkISkM29jh0LPsNWEiSCsgUy.jpg"
+        },
+        {
+          "name": "Гарри Каспаров",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vOE9BQVsU6kYQjK2zRdexDNLZBH.jpg"
+        },
+        {
+          "name": "Laszlo Polgar",
+          "photo_url": null
+        },
+        {
+          "name": "Sofia Polgar",
+          "photo_url": null
+        },
+        {
+          "name": "Klara Polgar",
+          "photo_url": null
+        },
+        {
+          "name": "Gustáv Font",
+          "photo_url": null
+        },
+        {
+          "name": "Anna Rudolf",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9U3GwbXFWyghGc6NbQqOPUiRx3y.jpg"
+        },
+        {
+          "name": "Jovanka Houska",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ywhffh26SFfK9SUSwAWSy5sYnY9.jpg"
+        },
+        {
+          "name": "Maurice Ashley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wzgem9M4F73NIgA7lcbPE47A0Gz.jpg"
+        },
+        {
+          "name": "William Hartston",
+          "photo_url": null
+        },
+        {
+          "name": "Dirk Jan ten Geuzendam",
+          "photo_url": null
+        },
+        {
+          "name": "Bobby Fischer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8uSbvBJB7yDQ7ui8aPjRZcEQ6OD.jpg"
+        }
+      ],
+      "message_ids": [
+        7037
+      ],
+      "video_message_id": 7037
     },
     {
       "tmdb_id": 11979,

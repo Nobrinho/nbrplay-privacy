@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T02:45:37+00:00",
+  "generated_at": "2026-09-27T02:46:09+00:00",
   "channel": "-1004483833987",
-  "count": 2529,
-  "movie_count": 2529,
+  "count": 2530,
+  "movie_count": 2530,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -152617,6 +152617,75 @@
         6576
       ],
       "video_message_id": 6576
+    },
+    {
+      "tmdb_id": 468224,
+      "title": "Tolkien",
+      "original_title": "Tolkien",
+      "year": "2019",
+      "poster_url": "https://image.tmdb.org/t/p/w500/A7eYO3t7oZQdfJj5KlJBI7GhT9H.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4HXiEsWUEMzJNFwjJv6oUaocqJU.jpg",
+      "overview": "O filme acompanha o autor J.R.R. Tolkien nos tempos de juventude, quando o órfão encontra amizade, amor e inspiração artística ao se juntar a um grupo de deslocados. Mas tudo muda quando ele é convocado para a Primeira Guerra Mundial, cujo caos ajuda na criação da Terra Média.",
+      "genres": [
+        "Guerra",
+        "Drama",
+        "Romance"
+      ],
+      "cast": [
+        {
+          "name": "Nicholas Hoult",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pXm8GWTm9eIA8pUGOjvmYjlxamu.jpg"
+        },
+        {
+          "name": "Lily Collins",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5bhcp0CyTdHgfW8x45ZKewDnjMc.jpg"
+        },
+        {
+          "name": "Colm Meaney",
+          "photo_url": "https://image.tmdb.org/t/p/w185/guL6RJdlRMtOJN3LoaY3G8hG4Rd.jpg"
+        },
+        {
+          "name": "Derek Jacobi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yHENzHZSVpnNrqsoATuDSMiQflf.jpg"
+        },
+        {
+          "name": "Harry Gilby",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4rORd6r6Ts4eYWVhbP9iIsE4CEo.jpg"
+        },
+        {
+          "name": "Mimi Keene",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yC4gDbUHJ0ANo7nACi87VrU7KoZ.jpg"
+        },
+        {
+          "name": "Anthony Boyle",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jF015vIjbrq72nTzWd2mWcybuiC.jpg"
+        },
+        {
+          "name": "Adam Bregman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fD9n8Glk2fzzvkBuYiMtb72LolP.jpg"
+        },
+        {
+          "name": "Patrick Gibson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1pCUKn2BqJJB5IuktEZGgYw6hbt.jpg"
+        },
+        {
+          "name": "Albie Marber",
+          "photo_url": null
+        },
+        {
+          "name": "Tom Glynn-Carney",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jJ3KqUW8ySGBwHXOCN3x2Wxjm5W.jpg"
+        },
+        {
+          "name": "Ty Tennant",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3CFIRzZJBBEOoadaZBykGDHutaK.jpg"
+        }
+      ],
+      "message_ids": [
+        6729,
+        6730
+      ],
+      "video_message_id": 6730
     },
     {
       "tmdb_id": 338970,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:26:05+00:00",
+  "generated_at": "2026-09-27T05:26:35+00:00",
   "channel": "-1004483833987",
-  "count": 2655,
-  "movie_count": 2622,
+  "count": 2656,
+  "movie_count": 2623,
   "series_count": 8,
   "episode_count": 33,
   "movies": [
@@ -14046,6 +14046,37 @@
         5482
       ],
       "video_message_id": 5482
+    },
+    {
+      "tmdb_id": 609419,
+      "title": "A Revolução dos Games",
+      "original_title": "Game Changers: Inside the Video Game Wars",
+      "year": "2019",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lOAu6vIAQad94uc1IU4kHC52DXm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cUFwl1OlblPyl4vn3PBOmYpPHKe.jpg",
+      "overview": "Esta é a história não contada das batalhas que deram origem à indústria multibilionária dos videogames. Um relato trazido pelo diretor vencedor do Oscar®, Daniel Junge, das inovações, fracassos e rivalidades do ego. Contado em ordem cronológica e apresentando os filhos do brilhante Ralph Baer, inventor do primeiro console de videogame, Nolan Bushnell, o co-fundador da Atari, e muitos outros especialistas na indústria de jogos, este documentário destaca os programadores, engenheiros, gerenciadores e as práticas comerciais que eles seguiram para competir uns contra os outros e se tornarem os magnatas dos games que conhecemos hoje.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Nolan Bushnell",
+          "photo_url": null
+        },
+        {
+          "name": "Howard Lincoln",
+          "photo_url": null
+        },
+        {
+          "name": "Tom Kalinske",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6882,
+        6883
+      ],
+      "video_message_id": 6883
     },
     {
       "tmdb_id": 1114905,

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T18:35:52+00:00",
+  "generated_at": "2026-09-27T18:35:57+00:00",
   "channel": "-1004483833987",
-  "count": 2946,
+  "count": 2947,
   "movie_count": 2786,
   "series_count": 25,
-  "episode_count": 160,
+  "episode_count": 161,
   "custom_count": 0,
   "movies": [
     {
@@ -186738,6 +186738,69 @@
         {
           "number": 2,
           "episodes": [
+            {
+              "number": 2,
+              "tmdb_id": 2411039,
+              "title": "Vingança",
+              "air_date": "2019-05-17",
+              "overview": "Galdino está obcecado por vingança e procurando pistas para descobrir quem espancou seu filho. Jorge tenta evitá-lo atacando pessoas inocentes até que a verdade vem à tona.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/ivnXPdBzk7GD9sEBsNljg1Ggh7V.jpg",
+              "cast": [
+                {
+                  "name": "Murilo Rosa",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7151dJTIoayM6qJfxjYaD9jLJw2.jpg"
+                },
+                {
+                  "name": "Duda Nagle",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/46UzIu4pzIbnD47q60ndfC2Nocz.jpg"
+                },
+                {
+                  "name": "Juliana Araripe",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/fYng0fAq9qNboJeD2sO47lWbz2a.jpg"
+                },
+                {
+                  "name": "Luiz Guilherme",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/89CTjwCN2Xzt2HJ08RQjTaOXJlv.jpg"
+                },
+                {
+                  "name": "André Ramiro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/t0UlmNhX0eqj0KMLaOijvHQ9qLa.jpg"
+                },
+                {
+                  "name": "Charles Paraventi",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3vo65ipC5cSmctFdZoEbLSh03pH.jpg"
+                },
+                {
+                  "name": "Bruno Bellarmino",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zRJZAtvamzkrmIVUjutCdOsrX2R.jpg"
+                },
+                {
+                  "name": "Giovanni Gallo",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/A45YkzBZiFJVm8ZWkLYFRZWNJbb.jpg"
+                },
+                {
+                  "name": "Rafael Losso",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/mSo5wmZPWczy6msoVgCCl5bHHwf.jpg"
+                },
+                {
+                  "name": "Vinicius Teixeira",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/nQKbMWhHvhovLohPoSPkxEeUEht.jpg"
+                },
+                {
+                  "name": "Ronny Kriwat",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/bTHGSzqahavI9J2YZC9NW7KRuZQ.jpg"
+                },
+                {
+                  "name": "Marcos Reis",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7307,
+                7308
+              ],
+              "video_message_id": 7308
+            },
             {
               "number": 3,
               "tmdb_id": 2411040,

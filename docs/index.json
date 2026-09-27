@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:52:56+00:00",
+  "generated_at": "2026-09-27T19:53:00+00:00",
   "channel": "-1004483833987",
-  "count": 3048,
+  "count": 3050,
   "movie_count": 2804,
   "series_count": 35,
-  "episode_count": 244,
+  "episode_count": 246,
   "custom_count": 0,
   "movies": [
     {
@@ -185996,12 +185996,53 @@
       "title": "Câmera Crime",
       "original_title": "The Murder Tapes",
       "poster_url": "https://image.tmdb.org/t/p/w500/teMuAubTeofuSxGVGCSkFJ9Vwrv.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kseQ8WwmkjYvjcJgQkLeQKDDSwB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1tNj8bflZ4YinENwM2t53rmKDBe.jpg",
       "genres": [
         "Crime",
         "Documentário"
       ],
       "seasons": [
+        {
+          "number": 4,
+          "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 2517348,
+              "title": "Episódio 1",
+              "air_date": "2020-11-18",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/1tNj8bflZ4YinENwM2t53rmKDBe.jpg",
+              "cast": [
+                {
+                  "name": "Dave DeAndrea",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7437
+              ],
+              "video_message_id": 7437
+            },
+            {
+              "number": 2,
+              "tmdb_id": 2517350,
+              "title": "Episódio 2",
+              "air_date": "2020-11-25",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/4On1Zq5ARnO7Efx7gy5CTsoWiJd.jpg",
+              "cast": [
+                {
+                  "name": "Dave DeAndrea",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7436
+              ],
+              "video_message_id": 7436
+            }
+          ]
+        },
         {
           "number": 5,
           "episodes": [

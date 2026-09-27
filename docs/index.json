@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:35:03+00:00",
+  "generated_at": "2026-09-27T19:36:11+00:00",
   "channel": "-1004483833987",
-  "count": 3019,
-  "movie_count": 2799,
+  "count": 3020,
+  "movie_count": 2800,
   "series_count": 32,
   "episode_count": 220,
   "custom_count": 0,
@@ -42238,6 +42238,23 @@
         7030
       ],
       "video_message_id": 7030
+    },
+    {
+      "tmdb_id": 887314,
+      "title": "Comizi d’amore ’80 - episodio 2",
+      "original_title": "Comizi d’amore ’80 - episodio 2",
+      "year": "1982",
+      "poster_url": null,
+      "backdrop_url": null,
+      "overview": "Series inspired by Pier Paolo Pasolini’s Comizi d’amore. This time, Italian people are confronted with though questions about sex before marriage, extramarital affairs and homosexuality.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [],
+      "message_ids": [
+        7404
+      ],
+      "video_message_id": 7404
     },
     {
       "tmdb_id": 1017633,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:19:48+00:00",
+  "generated_at": "2026-09-27T04:20:01+00:00",
   "channel": "-1004483833987",
-  "count": 2584,
-  "movie_count": 2576,
+  "count": 2585,
+  "movie_count": 2577,
   "series_count": 2,
   "episode_count": 8,
   "movies": [
@@ -115276,6 +115276,74 @@
         4126
       ],
       "video_message_id": 4126
+    },
+    {
+      "tmdb_id": 126046,
+      "title": "O Prisioneiro da Grade de Ferro (Auto-Retratos)",
+      "original_title": "O Prisioneiro da Grade de Ferro (Auto-Retratos)",
+      "year": "2004",
+      "poster_url": "https://image.tmdb.org/t/p/w500/QBOnXM0crFe9jSDBNi05V1cmBZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/NpznNTlFbbRo6fE93tEHp9WEQ5.jpg",
+      "overview": "O documentário retrata a ineficácia do sistema carcerário brasileiro, sobretudo sua falha no processo de ressocialização. As lentes de Paulo Sacramento conseguem captar a desobediência a vários princípios constitucionais, principalmente em relação à dignidade do apenado. Apesar de mostrar assassinos, estupradores, ladrões, entre outros, o filme expõe a maneira muitas vezes inusitada e criativa que os presos encontram para (sobre)viver no cárcere, numa tentativa de diminuir o tempo que sempre insiste em correr mais vagarosamente quando se está cerrado dentro das gaiolas de ferro. Por outro lado, o documentário revela as condições sub-humanas a que os apenados estão submetidos no cárcere, confirmando o descaso Estatal que impera no Sistema Penal brasileiro.",
+      "genres": [
+        "Documentário",
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "Adeir Cupertino",
+          "photo_url": null
+        },
+        {
+          "name": "Celso Ferreira de Albuquerque",
+          "photo_url": null
+        },
+        {
+          "name": "Cláudio Fabiano",
+          "photo_url": null
+        },
+        {
+          "name": "Etelvino Batista da Silva",
+          "photo_url": null
+        },
+        {
+          "name": "Flaviano Souza Fonseca Filho",
+          "photo_url": null
+        },
+        {
+          "name": "João Vicente Lopes",
+          "photo_url": null
+        },
+        {
+          "name": "Joel Aparecido da Silva",
+          "photo_url": null
+        },
+        {
+          "name": "Jonas Freitas Cruz",
+          "photo_url": null
+        },
+        {
+          "name": "José Heleno da Silva",
+          "photo_url": null
+        },
+        {
+          "name": "Kleber Eduardo Roks Freitas",
+          "photo_url": null
+        },
+        {
+          "name": "Marcos Roberto dos Santos",
+          "photo_url": null
+        },
+        {
+          "name": "Nelson Pires de Almeida",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6801,
+        6802
+      ],
+      "video_message_id": 6802
     },
     {
       "tmdb_id": 156022,

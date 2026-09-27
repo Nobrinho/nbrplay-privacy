@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T16:07:59+00:00",
+  "generated_at": "2026-09-27T16:08:13+00:00",
   "channel": "-1004483833987",
-  "count": 2929,
-  "movie_count": 2772,
+  "count": 2930,
+  "movie_count": 2773,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -115918,6 +115918,74 @@
         5374
       ],
       "video_message_id": 5374
+    },
+    {
+      "tmdb_id": 400020,
+      "title": "O Jovem Karl Marx",
+      "original_title": "Le Jeune Karl Marx",
+      "year": "2017",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1Iry9zkbgyeIzvwaZY1jFtMpZRg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uJSuJ4eocpofYc6LjEJ7G3vgbfS.jpg",
+      "overview": "Karl Marx, de 26 anos, embarca com sua esposa, Jenny, na estrada para o exílio. Em 1844, em Paris, ele conhece Friedrich Engels, filho de um industrial, que investigou o sórdido nascimento da classe trabalhadora britânica. Engels, o dândi, fornece a última parte do quebra-cabeça para a nova visão do mundo do jovem Karl Marx. Juntos, entre a censura e a repressão da polícia, os tumultos e os conflitos políticos, eles liderarão o movimento trabalhista durante seu desenvolvimento em uma era moderna.",
+      "genres": [
+        "História",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "August Diehl",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tZfdH3EXLr5OmXBtxV1zT8eYbpT.jpg"
+        },
+        {
+          "name": "Stefan Konarske",
+          "photo_url": "https://image.tmdb.org/t/p/w185/c4cgLwx3vfqbJ73xIBZoyz5ddXV.jpg"
+        },
+        {
+          "name": "Vicky Krieps",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9laK3w40qBnE5UY41wJfnUAYMmC.jpg"
+        },
+        {
+          "name": "Olivier Gourmet",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dxylGdqFfe6WiXaZGZnFTfvyyZm.jpg"
+        },
+        {
+          "name": "Hannah Steele",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pTgRM40XMqVUEwU8lzYr5ViRB5i.jpg"
+        },
+        {
+          "name": "Rolf Kanies",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wX6KscOnIT0zILwQyRBYVUwm4l9.jpg"
+        },
+        {
+          "name": "Niels-Bruno Schmidt",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rsb1NiWWDEdFqFgLbgq5CiAOwmB.jpg"
+        },
+        {
+          "name": "Alexander Scheer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/z5t37qxBzEGyRprD8TWFbNbolOP.jpg"
+        },
+        {
+          "name": "Marie Meinzenbach",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6AFOGx9PEipVkq6HNyWUyTXv6Tq.jpg"
+        },
+        {
+          "name": "Hans-Uwe Bauer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/a5PUuPPOmYElTHcd0GsvZlQ7KjO.jpg"
+        },
+        {
+          "name": "Wiebke Adam-Schwarz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/t0iAZnl552710RAyJSV0kjsM4Xe.jpg"
+        },
+        {
+          "name": "Aran Bertetto",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6DEtq2trtC76L3iGLLipOTP4eiy.jpg"
+        }
+      ],
+      "message_ids": [
+        7281,
+        7282
+      ],
+      "video_message_id": 7282
     },
     {
       "tmdb_id": 9482,

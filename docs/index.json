@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:48:43+00:00",
+  "generated_at": "2026-09-27T05:49:56+00:00",
   "channel": "-1004483833987",
-  "count": 2678,
-  "movie_count": 2640,
+  "count": 2679,
+  "movie_count": 2641,
   "series_count": 9,
   "episode_count": 38,
   "movies": [
@@ -94275,6 +94275,56 @@
         3471
       ],
       "video_message_id": 3471
+    },
+    {
+      "tmdb_id": 392553,
+      "title": "Minimalismo: Um documentário sobre as coisas importantes",
+      "original_title": "Minimalism: A Documentary About the Important Things",
+      "year": "2015",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2QXHf52RxGbw1PYrCtbD99iZdBV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zCQC3FgiFxg4amid5rWLVvguZlk.jpg",
+      "overview": "Pessoas que acreditam que bens materiais não trazem felicidade são entrevistadas neste documentário que aborda a questão: menos é mais?",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Joshua Fields Millburn",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rKtXZWYzZZ3G5vvIc5ve8UyrnUm.jpg"
+        },
+        {
+          "name": "Ryan Nicodemus",
+          "photo_url": null
+        },
+        {
+          "name": "Dan Harris",
+          "photo_url": null
+        },
+        {
+          "name": "Joshua Becker",
+          "photo_url": null
+        },
+        {
+          "name": "Shannon Whitehead",
+          "photo_url": null
+        },
+        {
+          "name": "Sam Harris",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iFtT7qOEXTKJxoIHqXNeVYaEhJ7.jpg"
+        },
+        {
+          "name": "Rick Hanson",
+          "photo_url": null
+        },
+        {
+          "name": "Jay Austin",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6916
+      ],
+      "video_message_id": 6916
     },
     {
       "tmdb_id": 211672,

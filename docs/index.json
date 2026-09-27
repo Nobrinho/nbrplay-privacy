@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:37:39+00:00",
+  "generated_at": "2026-09-27T19:37:43+00:00",
   "channel": "-1004483833987",
-  "count": 3024,
+  "count": 3025,
   "movie_count": 2802,
   "series_count": 33,
-  "episode_count": 222,
+  "episode_count": 223,
   "custom_count": 0,
   "movies": [
     {
@@ -193803,7 +193803,7 @@
       "title": "Voepass 2283: A Queda",
       "original_title": "Voepass 2283: A Queda",
       "poster_url": "https://image.tmdb.org/t/p/w500/kyhA75vhZ5OtWtLWSgNQloHdY9L.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8hZ2pDbGukb1dFtYf3fTefFPRTq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uoDEfPIaPCOOgl5OpXm62soWKsF.jpg",
       "genres": [
         "Documentário"
       ],
@@ -193811,6 +193811,19 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 7655194,
+              "title": "Fatalidade",
+              "air_date": "2026-08-07",
+              "overview": "Registrada em dezenas de vídeos amadores, a queda do voo 2283 choca o país e o mundo, enquanto as primeiras hipóteses sobre a tragédia apontam para as condições do tempo em rota.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/uoDEfPIaPCOOgl5OpXm62soWKsF.jpg",
+              "cast": [],
+              "message_ids": [
+                7408
+              ],
+              "video_message_id": 7408
+            },
             {
               "number": 2,
               "tmdb_id": 7655248,

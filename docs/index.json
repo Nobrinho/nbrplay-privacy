@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:31:47+00:00",
+  "generated_at": "2026-09-27T04:32:12+00:00",
   "channel": "-1004483833987",
-  "count": 2614,
-  "movie_count": 2584,
+  "count": 2618,
+  "movie_count": 2588,
   "series_count": 7,
   "episode_count": 30,
   "movies": [
@@ -89611,6 +89611,64 @@
       "video_message_id": 5546
     },
     {
+      "tmdb_id": 96213,
+      "title": "McMillion$ — S01E02 — Episódio 2",
+      "original_title": "Gold",
+      "year": "2020",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ka1FDLrmWHK8esHauK6aQrK4EkF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kJPww84IIVi10x41veT2aJ6wXWE.jpg",
+      "overview": "A cowboy turned gold miner fights a gang that buys miner's claims and then murders them.",
+      "genres": [
+        "Faroeste"
+      ],
+      "cast": [
+        {
+          "name": "Jack Hoxie",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6Ct8EodKuxf8hZnwBNQ4oQxxrKJ.jpg"
+        },
+        {
+          "name": "Alice Day",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uzlhFXfX7nUFEoqOALrxTtWTs3i.jpg"
+        },
+        {
+          "name": "Hooper Atchley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ab6UN3WPvemElRJfApwyrR4MclU.jpg"
+        },
+        {
+          "name": "Matthew Betz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tpGMjJrquUADwkV8ZXJLofwNy8d.jpg"
+        },
+        {
+          "name": "Lafe McKee",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iDR6BFkx3vJY9dN3LA3bNTAK24J.jpg"
+        },
+        {
+          "name": "Jack Rube Clifford",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xOwlFhANXauQur5JkuiJ1K6rdnt.jpg"
+        },
+        {
+          "name": "Tom London",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nfLW8J3AMasTu1Ahm0HftRgx9qy.jpg"
+        },
+        {
+          "name": "Bob Kortman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hehu5JH7b44Pzcyeng3DF6pCoz0.jpg"
+        },
+        {
+          "name": "Jack Byron",
+          "photo_url": null
+        },
+        {
+          "name": "Slim Cole",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6811
+      ],
+      "video_message_id": 6811
+    },
+    {
       "tmdb_id": 880100,
       "title": "Medo",
       "original_title": "Fear",
@@ -90673,6 +90731,36 @@
         6805
       ],
       "video_message_id": 6805
+    },
+    {
+      "tmdb_id": 65425,
+      "title": "Mercado Negro — S01E05 — Imitações",
+      "original_title": "Sarah Young Private Fantasies 18",
+      "year": "2015",
+      "poster_url": "https://image.tmdb.org/t/p/w500/idfieCiJmUr5UyXH2Zeqw11Jjdx.jpg",
+      "backdrop_url": null,
+      "overview": "In Sarah Young's Private Fantasies 18, Sarah has a heated dispute with Sean but decides its better to make love not war.",
+      "genres": [
+        "Romance"
+      ],
+      "cast": [
+        {
+          "name": "Sarah Louise Young",
+          "photo_url": "https://image.tmdb.org/t/p/w185/l13NVKetFS2CkpMOhV5AzHCLtTV.jpg"
+        },
+        {
+          "name": "Sean Michaels",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zGCrUrHTOIZ7WOqYMmkBEXXNa6C.jpg"
+        },
+        {
+          "name": "Peter North",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uwWAK7wa1ynbLjNz88pSyf0KPQw.jpg"
+        }
+      ],
+      "message_ids": [
+        6808
+      ],
+      "video_message_id": 6808
     },
     {
       "tmdb_id": 1255775,
@@ -100451,6 +100539,73 @@
         1536
       ],
       "video_message_id": 1536
+    },
+    {
+      "tmdb_id": 116986,
+      "title": "O Arsenal dos Espiões — S01E01 — Vigilância de última geração",
+      "original_title": "Los hermanos Del Hierro",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/91WLB1Q4c8YNXsjKyE7FYKX1ASd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/v2BxiJZ6TjXBe9bnr3qr4kdW5eL.jpg",
+      "overview": "Reynaldo e Martín Del Hierro são testemunhas do assassinato de seu pai por Pascual Velazco. À medida que crescem, são envenenados pelo desejo de vingança de sua mãe, mas quando o conseguem, suas vidas mudarão para sempre.",
+      "genres": [
+        "Drama",
+        "Faroeste"
+      ],
+      "cast": [
+        {
+          "name": "Antonio Aguilar",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yaBvT37fAhYJn8LXE7Qs9yXSGL6.jpg"
+        },
+        {
+          "name": "Julio Alemán",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vC7pjqqLfQRNhvZxKqdcTyOSHIP.jpg"
+        },
+        {
+          "name": "Columba Domínguez",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AnSsdXiBszJG1f4Xmcql0Mviyu4.jpg"
+        },
+        {
+          "name": "Patricia Conde",
+          "photo_url": "https://image.tmdb.org/t/p/w185/g0OAhqzmzu7YZMF9kO06xexIUJr.jpg"
+        },
+        {
+          "name": "David Reynoso",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cTNMjcWNnG0WP5lDpsM8ca4gnOG.jpg"
+        },
+        {
+          "name": "Luis Aragón",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pnjIAquINZqSfQJsUx264yY8hAe.jpg"
+        },
+        {
+          "name": "Dolores Camarillo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mCJQHtruSwGcY2lSfE1ohpHQftq.jpg"
+        },
+        {
+          "name": "Pancho Córdova",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3aqUNccGsDMMt1tkwdueXl5hIUY.jpg"
+        },
+        {
+          "name": "Pascual García Peña",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dtOL4Q3JyeNS0t0Vkfwel8brKBg.jpg"
+        },
+        {
+          "name": "Eleazar García",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5tPrI8AYwAjas1lEOsAqgZI1n81.jpg"
+        },
+        {
+          "name": "Tito Novaro",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6jGeo6s7dCrbyabt0KKA67JuSkK.jpg"
+        },
+        {
+          "name": "Sadi Dupeyrón",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6821
+      ],
+      "video_message_id": 6821
     },
     {
       "tmdb_id": 4512,
@@ -164980,6 +165135,72 @@
         4602
       ],
       "video_message_id": 4602
+    },
+    {
+      "tmdb_id": 334392,
+      "title": "Unwell Summer Games — S01E01 — Episódio 1",
+      "original_title": "鴎よ、きらめく海を見たか　めぐり逢い",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/n9SeiuRGmEHMdt7uf1PXdNyOldv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nUXdfLBMk7i0julDFvkP03PfVGu.jpg",
+      "overview": "Fujishita Kumi is an ordinary office lady. Longing to escape her poor fishing village for a life in the city, she came to Tokyo. One day while alone in the office, she's spotted rolling up her pantyhose by the window cleaner Kurata Katsuo. This was to be their first encounter. Completely enchanted by Kumi, Katsuo does everything he can to get close to her. Katsuo is a man with a terrible past. With the death of his coal miner father, his family was broken up and he was forced to follow in his father's footsteps laboring away in the mud. In spite of this, Katsuo still has dreams. He dreams of living in Resiporuko, a utopian fantasyland that exists only in his imagination. When Katsuo and Kumi finally meet they find themselves unable to communicate. Katsuo spends all his time talking about Resiporuko with a starry look in his eyes, while Kumi dreams of living the high life in the city. One day when the two travel to the seashore, they discover a wounded seagull.",
+      "genres": [
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "田中健",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5af2OkUypOvWDHzKrglD8vl9kSh.jpg"
+        },
+        {
+          "name": "高橋洋子",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8tAECRQD9QtUlk5YcMfvd1HDZQo.jpg"
+        },
+        {
+          "name": "根岸明美",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oWE8EeeDOOMWFrgW6EPsAYdEnVZ.jpg"
+        },
+        {
+          "name": "下條正巳",
+          "photo_url": "https://image.tmdb.org/t/p/w185/o7Ae75gKl9HjXrK3ElmXa8kNyQO.jpg"
+        },
+        {
+          "name": "Yuzuru Amano",
+          "photo_url": null
+        },
+        {
+          "name": "Sanshotei Shoza",
+          "photo_url": null
+        },
+        {
+          "name": "Taiko Shinbashi",
+          "photo_url": null
+        },
+        {
+          "name": "日野道夫",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tK9elR4MmxnMP8WQzxFE5F4O9qG.jpg"
+        },
+        {
+          "name": "長浜藤夫",
+          "photo_url": null
+        },
+        {
+          "name": "Junko Kuroda",
+          "photo_url": null
+        },
+        {
+          "name": "Noriyo Sasata",
+          "photo_url": null
+        },
+        {
+          "name": "萩原健一",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8kNMHlEiANklSuuqiZu4jU7Ef9V.jpg"
+        }
+      ],
+      "message_ids": [
+        6830
+      ],
+      "video_message_id": 6830
     },
     {
       "tmdb_id": 14160,

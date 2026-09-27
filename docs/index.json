@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:58:17+00:00",
+  "generated_at": "2026-09-27T05:59:07+00:00",
   "channel": "-1004483833987",
-  "count": 2695,
-  "movie_count": 2651,
+  "count": 2696,
+  "movie_count": 2652,
   "series_count": 10,
   "episode_count": 44,
   "movies": [
@@ -103595,6 +103595,73 @@
         1085
       ],
       "video_message_id": 1085
+    },
+    {
+      "tmdb_id": 124407,
+      "title": "O Caso Evandro — S01E02 — Os Acusados",
+      "original_title": "Street Asylum",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fbTCWHFdYXBzk1A8FplSSiVLfsP.jpg",
+      "backdrop_url": null,
+      "overview": "In the bleak near future Los Angeles has become a dangerous war zone with cops pitted against assorted law-breaking lowlifes. Sergeant Arliss Ryder (well played with customary wired intensity by the always great Wings Hauser) has an electronic device put into his back that turns him into an out-of-control psychotic killer and put on the Strike S.Q.U.A.D. (an acronym for Scum Quelling Assault Urban Devision), which is a unit of crazed cops assigned by Captain Bill Quinton (a typically gruff Alex Cord) to rid the City of Angels of criminals by using any means necessary. The only problem is that Arliss discovers what's going down and decides to put a stop to all this madness.",
+      "genres": [
+        "Ação",
+        "Ficção científica"
+      ],
+      "cast": [
+        {
+          "name": "Wings Hauser",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yYGJCFjsWNVVOPqq2Rl1JWRrYt3.jpg"
+        },
+        {
+          "name": "Alex Cord",
+          "photo_url": "https://image.tmdb.org/t/p/w185/auyeofs0g8y9KIzWzMoALUFs6TK.jpg"
+        },
+        {
+          "name": "Roberta Vasquez",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1FbYyi2OxuyUV6Qo9gx4IgR5i6q.jpg"
+        },
+        {
+          "name": "Sy Richardson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jxZkTx1sGh3AkPvezh62cBJhbat.jpg"
+        },
+        {
+          "name": "Brion James",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qy5jIIsWrNCV1OVRaUiqYNhLLVT.jpg"
+        },
+        {
+          "name": "G. Gordon Liddy",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ayoV1So6SFOMRVKLNUDEV7LuhNt.jpg"
+        },
+        {
+          "name": "Jesse Doran",
+          "photo_url": null
+        },
+        {
+          "name": "Lisa Robins",
+          "photo_url": null
+        },
+        {
+          "name": "Marie Chambers",
+          "photo_url": null
+        },
+        {
+          "name": "Jesse Aragon",
+          "photo_url": null
+        },
+        {
+          "name": "William Shockley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lOcuXGETGWR8kVQMgjan1jOT13a.jpg"
+        },
+        {
+          "name": "Christopher Kriesa",
+          "photo_url": "https://image.tmdb.org/t/p/w185/x8mQj9GPKXc7B75u3cpjBpaLn48.jpg"
+        }
+      ],
+      "message_ids": [
+        6917
+      ],
+      "video_message_id": 6917
     },
     {
       "tmdb_id": 292011,

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:38:30+00:00",
+  "generated_at": "2026-09-27T19:38:34+00:00",
   "channel": "-1004483833987",
-  "count": 3026,
+  "count": 3027,
   "movie_count": 2802,
-  "series_count": 33,
-  "episode_count": 224,
+  "series_count": 34,
+  "episode_count": 225,
   "custom_count": 0,
   "movies": [
     {
@@ -184064,6 +184064,54 @@
     }
   ],
   "series": [
+    {
+      "tmdb_id": 317068,
+      "title": "Andar na Pedra: A História do Raimundos",
+      "original_title": "Andar na Pedra: A História do Raimundos",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ds68uuj5GQZaL2fkBzMAQrz9vRZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hxlgxxwiT5FldlYuZ1fz9J0wHDR.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 5,
+              "tmdb_id": 7063415,
+              "title": "El Mariachi",
+              "air_date": "2026-03-19",
+              "overview": "A saída de Rodolfo abala fãs e banda, desencadeando crises, rupturas e perdas, enquanto cada integrante busca identidade, perdão e o verdadeiro legado do Raimundos.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/hxlgxxwiT5FldlYuZ1fz9J0wHDR.jpg",
+              "cast": [
+                {
+                  "name": "Rodolfo Abrantes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/5ZfH8zXKW5sTEsnoahkaACDTtnR.jpg"
+                },
+                {
+                  "name": "Digão",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ldxq0RKXq6JlMRM3TJ88zZnjULS.jpg"
+                },
+                {
+                  "name": "Fred Castro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/isE7d8RNUKAw6b9nF3ifb07Tc6n.jpg"
+                },
+                {
+                  "name": "Canisso",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dJcWD7x0objBoKAMhoKxkmUKrZu.jpg"
+                }
+              ],
+              "message_ids": [
+                7411,
+                7412
+              ],
+              "video_message_id": 7412
+            }
+          ]
+        }
+      ]
+    },
     {
       "tmdb_id": 236400,
       "title": "Anderson Spider Silva",

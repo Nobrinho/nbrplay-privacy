@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T22:55:05+00:00",
+  "generated_at": "2026-09-27T23:23:10+00:00",
   "channel": "-1004483833987",
-  "count": 3106,
+  "count": 3107,
   "movie_count": 2811,
-  "series_count": 41,
-  "episode_count": 295,
+  "series_count": 42,
+  "episode_count": 296,
   "custom_count": 0,
   "movies": [
     {
@@ -188048,6 +188048,45 @@
                 7410
               ],
               "video_message_id": 7410
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 216569,
+      "title": "Galvão: Olha o Que Ele Fez",
+      "original_title": "Galvão: Olha o Que Ele Fez",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vKiYPS4ovZYsJJ3z5VUSlBle8rl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gRWiQPoM0CdxQMhXE97Nend2nWC.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 5,
+              "tmdb_id": 4110617,
+              "title": "A última página?",
+              "air_date": "2023-05-25",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/gRWiQPoM0CdxQMhXE97Nend2nWC.jpg",
+              "cast": [
+                {
+                  "name": "Galvão Bueno",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xMinaMBm3T9Lr0anZTXgA0TMfhi.jpg"
+                },
+                {
+                  "name": "Luca Bueno",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/jYzuIoly5WZGfJxp3FvOMfS5hMb.jpg"
+                }
+              ],
+              "message_ids": [
+                7503
+              ],
+              "video_message_id": 7503
             }
           ]
         }

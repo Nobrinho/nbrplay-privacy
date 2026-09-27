@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:12:02+00:00",
+  "generated_at": "2026-09-27T05:12:57+00:00",
   "channel": "-1004483833987",
-  "count": 2639,
-  "movie_count": 2606,
+  "count": 2640,
+  "movie_count": 2607,
   "series_count": 8,
   "episode_count": 33,
   "movies": [
@@ -130403,6 +130403,74 @@
         4071
       ],
       "video_message_id": 4071
+    },
+    {
+      "tmdb_id": 3293,
+      "title": "Piratas da Informática",
+      "original_title": "Pirates of Silicon Valley",
+      "year": "1999",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4f75RRgolJL8x5TNb63KHRPLI8Y.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vKgsqmYHdNjtyhQIUjXW88IPeI.jpg",
+      "overview": "Mostra como Bill Gates e Steve Jobs fundaram as respectivas Microsoft e Apple e a concorrência entre os dois para ver quem chegava primeiro e as estratégias que utilizaram para criarem suas empresas.",
+      "genres": [
+        "Drama",
+        "Cinema TV"
+      ],
+      "cast": [
+        {
+          "name": "Noah Wyle",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nwyLCQepwg8FX7OXJ4AT4ej8c7i.jpg"
+        },
+        {
+          "name": "Anthony Michael Hall",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nLthzoCuNxxd3KteIrnnMg1066G.jpg"
+        },
+        {
+          "name": "Joey Slotnick",
+          "photo_url": "https://image.tmdb.org/t/p/w185/obbw43JPkgMHMqJIQthigopTOC9.jpg"
+        },
+        {
+          "name": "J.G. Hertzler",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tFXm0QBvm3KfIBEvkzVa5c8pgPD.jpg"
+        },
+        {
+          "name": "Wayne Péré",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lwXHBf6Iy627B7wLgzIy43NKzRi.jpg"
+        },
+        {
+          "name": "Sheila Shaw",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mcNMOWtTHIRx9kJd79maSskbRNC.jpg"
+        },
+        {
+          "name": "Gema Zamprogna",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ewD81AiJFKGeMrRce3Y9uCuzIcc.jpg"
+        },
+        {
+          "name": "John DiMaggio",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+        },
+        {
+          "name": "Josh Hopkins",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ch8uh6RM55dmrAZdt8ByktQifg6.jpg"
+        },
+        {
+          "name": "Gailard Sartain",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oYCs7TlrvnwcNujQ2yzG4x7fz7f.jpg"
+        },
+        {
+          "name": "Allan Kolman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/18Y2IkYm3UZw7QXtS18BjO9LATU.jpg"
+        },
+        {
+          "name": "Marcus Giamatti",
+          "photo_url": "https://image.tmdb.org/t/p/w185/inA30birgxG7TvWXLBgCSIR2BZ5.jpg"
+        }
+      ],
+      "message_ids": [
+        6863,
+        6864
+      ],
+      "video_message_id": 6864
     },
     {
       "tmdb_id": 22,

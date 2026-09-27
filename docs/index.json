@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T15:46:03+00:00",
+  "generated_at": "2026-09-27T15:48:31+00:00",
   "channel": "-1004483833987",
-  "count": 2924,
-  "movie_count": 2767,
+  "count": 2925,
+  "movie_count": 2768,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -163227,6 +163227,71 @@
         3594
       ],
       "video_message_id": 3594
+    },
+    {
+      "tmdb_id": 489493,
+      "title": "Titanic: 20 Anos Depois",
+      "original_title": "Titanic: 20 Years Later with James Cameron",
+      "year": "2017",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zXzpFjFcLmfPPP1KW5rcup5LiCg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9PolVogZuHd07JIPOPTDnFAFj1p.jpg",
+      "overview": "James Cameron lançou o filme Titanic 20 anos atrás prometendo uma história viva , dizendo que ele devia a verdade àquelas almas perdidas em 1912. Agora, neste especial de 1 hora, Cameron junta especialistas para reabrir o arquivo do caso, perguntando Nós acertamos? Com 33 mergulhos nos escombros do navio e anos de analise forense, ele explora os mitos e mistérios do Titanic, testando o desastre, na esperança de responder perguntas que o perseguiram por anos.",
+      "genres": [
+        "Documentário",
+        "História",
+        "Cinema TV"
+      ],
+      "cast": [
+        {
+          "name": "James Cameron",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2Hh4Jos62luf90CCglP5K32qaWO.jpg"
+        },
+        {
+          "name": "Jacqueline Astor Drexel",
+          "photo_url": null
+        },
+        {
+          "name": "Robert D. Ballard",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wiNQa47si2jK6ODJ2Q0nMufqAky.jpg"
+        },
+        {
+          "name": "Harold Bride",
+          "photo_url": null
+        },
+        {
+          "name": "Paul Kurzman",
+          "photo_url": null
+        },
+        {
+          "name": "Don Lynch",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vR6yWFh5HxzVqVa9tLT64yFydqA.jpg"
+        },
+        {
+          "name": "Ken Marschall",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qWmc80i2b4lLzIJQhWTFkNjRyQR.jpg"
+        },
+        {
+          "name": "William McMaster Murdoch",
+          "photo_url": null
+        },
+        {
+          "name": "Gene Warren III",
+          "photo_url": null
+        },
+        {
+          "name": "Gene Warren Jr.",
+          "photo_url": null
+        },
+        {
+          "name": "Christopher Warren",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7274,
+        7275
+      ],
+      "video_message_id": 7275
     },
     {
       "tmdb_id": 4247,

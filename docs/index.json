@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:37:32+00:00",
+  "generated_at": "2026-09-27T19:37:39+00:00",
   "channel": "-1004483833987",
-  "count": 3023,
+  "count": 3024,
   "movie_count": 2802,
   "series_count": 33,
-  "episode_count": 221,
+  "episode_count": 222,
   "custom_count": 0,
   "movies": [
     {
@@ -193803,7 +193803,7 @@
       "title": "Voepass 2283: A Queda",
       "original_title": "Voepass 2283: A Queda",
       "poster_url": "https://image.tmdb.org/t/p/w500/kyhA75vhZ5OtWtLWSgNQloHdY9L.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/lNd5nihm4A5ftdM3iWlv83TaLl3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8hZ2pDbGukb1dFtYf3fTefFPRTq.jpg",
       "genres": [
         "Documentário"
       ],
@@ -193811,6 +193811,19 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 2,
+              "tmdb_id": 7655248,
+              "title": "Negligência",
+              "air_date": "2026-08-07",
+              "overview": "Uma revelação sobre o funcionamento da aeronave coloca em dúvida a hipótese de fatalidade e impulsiona a busca dos parentes de vítimas por justiça.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/8hZ2pDbGukb1dFtYf3fTefFPRTq.jpg",
+              "cast": [],
+              "message_ids": [
+                7407
+              ],
+              "video_message_id": 7407
+            },
             {
               "number": 3,
               "tmdb_id": 7655249,

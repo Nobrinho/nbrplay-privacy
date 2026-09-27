@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T02:57:55+00:00",
+  "generated_at": "2026-09-27T02:58:05+00:00",
   "channel": "-1004483833987",
-  "count": 2536,
-  "movie_count": 2536,
+  "count": 2537,
+  "movie_count": 2537,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -151829,6 +151829,75 @@
         6725
       ],
       "video_message_id": 6725
+    },
+    {
+      "tmdb_id": 616037,
+      "title": "Thor: Amor e Trovão",
+      "original_title": "Thor: Love and Thunder",
+      "year": "2022",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8gdBMIYwPPxp3b9FjY9yCxme5Rs.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+      "overview": "Thor parte em uma jornada de autodescoberta, diferente de tudo que ele já enfrentou. Mas seus esforços são interrompidos por um assassino galáctico conhecido como Gorr, o Carniceiro dos Deuses, que busca a extinção dos deuses. Para combater esta ameaça, Thor pede a ajuda da Rei Valquíria, Korg e da ex-namorada Jane Foster, que, para a surpresa de Thor, inexplicavelmente empunha seu mágico martelo, Mjolnir, como a Poderosa Thor. Juntos, eles embarcam em uma angustiante aventura cósmica para descobrir o mistério da vingança do Carniceiro dos Deuses e detê-lo antes que seja tarde demais.",
+      "genres": [
+        "Fantasia",
+        "Ação",
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Chris Hemsworth",
+          "photo_url": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+        },
+        {
+          "name": "Natalie Portman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+        },
+        {
+          "name": "Christian Bale",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+        },
+        {
+          "name": "Tessa Thompson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/19ze60jXlb2j7dXc2UpA3MujXA8.jpg"
+        },
+        {
+          "name": "Taika Waititi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ww6L2ksfJNMbuiIdDuvVKndUHsv.jpg"
+        },
+        {
+          "name": "Russell Crowe",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3IBZF0qCZMZ7zJYlgrH0sQzNZV.jpg"
+        },
+        {
+          "name": "Jaimie Alexander",
+          "photo_url": "https://image.tmdb.org/t/p/w185/21IQHPAXNUHiqPrpIYr4X8h2wmf.jpg"
+        },
+        {
+          "name": "Idris Elba",
+          "photo_url": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+        },
+        {
+          "name": "Chris Pratt",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+        },
+        {
+          "name": "Dave Bautista",
+          "photo_url": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+        },
+        {
+          "name": "Karen Gillan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qYx8CflXVq48nGKX1IJsDrAj0sT.jpg"
+        },
+        {
+          "name": "Pom Klementieff",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hfUKAI2kXTMMWjno0i4sLPJud5N.jpg"
+        }
+      ],
+      "message_ids": [
+        6742,
+        6743
+      ],
+      "video_message_id": 6743
     },
     {
       "tmdb_id": 986056,

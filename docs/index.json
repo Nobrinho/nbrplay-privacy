@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:47:48+00:00",
+  "generated_at": "2026-09-27T07:48:14+00:00",
   "channel": "-1004483833987",
-  "count": 2896,
-  "movie_count": 2739,
+  "count": 2898,
+  "movie_count": 2741,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -132337,6 +132337,22 @@
       "video_message_id": 4549
     },
     {
+      "tmdb_id": 3322,
+      "title": "Oz — S01E01 — A Rotina",
+      "original_title": null,
+      "year": "1997",
+      "poster_url": null,
+      "backdrop_url": null,
+      "overview": null,
+      "genres": [],
+      "cast": [],
+      "message_ids": [
+        7210,
+        7211
+      ],
+      "video_message_id": 7211
+    },
+    {
       "tmdb_id": 6023,
       "title": "P.S. Eu Te Amo",
       "original_title": "P.S. I Love You",
@@ -146212,6 +146228,74 @@
         5816
       ],
       "video_message_id": 5816
+    },
+    {
+      "tmdb_id": 77448,
+      "title": "Rio Heroes — S01E03 — Faixa-Preta",
+      "original_title": "That's Entertainment! III",
+      "year": "2018",
+      "poster_url": "https://image.tmdb.org/t/p/w500/g6urKxs7CnXe3TNcKGkS8VVFlxh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kBzZR5wIY7ThPAVIZU0oISHc1v7.jpg",
+      "overview": "Algumas das estrelas musicais da MGM revisam a história dos musicais dos estúdios. De 'The Hollywood Revue' de 1929 a ' A Lenda dos Beijos Perdidos' de 1954. Dos primeiros talkies musicais a Gene Kelly em 'Cantando na Chuva' de 1952.",
+      "genres": [
+        "Documentário",
+        "Música"
+      ],
+      "cast": [
+        {
+          "name": "June Allyson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7mpc9Qjms4OZVF54NH2qQXj7CAt.jpg"
+        },
+        {
+          "name": "Cyd Charisse",
+          "photo_url": "https://image.tmdb.org/t/p/w185/g5in2cxIlYimrD5bNYPeX6AkBb2.jpg"
+        },
+        {
+          "name": "Lena Horne",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vk6Z28XELYgfB1hgnoHsyRoIMll.jpg"
+        },
+        {
+          "name": "Howard Keel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8pvdM0sFqs4Jq6Foh72UYhXXSh1.jpg"
+        },
+        {
+          "name": "Gene Kelly",
+          "photo_url": "https://image.tmdb.org/t/p/w185/g98yyY7oGrkocUxxJgOt82I7z6A.jpg"
+        },
+        {
+          "name": "Ann Miller",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3IWXjk5Qc4RYBdPEQdQsyo20ymh.jpg"
+        },
+        {
+          "name": "Debbie Reynolds",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9Z9DQqNztKlinANGGgD5dQODtlr.jpg"
+        },
+        {
+          "name": "Mickey Rooney",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eYuayEC3xhXQf3Z1Cy6AVMEcgZb.jpg"
+        },
+        {
+          "name": "Esther Williams",
+          "photo_url": "https://image.tmdb.org/t/p/w185/r6jzrhOpbWmXUxMRgwXPAwvp8lL.jpg"
+        },
+        {
+          "name": "Granville Van Dusen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/j6vsh70I7VuHULC6RZ2tegwe9zn.jpg"
+        },
+        {
+          "name": "Fred Astaire",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6gw9PCrKi19I5QOwjEPaOYW9uLI.jpg"
+        },
+        {
+          "name": "Lucille Ball",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gcJ5Qwg9lcadvdCxC22AjFuJC4A.jpg"
+        }
+      ],
+      "message_ids": [
+        7204,
+        7205
+      ],
+      "video_message_id": 7205
     },
     {
       "tmdb_id": 60670,

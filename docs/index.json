@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:26:46+00:00",
+  "generated_at": "2026-09-27T07:26:50+00:00",
   "channel": "-1004483833987",
-  "count": 2798,
+  "count": 2799,
   "movie_count": 2713,
   "series_count": 21,
-  "episode_count": 85,
+  "episode_count": 86,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -179644,6 +179644,60 @@
                 7075
               ],
               "video_message_id": 7075
+            },
+            {
+              "number": 10,
+              "tmdb_id": 747967,
+              "title": "Thor",
+              "air_date": "2009-10-12",
+              "overview": "Idealizado na antiga mitologia Nórdica como o o Deus Protetor, Thor combate com ogros malignos e com uma serpente gigante que quer destruir a humanidade.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/j0A36vVNM3JXQuZBoNOhZ5Dr8bP.jpg",
+              "cast": [
+                {
+                  "name": "Tracey-Anne Cooper",
+                  "photo_url": null
+                },
+                {
+                  "name": "Michael Drout",
+                  "photo_url": null
+                },
+                {
+                  "name": "Dimitra Fimi",
+                  "photo_url": null
+                },
+                {
+                  "name": "David George",
+                  "photo_url": null
+                },
+                {
+                  "name": "Blair Jones",
+                  "photo_url": null
+                },
+                {
+                  "name": "Scott A. Mellor",
+                  "photo_url": null
+                },
+                {
+                  "name": "John Rennie",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/yjMHU83zGqDQWaoKRBkbRz4Fxke.jpg"
+                },
+                {
+                  "name": "Stan Bernard",
+                  "photo_url": null
+                },
+                {
+                  "name": "Tate Steinsiek",
+                  "photo_url": null
+                },
+                {
+                  "name": "Greg Ford",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/sGIh8QXF5pYR7sozSQtCo1GTymR.jpg"
+                }
+              ],
+              "message_ids": [
+                7076
+              ],
+              "video_message_id": 7076
             }
           ]
         }

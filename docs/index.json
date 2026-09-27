@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T22:43:46+00:00",
+  "generated_at": "2026-09-27T22:43:55+00:00",
   "channel": "-1004483833987",
-  "count": 3091,
+  "count": 3092,
   "movie_count": 2807,
   "series_count": 38,
-  "episode_count": 284,
+  "episode_count": 285,
   "custom_count": 0,
   "movies": [
     {
@@ -193073,7 +193073,7 @@
       "title": "The Lost Tapes",
       "original_title": "The Lost Tapes",
       "poster_url": "https://image.tmdb.org/t/p/w500/icXy755NfNg9reJUtdi9P55iHU5.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/myZhVttLa9405GHVxjaRKJtYQEw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ujNauvm6Mz85LnzyI385fHHzvRt.jpg",
       "genres": [
         "Documentário",
         "Talk"
@@ -193082,6 +193082,19 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 1397515,
+              "title": "Episódio 1",
+              "air_date": "2016-12-04",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/ujNauvm6Mz85LnzyI385fHHzvRt.jpg",
+              "cast": [],
+              "message_ids": [
+                7486
+              ],
+              "video_message_id": 7486
+            },
             {
               "number": 2,
               "tmdb_id": 1397516,

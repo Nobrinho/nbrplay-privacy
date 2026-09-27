@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:56:10+00:00",
+  "generated_at": "2026-09-27T07:57:02+00:00",
   "channel": "-1004483833987",
-  "count": 2913,
-  "movie_count": 2756,
+  "count": 2914,
+  "movie_count": 2757,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -40846,6 +40846,74 @@
         945
       ],
       "video_message_id": 945
+    },
+    {
+      "tmdb_id": 1413976,
+      "title": "Citizen Vigilante",
+      "original_title": "Citizen Vigilante",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zUninC7dOHfzwcgCqQMLQjlMtiy.jpg",
+      "overview": "Um homem faz justiça com suas próprias mãos, perseguindo criminosos. Sua cruzada como vigilante faz dele uma estrela da mídia social, mas isso o coloca em conflito com o chefe de polícia local.",
+      "genres": [
+        "Thriller",
+        "Ação",
+        "Crime"
+      ],
+      "cast": [
+        {
+          "name": "Armie Hammer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4Z5nLW2biRjqstDMKqSaeQYAesK.jpg"
+        },
+        {
+          "name": "Costas Mandylor",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yPkQdbhCj2EJM0cjDtkuJTlFp86.jpg"
+        },
+        {
+          "name": "Désirée Giorgetti",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vDoGIUjB4472uMRtif1cQPGtMNU.jpg"
+        },
+        {
+          "name": "Steffen Mennekes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sQqg3K8SbBCAUcud5IkSrSEEz5c.jpg"
+        },
+        {
+          "name": "Neb Chupin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aK6MI2o2x3jeoVJM5Hj8Z5re4be.jpg"
+        },
+        {
+          "name": "Mukit Abdul Hamid",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2i1hrkLI0F2s07bRtKgHpgRdrGt.jpg"
+        },
+        {
+          "name": "Fares Mongi",
+          "photo_url": null
+        },
+        {
+          "name": "Hila Harush",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tFaY4MwvLOkjdO3ljWN4apWwtfA.jpg"
+        },
+        {
+          "name": "Helen Al-Janabi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7l7rADvvs3dLpgCHHGNNEsvDDpO.jpg"
+        },
+        {
+          "name": "Dora Dimić Rakar",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zTPJ3p6yU1WRbP6hmSK5YXeGryi.jpg"
+        },
+        {
+          "name": "Tvrtko Jurić",
+          "photo_url": null
+        },
+        {
+          "name": "Roni Lepej",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hFrutSct6F5yNiuT2roZl8c2WnO.jpg"
+        }
+      ],
+      "message_ids": [
+        7258
+      ],
+      "video_message_id": 7258
     },
     {
       "tmdb_id": 11062,

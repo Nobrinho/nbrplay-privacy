@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:50:57+00:00",
+  "generated_at": "2026-09-27T04:53:05+00:00",
   "channel": "-1004483833987",
-  "count": 2627,
-  "movie_count": 2597,
+  "count": 2628,
+  "movie_count": 2598,
   "series_count": 7,
   "episode_count": 30,
   "movies": [
@@ -127539,6 +127539,23 @@
         6791
       ],
       "video_message_id": 6791
+    },
+    {
+      "tmdb_id": 444469,
+      "title": "Paralelos",
+      "original_title": "Paralelos",
+      "year": "2016",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mTKkC7PZ4G9K9Uv74heuvRkwxXi.jpg",
+      "backdrop_url": null,
+      "overview": "Paralelos conta três momentos importantes para a cultura nacional dos videogames, falando sobre a Taito e a produção de máquinas de pinball; O boom do Nintendinho, que levou à popularização da Tectoy e o surgimento das adaptações brasileiras de jogos e consoles, como o famoso Mônica no Castelo do Dragão; E o início da cena modder no Brasil, marcada pelas versões modificadas de Winning Eleven e mapas de Counter-Strike.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [],
+      "message_ids": [
+        6849
+      ],
+      "video_message_id": 6849
     },
     {
       "tmdb_id": 8271,

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:45:15+00:00",
+  "generated_at": "2026-09-27T07:46:02+00:00",
   "channel": "-1004483833987",
-  "count": 2885,
+  "count": 2886,
   "movie_count": 2736,
-  "series_count": 24,
-  "episode_count": 149,
+  "series_count": 25,
+  "episode_count": 150,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -183063,6 +183063,67 @@
                 6957
               ],
               "video_message_id": 6957
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 3322,
+      "title": "Oz",
+      "original_title": "Oz",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oTQ9PUnCgf9CimYeWuDGp8iaT07.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mY26BAsqxyj5LWrLmybxNIOvYE5.jpg",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 245416,
+              "title": "A Rotina",
+              "air_date": "1997-07-12",
+              "overview": "No episódio piloto, conhecemos diversos residentes de uma prisão experimental dentro de uma prisão, conhecida com Emerald City.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/mY26BAsqxyj5LWrLmybxNIOvYE5.jpg",
+              "cast": [
+                {
+                  "name": "Lee Tergesen",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qAldK2CeBVzeRZ9sqTd3zU9SiU1.jpg"
+                },
+                {
+                  "name": "Harold Perrineau",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/bVSLpGUaislREbujmknOqadrxYM.jpg"
+                },
+                {
+                  "name": "Dean Winters",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zxgOZAYGxa2qmiZkJKGRIhwbGhG.jpg"
+                },
+                {
+                  "name": "Eamonn Walker",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/mJ2pENrcO4uRy2TNVUzg5cEI9b3.jpg"
+                },
+                {
+                  "name": "Ernie Hudson",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/kgAdQA2ItCDVvKXufeDHc6Omiso.jpg"
+                },
+                {
+                  "name": "Terry Kinney",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/2Y6AeUUj1xUd5p7mRM9tFqUCN87.jpg"
+                },
+                {
+                  "name": "Edie Falco",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/jS2Hnr5OmntpX0J7EpH70zAG0mz.jpg"
+                }
+              ],
+              "message_ids": [
+                7210,
+                7211
+              ],
+              "video_message_id": 7211
             }
           ]
         }

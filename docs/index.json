@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T22:50:46+00:00",
+  "generated_at": "2026-09-27T22:55:05+00:00",
   "channel": "-1004483833987",
-  "count": 3102,
-  "movie_count": 2807,
+  "count": 3106,
+  "movie_count": 2811,
   "series_count": 41,
   "episode_count": 295,
   "custom_count": 0,
@@ -33829,6 +33829,73 @@
       "video_message_id": 7065
     },
     {
+      "tmdb_id": 127700,
+      "title": "Bem-vindos à Terra — S01E06 — Além do Medo",
+      "original_title": "The Newest Pledge",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/askI2rBkzq99pYp3AUPDYh2mAvz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6RJ0yITDYO2VFDStAqdrNQHvNXw.jpg",
+      "overview": "The morning after kicking off their semester with a patriotic \"stars, stripes, and strippers\" party, the members of the Omega fraternity awaken to a find a baby on their doorstep. After little to no deliberation, the Omegas decide to pledge the baby. When a rival fraternity member, Rico, learns of this, he devises a plot to ruin the Omegas reputation in the eyes of the student body at Hamilton University. It's up to the Omegas to not only secure their legacy at the University, but to also raise a baby in a fraternity house.",
+      "genres": [
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Rob Steinhauser",
+          "photo_url": null
+        },
+        {
+          "name": "Joseph Booton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6Regpk2hPE6gk4sRsHnccsfSdBM.jpg"
+        },
+        {
+          "name": "Jason Mewes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jVL4WC8NbJFL894Z2FBYY3XuHW5.jpg"
+        },
+        {
+          "name": "Mindy Sterling",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hX99KTTCFxB4a2rB1SpDbr8imrK.jpg"
+        },
+        {
+          "name": "Barry Pearl",
+          "photo_url": "https://image.tmdb.org/t/p/w185/u8jLHqSn55zEMuNMIhgaQZr0UGN.jpg"
+        },
+        {
+          "name": "Andy Milonakis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/og7CQAYx2euArT2Jy55ZiyDEsTZ.jpg"
+        },
+        {
+          "name": "G.W. Bailey",
+          "photo_url": "https://image.tmdb.org/t/p/w185/doZuJwI446yhQ28PHT9vyM6pa0f.jpg"
+        },
+        {
+          "name": "Kevin Myers",
+          "photo_url": null
+        },
+        {
+          "name": "George Snarberg",
+          "photo_url": null
+        },
+        {
+          "name": "Kevin Nash",
+          "photo_url": "https://image.tmdb.org/t/p/w185/voSs3NTtgBHZRO4yCqQxwMhEngc.jpg"
+        },
+        {
+          "name": "Willam Belli",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mh2EZS3wIsVPTIrPxOiMxGuWgov.jpg"
+        },
+        {
+          "name": "Lilith Mourning",
+          "photo_url": "https://image.tmdb.org/t/p/w185/snKtb0lFzNkumkSpYlAx28zV7jf.jpg"
+        }
+      ],
+      "message_ids": [
+        7489,
+        7490
+      ],
+      "video_message_id": 7490
+    },
+    {
       "tmdb_id": 665,
       "title": "Ben-Hur",
       "original_title": "Ben-Hur",
@@ -34100,6 +34167,23 @@
         6348
       ],
       "video_message_id": 6348
+    },
+    {
+      "tmdb_id": 235540,
+      "title": "Big Vape — S01E04 — Bilionários da noite para o dia",
+      "original_title": "Biffy Clyro: iTunes Festival 2012",
+      "year": "2023",
+      "poster_url": null,
+      "backdrop_url": null,
+      "overview": "The iTunes Festival is an annual, month-long music festival and concert series which takes place in September at The Roundhouse art centre in London. Sponsored by Apple Inc. Biffy Clyro are a Scottish rock band that formed in Kilmarnock, East Ayrshire. Currently signed to 14th Floor Records, they have released six studio albums, three of which reached the top five in the UK Albums Chart.",
+      "genres": [
+        "Música"
+      ],
+      "cast": [],
+      "message_ids": [
+        7487
+      ],
+      "video_message_id": 7487
     },
     {
       "tmdb_id": 481370,
@@ -42418,6 +42502,21 @@
         4990
       ],
       "video_message_id": 4990
+    },
+    {
+      "tmdb_id": 226403,
+      "title": "Como Criar um Escândalo Sexual — S01E03 — Episódio 3",
+      "original_title": null,
+      "year": "2023",
+      "poster_url": null,
+      "backdrop_url": null,
+      "overview": null,
+      "genres": [],
+      "cast": [],
+      "message_ids": [
+        7501
+      ],
+      "video_message_id": 7501
     },
     {
       "tmdb_id": 1542,
@@ -163772,6 +163871,54 @@
         3728
       ],
       "video_message_id": 3728
+    },
+    {
+      "tmdb_id": 75334,
+      "title": "The Lost Tapes — S02E02 — Episódio 2",
+      "original_title": "Teagan: Sexual Freak 2",
+      "year": "2018",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dUlTrMGoJT6efxjXl9wmAt2M5Ca.jpg",
+      "backdrop_url": null,
+      "overview": "Teagan: Sexual Freak 2 features Teagan Presley in perfect splendor and original, real-time audio. She maintains full control as she dominates and seduces her eager lover. She pleases him and herself before Jean Val Jean rocks her inside and out. Sexual Freak 2 showcases Teagan's animal instincts, her raw desire and engaging sexual demeanor. Digital Playground's freshest face, Shay Jordan makes her debut in an erotic and sensual power play with Scott Nails. Shay takes control and Scott delivers everything she asks for. Kapri Styles and raven-haired beauty Riley Shy also lend their inner sex freak to the title in phenomenal, heart racing, orgasmic frenzies, making Teagan: Sexual Freak 2 a total package for every warm-blooded connoisseur.",
+      "genres": [],
+      "cast": [
+        {
+          "name": "Teagan Presley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/b4niADEwqWCm97XZb2cNRZdimm9.jpg"
+        },
+        {
+          "name": "Shay Jordan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yq2bCgxytCw0rZPBPGy3XPj18pP.jpg"
+        },
+        {
+          "name": "Kapri Styles",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9cZd0HvEoqTxSXeyTL0zuXropZa.jpg"
+        },
+        {
+          "name": "Riley Shy",
+          "photo_url": "https://image.tmdb.org/t/p/w185/l6jMimXIXyRRdcXvOThmhL4xDWv.jpg"
+        },
+        {
+          "name": "Christian XXX",
+          "photo_url": "https://image.tmdb.org/t/p/w185/o70LBE9IKSqLwmUONBRL9npIcIq.jpg"
+        },
+        {
+          "name": "Scott Nails",
+          "photo_url": "https://image.tmdb.org/t/p/w185/p5vDmVDNYyUXfHXE36Q7houcraz.jpg"
+        },
+        {
+          "name": "Jerry Kovak",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n0loElTdjHhgLV5C6mCeRhUKQwe.jpg"
+        },
+        {
+          "name": "Emmanuel Delcour",
+          "photo_url": "https://image.tmdb.org/t/p/w185/m0tr7LXCGWAnDncfVMcnsvUVRbW.jpg"
+        }
+      ],
+      "message_ids": [
+        7482
+      ],
+      "video_message_id": 7482
     },
     {
       "tmdb_id": 1422562,

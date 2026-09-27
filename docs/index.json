@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T02:38:10+00:00",
+  "generated_at": "2026-09-27T02:38:52+00:00",
   "channel": "-1004483833987",
-  "count": 2518,
-  "movie_count": 2518,
+  "count": 2519,
+  "movie_count": 2519,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -138966,6 +138966,77 @@
         6031
       ],
       "video_message_id": 6031
+    },
+    {
+      "tmdb_id": 127533,
+      "title": "Samurai X: O Filme",
+      "original_title": "るろうに剣心",
+      "year": "2012",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3EM3KapkBIGFs4mXg2HDG4dED1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2bHoj05gR7I5gp4oeoDCY6bU42d.jpg",
+      "overview": "Kenshin Himura ficou conhecido como um dos melhores assassinos do país. Porém, cansado de tanta matança, ele abandona sua espada durante uma batalha e jura que não matará mais ninguém. Sua arma é recolhida por um dos derrotados e, passado algum tempo, uma série de assassinatos relacionados ao tráfico de ópio começam a acontecer. Himura passa a ser falsamente acusado de assassinato e sua promessa de nunca mais tirar uma vida é testada.",
+      "genres": [
+        "Aventura",
+        "Ação",
+        "Fantasia",
+        "Guerra",
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "佐藤健",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dKWtZXEnTOedUUnDwBCZZN7w2uG.jpg"
+        },
+        {
+          "name": "武井咲",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aGg47CnHc1wgIOtwt4rbQWbWuDg.jpg"
+        },
+        {
+          "name": "吉川晃司",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rmNxTUR0FsMxVdWWgHCa2LXlIaf.jpg"
+        },
+        {
+          "name": "Yu Aoi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xxZuHK0Be3caq3iTe03rbfzC5xB.jpg"
+        },
+        {
+          "name": "Munetaka Aoki",
+          "photo_url": "https://image.tmdb.org/t/p/w185/l5GdFPBBz717Kiimyqp5ieaglVo.jpg"
+        },
+        {
+          "name": "綾野剛",
+          "photo_url": "https://image.tmdb.org/t/p/w185/Ap5IuncBMYnABsvkEtsdoM92VTh.jpg"
+        },
+        {
+          "name": "須藤元気",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nGqNiJMAsdHziKz4nX1A6gAxe3e.jpg"
+        },
+        {
+          "name": "田中偉登",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pzPJR4UluYQKUw7IqLHzzwtPW5q.jpg"
+        },
+        {
+          "name": "奥田瑛二",
+          "photo_url": "https://image.tmdb.org/t/p/w185/r6fMqhPjBDPMn3oio1a2cjZzsnx.jpg"
+        },
+        {
+          "name": "江口洋介",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lRLNrQ4Nv4CdWxWwAUQsu3p3NGR.jpg"
+        },
+        {
+          "name": "香川照之",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5pQwTpjkjOI4Ul5NL0vVTA3tEFI.jpg"
+        },
+        {
+          "name": "平田薫",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jNimZPlg7oQLICwdisFDw7OTwoQ.jpg"
+        }
+      ],
+      "message_ids": [
+        6709,
+        6710
+      ],
+      "video_message_id": 6710
     },
     {
       "tmdb_id": 602063,

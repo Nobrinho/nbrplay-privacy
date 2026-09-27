@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T16:45:14+00:00",
+  "generated_at": "2026-09-27T16:56:32+00:00",
   "channel": "-1004483833987",
-  "count": 2941,
-  "movie_count": 2784,
+  "count": 2942,
+  "movie_count": 2785,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -92921,6 +92921,74 @@
         6193
       ],
       "video_message_id": 6193
+    },
+    {
+      "tmdb_id": 886474,
+      "title": "Maniac Driver",
+      "original_title": "マニアック・ドライバー",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4J4ROLMsm7J0TBEQEtH0bBhYA3L.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/n9i95YmXnWlgIqokD5L5fhnbdKh.jpg",
+      "overview": "Depois de uma tragédia pessoal, um motorista de táxi psicótico perambula pelas ruas de Tóquio seguindo e matando mulheres aleatoriamente, movido por um distorcido senso de retribuição. Mas será que as coisas realmente são o que aparentam?",
+      "genres": [
+        "Terror",
+        "Thriller",
+        "Crime"
+      ],
+      "cast": [
+        {
+          "name": "木村知貴",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tN323CKMV32lHfeWF19N39UANBq.jpg"
+        },
+        {
+          "name": "古川いおり",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sctcocTUKCNeytAo0Q4HSnIGrBH.jpg"
+        },
+        {
+          "name": "卯水咲流",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qWzxDWg5iXlBv9jtLL2HarIeY5m.jpg"
+        },
+        {
+          "name": "きみと歩実",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pnFXp9Kwx27hvMixOCE7r6jtsuH.jpg"
+        },
+        {
+          "name": "園部貴一",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lbMnOWSnHWE5ie929rhq4sMsgh8.jpg"
+        },
+        {
+          "name": "近藤善揮",
+          "photo_url": "https://image.tmdb.org/t/p/w185/awlJa7uyGLdHTqnorKxrJaN6rAU.jpg"
+        },
+        {
+          "name": "木村圭作",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4GA7CHiSBIIMptyjhM1KWDiaYmz.jpg"
+        },
+        {
+          "name": "佐山愛",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sBxnIs3MFSRpvcN1QrFWXhKTz8y.jpg"
+        },
+        {
+          "name": "川瀬陽太",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aPjf57B380k929h2OZ6FT0RLS4w.jpg"
+        },
+        {
+          "name": "高橋ヨシキ",
+          "photo_url": "https://image.tmdb.org/t/p/w185/64wcrXp2CJf4kl1nsP2icfr6Uqj.jpg"
+        },
+        {
+          "name": "長谷川千紗",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eeW7N9BDWuEh2kXEDy8kkH1BvpN.jpg"
+        },
+        {
+          "name": "塩田時敏",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7299
+      ],
+      "video_message_id": 7299
     },
     {
       "tmdb_id": 614560,

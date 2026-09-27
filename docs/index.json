@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T16:08:13+00:00",
+  "generated_at": "2026-09-27T16:08:35+00:00",
   "channel": "-1004483833987",
-  "count": 2930,
-  "movie_count": 2773,
+  "count": 2931,
+  "movie_count": 2774,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -14588,6 +14588,75 @@
         6883
       ],
       "video_message_id": 6883
+    },
+    {
+      "tmdb_id": 4228,
+      "title": "A Revolução Francesa",
+      "original_title": "La Révolution française",
+      "year": "1989",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qkIOwWwXQTNxr9q8X9YSfeYgvmA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3NpGjRbZS2VAYeEZh0ligquwzb.jpg",
+      "overview": "Uma história da Revolução Francesa, começando com a decisão do rei de convocar os Estados Gerais em 1789 para lidar com o problema da dívida francesa. A primeira parte abrange o evento até 10 de agosto de 1792 (quando o rei Luís XVI perdeu toda a autoridade e foi preso). A segunda parte leva a história até o fim do terror em 1794.",
+      "genres": [
+        "Drama",
+        "Guerra",
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "Klaus Maria Brandauer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mE4polIdi4QdzDvIuHgfM37n7l9.jpg"
+        },
+        {
+          "name": "François Cluzet",
+          "photo_url": "https://image.tmdb.org/t/p/w185/f6PO7Lkrem1N4UmklxHro2k6Jto.jpg"
+        },
+        {
+          "name": "Marie Bunel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/o2dfyNcYoFn5cnYlbPcrGjZCshj.jpg"
+        },
+        {
+          "name": "Jane Seymour",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4crZXhSXSeAiwZDZyjfQ9dMgbj0.jpg"
+        },
+        {
+          "name": "Jean-François Balmer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5CLhlqqDJMjTx8t9ZkAyNwRBzQR.jpg"
+        },
+        {
+          "name": "Andrzej Seweryn",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uYohJvqAai28Piqa0eEs6zAeFer.jpg"
+        },
+        {
+          "name": "Vittorio Mezzogiorno",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8xxQrh1CDcMSAxyvM4P5dWWq25I.jpg"
+        },
+        {
+          "name": "Philippine Leroy-Beaulieu",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1wt9AWB8HQz23VDmcZA0tVQn0vx.jpg"
+        },
+        {
+          "name": "Michel Duchaussoy",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gdScxiqrjsESSNbrv9RLjfdlpvV.jpg"
+        },
+        {
+          "name": "Marianne Basler",
+          "photo_url": "https://image.tmdb.org/t/p/w185/74bRbi3pfSAzkwpbWtS822LRoYU.jpg"
+        },
+        {
+          "name": "Peter Ustinov",
+          "photo_url": "https://image.tmdb.org/t/p/w185/brhFhJxwk0zgSB2P2oqMTDOVbmJ.jpg"
+        },
+        {
+          "name": "Sam Neill",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+        }
+      ],
+      "message_ids": [
+        7283,
+        7284
+      ],
+      "video_message_id": 7284
     },
     {
       "tmdb_id": 1114905,

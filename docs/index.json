@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:21:24+00:00",
+  "generated_at": "2026-09-27T04:21:29+00:00",
   "channel": "-1004483833987",
-  "count": 2590,
+  "count": 2591,
   "movie_count": 2579,
-  "series_count": 3,
-  "episode_count": 11,
+  "series_count": 4,
+  "episode_count": 12,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -172868,6 +172868,37 @@
                 6784
               ],
               "video_message_id": 6784
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 65425,
+      "title": "Mercado Negro",
+      "original_title": "Underworld, Inc.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/j9OLle0OANTPMhv5VdPUWOCQpBM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wbzJagCZ1v02pkBEK5Py7uy4WNS.jpg",
+      "genres": [
+        "Documentário",
+        "Crime"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 5,
+              "tmdb_id": 1164855,
+              "title": "Imitações",
+              "air_date": "2015-02-04",
+              "overview": "Entre no submundo para conhecer um negócio de tirar o fôlego e a maestria da falsificação: uma economia que movimenta cerca de US$ 500 bilhões por ano.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/wbzJagCZ1v02pkBEK5Py7uy4WNS.jpg",
+              "cast": [],
+              "message_ids": [
+                6808
+              ],
+              "video_message_id": 6808
             }
           ]
         }

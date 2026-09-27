@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:53:31+00:00",
+  "generated_at": "2026-09-27T19:53:36+00:00",
   "channel": "-1004483833987",
-  "count": 3057,
+  "count": 3059,
   "movie_count": 2804,
   "series_count": 35,
-  "episode_count": 253,
+  "episode_count": 255,
   "custom_count": 0,
   "movies": [
     {
@@ -185996,7 +185996,7 @@
       "title": "Câmera Crime",
       "original_title": "The Murder Tapes",
       "poster_url": "https://image.tmdb.org/t/p/w500/teMuAubTeofuSxGVGCSkFJ9Vwrv.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/phB15XOuMnBxhDESrpGJuNFdcmP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4Em5hg8HizQ2dwAD87h88oDnMDM.jpg",
       "genres": [
         "Crime",
         "Documentário"
@@ -186005,6 +186005,42 @@
         {
           "number": 2,
           "episodes": [
+            {
+              "number": 6,
+              "tmdb_id": 2189134,
+              "title": "Episódio 6",
+              "air_date": "2020-03-11",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/4Em5hg8HizQ2dwAD87h88oDnMDM.jpg",
+              "cast": [
+                {
+                  "name": "Dave DeAndrea",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7446
+              ],
+              "video_message_id": 7446
+            },
+            {
+              "number": 7,
+              "tmdb_id": 2195122,
+              "title": "Episódio 7",
+              "air_date": "2020-03-18",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/1mhqKKXrrg3gOVLVo0RZbeVBVGz.jpg",
+              "cast": [
+                {
+                  "name": "Dave DeAndrea",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7445
+              ],
+              "video_message_id": 7445
+            },
             {
               "number": 8,
               "tmdb_id": 2201669,

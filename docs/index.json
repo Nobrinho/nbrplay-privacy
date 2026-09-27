@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:59:07+00:00",
+  "generated_at": "2026-09-27T05:59:37+00:00",
   "channel": "-1004483833987",
-  "count": 2696,
-  "movie_count": 2652,
+  "count": 2697,
+  "movie_count": 2653,
   "series_count": 10,
   "episode_count": 44,
   "movies": [
@@ -147471,6 +147471,73 @@
         611
       ],
       "video_message_id": 611
+    },
+    {
+      "tmdb_id": 58496,
+      "title": "Senna",
+      "original_title": "Senna",
+      "year": "2010",
+      "poster_url": "https://image.tmdb.org/t/p/w500/j0DbcqFzXB6Bk9fqvgcp1iZG8wj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sS3jaC2SXoeYmjAuqPeoeelPZqP.jpg",
+      "overview": "Um documentário sobre Ayrton Senna e sua carreira na Fórmula 1, mostrando sua jornada física e espiritual, tanto na pista quanto fora dela; sua busca pela perfeição e sua transformação definitiva de um novato extremamente talentoso, que explodiu na F1 em 1984, ao mito, após o trágico acontecimento de Ímola, em 1994. Produzido com a cooperação da família Senna e da Fórmula One Management, é o primeiro documentário oficial sobre a vida do piloto, com material de arquivo surpreendente e, em grande parte, inédito.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Ayrton Senna",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qnQoejAqWO6ECCZAZNGJmXwURWs.jpg"
+        },
+        {
+          "name": "Alain Prost",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uWzHseRHbGnzagKzeEXGTuyeoXV.jpg"
+        },
+        {
+          "name": "Frank Williams",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hJBHslzIb683cXTwCI5XiQLtU8y.jpg"
+        },
+        {
+          "name": "Ron Dennis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kjcfPZqE9G5kaiAuVW6o84Dqmkz.jpg"
+        },
+        {
+          "name": "Viviane Senna",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7NwLAVmCEfXLNIY2Zx3wUz2Mar3.jpg"
+        },
+        {
+          "name": "Milton da Silva",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lukOIW5Szy60LmYcUkpOTzl7N5D.jpg"
+        },
+        {
+          "name": "Neyde Senna",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8vz72c5G5pOAgdtRXF9URDZVCnp.jpg"
+        },
+        {
+          "name": "Jackie Stewart",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fhtd10e0xnLYN527vemKwyt1xYF.jpg"
+        },
+        {
+          "name": "Sid Watkins",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zBQ3dgGREDNw6bvkNQsrhcZzFLC.jpg"
+        },
+        {
+          "name": "Galvão Bueno",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xMinaMBm3T9Lr0anZTXgA0TMfhi.jpg"
+        },
+        {
+          "name": "Reginaldo Leme",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4J17rfpqY8NASlVvcamB695Z9tU.jpg"
+        },
+        {
+          "name": "Gerhard Berger",
+          "photo_url": "https://image.tmdb.org/t/p/w185/c4TgV9nZDDJ2NI8p6rnZ8XoQRis.jpg"
+        }
+      ],
+      "message_ids": [
+        6935,
+        6936
+      ],
+      "video_message_id": 6936
     },
     {
       "tmdb_id": 244539,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T03:44:33+00:00",
+  "generated_at": "2026-09-27T03:44:42+00:00",
   "channel": "-1004483833987",
-  "count": 2553,
-  "movie_count": 2553,
+  "count": 2554,
+  "movie_count": 2554,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -163685,6 +163685,52 @@
         3756
       ],
       "video_message_id": 3756
+    },
+    {
+      "tmdb_id": 616904,
+      "title": "Universo Anime",
+      "original_title": "Enter the Anime",
+      "year": "2019",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4QUiKtq4qIXNFcMIiVWGWF4kWp0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/axlzTCSTEGUIk4Pcf851mCijwhx.jpg",
+      "overview": "Você sabe o que é anime? Mergulhe nesse universo em entrevistas com as mentes mais notáveis do gênero e descubra a resposta.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "森下孝三",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sKyWOc20hHIlcZgXGyyB32QYlqg.jpg"
+        },
+        {
+          "name": "神山健治",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1irWT1aUVYdeoZCtnxNVS9wfrks.jpg"
+        },
+        {
+          "name": "高橋洋子",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4Xdrn7BTyT0ccZXdlyxVHV6hjyj.jpg"
+        },
+        {
+          "name": "荒牧伸志",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wQRb6WeatX25rUjSSeLK31At4m4.jpg"
+        },
+        {
+          "name": "Alex Burunova",
+          "photo_url": null
+        },
+        {
+          "name": "Adi Shankar",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xNq4APGSj5BmBdbIfJZjN8aJKXJ.jpg"
+        },
+        {
+          "name": "LeSean Thomas",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2a3vAPSKlv8unNQlJFAnztH56PJ.jpg"
+        }
+      ],
+      "message_ids": [
+        6771
+      ],
+      "video_message_id": 6771
     },
     {
       "tmdb_id": 1232546,

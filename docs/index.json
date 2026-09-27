@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:30:48+00:00",
+  "generated_at": "2026-09-27T07:30:58+00:00",
   "channel": "-1004483833987",
-  "count": 2821,
+  "count": 2822,
   "movie_count": 2713,
   "series_count": 22,
-  "episode_count": 108,
+  "episode_count": 109,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -183526,6 +183526,69 @@
                 7120
               ],
               "video_message_id": 7120
+            },
+            {
+              "number": 4,
+              "tmdb_id": 908639,
+              "title": "Dizimação",
+              "air_date": "2013-02-15",
+              "overview": "A possível presença de um espião romano gera tensão entre Spartacus e seus homens. Crassus traz de volta um castigo romano que havia sido abandonado.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/7JcEodsnaLqqfP3bMsIQ6OaXj0i.jpg",
+              "cast": [
+                {
+                  "name": "Liam McIntyre",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/vTw11F1awNW8AlxInljEsK96cNB.jpg"
+                },
+                {
+                  "name": "Manu Bennett",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/vwcTCQoRqfOjGZA1TPCx9TWTNht.jpg"
+                },
+                {
+                  "name": "Dustin Clare",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3F2pmjmi7CnUELSq613ifLekYx1.jpg"
+                },
+                {
+                  "name": "Cynthia Addai-Robinson",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/fgXXRWLRDprVH9Bf2et0zRLk7HQ.jpg"
+                },
+                {
+                  "name": "Jaime Murray",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/viqfbECKPLI8nRO6sya8YFu8yc2.jpg"
+                },
+                {
+                  "name": "Ellen Hollman",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ebNqpUF7WFr4lhP6FhT9O1doc8q.jpg"
+                },
+                {
+                  "name": "Luna Rioumina",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/iWpgF5ENNE9LTfOINZvinsUygib.jpg"
+                },
+                {
+                  "name": "Marisa Ramirez",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dE0Sx1J7V0FYviow3x554A0Aufh.jpg"
+                },
+                {
+                  "name": "Ditch Davey",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/jlkW2rN7XdXR1amQONwcqBcOpFJ.jpg"
+                },
+                {
+                  "name": "Barry Duffield",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/TFXTlHgCA5ALVCk2C5lltqkyQU.jpg"
+                },
+                {
+                  "name": "Pana Hema-Taylor",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/mwjF8ZM8AWhCajUNarysOnR9ViJ.jpg"
+                },
+                {
+                  "name": "Stephen Lovatt",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hN24wBIZ1BmuedLi69bKjFHUERD.jpg"
+                }
+              ],
+              "message_ids": [
+                7121,
+                7122
+              ],
+              "video_message_id": 7122
             }
           ]
         }

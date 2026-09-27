@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:33:17+00:00",
+  "generated_at": "2026-09-27T06:33:21+00:00",
   "channel": "-1004483833987",
-  "count": 2746,
+  "count": 2747,
   "movie_count": 2677,
   "series_count": 15,
-  "episode_count": 69,
+  "episode_count": 70,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -179680,6 +179680,57 @@
                 7013
               ],
               "video_message_id": 7013
+            },
+            {
+              "number": 7,
+              "tmdb_id": 6320513,
+              "title": "Tente Outra Vez",
+              "air_date": "2025-06-26",
+              "overview": "Raul luta para ficar sóbrio com ajuda de Kika. Criando \"Carimbador Maluco\" para um programa infantil, ele tenta recomeçar. Bêbado em show, é incapaz de provar sua identidade",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/vQEJL4Di3IugwiTHqYRZVbcTks6.jpg",
+              "cast": [
+                {
+                  "name": "Ravel Andrade",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7s2SqObJ6f1rE1dfcrm9dwJdU4T.jpg"
+                },
+                {
+                  "name": "João Pedro Zappa",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/p6kdH3VhY10KoXmLHTIAW7kPz9l.jpg"
+                },
+                {
+                  "name": "Amanda Grimaldi",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/t5reoGWUPmdpmpmDe0FRccIalDi.jpg"
+                },
+                {
+                  "name": "Caroline Abras",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/wGxAIl63EQiBs3I3NXZ4UxVkVC6.jpg"
+                },
+                {
+                  "name": "Chandelly Braz",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/47JwFDiJU45FLzoSr6HV64dPPlG.jpg"
+                },
+                {
+                  "name": "Julia Stockler",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/eqcYoWiQJWL30FguBP02M3p8yXx.jpg"
+                },
+                {
+                  "name": "João Vitor Silva",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/bZpVz0lo3KRfct8W1Be32TMKuYW.jpg"
+                },
+                {
+                  "name": "Cyria Coentro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/j1P69LpBrzRDJtJuF8TnRm8XCBG.jpg"
+                },
+                {
+                  "name": "Júlio Andrade",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7tlhmLbRKogSuQcBjx569cDYNA4.jpg"
+                }
+              ],
+              "message_ids": [
+                7014,
+                7015
+              ],
+              "video_message_id": 7015
             }
           ]
         }

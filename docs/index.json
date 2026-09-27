@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T02:46:20+00:00",
+  "generated_at": "2026-09-27T02:49:17+00:00",
   "channel": "-1004483833987",
-  "count": 2531,
-  "movie_count": 2531,
+  "count": 2532,
+  "movie_count": 2532,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -5489,6 +5489,75 @@
         4862
       ],
       "video_message_id": 4862
+    },
+    {
+      "tmdb_id": 762430,
+      "title": "A Chamada",
+      "original_title": "Retribution",
+      "year": "2023",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eqaSh2PjYcGpS6rybz6UjLNuvrg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iiXliCeykkzmJ0Eg9RYJ7F2CWSz.jpg",
+      "overview": "Com seus filhos presos no banco de trás e uma bomba que explodirá se eles saírem do carro, um trajeto normal se torna um jogo distorcido de vida ou morte enquanto Matt Turner segue as instruções cada vez mais perigosas de um estranho em uma corrida contra o tempo para salvar sua  família.",
+      "genres": [
+        "Thriller",
+        "Ação",
+        "Aventura"
+      ],
+      "cast": [
+        {
+          "name": "Liam Neeson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+        },
+        {
+          "name": "Lilly Aspell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/coQpJMVLXrRhNgi0EKHYzVjQtLi.jpg"
+        },
+        {
+          "name": "Jack Champion",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7qgRRgap16cVI85WsBdzFLOzYiP.jpg"
+        },
+        {
+          "name": "Matthew Modine",
+          "photo_url": "https://image.tmdb.org/t/p/w185/z974QEHL12qUvLyk6hlWGAmDgom.jpg"
+        },
+        {
+          "name": "Noma Dumezweni",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fDEOIZfAQoOZKH1o4xn7qgOoTyM.jpg"
+        },
+        {
+          "name": "Embeth Davidtz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nwsdu9lOsKJ5v9RwOCc7kAiuxSO.jpg"
+        },
+        {
+          "name": "Arian Moayed",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hYBqwt0HelUqgKSd1VDUAyvfDME.jpg"
+        },
+        {
+          "name": "Emily Kusche",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xV71WOyAqZHYGLewI6PvyCQP2Om.jpg"
+        },
+        {
+          "name": "Márkus Luca",
+          "photo_url": null
+        },
+        {
+          "name": "Bernhard Piesk",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ggZJ5NslSLtdusFY6NwE1ghSXyf.jpg"
+        },
+        {
+          "name": "Michael S. Ruscheinsky",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oOceZaoaAYTL9e2MNK3ArtjonY.jpg"
+        },
+        {
+          "name": "Antonije Stankovic",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6733,
+        6734
+      ],
+      "video_message_id": 6734
     },
     {
       "tmdb_id": 9913,

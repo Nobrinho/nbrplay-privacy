@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:33:50+00:00",
+  "generated_at": "2026-09-27T07:33:56+00:00",
   "channel": "-1004483833987",
-  "count": 2835,
+  "count": 2837,
   "movie_count": 2713,
   "series_count": 23,
-  "episode_count": 122,
+  "episode_count": 124,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -184251,6 +184251,82 @@
                 7141
               ],
               "video_message_id": 7141
+            },
+            {
+              "number": 8,
+              "tmdb_id": 765442,
+              "title": "Episódio 8",
+              "air_date": "2010-10-06",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/68FPrZabtKQ6PWv2dNQPo9nDm30.jpg",
+              "cast": [
+                {
+                  "name": "Matt Oberg",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/kMMqMnG9TGYCcgldFAFUUajoomq.jpg"
+                },
+                {
+                  "name": "Kurt Metzger",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/uEAmGPqhXwRHsr06rc6M2J5WHNx.jpg"
+                },
+                {
+                  "name": "Natasha Leggero",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/v8aWI7x8rCHm5BqidbLtMXfz55C.jpg"
+                },
+                {
+                  "name": "Michael-Leon Wooley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/tMUNtp3xPTHRBUhnOiHcU5sjBDS.jpg"
+                },
+                {
+                  "name": "Larry Murphy",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/bcKH9bGuVuoXdfhM7k0iE7kBiPQ.jpg"
+                },
+                {
+                  "name": "Randy Pearlstein",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/aM3CpPbB9jBCNmiUwe8qIFB1XDa.jpg"
+                }
+              ],
+              "message_ids": [
+                7142
+              ],
+              "video_message_id": 7142
+            },
+            {
+              "number": 9,
+              "tmdb_id": 765428,
+              "title": "Episódio 9",
+              "air_date": "2010-10-13",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/mlIvXsPhkqMfpVF74fIdz4CvTDx.jpg",
+              "cast": [
+                {
+                  "name": "Matt Oberg",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/kMMqMnG9TGYCcgldFAFUUajoomq.jpg"
+                },
+                {
+                  "name": "Kurt Metzger",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/uEAmGPqhXwRHsr06rc6M2J5WHNx.jpg"
+                },
+                {
+                  "name": "Natasha Leggero",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/v8aWI7x8rCHm5BqidbLtMXfz55C.jpg"
+                },
+                {
+                  "name": "Michael-Leon Wooley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/tMUNtp3xPTHRBUhnOiHcU5sjBDS.jpg"
+                },
+                {
+                  "name": "Larry Murphy",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/bcKH9bGuVuoXdfhM7k0iE7kBiPQ.jpg"
+                },
+                {
+                  "name": "Randy Pearlstein",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/aM3CpPbB9jBCNmiUwe8qIFB1XDa.jpg"
+                }
+              ],
+              "message_ids": [
+                7143
+              ],
+              "video_message_id": 7143
             }
           ]
         }

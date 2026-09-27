@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T02:49:17+00:00",
+  "generated_at": "2026-09-27T02:49:33+00:00",
   "channel": "-1004483833987",
-  "count": 2532,
-  "movie_count": 2532,
+  "count": 2533,
+  "movie_count": 2533,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -21518,6 +21518,74 @@
         4956
       ],
       "video_message_id": 4956
+    },
+    {
+      "tmdb_id": 55931,
+      "title": "Animatrix",
+      "original_title": "The Animatrix",
+      "year": "2003",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oPHRLYim486RsjbedS5mTFM5ni6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7a4WHNllmX5ZGR0MfYJDPhV69eM.jpg",
+      "overview": "Animatrix é uma série de nove curtas-metragens animados que expandem o universo da franquia Matrix. Produzida pelas irmãs Wachowski, a obra reúne alguns dos maiores nomes da animação japonesa e ocidental, cada um imprimindo seu estilo único às histórias.  A série aborda desde a origem da guerra entre humanos e máquinas até eventos paralelos à trilogia principal, revelando segredos da criação da Matrix e apresentando personagens que vivenciam realidades distorcidas dentro e fora do sistema. Com visuais impactantes e tramas profundas, Animatrix oferece uma experiência envolvente e filosófica, essencial para os fãs da saga.",
+      "genres": [
+        "Animação",
+        "Ficção científica"
+      ],
+      "cast": [
+        {
+          "name": "Keanu Reeves",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+        },
+        {
+          "name": "Carrie-Anne Moss",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9zya72vRZYBQILfetACsnmCBgdj.jpg"
+        },
+        {
+          "name": "Clayton Watson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7T4RCGl5jfpB1XcjXywb6ZmwGUC.jpg"
+        },
+        {
+          "name": "Pamela Adlon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5eIRHUbNOH7ibXa0IfUfFvj5I5L.jpg"
+        },
+        {
+          "name": "Melinda Clarke",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xFNeQGhBvqz4eo3QcvnqXtPsAIO.jpg"
+        },
+        {
+          "name": "John DiMaggio",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+        },
+        {
+          "name": "Kevin Michael Richardson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg"
+        },
+        {
+          "name": "Tom Kenny",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kftXtExrcoTTjyeYmSXJ0Ogr3R7.jpg"
+        },
+        {
+          "name": "Rick Gomez",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gmVYPHJgmRVIzhaVYMns4kgBVqm.jpg"
+        },
+        {
+          "name": "Tara Strong",
+          "photo_url": "https://image.tmdb.org/t/p/w185/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg"
+        },
+        {
+          "name": "Bette Ford",
+          "photo_url": "https://image.tmdb.org/t/p/w185/s4AjtZjORjS5JgTA0LgcgcOT19C.jpg"
+        },
+        {
+          "name": "Julia Fletcher",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rnhgUbel89ZshWIMsHe8DLZPDlG.jpg"
+        }
+      ],
+      "message_ids": [
+        6735,
+        6736
+      ],
+      "video_message_id": 6736
     },
     {
       "tmdb_id": 300668,

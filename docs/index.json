@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:17:50+00:00",
+  "generated_at": "2026-09-27T19:18:24+00:00",
   "channel": "-1004483833987",
-  "count": 2983,
+  "count": 2984,
   "movie_count": 2789,
   "series_count": 28,
-  "episode_count": 194,
+  "episode_count": 195,
   "custom_count": 0,
   "movies": [
     {
@@ -190111,6 +190111,40 @@
                 7347
               ],
               "video_message_id": 7347
+            },
+            {
+              "number": 12,
+              "tmdb_id": 414443,
+              "title": "Episódio 12",
+              "air_date": "1970-01-04",
+              "overview": null,
+              "backdrop_url": null,
+              "cast": [
+                {
+                  "name": "John Forsythe",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/lfhKEIepJXdIW9JVCZZ15ULYy8n.jpg"
+                },
+                {
+                  "name": "Joyce Menges",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ikTSmZgaUt07FHQxEOBcvxSrBQj.jpg"
+                },
+                {
+                  "name": "Melanie Fullerton",
+                  "photo_url": null
+                },
+                {
+                  "name": "Brenda Benet",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/a7Mh7qsXUnge67RCggAjzbNQeiW.jpg"
+                },
+                {
+                  "name": "Susan Neher",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7349
+              ],
+              "video_message_id": 7349
             }
           ]
         },

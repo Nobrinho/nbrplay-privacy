@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:26:13+00:00",
+  "generated_at": "2026-09-27T07:26:46+00:00",
   "channel": "-1004483833987",
-  "count": 2797,
+  "count": 2798,
   "movie_count": 2713,
-  "series_count": 20,
-  "episode_count": 84,
+  "series_count": 21,
+  "episode_count": 85,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -179573,6 +179573,77 @@
                 7068
               ],
               "video_message_id": 7068
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 30898,
+      "title": "Confronto dos Deuses",
+      "original_title": "Clash of the Gods",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nSDUqin5jZZHhOAj0pqAwbqjp9X.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/j0A36vVNM3JXQuZBoNOhZ5Dr8bP.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 9,
+              "tmdb_id": 747962,
+              "title": "A Mitologia de Tolkien",
+              "air_date": "2009-10-05",
+              "overview": "Este é um dos mais famosos mitos modernos. Prepare-se para entrar no fantástico mundo de J.R.R Tolkien, cheio de hobbits, orcs, magos e elfos.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/j0A36vVNM3JXQuZBoNOhZ5Dr8bP.jpg",
+              "cast": [
+                {
+                  "name": "Tracey-Anne Cooper",
+                  "photo_url": null
+                },
+                {
+                  "name": "Michael Drout",
+                  "photo_url": null
+                },
+                {
+                  "name": "Dimitra Fimi",
+                  "photo_url": null
+                },
+                {
+                  "name": "David George",
+                  "photo_url": null
+                },
+                {
+                  "name": "Blair Jones",
+                  "photo_url": null
+                },
+                {
+                  "name": "Scott A. Mellor",
+                  "photo_url": null
+                },
+                {
+                  "name": "John Rennie",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/yjMHU83zGqDQWaoKRBkbRz4Fxke.jpg"
+                },
+                {
+                  "name": "Stan Bernard",
+                  "photo_url": null
+                },
+                {
+                  "name": "Tate Steinsiek",
+                  "photo_url": null
+                },
+                {
+                  "name": "Greg Ford",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/sGIh8QXF5pYR7sozSQtCo1GTymR.jpg"
+                }
+              ],
+              "message_ids": [
+                7075
+              ],
+              "video_message_id": 7075
             }
           ]
         }

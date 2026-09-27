@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T03:47:31+00:00",
+  "generated_at": "2026-09-27T03:48:46+00:00",
   "channel": "-1004483833987",
-  "count": 2559,
-  "movie_count": 2555,
+  "count": 2560,
+  "movie_count": 2556,
   "series_count": 1,
   "episode_count": 4,
   "movies": [
@@ -51656,6 +51656,21 @@
         4719
       ],
       "video_message_id": 4719
+    },
+    {
+      "tmdb_id": 118585,
+      "title": "Doutor Castor — S01E01 — Nos tempos da malandragem",
+      "original_title": null,
+      "year": "2021",
+      "poster_url": null,
+      "backdrop_url": null,
+      "overview": null,
+      "genres": [],
+      "cast": [],
+      "message_ids": [
+        6773
+      ],
+      "video_message_id": 6773
     },
     {
       "tmdb_id": 14830,

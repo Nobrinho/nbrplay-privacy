@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:19:10+00:00",
+  "generated_at": "2026-09-27T04:19:43+00:00",
   "channel": "-1004483833987",
-  "count": 2582,
-  "movie_count": 2574,
+  "count": 2583,
+  "movie_count": 2575,
   "series_count": 2,
   "episode_count": 8,
   "movies": [
@@ -9363,6 +9363,32 @@
         5012
       ],
       "video_message_id": 5012
+    },
+    {
+      "tmdb_id": 186997,
+      "title": "A Imagem que Falta",
+      "original_title": "L'image manquante",
+      "year": "2013",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fgQpEiBaLtUop2Oy70ahOdxJXfR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/MD2Q2YCgTaR3n2bqmCWljq3Hmg.jpg",
+      "overview": "O diretor conta neste documentário a ascensão da ditadura de Pol Pot no Camboja, fato do qual restaram poucos registros históricos além da propaganda do regime. Para dramatizar os horrores que a história apagou ele usa bonecos de argila, recriando as imagens que faltam do que aconteceu na época e que ele mesmo presenciou.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Randal Douc",
+          "photo_url": null
+        },
+        {
+          "name": "Jean-Baptiste Phou",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6799
+      ],
+      "video_message_id": 6799
     },
     {
       "tmdb_id": 293863,

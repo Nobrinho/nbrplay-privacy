@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:39:58+00:00",
+  "generated_at": "2026-09-27T05:40:02+00:00",
   "channel": "-1004483833987",
-  "count": 2664,
+  "count": 2665,
   "movie_count": 2629,
   "series_count": 9,
-  "episode_count": 35,
+  "episode_count": 36,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -175127,6 +175127,69 @@
                 6897
               ],
               "video_message_id": 6897
+            },
+            {
+              "number": 3,
+              "tmdb_id": 4789229,
+              "title": "Episódio 3",
+              "air_date": "2023-11-16",
+              "overview": "Anderson viaja ao Japão para a maior luta de sua carreira até o momento, mas diferenças culturais e dúvidas sem resposta em seu ambiente familiar reduzem suas chances de vitória.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/4Fv5lZuGkKr8pmNC2lEW33UVYmp.jpg",
+              "cast": [
+                {
+                  "name": "William Nascimento",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/wXrex1kLUW8DZmQ9UUndATI2sf9.jpg"
+                },
+                {
+                  "name": "Seu Jorge",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/p8VUk0ZSzfAF9uWjWg2jEVpPtTy.jpg"
+                },
+                {
+                  "name": "Jeniffer Dias",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/fic7v1eY6jO76xyhjlM3TyoU9PY.jpg"
+                },
+                {
+                  "name": "Tatiana Tiburcio",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/nINTA2OP0USeBT23GJ1wwX9DxsB.jpg"
+                },
+                {
+                  "name": "Bruno Vinicius",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/rJWCMYEkJ2Ie8b5XgnYO7FLZPh.jpg"
+                },
+                {
+                  "name": "Caetano Vieira",
+                  "photo_url": null
+                },
+                {
+                  "name": "Douglas Silva",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7C2ZoLBU0W2gwnGbNRbi1cyIU2h.jpg"
+                },
+                {
+                  "name": "Iza Moreira",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/rxrpouximelRZVvVTFipEhMQMth.jpg"
+                },
+                {
+                  "name": "Larissa Nunes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3zVdzi7SvNJbYH3mfEjm9YxkqNN.jpg"
+                },
+                {
+                  "name": "Lívia Silva",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/4RVM81EVloIUkOdoZU6Fxx2wf02.jpg"
+                },
+                {
+                  "name": "Milhem Cortaz",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/vA9hgFemy6JHxgjdbQW78xZyAnq.jpg"
+                },
+                {
+                  "name": "Vaneza Oliveira",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/6LwVfDcys25Z3ZsCPMaALLdmV3b.jpg"
+                }
+              ],
+              "message_ids": [
+                6898,
+                6899
+              ],
+              "video_message_id": 6899
             }
           ]
         }

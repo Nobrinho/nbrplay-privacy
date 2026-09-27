@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T15:40:05+00:00",
+  "generated_at": "2026-09-27T15:43:33+00:00",
   "channel": "-1004483833987",
-  "count": 2919,
-  "movie_count": 2762,
+  "count": 2920,
+  "movie_count": 2763,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -102304,6 +102304,73 @@
         1569
       ],
       "video_message_id": 1569
+    },
+    {
+      "tmdb_id": 77971,
+      "title": "Nefertiti, A Rainha do Nilo",
+      "original_title": "Nefertiti, regina del Nilo",
+      "year": "1961",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4OKP3J7mAv1fwGPIo4gkQqZZK7n.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1mNcaKYdyxxHzzYXpAjJlXULcaF.jpg",
+      "overview": "Chronicles the rise and fall of the woman who eventually became known as Queen Nefertiti.",
+      "genres": [
+        "Drama",
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "Jeanne Crain",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oPBKcsZ0sbPD8JnVI16oekFn0Ce.jpg"
+        },
+        {
+          "name": "Vincent Price",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7JIv7U5kwveryP7hrPYgHlKea4d.jpg"
+        },
+        {
+          "name": "Edmund Purdom",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iIV7isMyrH7Ny6az7RrvKfHtQGz.jpg"
+        },
+        {
+          "name": "Amedeo Nazzari",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yUWPQSAcj6BW8hQUpFPZdOKe3V5.jpg"
+        },
+        {
+          "name": "Liana Orfei",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4VtRGG2OiwmuP1gFKtelpXNjBRJ.jpg"
+        },
+        {
+          "name": "Carlo D'Angelo",
+          "photo_url": null
+        },
+        {
+          "name": "Alberto Farnese",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7rNI8uBBp9IGvMBHLeEol2INfwX.jpg"
+        },
+        {
+          "name": "Clelia Matania",
+          "photo_url": "https://image.tmdb.org/t/p/w185/p365ABRonRfxadOpHpgEVorYrVP.jpg"
+        },
+        {
+          "name": "Giulio Marchetti",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vtfnjuCseZHoxudP6pJBEPjbChU.jpg"
+        },
+        {
+          "name": "Piero Palermini",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hvD9haxsUDOj29ccbOyAHbOYk8K.jpg"
+        },
+        {
+          "name": "Umberto Raho",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oYhu89cnv7KndDnAY5Q4hhGIla2.jpg"
+        },
+        {
+          "name": "Raf Baldassarre",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nIsXAhQKmlmLGUIipS0WHLopO0b.jpg"
+        }
+      ],
+      "message_ids": [
+        7269
+      ],
+      "video_message_id": 7269
     },
     {
       "tmdb_id": 270010,

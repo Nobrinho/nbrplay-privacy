@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:40:12+00:00",
+  "generated_at": "2026-09-27T05:40:24+00:00",
   "channel": "-1004483833987",
-  "count": 2667,
-  "movie_count": 2629,
+  "count": 2668,
+  "movie_count": 2630,
   "series_count": 9,
   "episode_count": 38,
   "movies": [
@@ -53580,6 +53580,21 @@
         1411
       ],
       "video_message_id": 1411
+    },
+    {
+      "tmdb_id": 1258154,
+      "title": "DUAS VIDAS - Do que estamos falando quando falamos de aborto",
+      "original_title": "DUAS VIDAS - Do que estamos falando quando falamos de aborto",
+      "year": "2023",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hq6LJpifamRCVUphWgZbVBmGGTv.jpg",
+      "backdrop_url": null,
+      "overview": "Um filme que pode impactar a vida de milhões de seres humanos: os que já existem e os que ainda podem existir — se receberem essa chance. É hora de entender por que ser humano vale a pena, e por que apoiar mães, que se sentem pressionadas e em dúvida, a fazerem a escolha mais assustadora e fascinante: a escolha pela vida.",
+      "genres": [],
+      "cast": [],
+      "message_ids": [
+        6904
+      ],
+      "video_message_id": 6904
     },
     {
       "tmdb_id": 14784,

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:01:09+00:00",
+  "generated_at": "2026-09-27T04:01:13+00:00",
   "channel": "-1004483833987",
-  "count": 2566,
+  "count": 2567,
   "movie_count": 2559,
   "series_count": 2,
-  "episode_count": 7,
+  "episode_count": 8,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -171981,6 +171981,48 @@
                 6783
               ],
               "video_message_id": 6783
+            },
+            {
+              "number": 4,
+              "tmdb_id": 3055420,
+              "title": "Os ecos do crime",
+              "air_date": "2021-07-08",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/jhjk98ziVOK71TsgPj8iLa1xFCa.jpg",
+              "cast": [
+                {
+                  "name": "Elize Matsunaga",
+                  "photo_url": null
+                },
+                {
+                  "name": "Thaís Nunes",
+                  "photo_url": null
+                },
+                {
+                  "name": "Juliana Santoro",
+                  "photo_url": null
+                },
+                {
+                  "name": "Luciano Santoro",
+                  "photo_url": null
+                },
+                {
+                  "name": "Luiz Flávio D'Urso",
+                  "photo_url": null
+                },
+                {
+                  "name": "Flávio Varella",
+                  "photo_url": null
+                },
+                {
+                  "name": "Mauro Dias",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                6784
+              ],
+              "video_message_id": 6784
             }
           ]
         }

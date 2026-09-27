@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:44:42+00:00",
+  "generated_at": "2026-09-27T05:46:11+00:00",
   "channel": "-1004483833987",
-  "count": 2674,
-  "movie_count": 2636,
+  "count": 2675,
+  "movie_count": 2637,
   "series_count": 9,
   "episode_count": 38,
   "movies": [
@@ -175118,6 +175118,41 @@
         5416
       ],
       "video_message_id": 5416
+    },
+    {
+      "tmdb_id": 8439,
+      "title": "Ônibus 174",
+      "original_title": "Ônibus 174",
+      "year": "2002",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3AYrrZ03Rmp3XxAD2xYZEeSDdBc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/purLFx9MR327mRclyc4sFYjE1cv.jpg",
+      "overview": "O filme retrata um dos episódios mais marcantes da violência urbana brasileira: o sequestro do ônibus da linha 174, que culminou nas mortes de uma refém e do sequestrador.",
+      "genres": [
+        "Documentário",
+        "Crime"
+      ],
+      "cast": [
+        {
+          "name": "Yvonne Bezerra de Mello",
+          "photo_url": null
+        },
+        {
+          "name": "Sandro do Nascimento",
+          "photo_url": null
+        },
+        {
+          "name": "Rodrigo Pimentel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sgwDmYNkoPvxv2VtP4h234sgzJT.jpg"
+        },
+        {
+          "name": "Luiz Eduardo Soares",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6913
+      ],
+      "video_message_id": 6913
     },
     {
       "tmdb_id": 177203,

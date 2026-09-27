@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:56:08+00:00",
+  "generated_at": "2026-09-27T05:56:23+00:00",
   "channel": "-1004483833987",
-  "count": 2688,
-  "movie_count": 2644,
+  "count": 2689,
+  "movie_count": 2645,
   "series_count": 10,
   "episode_count": 44,
   "movies": [
@@ -77645,6 +77645,72 @@
         6181
       ],
       "video_message_id": 6181
+    },
+    {
+      "tmdb_id": 1158959,
+      "title": "Isabella: o Caso Nardoni",
+      "original_title": "Isabella: o Caso Nardoni",
+      "year": "2023",
+      "poster_url": "https://image.tmdb.org/t/p/w500/53pmHd5XialRnoTXlLwwBaezEOs.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4ZgumkR0ZMgLe33Cch3T7J4pzHp.jpg",
+      "overview": "O caso do assassinato de Isabella Nardoni, o crime que parou o Brasil em 2008, quando a menina de 5 anos de idade foi atirada pela janela do apartamento de seu pai e da madrasta, em São Paulo.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Hebe Camargo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jeUDHk2uO9PwMeNB7SpLBlETrsr.jpg"
+        },
+        {
+          "name": "Márcio Campos",
+          "photo_url": null
+        },
+        {
+          "name": "Marcos Carneiro",
+          "photo_url": null
+        },
+        {
+          "name": "Ilana Casoy",
+          "photo_url": null
+        },
+        {
+          "name": "Francisco Cembranelli",
+          "photo_url": null
+        },
+        {
+          "name": "José Luiz Datena",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wo8ncWz7Z96KlL0PF7F6Ao0Eu9o.jpg"
+        },
+        {
+          "name": "Maria Lydia Flandoli",
+          "photo_url": null
+        },
+        {
+          "name": "Rodrigo Hidalgo",
+          "photo_url": null
+        },
+        {
+          "name": "Anna Carolina Jatobá",
+          "photo_url": null
+        },
+        {
+          "name": "Alexandre Nardoni",
+          "photo_url": null
+        },
+        {
+          "name": "Isabella Nardoni",
+          "photo_url": null
+        },
+        {
+          "name": "Mario Palumbo",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6926
+      ],
+      "video_message_id": 6926
     },
     {
       "tmdb_id": 346364,

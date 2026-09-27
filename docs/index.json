@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T03:44:42+00:00",
+  "generated_at": "2026-09-27T03:45:16+00:00",
   "channel": "-1004483833987",
-  "count": 2554,
-  "movie_count": 2554,
+  "count": 2555,
+  "movie_count": 2555,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -71032,6 +71032,28 @@
         4541
       ],
       "video_message_id": 4541
+    },
+    {
+      "tmdb_id": 417548,
+      "title": "Holocausto Brasileiro",
+      "original_title": "Holocausto Brasileiro",
+      "year": "2016",
+      "poster_url": "https://image.tmdb.org/t/p/w500/76muwL3vWeojBD5N2ARsgFrtXPx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dmg5FvoJJlmxDTzp0xmho3gEGDO.jpg",
+      "overview": "A premiada jornalista Daniela Arbex revela as atrocidades do hospital psiquiátrico Colônia, onde mais de 60 mil pessoas foram mortas ao longo de décadas.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Helvécio Ratton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/TN3pYxKTpV1TPFKbtBjRolEE5f.jpg"
+        }
+      ],
+      "message_ids": [
+        6772
+      ],
+      "video_message_id": 6772
     },
     {
       "tmdb_id": 62320,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:10:05+00:00",
+  "generated_at": "2026-09-27T06:10:36+00:00",
   "channel": "-1004483833987",
-  "count": 2712,
-  "movie_count": 2662,
+  "count": 2713,
+  "movie_count": 2663,
   "series_count": 11,
   "episode_count": 50,
   "movies": [
@@ -62033,6 +62033,36 @@
         480
       ],
       "video_message_id": 480
+    },
+    {
+      "tmdb_id": 1229901,
+      "title": "Feitos de Plástico",
+      "original_title": "Plastic People",
+      "year": "2024",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c4g82ZjkSJXAUnzxfU7yRW8V3dl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3gzvzg16vCcHwmBVWRKRWABViGb.jpg",
+      "overview": "Cientistas investigam a ameaça dos microplásticos nos corpos humanos. Jornalista visita laboratórios e faz testes para encontrar plástico em casa, nos alimentos e no corpo.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Ziya Tong",
+          "photo_url": null
+        },
+        {
+          "name": "Susan Freinkel",
+          "photo_url": null
+        },
+        {
+          "name": "Sedat Gündoğdu",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6962
+      ],
+      "video_message_id": 6962
     },
     {
       "tmdb_id": 25472,

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:30:27+00:00",
+  "generated_at": "2026-09-27T04:30:34+00:00",
   "channel": "-1004483833987",
-  "count": 2610,
+  "count": 2611,
   "movie_count": 2583,
   "series_count": 7,
-  "episode_count": 27,
+  "episode_count": 28,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -173658,6 +173658,68 @@
                 6830
               ],
               "video_message_id": 6830
+            },
+            {
+              "number": 2,
+              "tmdb_id": 7779037,
+              "title": "Episódio 2",
+              "air_date": "2026-09-09",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/zAyctoPcDAtuR7QQmfcHyWVOexA.jpg",
+              "cast": [
+                {
+                  "name": "Kassy Castillo",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/sGQ4ZTqD2yJ4nqQ3v6sYWHdMEch.jpg"
+                },
+                {
+                  "name": "Carly Lawrence",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zsVGqWXx8dn7dRtGDjxA7QvPAnL.jpg"
+                },
+                {
+                  "name": "Beau Bailey",
+                  "photo_url": null
+                },
+                {
+                  "name": "Chad Batchelder",
+                  "photo_url": null
+                },
+                {
+                  "name": "Andrew Vetter",
+                  "photo_url": null
+                },
+                {
+                  "name": "Becca Moore",
+                  "photo_url": null
+                },
+                {
+                  "name": "Hallie Batchelder",
+                  "photo_url": null
+                },
+                {
+                  "name": "Suede Brooks",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/veuhy3q2q5MdVYNjNc32StmDQmC.jpg"
+                },
+                {
+                  "name": "Tim Demirjian",
+                  "photo_url": null
+                },
+                {
+                  "name": "Brandon Edelman",
+                  "photo_url": null
+                },
+                {
+                  "name": "Pepe Garcia",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xEkUQac4vniO7INpt3wtQZmt3ER.jpg"
+                },
+                {
+                  "name": "Blake Gray",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                6831
+              ],
+              "video_message_id": 6831
             }
           ]
         }

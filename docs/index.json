@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T03:40:29+00:00",
+  "generated_at": "2026-09-27T03:42:51+00:00",
   "channel": "-1004483833987",
-  "count": 2548,
-  "movie_count": 2548,
+  "count": 2549,
+  "movie_count": 2549,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -139627,6 +139627,74 @@
         1513
       ],
       "video_message_id": 1513
+    },
+    {
+      "tmdb_id": 159154,
+      "title": "Roubamos Segredos: A História do WikiLeaks",
+      "original_title": "We Steal Secrets: The Story of WikiLeaks",
+      "year": "2013",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tJHQbEtZSUry2QDbQcv8ziMt7Ib.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/AhFBR5fYeDhOKGriOBB54buraU2.jpg",
+      "overview": "Julian Assange e a plataforma de notícias WikiLeaks, que co-fundou, tornaram-se uma sensação mediática global quando dados altamente confidenciais dos militares norte-americanos foram publicados no portal e disponibilizados à população em geral. O vídeo secreto e os documentos de texto vazados para a WikiLeaks pelo soldado norte-americano Bradley Manning, então com 22 anos, lançaram um holofote de indignação internacional sobre o comportamento dos militares norte-americanos durante as operações de guerra no Médio Oriente e tornaram o site amplamente desconhecido até então para a política global. No documentário “We Steal Secrets: The Story of WikiLeaks”, o realizador Alex Gibney analisa as origens do WikiLeaks e destaca a controvérsia mediática em torno do seu cofundador Julian Assange. Incluindo informações ácidas sobre diferentes relações com vários países incluindo o Brasil. O site vem sofrendo ataques hackers e pressão de inúmeros governos ocidentais para seu fechamento.",
+      "genres": [
+        "Documentário",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Julian Assange",
+          "photo_url": "https://image.tmdb.org/t/p/w185/v5RJRSLHISrQsToSMMw8ixMml5w.jpg"
+        },
+        {
+          "name": "Chelsea Manning",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5ezCqJpWsgpfxkoxi3EJoKclOGK.jpg"
+        },
+        {
+          "name": "Heather Brooke",
+          "photo_url": null
+        },
+        {
+          "name": "Alex Gibney",
+          "photo_url": "https://image.tmdb.org/t/p/w185/g0Ugf78mLVtJIuKgsslMNTAnBmU.jpg"
+        },
+        {
+          "name": "Robert Manne",
+          "photo_url": null
+        },
+        {
+          "name": "John 'Fuzface' McMahon",
+          "photo_url": null
+        },
+        {
+          "name": "Michael Hayden",
+          "photo_url": null
+        },
+        {
+          "name": "J. William Leonard",
+          "photo_url": null
+        },
+        {
+          "name": "Daniel Domscheit-Berg",
+          "photo_url": null
+        },
+        {
+          "name": "Smári McCarthy",
+          "photo_url": null
+        },
+        {
+          "name": "Birgitta Jónsdóttir",
+          "photo_url": null
+        },
+        {
+          "name": "Adrian Lamo",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6763,
+        6764
+      ],
+      "video_message_id": 6764
     },
     {
       "tmdb_id": 333371,

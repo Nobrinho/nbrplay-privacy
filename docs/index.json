@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:10:32+00:00",
+  "generated_at": "2026-09-27T04:12:32+00:00",
   "channel": "-1004483833987",
-  "count": 2573,
-  "movie_count": 2565,
+  "count": 2574,
+  "movie_count": 2566,
   "series_count": 2,
   "episode_count": 8,
   "movies": [
@@ -120938,6 +120938,40 @@
         4277
       ],
       "video_message_id": 4277
+    },
+    {
+      "tmdb_id": 566368,
+      "title": "One Child Nation",
+      "original_title": "One Child Nation",
+      "year": "2019",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bV0aqhB7fsw5mWJROBnFro1Qhwn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9VVyZl0ul9ZGn6iLDkRNzuFVvvj.jpg",
+      "overview": "Depois de se tornar mãe, um cineasta descobre a história incontável da política de um filho da China e as gerações de pais e filhos moldados para sempre por esse experimento social.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Nanfu Wang",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fBSv5J8R3ytVJ6rPREGP97deBy.jpg"
+        },
+        {
+          "name": "Jiaoming Pang",
+          "photo_url": null
+        },
+        {
+          "name": "Brian Stuy",
+          "photo_url": null
+        },
+        {
+          "name": "Longlan Stuy",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6790
+      ],
+      "video_message_id": 6790
     },
     {
       "tmdb_id": 9316,

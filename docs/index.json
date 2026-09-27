@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:10:16+00:00",
+  "generated_at": "2026-09-27T05:10:23+00:00",
   "channel": "-1004483833987",
-  "count": 2635,
-  "movie_count": 2605,
+  "count": 2636,
+  "movie_count": 2606,
   "series_count": 7,
   "episode_count": 30,
   "movies": [
@@ -75762,6 +75762,48 @@
         784
       ],
       "video_message_id": 784
+    },
+    {
+      "tmdb_id": 962431,
+      "title": "Invasão Bolchevique",
+      "original_title": "Invasão Bolchevique",
+      "year": "2022",
+      "poster_url": "https://image.tmdb.org/t/p/w500/k445VilKhdBeKQyLprJsyPEpkoV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/h8mEFOOr9Ut2tNZDOZHPcrGbuHz.jpg",
+      "overview": "A Revolução que mudou a história da humanidade e ainda pauta o presente é o tema do primeiro original BP exclusivo para assinantes.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Filipe Valerim",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yW1xSZLvtjJeQJttuzhbLBnBMvr.jpg"
+        },
+        {
+          "name": "Lucas Ferrugem",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aIIizHJlEBPwwYX4LonXsAYtc48.jpg"
+        },
+        {
+          "name": "Guilherme Almeida",
+          "photo_url": null
+        },
+        {
+          "name": "Ricardo Gomes",
+          "photo_url": null
+        },
+        {
+          "name": "Rafael Nogueira",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iF2gVp8c0iScqVGThpnQ8zrnkd2.jpg"
+        },
+        {
+          "name": "Marcus Boeira",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6859
+      ],
+      "video_message_id": 6859
     },
     {
       "tmdb_id": 44943,

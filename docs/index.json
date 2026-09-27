@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:40:41+00:00",
+  "generated_at": "2026-09-27T06:42:37+00:00",
   "channel": "-1004483833987",
-  "count": 2752,
-  "movie_count": 2681,
+  "count": 2753,
+  "movie_count": 2682,
   "series_count": 15,
   "episode_count": 71,
   "movies": [
@@ -140709,6 +140709,22 @@
         3762
       ],
       "video_message_id": 3762
+    },
+    {
+      "tmdb_id": 224390,
+      "title": "Raul Seixas: Eu Sou — S01E01 — Let Me Sing",
+      "original_title": null,
+      "year": "2025",
+      "poster_url": null,
+      "backdrop_url": null,
+      "overview": null,
+      "genres": [],
+      "cast": [],
+      "message_ids": [
+        7002,
+        7003
+      ],
+      "video_message_id": 7003
     },
     {
       "tmdb_id": 472497,

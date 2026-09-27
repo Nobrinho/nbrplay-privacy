@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T02:40:59+00:00",
+  "generated_at": "2026-09-27T02:41:44+00:00",
   "channel": "-1004483833987",
-  "count": 2523,
-  "movie_count": 2523,
+  "count": 2524,
+  "movie_count": 2524,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -57057,6 +57057,74 @@
         5842
       ],
       "video_message_id": 5842
+    },
+    {
+      "tmdb_id": 19840,
+      "title": "Eu Te Amo, Beth Cooper",
+      "original_title": "I Love You, Beth Cooper",
+      "year": "2009",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pzn7Dud5qTZitgd03XUTw0YB6Lp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/axCh3DpOgISsPoMxKslQW9l4PO3.jpg",
+      "overview": "Ao longo de quatro anos, Denis Cooverman nunca teve coragem de declarar seu amor por Beth Cooper, a garota mais popular da escola. No dia da formatura, ele faz o discurso da turma e manifesta seus sentimentos. Após a cerimônia, ela aceita o convite para ir a uma festa em sua casa, o que não agrada Kevin, seu ex-namorado. Kevin e seus amigos destroem tudo na casa de Denis e passam a persegui-lo. Beth e suas amigas ajudam Denis e ele enfim conhece a garota com quem sempre sonhou.",
+      "genres": [
+        "Comédia",
+        "Romance"
+      ],
+      "cast": [
+        {
+          "name": "Hayden Panettiere",
+          "photo_url": "https://image.tmdb.org/t/p/w185/beFQeFN0KcF2MsM5DRFE8YTMDjQ.jpg"
+        },
+        {
+          "name": "Paul Rust",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fTcHwLTs4bYHXdsVGf7fdNS89HS.jpg"
+        },
+        {
+          "name": "Jack Carpenter",
+          "photo_url": "https://image.tmdb.org/t/p/w185/CFYKiHuozKZ6rYhJM2bOXolZhY.jpg"
+        },
+        {
+          "name": "Lauren London",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vfUJtwfux3nwEGWIbrC20LyH8fn.jpg"
+        },
+        {
+          "name": "Lauren Storm",
+          "photo_url": "https://image.tmdb.org/t/p/w185/y79MddslIWT4qRgibhe57WdOIwT.jpg"
+        },
+        {
+          "name": "Shawn Roberts",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uTuz1fSq0iYyNsqfSUdvSdHQd87.jpg"
+        },
+        {
+          "name": "Jared Keeso",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8otnzB0CmGpYr9EExYQ5YU2mibc.jpg"
+        },
+        {
+          "name": "Brendan Penny",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cgjw8TR9J9zicgGWuzdXdcE9aQK.jpg"
+        },
+        {
+          "name": "Marie Avgeropoulos",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cCzCHmDZXrNfyzbkpxvaKDaGy77.jpg"
+        },
+        {
+          "name": "Josh Emerson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/KxiCUsyIkEauXjCIeU694TaAKD.jpg"
+        },
+        {
+          "name": "Alan Ruck",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hj7CuWinT12hMKjRhSO4XEMVq7w.jpg"
+        },
+        {
+          "name": "Cynthia Stevenson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zdrsUVw9F0U4onvh1rS1AQor4wp.jpg"
+        }
+      ],
+      "message_ids": [
+        6719,
+        6720
+      ],
+      "video_message_id": 6720
     },
     {
       "tmdb_id": 9589,

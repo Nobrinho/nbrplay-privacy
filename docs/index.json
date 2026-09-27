@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:17:19+00:00",
+  "generated_at": "2026-09-27T04:18:34+00:00",
   "channel": "-1004483833987",
-  "count": 2579,
-  "movie_count": 2571,
+  "count": 2580,
+  "movie_count": 2572,
   "series_count": 2,
   "episode_count": 8,
   "movies": [
@@ -77242,6 +77242,72 @@
         851
       ],
       "video_message_id": 851
+    },
+    {
+      "tmdb_id": 86321,
+      "title": "Jogo de Cena",
+      "original_title": "Jogo de Cena",
+      "year": "2007",
+      "poster_url": "https://image.tmdb.org/t/p/w500/abdJT8J5wRLwx7MBYj3OudLdU0Q.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/d19maTtZRMpjyfcK58oMhePIFrE.jpg",
+      "overview": "Atendendo a um anúncio de jornal, 83 mulheres contaram sua história de vida em um estúdio. Vinte e três delas foram selecionadas e filmadas em junho de 2006. Em setembro do mesmo ano, várias atrizes interpretaram, a seu modo, as mesmas histórias.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Eduardo Coutinho",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rlBQPHJT3l5mRjeglgAOYzRgdU7.jpg"
+        },
+        {
+          "name": "Fernanda Torres",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dkxdADNwbM7ZLQK5YBNeKBqVJNM.jpg"
+        },
+        {
+          "name": "Marília Pêra",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dwZQnQPP2AZvZ2tITDPdfR68WB4.jpg"
+        },
+        {
+          "name": "Andréa Beltrão",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9GQZpbH4ol8DaXpoYUr47HQEx28.jpg"
+        },
+        {
+          "name": "Aleta Gomes Vieira",
+          "photo_url": null
+        },
+        {
+          "name": "Mary Sheila",
+          "photo_url": "https://image.tmdb.org/t/p/w185/djdQm42HdDStY0tiXtEi6b28CVM.jpg"
+        },
+        {
+          "name": "Débora Almeida",
+          "photo_url": null
+        },
+        {
+          "name": "Gisele Alves Moura",
+          "photo_url": null
+        },
+        {
+          "name": "Jeckie Brown",
+          "photo_url": null
+        },
+        {
+          "name": "Lana Guelero",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uARY4Qa4Kwt4GaqrUrHHy50MGXm.jpg"
+        },
+        {
+          "name": "Maria de Fátima Barbosa",
+          "photo_url": null
+        },
+        {
+          "name": "Marina D'Elia",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6796
+      ],
+      "video_message_id": 6796
     },
     {
       "tmdb_id": 6538,

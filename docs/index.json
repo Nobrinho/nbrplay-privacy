@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:27:11+00:00",
+  "generated_at": "2026-09-27T19:28:07+00:00",
   "channel": "-1004483833987",
-  "count": 3010,
+  "count": 3011,
   "movie_count": 2797,
   "series_count": 32,
-  "episode_count": 213,
+  "episode_count": 214,
   "custom_count": 0,
   "movies": [
     {
@@ -184316,7 +184316,7 @@
       "title": "Blade Runner: Black Lotus",
       "original_title": "Blade Runner: Black Lotus",
       "poster_url": "https://image.tmdb.org/t/p/w500/4e0bY3weyKiVe58kMS34ddOdc4Q.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/idDlEjiDmPTWmKMv7ks58zAnbPc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7eUIdzt3VsHATllcsRlAD4POIaB.jpg",
       "genres": [
         "Animação",
         "Sci-Fi & Fantasy",
@@ -184326,6 +184326,37 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 4,
+              "tmdb_id": 3337284,
+              "title": "A Caça às Bonecas",
+              "air_date": "2021-11-28",
+              "overview": "Elle acorda em um lugar estranho, sem conseguir se lembrar do nome de seu namorado. No local, ela encontra outras pessoas em uma situação similar, que buscam escapar da situação, e acaba fazendo amizade com uma jovem chamada Miu. Caçadores surgem no local, iniciando a chamada Caça às Bonecas. Elle e Miu fogem em um carro roubado, mas os caçadores a alcançam. Miu é assassinada por um caçador, mas Elle consegue escapar. No presente, Elle convence J a ajudá-la em sua vingança, e Davis encontra evidências convincentes de que Elle é uma replicante.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/7eUIdzt3VsHATllcsRlAD4POIaB.jpg",
+              "cast": [
+                {
+                  "name": "Jessica Henwick",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hRrEqDIWlov1FvYRmBN2vLaAxyl.jpg"
+                },
+                {
+                  "name": "Will Yun Lee",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg"
+                },
+                {
+                  "name": "Wes Bentley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+                },
+                {
+                  "name": "Samira Wiley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/m45A0hYcpnGckwxqs7j0I6Sp2Dj.jpg"
+                }
+              ],
+              "message_ids": [
+                7386,
+                7387
+              ],
+              "video_message_id": 7387
+            },
             {
               "number": 8,
               "tmdb_id": 3396150,

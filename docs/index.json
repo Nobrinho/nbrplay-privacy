@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:37:54+00:00",
+  "generated_at": "2026-09-27T19:38:30+00:00",
   "channel": "-1004483833987",
-  "count": 3025,
+  "count": 3026,
   "movie_count": 2802,
   "series_count": 33,
-  "episode_count": 223,
+  "episode_count": 224,
   "custom_count": 0,
   "movies": [
     {
@@ -186176,6 +186176,69 @@
                 7052
               ],
               "video_message_id": 7052
+            },
+            {
+              "number": 5,
+              "tmdb_id": 7012098,
+              "title": "Alguém precisa confiar em alguém",
+              "air_date": "2026-03-18",
+              "overview": "A crise já dura um mês, e uma tragédia divide as opiniões na cidade. Será que algumas atitudes ousadas podem acabar com esse pesadelo?",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/pXywA762FppJeWv79Qe76rSL6vm.jpg",
+              "cast": [
+                {
+                  "name": "Johnny Massaro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/gPwKUHWiUpQAyITlCQZ0aCngiHJ.jpg"
+                },
+                {
+                  "name": "Paulo Gorgulho",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/sSWzsf7p4xHnOLIf61k7Jx7V0Q2.jpg"
+                },
+                {
+                  "name": "Ana Costa",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/cl9e0zmPwaxamALFaOefuJWgIgd.jpg"
+                },
+                {
+                  "name": "Bukassa Kabengele",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/wg1lFAnr2cYQsIC1DoES6i1VbCx.jpg"
+                },
+                {
+                  "name": "Alan Rocha",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/9Vc1TJtnF70SEC0oKZ99w20rhqf.jpg"
+                },
+                {
+                  "name": "Marina Merlino",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/sVsF5gA1tCEKG9D5DHv7H7l1UBa.jpg"
+                },
+                {
+                  "name": "William Costa",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/tHtzXety96qbFBcd4AySrRpQ10Z.jpg"
+                },
+                {
+                  "name": "Antonio Saboia",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/cjSFDPYxqR1duZjhwGwTr8LNFsj.jpg"
+                },
+                {
+                  "name": "Luiz Bertazzo",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/9rpkxfChPTkNkOscTfd2lqqENix.jpg"
+                },
+                {
+                  "name": "Clarissa Kiste",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/fAi4LdPgXMHLWtNNyxmPVbq2dyt.jpg"
+                },
+                {
+                  "name": "Douglas Simon",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/mftMMs1XQA38cYnvdE9TjaTXxiO.jpg"
+                },
+                {
+                  "name": "Tuca Andrada",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xK0464NhRY67ZTX45os2oEwRWyT.jpg"
+                }
+              ],
+              "message_ids": [
+                7409,
+                7410
+              ],
+              "video_message_id": 7410
             }
           ]
         }

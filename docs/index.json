@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:54:16+00:00",
+  "generated_at": "2026-09-27T19:54:20+00:00",
   "channel": "-1004483833987",
-  "count": 3069,
+  "count": 3070,
   "movie_count": 2804,
   "series_count": 35,
-  "episode_count": 265,
+  "episode_count": 266,
   "custom_count": 0,
   "movies": [
     {
@@ -186022,6 +186022,24 @@
                 7456
               ],
               "video_message_id": 7456
+            },
+            {
+              "number": 2,
+              "tmdb_id": 1941109,
+              "title": "Episódio 2",
+              "air_date": "2019-09-04",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/te6DdEHeD6cwvz96B189rIJDZB3.jpg",
+              "cast": [
+                {
+                  "name": "Dave DeAndrea",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7457
+              ],
+              "video_message_id": 7457
             },
             {
               "number": 3,

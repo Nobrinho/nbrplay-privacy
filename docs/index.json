@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:21:37+00:00",
+  "generated_at": "2026-09-27T07:21:41+00:00",
   "channel": "-1004483833987",
-  "count": 2790,
+  "count": 2791,
   "movie_count": 2709,
   "series_count": 20,
-  "episode_count": 81,
+  "episode_count": 82,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -179296,6 +179296,19 @@
                 7065
               ],
               "video_message_id": 7065
+            },
+            {
+              "number": 2,
+              "tmdb_id": 7754438,
+              "title": "Episódio 2",
+              "air_date": "2026-09-01",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/1fcy8LtC1rzd1cS9LwoNQSHv9Jf.jpg",
+              "cast": [],
+              "message_ids": [
+                7066
+              ],
+              "video_message_id": 7066
             }
           ]
         }

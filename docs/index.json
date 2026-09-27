@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:00:12+00:00",
+  "generated_at": "2026-09-27T06:00:30+00:00",
   "channel": "-1004483833987",
-  "count": 2698,
-  "movie_count": 2654,
+  "count": 2699,
+  "movie_count": 2655,
   "series_count": 10,
   "episode_count": 44,
   "movies": [
@@ -45433,6 +45433,23 @@
         4701
       ],
       "video_message_id": 4701
+    },
+    {
+      "tmdb_id": 70834,
+      "title": "Crimes de Amor em Kabul",
+      "original_title": "Love Crimes Of Kabul",
+      "year": "2011",
+      "poster_url": "https://image.tmdb.org/t/p/w500/t4QCb1DigIjYdolA7g3mNIdTVWk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dC7MLXoCZmkPwhxNSFpsMCzlB7Y.jpg",
+      "overview": "An intimate portrait of three young afghan women accused of committing \"moral crimes.\"",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [],
+      "message_ids": [
+        6938
+      ],
+      "video_message_id": 6938
     },
     {
       "tmdb_id": 412988,

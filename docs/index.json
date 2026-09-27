@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:25:33+00:00",
+  "generated_at": "2026-09-27T06:25:48+00:00",
   "channel": "-1004483833987",
-  "count": 2732,
-  "movie_count": 2669,
+  "count": 2733,
+  "movie_count": 2670,
   "series_count": 14,
   "episode_count": 63,
   "movies": [
@@ -157095,6 +157095,42 @@
         6578
       ],
       "video_message_id": 6578
+    },
+    {
+      "tmdb_id": 1535885,
+      "title": "The American",
+      "original_title": "The American",
+      "year": "2025",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6CIsK7HNjcqvJAH2CcrpDlqSsKa.jpg",
+      "backdrop_url": null,
+      "overview": "After pooping his pants at a world-leaders’ conference dinner, the first Asian-American President of the United States must escape the situation undetected before his reputation is ruined forever. Haunted by a traumatic childhood memory, Richard finds himself going to darker and more extreme lengths in order to protect his legacy.",
+      "genres": [],
+      "cast": [
+        {
+          "name": "주영호",
+          "photo_url": "https://image.tmdb.org/t/p/w185/arYItOEFo1BsG8CVTVbs3OCxDWo.jpg"
+        },
+        {
+          "name": "Holly Cinnamon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5Wz4YgQ2YHOfLXzGv7LjPLGHnsS.jpg"
+        },
+        {
+          "name": "Romo Lee",
+          "photo_url": null
+        },
+        {
+          "name": "Jordan Sobel",
+          "photo_url": null
+        },
+        {
+          "name": "Gina Kim",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6990
+      ],
+      "video_message_id": 6990
     },
     {
       "tmdb_id": 638506,

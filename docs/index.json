@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:26:55+00:00",
+  "generated_at": "2026-09-27T19:26:59+00:00",
   "channel": "-1004483833987",
-  "count": 3007,
+  "count": 3008,
   "movie_count": 2797,
   "series_count": 32,
-  "episode_count": 210,
+  "episode_count": 211,
   "custom_count": 0,
   "movies": [
     {
@@ -190861,7 +190861,7 @@
       "title": "Territórios - Sob o Domínio do Crime",
       "original_title": "Territórios - Sob o Domínio do Crime",
       "poster_url": "https://image.tmdb.org/t/p/w500/sq5oUBojNNbk97hKMAk0IqGo2Vc.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/uDnZpYXuYckG9NwORcSJ8HavZCR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fDymQlmqZWxQBXOr6kcml3kOmVE.jpg",
       "genres": [
         "Documentário",
         "Crime",
@@ -190871,6 +190871,45 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 4,
+              "tmdb_id": 7216381,
+              "title": "O Fio do Crime",
+              "air_date": "2026-04-30",
+              "overview": "Fortalecido, o crime organizado cruza fronteiras, se espalha por todos os estados do país e se infiltra na economia legal. Das rotas na Amazônia e postos de combustíveis à lavagem de dinheiro, as facções constroem um império corporativo e bilionário.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/fDymQlmqZWxQBXOr6kcml3kOmVE.jpg",
+              "cast": [
+                {
+                  "name": "Paulo Renato Soares",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/45jlzHMHbfHNSSJmIXbw2QSa1Zs.jpg"
+                },
+                {
+                  "name": "Leslie Leitão",
+                  "photo_url": null
+                },
+                {
+                  "name": "Mahomed Saigg",
+                  "photo_url": null
+                },
+                {
+                  "name": "Luiz Fernando da Costa",
+                  "photo_url": null
+                },
+                {
+                  "name": "Delegado Fabrício",
+                  "photo_url": null
+                },
+                {
+                  "name": "Ivana David",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7380,
+                7381
+              ],
+              "video_message_id": 7381
+            },
             {
               "number": 5,
               "tmdb_id": 7216382,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T02:41:44+00:00",
+  "generated_at": "2026-09-27T02:42:27+00:00",
   "channel": "-1004483833987",
-  "count": 2524,
-  "movie_count": 2524,
+  "count": 2525,
+  "movie_count": 2525,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -90904,6 +90904,75 @@
         6706
       ],
       "video_message_id": 6706
+    },
+    {
+      "tmdb_id": 446807,
+      "title": "Millennium: A Garota na Teia de Aranha",
+      "original_title": "The Girl in the Spider's Web",
+      "year": "2018",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gdOGc31t1DGEkiqPULVuFvTiXZn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ejmwCnlgWXkpDLsrhsnB8Mn6dcu.jpg",
+      "overview": "Salander e o jornalista Mikael Blomkvist se encontram no meio de uma rede de espiões, cibercriminosos e corruptos oficiais de governo enquanto tentam recuperar  um programa de computador que dá ao usuário acesso a um imenso arsenal bélico e que é operado por figuras do passado de Lisbeth.",
+      "genres": [
+        "Ação",
+        "Crime",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Claire Foy",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pI1lOswQWZRhc8TKu0MESulw9uF.jpg"
+        },
+        {
+          "name": "Sverrir Gudnason",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3t3ERbQwA4UWlUajP0bwe9WBDZx.jpg"
+        },
+        {
+          "name": "LaKeith Stanfield",
+          "photo_url": "https://image.tmdb.org/t/p/w185/x3k0HCpMNqEtVf2VKQrSCol1ia2.jpg"
+        },
+        {
+          "name": "Sylvia Hoeks",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wKC9LgqgJRCXuzs1kUKaK7Uicv.jpg"
+        },
+        {
+          "name": "Stephen Merchant",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6WM2rK6390Nwk398syJbGcPvRct.jpg"
+        },
+        {
+          "name": "Christopher Convery",
+          "photo_url": "https://image.tmdb.org/t/p/w185/twv9hCdoTM0dQQI2CVk2zJingyI.jpg"
+        },
+        {
+          "name": "Claes Bang",
+          "photo_url": "https://image.tmdb.org/t/p/w185/allXGdenaUpFq1bJSIeZPkJeHfe.jpg"
+        },
+        {
+          "name": "Synnøve Macody Lund",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1tZzyfHjmn3EmlyQtYoaNmvexqd.jpg"
+        },
+        {
+          "name": "Cameron Britton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9HFxi8ZnBiby3AQ7tBOPDxXFkCT.jpg"
+        },
+        {
+          "name": "Vicky Krieps",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9laK3w40qBnE5UY41wJfnUAYMmC.jpg"
+        },
+        {
+          "name": "Andreja Pejić",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yxAmZLd3sPGlgG6nFndi05VfNeL.jpg"
+        },
+        {
+          "name": "Mikael Persbrandt",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ppJ6sjgdqzLt5gN5YqqBD1IVxbu.jpg"
+        }
+      ],
+      "message_ids": [
+        6721,
+        6722
+      ],
+      "video_message_id": 6722
     },
     {
       "tmdb_id": 65754,

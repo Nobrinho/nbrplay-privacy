@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:14:07+00:00",
+  "generated_at": "2026-09-27T19:16:33+00:00",
   "channel": "-1004483833987",
-  "count": 2979,
-  "movie_count": 2788,
+  "count": 2981,
+  "movie_count": 2789,
   "series_count": 28,
-  "episode_count": 191,
+  "episode_count": 192,
   "custom_count": 0,
   "movies": [
     {
@@ -164049,6 +164049,56 @@
       "video_message_id": 7275
     },
     {
+      "tmdb_id": 9939,
+      "title": "To Rome with Love — S02E10 — Episódio 10",
+      "original_title": "The Chatroom",
+      "year": "1970",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2osQgVpLGPhl0FWzc6jtPN6888o.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6HfaCaMsmtbxRev1KXPjhkvTjf1.jpg",
+      "overview": "In Los Angeles, a young man starts online dating with his two friends and finds out that what's on the screen isn't exactly what meets the eye.",
+      "genres": [
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "GiGi Erneta",
+          "photo_url": "https://image.tmdb.org/t/p/w185/w8yBYlqI1tihNkvzKTKYbuvYcLm.jpg"
+        },
+        {
+          "name": "Brian Hooks",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2E7apZ2BTqHClmlFZesLRwvlhNx.jpg"
+        },
+        {
+          "name": "LaNease Adams",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8p5b5OenKjtX32N7BOjCxrhpxhg.jpg"
+        },
+        {
+          "name": "Carl Gilliard",
+          "photo_url": null
+        },
+        {
+          "name": "Natasha McCrea",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uCQaIPB1BE0aDEe6ZEVEvr4gz76.jpg"
+        },
+        {
+          "name": "Baadja-Lyne Odums",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iO3zGR435PQ0G8coxS9lUZC0xKD.jpg"
+        },
+        {
+          "name": "Darryl Brunson",
+          "photo_url": null
+        },
+        {
+          "name": "Troy Winbush",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aGxjCVonALJublMfkLp3BZBiDg3.jpg"
+        }
+      ],
+      "message_ids": [
+        7337
+      ],
+      "video_message_id": 7337
+    },
+    {
       "tmdb_id": 4247,
       "title": "Todo Mundo em Pânico",
       "original_title": "Scary Movie",
@@ -190119,6 +190169,48 @@
                 7343
               ],
               "video_message_id": 7343
+            },
+            {
+              "number": 4,
+              "tmdb_id": 414461,
+              "title": "Episódio 4",
+              "air_date": "1970-10-06",
+              "overview": null,
+              "backdrop_url": null,
+              "cast": [
+                {
+                  "name": "John Forsythe",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/lfhKEIepJXdIW9JVCZZ15ULYy8n.jpg"
+                },
+                {
+                  "name": "Joyce Menges",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ikTSmZgaUt07FHQxEOBcvxSrBQj.jpg"
+                },
+                {
+                  "name": "Melanie Fullerton",
+                  "photo_url": null
+                },
+                {
+                  "name": "Brenda Benet",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/a7Mh7qsXUnge67RCggAjzbNQeiW.jpg"
+                },
+                {
+                  "name": "Susan Neher",
+                  "photo_url": null
+                },
+                {
+                  "name": "Walter Brennan",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7hlZ3WbT4JQxeN3fLMongUXNHma.jpg"
+                },
+                {
+                  "name": "Kay Medford",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/lKZ8tZwfHoJc7Qld9Ncvr71MEc8.jpg"
+                }
+              ],
+              "message_ids": [
+                7346
+              ],
+              "video_message_id": 7346
             },
             {
               "number": 5,

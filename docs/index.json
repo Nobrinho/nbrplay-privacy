@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T15:37:59+00:00",
+  "generated_at": "2026-09-27T15:38:17+00:00",
   "channel": "-1004483833987",
-  "count": 2916,
-  "movie_count": 2759,
+  "count": 2917,
+  "movie_count": 2760,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -130298,6 +130298,76 @@
         988
       ],
       "video_message_id": 988
+    },
+    {
+      "tmdb_id": 15472,
+      "title": "Os Homens Que Não Amavam as Mulheres",
+      "original_title": "Män som hatar kvinnor",
+      "year": "2009",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cLll8iK4U3eZWdnWiprMBMKObNk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dPE25PbaeE6fCR2SQb4H4MeBmml.jpg",
+      "overview": "Há 40 anos, uma adolescente de 16 anos desapareceu sem deixar pistas e seu corpo jamais foi encontrado. O tio da jovem acredita que ela tenha sido assassinada por alguém da família. Para encontrar provas, ele contrata um jornalista e uma hacker.",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime",
+        "Mistério"
+      ],
+      "cast": [
+        {
+          "name": "Michael Nyqvist",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d9nGt8MloJwosRbGp10gaeHExcZ.jpg"
+        },
+        {
+          "name": "Noomi Rapace",
+          "photo_url": "https://image.tmdb.org/t/p/w185/m0J6ZqEyNljqF1DXBoC9DcMStHP.jpg"
+        },
+        {
+          "name": "Lena Endre",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hWrqTNGRnXNhAIuVkOyxIhyCW1I.jpg"
+        },
+        {
+          "name": "Sven-Bertil Taube",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gJgxkITQasJZaze5A4h8ddoh8N4.jpg"
+        },
+        {
+          "name": "Peter Haber",
+          "photo_url": "https://image.tmdb.org/t/p/w185/e6jnPrQiUs3wyEP9OVWd7sMse6B.jpg"
+        },
+        {
+          "name": "Peter Andersson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3QrCFAESqlCgwg10KLv1Wre0sKL.jpg"
+        },
+        {
+          "name": "Marika Lagercrantz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ya50fGUyUD1PfCopwgwr79O1O9w.jpg"
+        },
+        {
+          "name": "Ingvar Hirdwall",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fcoLF3kEQJ5nDuYaFESiyRGTL8U.jpg"
+        },
+        {
+          "name": "Björn Granath",
+          "photo_url": "https://image.tmdb.org/t/p/w185/x6H9cCe7yModCopeskGdcOKnONX.jpg"
+        },
+        {
+          "name": "Ewa Fröling",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6CILCzlzTJKjKlvqqvLqyOatvxb.jpg"
+        },
+        {
+          "name": "Michalis Koutsogiannakis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/i0SPzpHpQRi4gfqDk8tGYQ6t289.jpg"
+        },
+        {
+          "name": "Annika Hallin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/w0xkKmLS2AeXKB6HqrUqeq5LzRC.jpg"
+        }
+      ],
+      "message_ids": [
+        7263,
+        7264
+      ],
+      "video_message_id": 7264
     },
     {
       "tmdb_id": 33,

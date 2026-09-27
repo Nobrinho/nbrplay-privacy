@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:40:55+00:00",
+  "generated_at": "2026-09-27T04:47:08+00:00",
   "channel": "-1004483833987",
-  "count": 2621,
-  "movie_count": 2591,
+  "count": 2622,
+  "movie_count": 2592,
   "series_count": 7,
   "episode_count": 30,
   "movies": [
@@ -10953,6 +10953,76 @@
         5440
       ],
       "video_message_id": 5440
+    },
+    {
+      "tmdb_id": 608804,
+      "title": "A Menina que Matou os Pais",
+      "original_title": "A Menina que Matou os Pais",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rARhJwdW2cAeh8tgdc7WZqs2nZ1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bIqwnFmZVZ2AWo0dcMIpLhoEyHa.jpg",
+      "overview": "Apresenta a visão de Daniel Cravinhos sobre os acontecimentos que levaram à morte do casal Richthofen, pais da sua então namorada Suzane von Richthofen. Um drama de crime real sobre um dos casos de assassinato mais chocantes do Brasil.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller",
+        "Terror"
+      ],
+      "cast": [
+        {
+          "name": "Carla Diaz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/348pxkNkh6egEfJ7BpYS8ZgAuzn.jpg"
+        },
+        {
+          "name": "Leonardo Bittencourt",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1hpxvpoASBK8uHMJJeiiEo50Euk.jpg"
+        },
+        {
+          "name": "Allan Souza Lima",
+          "photo_url": "https://image.tmdb.org/t/p/w185/m4HTYTh34Vy64QwS27RjHznSAol.jpg"
+        },
+        {
+          "name": "Leonardo Medeiros",
+          "photo_url": "https://image.tmdb.org/t/p/w185/A9loWo39TcA9MKmvOFsmXgvmWeM.jpg"
+        },
+        {
+          "name": "Vera Zimmermann",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4be7dGy6B4eHOCl7hRI5Cgl3CsT.jpg"
+        },
+        {
+          "name": "Augusto Madeira",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uSqWYUnEzawmDCTsLAN3a3DENFC.jpg"
+        },
+        {
+          "name": "Debora Duboc",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qs8JsdBh7bo6WBOiNjsoDnHpwkp.jpg"
+        },
+        {
+          "name": "Kauan Ceglio",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2kwl91qBbSx2TWSmttnrovhlAoo.jpg"
+        },
+        {
+          "name": "Marcelo Varzea",
+          "photo_url": "https://image.tmdb.org/t/p/w185/m60G9tYQ1zL9R1GaVTLWGLA4SEI.jpg"
+        },
+        {
+          "name": "Fernanda Viacava",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pFdAyA4G7ET465FsIa2ftXLZ3X7.jpg"
+        },
+        {
+          "name": "Gabi Lopes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tUWoUJCzfy2xErgBagh4ENXyATH.jpg"
+        },
+        {
+          "name": "Taiguara Nazareth",
+          "photo_url": "https://image.tmdb.org/t/p/w185/u3nWUws3dcCzGjqmKErVPomv2kF.jpg"
+        }
+      ],
+      "message_ids": [
+        6840,
+        6841
+      ],
+      "video_message_id": 6841
     },
     {
       "tmdb_id": 203833,

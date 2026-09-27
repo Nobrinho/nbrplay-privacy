@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T02:58:05+00:00",
+  "generated_at": "2026-09-27T02:59:36+00:00",
   "channel": "-1004483833987",
-  "count": 2537,
-  "movie_count": 2537,
+  "count": 2538,
+  "movie_count": 2538,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -26329,6 +26329,76 @@
         4557
       ],
       "video_message_id": 4557
+    },
+    {
+      "tmdb_id": 359412,
+      "title": "Assalto ao Poder",
+      "original_title": "Marauders",
+      "year": "2016",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1Fzgw1hpW9WeZgF19Ho4RiJp8cz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eTp97yGiUiphRYtICwAgV6mghP6.jpg",
+      "overview": "Um grupo de ladrões se mantém há tempos fora do radar da polícia. Eles efetuam constantes assaltos à bancos de elite. Entretanto, um agente do FBI está prestes a descobrir um propósito ainda mais profundo na gangue.",
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Crime",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Bruce Willis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+        },
+        {
+          "name": "Dave Bautista",
+          "photo_url": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+        },
+        {
+          "name": "Christopher Meloni",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nHlFFbRTh85vkohBBtRQjYnWEtb.jpg"
+        },
+        {
+          "name": "Danny A. Abeckaser",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hNg6bsHkAFUNELz7x5ud3oT3NiU.jpg"
+        },
+        {
+          "name": "Lydia Hull",
+          "photo_url": "https://image.tmdb.org/t/p/w185/w71z6hZrwLi0hBkPFxiUe60bgOI.jpg"
+        },
+        {
+          "name": "Tyler Jon Olson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/g24QNOmUiax9E4bqfi3ERIJtJA4.jpg"
+        },
+        {
+          "name": "Christopher Rob Bowen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lWSDKU8CvhbidQnlUZXwgJ5VJDG.jpg"
+        },
+        {
+          "name": "Johnathon Schaech",
+          "photo_url": "https://image.tmdb.org/t/p/w185/13hf3VhszBoykxF7lNER2ur4Z9B.jpg"
+        },
+        {
+          "name": "Adrian Grenier",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ghSzUkiw7OjRq0poNOlCjbXbdU6.jpg"
+        },
+        {
+          "name": "Richie Chance",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ckTQM8yvMR9ToiuxkJKBSPyRmRi.jpg"
+        },
+        {
+          "name": "Texas Battle",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zPzagAtKxbHKrQLAQ69KSYLZxjA.jpg"
+        },
+        {
+          "name": "Tara Holt",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hBlRjY81eUr99dY7uU5BrnZU1j2.jpg"
+        }
+      ],
+      "message_ids": [
+        6744,
+        6745
+      ],
+      "video_message_id": 6745
     },
     {
       "tmdb_id": 4176,

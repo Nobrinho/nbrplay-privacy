@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:48:22+00:00",
+  "generated_at": "2026-09-27T07:48:42+00:00",
   "channel": "-1004483833987",
-  "count": 2899,
-  "movie_count": 2742,
+  "count": 2900,
+  "movie_count": 2743,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -10654,6 +10654,74 @@
         1174
       ],
       "video_message_id": 1174
+    },
+    {
+      "tmdb_id": 10707,
+      "title": "A Lula e a Baleia",
+      "original_title": "The Squid and the Whale",
+      "year": "2005",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iDSMiMyvBRPrkDtAIQNO80HqSJc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3ZjxENlw4HXioGGwhqaJrvdEXKo.jpg",
+      "overview": "Bernard, um esnobe intelectual que já foi um grande romancista, acabou se acomodando com uma carreira universitária. Mas quando sua esposa Joan descobre que tem talento para escrever, a inveja divide a família e os filhos Walt e Frank escolhem lados – Walt com seu pai e Frank com sua mãe. Então Joan começa a sair com o professor de tênis do seu filho mais novo e Bernard inicia um romance com Lili, uma estudante de quem Walt também gosta.",
+      "genres": [
+        "Comédia",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Jeff Daniels",
+          "photo_url": "https://image.tmdb.org/t/p/w185/r0mkZJZnTSJO3HJRsMW5HtszxE8.jpg"
+        },
+        {
+          "name": "Laura Linney",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6I31xZxo9Hq6T0OhSwCUjHd8jkB.jpg"
+        },
+        {
+          "name": "Jesse Eisenberg",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2ojZrkt5rdkUi857WSeCatxXdGS.jpg"
+        },
+        {
+          "name": "Owen Kline",
+          "photo_url": "https://image.tmdb.org/t/p/w185/noE5frmEgs4h6Qj1hSLbAB4vzyi.jpg"
+        },
+        {
+          "name": "William Baldwin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mFCUAl6Rko6ocONhFDCpztcmKXd.jpg"
+        },
+        {
+          "name": "Halley Feiffer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dfiugl9mWHXhZDEbxamjDSEpxf7.jpg"
+        },
+        {
+          "name": "Anna Paquin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5FjBCsn3kujldP8LizoCrc3hsHp.jpg"
+        },
+        {
+          "name": "David Benger",
+          "photo_url": null
+        },
+        {
+          "name": "Molly Barton",
+          "photo_url": null
+        },
+        {
+          "name": "Bo Berkman",
+          "photo_url": null
+        },
+        {
+          "name": "Matthew Kaplan",
+          "photo_url": null
+        },
+        {
+          "name": "Simon Kaplan",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7233,
+        7234
+      ],
+      "video_message_id": 7234
     },
     {
       "tmdb_id": 480881,

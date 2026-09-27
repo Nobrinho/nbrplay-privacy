@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:32:07+00:00",
+  "generated_at": "2026-09-27T05:36:48+00:00",
   "channel": "-1004483833987",
-  "count": 2658,
-  "movie_count": 2625,
+  "count": 2659,
+  "movie_count": 2626,
   "series_count": 8,
   "episode_count": 33,
   "movies": [
@@ -121252,6 +121252,30 @@
         641
       ],
       "video_message_id": 641
+    },
+    {
+      "tmdb_id": 124835,
+      "title": "O Último Dia dos Dinossauros",
+      "original_title": "Last Day of the Dinosaurs",
+      "year": "2010",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ijZ45QBl9WPINT1NVYldUUEZ6eE.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2I49lRg6MCMrsgJU88vNIkyViEZ.jpg",
+      "overview": "O Último Dia dos Dinossauros é um documentário de televisão do Discovery Channel de 2010 sobre a extinção dos dinossauros. Retrata a hipótese de Alvarez como a causa da extinção.",
+      "genres": [
+        "Documentário",
+        "Animação",
+        "Cinema TV"
+      ],
+      "cast": [
+        {
+          "name": "Bill Mondy",
+          "photo_url": "https://image.tmdb.org/t/p/w185/whkOSQgB1RkxGpYo4IO6WKhXL98.jpg"
+        }
+      ],
+      "message_ids": [
+        6887
+      ],
+      "video_message_id": 6887
     },
     {
       "tmdb_id": 13938,

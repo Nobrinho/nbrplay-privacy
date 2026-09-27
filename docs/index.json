@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:15:37+00:00",
+  "generated_at": "2026-09-27T05:17:07+00:00",
   "channel": "-1004483833987",
-  "count": 2644,
-  "movie_count": 2611,
+  "count": 2645,
+  "movie_count": 2612,
   "series_count": 8,
   "episode_count": 33,
   "movies": [
@@ -26934,6 +26934,75 @@
         4557
       ],
       "video_message_id": 4557
+    },
+    {
+      "tmdb_id": 72560,
+      "title": "Assalto ao Banco Central",
+      "original_title": "Assalto ao Banco Central",
+      "year": "2011",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sbUymWDX82csyNaTj3AmKGKqzrG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mF1VMcO0pSjPVVfpHs4hLFmLYTV.jpg",
+      "overview": "Em Agosto de 2005 164.7 milhões de reais foram roubados do Banco Central em Fortaleza, Ceará. Sem dar um único tiro, sem disparar um alarme, os bandidos entraram e saíram por um túnel de 84 metros cavado sob o cofre, carregando 3 toneladas de dinheiro. Foram mais de três meses de operação. Milhares de reais foram gastos no planejamento. Foi o segundo maior assalto a banco do mundo. Um dos crimes mais sofisticados e bem planejados de que já se teve notícia no Brasil. Quem eram essas pessoas? E o que aconteceu com elas depois? São as perguntas que todo o Brasil se faz desde então.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Milhem Cortaz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vA9hgFemy6JHxgjdbQW78xZyAnq.jpg"
+        },
+        {
+          "name": "Eriberto Leão",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lowsAGgm3MKviYCdFPa0uTLBo7J.jpg"
+        },
+        {
+          "name": "Hermila Guedes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dJJh7sekL9dl77tviU5yEVXa1qo.jpg"
+        },
+        {
+          "name": "Lima Duarte",
+          "photo_url": "https://image.tmdb.org/t/p/w185/g95EKPRa9PbG14wjiP44kPDUTKY.jpg"
+        },
+        {
+          "name": "Giulia Gam",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pFtv61SskpB85TKwgfNKZzPEqkK.jpg"
+        },
+        {
+          "name": "Tonico Pereira",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n3NT16Zu0LLLcql5678SivoSYlY.jpg"
+        },
+        {
+          "name": "Gero Camilo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1gM6S64Zpat4DJPzLgN15cg2rF3.jpg"
+        },
+        {
+          "name": "Vinícius de Oliveira",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4pZrhfeXlcesPfXEpZGt11oAUWz.jpg"
+        },
+        {
+          "name": "Heitor Martinez Mello",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dwXBwOv4uUl0aAakk0zvHyXtUHd.jpg"
+        },
+        {
+          "name": "Cadu Fávero",
+          "photo_url": "https://image.tmdb.org/t/p/w185/28CwD4T1QoPo9tAiUOkSPYmfkHH.jpg"
+        },
+        {
+          "name": "Fábio Lago",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aD0gCVtKmN1veh0aauvNyJhZ3WP.jpg"
+        },
+        {
+          "name": "Juliano Cazarré",
+          "photo_url": "https://image.tmdb.org/t/p/w185/57iYuH1szCIlwr2WFVHGC5UgkU0.jpg"
+        }
+      ],
+      "message_ids": [
+        6870,
+        6871
+      ],
+      "video_message_id": 6871
     },
     {
       "tmdb_id": 359412,

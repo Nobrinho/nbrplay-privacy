@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T16:10:47+00:00",
+  "generated_at": "2026-09-27T16:10:51+00:00",
   "channel": "-1004483833987",
-  "count": 2935,
-  "movie_count": 2778,
+  "count": 2936,
+  "movie_count": 2779,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -35880,6 +35880,23 @@
         4662
       ],
       "video_message_id": 4662
+    },
+    {
+      "tmdb_id": 631904,
+      "title": "Brasil Football Club",
+      "original_title": "Brasil Football Club",
+      "year": "2014",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sTuixj2Rv4QVJDgjXz6xcA39qk4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/o8BbPMbQMiV3mUbc1q8acWxGrPY.jpg",
+      "overview": "Brasil Football Club conta a história da chegada do futebol ao Brasil e de como a relação dos brasileiros com a bola foi sendo construída. Do elegante e restrito futebol do século XIX, que proibia vaias e exigia jogadores de gravata, até o futebol-paixão-nacional, um dos símbolos mais fortes da nossa identidade cultural. Uma história feita da contribuição de imigrantes estrangeiros e trabalhadores brasileiros; marcada pelo racismo e subvertida pelo talento.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [],
+      "message_ids": [
+        7290
+      ],
+      "video_message_id": 7290
     },
     {
       "tmdb_id": 459075,

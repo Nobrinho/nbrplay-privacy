@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:24:43+00:00",
+  "generated_at": "2026-09-27T04:24:48+00:00",
   "channel": "-1004483833987",
-  "count": 2602,
+  "count": 2603,
   "movie_count": 2582,
   "series_count": 6,
-  "episode_count": 20,
+  "episode_count": 21,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -173429,6 +173429,24 @@
                 6822
               ],
               "video_message_id": 6822
+            },
+            {
+              "number": 3,
+              "tmdb_id": 2663593,
+              "title": "A arma do sexo",
+              "air_date": "2021-01-20",
+              "overview": "Desde o início da espionagem até os dias de hoje, o sexo e a sedução são armas poderosas para persuadir e chantagear.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/f7z1dg6wD62HNCvXGS0tMQdVioz.jpg",
+              "cast": [
+                {
+                  "name": "Dylan Berry",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                6823
+              ],
+              "video_message_id": 6823
             }
           ]
         }

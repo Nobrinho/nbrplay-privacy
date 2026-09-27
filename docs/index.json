@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:43:35+00:00",
+  "generated_at": "2026-09-27T05:44:02+00:00",
   "channel": "-1004483833987",
-  "count": 2671,
-  "movie_count": 2633,
+  "count": 2672,
+  "movie_count": 2634,
   "series_count": 9,
   "episode_count": 38,
   "movies": [
@@ -113669,6 +113669,61 @@
         6651
       ],
       "video_message_id": 6651
+    },
+    {
+      "tmdb_id": 953300,
+      "title": "O Mistério de Marilyn Monroe: Gravações Inéditas",
+      "original_title": "The Mystery of Marilyn Monroe: The Unheard Tapes",
+      "year": "2022",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vXuUH4IGkB3B2gJWkLStSLGRewa.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nXH3PbWtH7qpWlaAwFCvvh40pk8.jpg",
+      "overview": "Mergulhe no mistério que envolve a morte de Marilyn Monroe ouvindo entrevistas inéditas com seus amigos mais íntimos neste documentário.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Anthony Summers",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vdweJZ5z9GkQKtbyv8zuprknvEZ.jpg"
+        },
+        {
+          "name": "Linzi Hateley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ga4nBTXq1ZpScmy2oGrGx6blB9Z.jpg"
+        },
+        {
+          "name": "CJ Johnson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/r4ovTsHahfn8bYZlrlOOGvMPfRt.jpg"
+        },
+        {
+          "name": "Sorel Johnson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/j71OY6vNw4mFEpildageO6vGmCe.jpg"
+        },
+        {
+          "name": "Andre Lillis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gpK80HVHcl2sb05g9IJIpHxLICC.jpg"
+        },
+        {
+          "name": "Sion Lloyd",
+          "photo_url": null
+        },
+        {
+          "name": "Shelagh McLeod",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kroDQ3MCqb8kEg1ZMnGHEerzOHX.jpg"
+        },
+        {
+          "name": "Jason Mulhearn",
+          "photo_url": null
+        },
+        {
+          "name": "Brian James Twiddy",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6909,
+        6910
+      ],
+      "video_message_id": 6910
     },
     {
       "tmdb_id": 22826,

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:05:13+00:00",
+  "generated_at": "2026-09-27T06:05:18+00:00",
   "channel": "-1004483833987",
-  "count": 2704,
+  "count": 2705,
   "movie_count": 2659,
   "series_count": 11,
-  "episode_count": 45,
+  "episode_count": 46,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -178007,6 +178007,37 @@
                 6947
               ],
               "video_message_id": 6947
+            },
+            {
+              "number": 2,
+              "tmdb_id": 4270157,
+              "title": "É o 26!",
+              "air_date": "2023-03-29",
+              "overview": "Silvio Santos é oficialmente candidato à Presidência da República e descobre que as estratégias do palco nem sempre funcionam no mundo da política. Em 2010, Silvio cede uma entrevista à única jornalista que sabe sobre o PanAmericano, tentando ganhar tempo para resolver o problema antes que a bomba vire notícia pública.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/w02n1MTsh2UUlhz1CgYDrtHK1yv.jpg",
+              "cast": [
+                {
+                  "name": "José Rubens Chachá",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/1CvvDlkKL3W6jnuSr4OK6TJTp9K.jpg"
+                },
+                {
+                  "name": "Leona Cavalli",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/b1wi0Lkcf2UjlbWz9arhFwBKaff.jpg"
+                },
+                {
+                  "name": "Larissa Nunes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3zVdzi7SvNJbYH3mfEjm9YxkqNN.jpg"
+                },
+                {
+                  "name": "Daniela Paschoal",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/kI4Ohlg5gMr5TE8oT1XKpHYzMiZ.jpg"
+                }
+              ],
+              "message_ids": [
+                6948,
+                6949
+              ],
+              "video_message_id": 6949
             }
           ]
         }

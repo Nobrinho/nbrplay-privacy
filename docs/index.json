@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:47:11+00:00",
+  "generated_at": "2026-09-27T05:48:12+00:00",
   "channel": "-1004483833987",
-  "count": 2676,
-  "movie_count": 2638,
+  "count": 2677,
+  "movie_count": 2639,
   "series_count": 9,
   "episode_count": 38,
   "movies": [
@@ -22138,6 +22138,22 @@
         3479
       ],
       "video_message_id": 3479
+    },
+    {
+      "tmdb_id": 236400,
+      "title": "Anderson Spider Silva — S01E01 — Episódio 1",
+      "original_title": null,
+      "year": "2023",
+      "poster_url": null,
+      "backdrop_url": null,
+      "overview": null,
+      "genres": [],
+      "cast": [],
+      "message_ids": [
+        6894,
+        6895
+      ],
+      "video_message_id": 6895
     },
     {
       "tmdb_id": 259316,

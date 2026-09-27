@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T03:43:00+00:00",
+  "generated_at": "2026-09-27T03:43:08+00:00",
   "channel": "-1004483833987",
-  "count": 2550,
-  "movie_count": 2550,
+  "count": 2551,
+  "movie_count": 2551,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -131841,6 +131841,72 @@
         5549
       ],
       "video_message_id": 5549
+    },
+    {
+      "tmdb_id": 566222,
+      "title": "Privacidade Hackeada",
+      "original_title": "The Great Hack",
+      "year": "2019",
+      "poster_url": "https://image.tmdb.org/t/p/w500/20KWEm4IJ6M6IoE77NFaqwkkJpk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zqQ9Cga8LdVz6Q2UlRT4sRIC0ap.jpg",
+      "overview": "Entenda como a empresa de análise de dados Cambridge Analytica se tornou o símbolo do lado sombrio das redes sociais após a eleição presidencial de 2016 nos EUA.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Brittany Kaiser",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dTT6N5edu82P7XMyRanK4rrWDlR.jpg"
+        },
+        {
+          "name": "David Carroll",
+          "photo_url": "https://image.tmdb.org/t/p/w185/MIaVNPK5UzQKSWAoqt7rZahiAm.jpg"
+        },
+        {
+          "name": "Paul-Olivier Dehaye",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bBMTFjfOShp3sRQ3ZUMCx8cbRLp.jpg"
+        },
+        {
+          "name": "Ravi Naik",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3ii3sWmA5UfT2FOmL1PsR7gwXqv.jpg"
+        },
+        {
+          "name": "Julian Wheatland",
+          "photo_url": null
+        },
+        {
+          "name": "Carole Cadwalladr",
+          "photo_url": null
+        },
+        {
+          "name": "Christopher Wiley",
+          "photo_url": null
+        },
+        {
+          "name": "Paul Hilder",
+          "photo_url": null
+        },
+        {
+          "name": "Emma Graham-Harrison",
+          "photo_url": null
+        },
+        {
+          "name": "Gill Phillips",
+          "photo_url": null
+        },
+        {
+          "name": "Sarah Donaldson",
+          "photo_url": null
+        },
+        {
+          "name": "Roger McNamee",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cYfxRezFb0JriVpoLwEfjg6BgJC.jpg"
+        }
+      ],
+      "message_ids": [
+        6766
+      ],
+      "video_message_id": 6766
     },
     {
       "tmdb_id": 114685,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:05:18+00:00",
+  "generated_at": "2026-09-27T07:05:39+00:00",
   "channel": "-1004483833987",
-  "count": 2779,
-  "movie_count": 2699,
+  "count": 2780,
+  "movie_count": 2700,
   "series_count": 19,
   "episode_count": 80,
   "movies": [
@@ -88683,6 +88683,54 @@
         4346
       ],
       "video_message_id": 4346
+    },
+    {
+      "tmdb_id": 639590,
+      "title": "Lumière! A Aventura Continua",
+      "original_title": "Lumière, l’aventure continue",
+      "year": "2024",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1vjvokcYqlEokuOnYcfxleVaFTz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ot5flQDp97Y8U5LDcOlZjRniCfk.jpg",
+      "overview": "O diretor do Festival de Cannes, Thierry Frémaux, revela e apresenta uma centena de filmes inéditos dos irmãos Lumière. O material, que foi impecavelmente restaurado, permite uma nova e profunda exploração da história da invenção do cinema, buscando trazer à luz novos detalhes sobre as origens da sétima arte.",
+      "genres": [
+        "Documentário",
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "Thierry Frémaux",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cpqwH40qwAw53U4qbxzL484kRlH.jpg"
+        },
+        {
+          "name": "Francis Ford Coppola",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3Pblihd6KjXliie9vj4iQJwbNPU.jpg"
+        },
+        {
+          "name": "Roman Coppola",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dq454EhrDVKBsiYzuLr0IkKa18v.jpg"
+        },
+        {
+          "name": "Bertrand Tavernier",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uTGywwLxJuriOEEsRPuCAMVbWqR.jpg"
+        },
+        {
+          "name": "Valerio Mastandrea",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tE7JkSuyv2N8vtEN0YypsCAxW9B.jpg"
+        },
+        {
+          "name": "Alain Chabat",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xRjymE6LIJd0useKWN2R1WgKDRy.jpg"
+        },
+        {
+          "name": "Laurent Gerra",
+          "photo_url": "https://image.tmdb.org/t/p/w185/v2Nv6rl9hnuEEAgS4Ba8P6Kd0OK.jpg"
+        }
+      ],
+      "message_ids": [
+        7054,
+        7055
+      ],
+      "video_message_id": 7055
     },
     {
       "tmdb_id": 398826,

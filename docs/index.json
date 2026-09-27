@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:44:02+00:00",
+  "generated_at": "2026-09-27T05:44:24+00:00",
   "channel": "-1004483833987",
-  "count": 2672,
-  "movie_count": 2634,
+  "count": 2673,
+  "movie_count": 2635,
   "series_count": 9,
   "episode_count": 38,
   "movies": [
@@ -133430,6 +133430,72 @@
         6874
       ],
       "video_message_id": 6874
+    },
+    {
+      "tmdb_id": 1056099,
+      "title": "Porta Amarela: O Cineclube dos Anos 90",
+      "original_title": "노란문: 세기말 시네필 다이어리",
+      "year": "2023",
+      "poster_url": "https://image.tmdb.org/t/p/w500/znlWjvwrcSOcP3P43zvZLkAusys.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6o0jamVMYvR0QXOmbPNfX118qb9.jpg",
+      "overview": "Este documentário intimista retrata uma antiga era da paixão pela sétima arte e o surgimento de jovens cinéfilos na Coreia do Sul, entre eles Bong Joon Ho.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Bong Joon-ho",
+          "photo_url": "https://image.tmdb.org/t/p/w185/stwnTvZAoD8gEJEDHpDQyLCyDy5.jpg"
+        },
+        {
+          "name": "Choi Jong-tae",
+          "photo_url": "https://image.tmdb.org/t/p/w185/LV5kfwmAeTOFczXTGzHaNtKdRy.jpg"
+        },
+        {
+          "name": "Lee Hyuk-rae",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kTCRpzns7RFF0SutBOXhhjYQHfj.jpg"
+        },
+        {
+          "name": "Kim Hyung-oak",
+          "photo_url": null
+        },
+        {
+          "name": "김혜자",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9zJFFVLug1DgpseefwRT34p8RZe.jpg"
+        },
+        {
+          "name": "안내상",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xV3sxmoeWodwOIC8EE6GlUvJQzQ.jpg"
+        },
+        {
+          "name": "우현",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aehiya292g9c9T9FmCJ6kz5smSU.jpg"
+        },
+        {
+          "name": "주성철",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uqPqKlZzQksnvTpuBfWjwUILAtG.jpg"
+        },
+        {
+          "name": "김홍준",
+          "photo_url": null
+        },
+        {
+          "name": "Kim Dae-yeob",
+          "photo_url": null
+        },
+        {
+          "name": "Kim Min-hyang",
+          "photo_url": null
+        },
+        {
+          "name": "Kim Seok-woo",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6911
+      ],
+      "video_message_id": 6911
     },
     {
       "tmdb_id": 232524,

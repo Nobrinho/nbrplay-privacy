@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:04:16+00:00",
+  "generated_at": "2026-09-27T04:04:49+00:00",
   "channel": "-1004483833987",
-  "count": 2571,
-  "movie_count": 2563,
+  "count": 2572,
+  "movie_count": 2564,
   "series_count": 2,
   "episode_count": 8,
   "movies": [
@@ -15084,6 +15084,36 @@
         6076
       ],
       "video_message_id": 6076
+    },
+    {
+      "tmdb_id": 543086,
+      "title": "A Verdade Sobre Robôs Assassinos",
+      "original_title": "The Truth About Killer Robots",
+      "year": "2018",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tr5F0vhWhPS8Utw9XfveScf44K5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tTmTr5AWY4mjFrK0ZrQlW4y5mvR.jpg",
+      "overview": "Documentário Original HBO que mostra como os humanos estão se tornando cada vez mais dependentes dos robôs. A partir do ponto de vista de engenheiros, jornalistas e filósofos que falam sobre diferentes situações onde os robôs causaram mortes de humanos, e de como estes representam uma ameaça para a sociedade.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Leon Gonzalez",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5ImhKhLULNFPrvlLs2rQiDJM1r9.jpg"
+        },
+        {
+          "name": "Hiroshi Ishiguro",
+          "photo_url": null
+        },
+        {
+          "name": "Zheng JiaJia",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6789
+      ],
+      "video_message_id": 6789
     },
     {
       "tmdb_id": 1019404,

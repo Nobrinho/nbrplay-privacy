@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:09:00+00:00",
+  "generated_at": "2026-09-27T06:10:05+00:00",
   "channel": "-1004483833987",
-  "count": 2711,
-  "movie_count": 2661,
+  "count": 2712,
+  "movie_count": 2662,
   "series_count": 11,
   "episode_count": 50,
   "movies": [
@@ -119374,6 +119374,22 @@
         5120
       ],
       "video_message_id": 5120
+    },
+    {
+      "tmdb_id": 124714,
+      "title": "O Rei da TV — S02E01 — O Poder dos Palcos",
+      "original_title": null,
+      "year": "2023",
+      "poster_url": null,
+      "backdrop_url": null,
+      "overview": null,
+      "genres": [],
+      "cast": [],
+      "message_ids": [
+        6946,
+        6947
+      ],
+      "video_message_id": 6947
     },
     {
       "tmdb_id": 316029,

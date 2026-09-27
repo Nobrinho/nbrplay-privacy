@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:10:55+00:00",
+  "generated_at": "2026-09-27T06:11:03+00:00",
   "channel": "-1004483833987",
-  "count": 2715,
+  "count": 2716,
   "movie_count": 2663,
   "series_count": 12,
-  "episode_count": 52,
+  "episode_count": 53,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -178489,6 +178489,69 @@
                 6966
               ],
               "video_message_id": 6966
+            },
+            {
+              "number": 3,
+              "tmdb_id": 5484480,
+              "title": "Ambição",
+              "air_date": "2024-11-29",
+              "overview": "Galvão analisa o dever de Senna com o Brasil. Uma noite de karaokê abre portas. A rivalidade entre Ayrton e Prost se intensifica antes do Campeonato Mundial de 1988.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/n8ntLGwDGEHjeq7hVA6kiiX2FjF.jpg",
+              "cast": [
+                {
+                  "name": "Gabriel Leone",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/wvinAoGZiOGczIEtXWFmXGMl0QC.jpg"
+                },
+                {
+                  "name": "Kaya Scodelario",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qmtXUabwXw0RvyK6R0la6CmvGxr.jpg"
+                },
+                {
+                  "name": "Matt Mella",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/mCw3fhNwi0JxqDZqK6VyXCdXnGw.jpg"
+                },
+                {
+                  "name": "Patrick Kennedy",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/Aj7lwhi4rYfzP5OZJiem5w72re8.jpg"
+                },
+                {
+                  "name": "Arnaud Viard",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/m3ntMtW8mNdGjCgV4qsVs6WMJMK.jpg"
+                },
+                {
+                  "name": "Steven Mackintosh",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/vDA4mmVe0XMnqd6qMyGWI8bUEeC.jpg"
+                },
+                {
+                  "name": "Camila Márdila",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7VAteV7SQqiAaHcMb9ElikCiIZS.jpg"
+                },
+                {
+                  "name": "Marco Ricca",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/glz42hZJFDNvHPQ3TJCMuN2QccP.jpg"
+                },
+                {
+                  "name": "Susana Ribeiro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/d4cONoqbaEW3Hp6cO5hdBYGjmQ.jpg"
+                },
+                {
+                  "name": "Gabriel Louchard",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7V9kRQCjVHb5OzqSsg5edMO42r0.jpg"
+                },
+                {
+                  "name": "Pâmela Tomé",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/4aEilsP5OZe4o3Amj3qAFVTAWg.jpg"
+                },
+                {
+                  "name": "Alice Wegmann",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/4P6lSdh3r7hVcV6OGL95pETmZAI.jpg"
+                }
+              ],
+              "message_ids": [
+                6967,
+                6968
+              ],
+              "video_message_id": 6968
             }
           ]
         }

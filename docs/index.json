@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T16:43:25+00:00",
+  "generated_at": "2026-09-27T16:45:14+00:00",
   "channel": "-1004483833987",
-  "count": 2940,
-  "movie_count": 2783,
+  "count": 2941,
+  "movie_count": 2784,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -139089,6 +139089,74 @@
         6876
       ],
       "video_message_id": 6876
+    },
+    {
+      "tmdb_id": 1817,
+      "title": "Por um Fio",
+      "original_title": "Phone Booth",
+      "year": "2003",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fxP5upLdioZUCMrSDXl0QjalVMx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iYOEONglnxIsykyOGfzyc01fyg4.jpg",
+      "overview": "Um consultor de mídia tranquilo se vê preso em uma cilada depois de atender a uma ligação telefônica. O homem deve tentar encontrar uma saída, depois de ser informado de que será morto por um atirador de elite se desligar o telefone.",
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "cast": [
+        {
+          "name": "Colin Farrell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5FdalJbrbZ5UCsED5rFrXpvbqJa.jpg"
+        },
+        {
+          "name": "Kiefer Sutherland",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tK5zjdvao2NELns3bqT7PPqPeJI.jpg"
+        },
+        {
+          "name": "Forest Whitaker",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4w7l5JUwnwFNBy7J93ZwYN1nihm.jpg"
+        },
+        {
+          "name": "Radha Mitchell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8EVKyEkwPfIA6GxlIo0PJv0A5mm.jpg"
+        },
+        {
+          "name": "Katie Holmes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gDhc9rLbhpXdY8lISD7yPiIhvp4.jpg"
+        },
+        {
+          "name": "Paula Jai Parker",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rhVirscmHtZvI3v7ZMD1TdJfDcE.jpg"
+        },
+        {
+          "name": "Arian Ash",
+          "photo_url": "https://image.tmdb.org/t/p/w185/azoTTplaZjaj2uIfBNKmCI6YmGe.jpg"
+        },
+        {
+          "name": "Tia Texada",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jmGqtKYkYnZCOHIW6lgrIwWy4lp.jpg"
+        },
+        {
+          "name": "John Enos III",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4OtSbi1QxeuOgOVskiduUycj88V.jpg"
+        },
+        {
+          "name": "Richard T. Jones",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hdko2C45Wr5G03Z8JwGjWMynP84.jpg"
+        },
+        {
+          "name": "Keith Nobbs",
+          "photo_url": "https://image.tmdb.org/t/p/w185/448QNPypB6j9XmZ5jBX82YURQHi.jpg"
+        },
+        {
+          "name": "Dell Yount",
+          "photo_url": "https://image.tmdb.org/t/p/w185/b8IYFkj3dTA8md9WfcEpOYhJcgK.jpg"
+        }
+      ],
+      "message_ids": [
+        7297,
+        7298
+      ],
+      "video_message_id": 7298
     },
     {
       "tmdb_id": 1087040,

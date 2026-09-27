@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:38:39+00:00",
+  "generated_at": "2026-09-27T19:38:49+00:00",
   "channel": "-1004483833987",
-  "count": 3028,
+  "count": 3030,
   "movie_count": 2802,
   "series_count": 34,
-  "episode_count": 226,
+  "episode_count": 228,
   "custom_count": 0,
   "movies": [
     {
@@ -184069,7 +184069,7 @@
       "title": "Andar na Pedra: A História do Raimundos",
       "original_title": "Andar na Pedra: A História do Raimundos",
       "poster_url": "https://image.tmdb.org/t/p/w500/ds68uuj5GQZaL2fkBzMAQrz9vRZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jbaIXvDY3dhrYOnh7SExO6vr1bp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jpqehwGtr0UDR46dPsGBYbWtrJ3.jpg",
       "genres": [
         "Documentário"
       ],
@@ -184077,6 +184077,68 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 2,
+              "tmdb_id": 7063412,
+              "title": "Eu Quero Ver o Oco",
+              "air_date": "2026-03-19",
+              "overview": "Com o auge do sucesso e uma rotina de excessos, os Raimundos enfrentam tensões internas e uma tragédia devastadora que marca para sempre os integrantes.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/jpqehwGtr0UDR46dPsGBYbWtrJ3.jpg",
+              "cast": [
+                {
+                  "name": "Rodolfo Abrantes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/5ZfH8zXKW5sTEsnoahkaACDTtnR.jpg"
+                },
+                {
+                  "name": "Digão",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ldxq0RKXq6JlMRM3TJ88zZnjULS.jpg"
+                },
+                {
+                  "name": "Fred Castro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/isE7d8RNUKAw6b9nF3ifb07Tc6n.jpg"
+                },
+                {
+                  "name": "Canisso",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dJcWD7x0objBoKAMhoKxkmUKrZu.jpg"
+                }
+              ],
+              "message_ids": [
+                7417,
+                7418
+              ],
+              "video_message_id": 7418
+            },
+            {
+              "number": 3,
+              "tmdb_id": 7063413,
+              "title": "A Mais Pedida",
+              "air_date": "2026-03-19",
+              "overview": "Após a tragédia, a banda tenta renascer com “Só no Forevis”, mas a pressão da fama, conflitos internos e uma doença silenciosa revelam novas fragilidades.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/pAJKgQ3vKzwv7Fb4UJFJxBGVIz8.jpg",
+              "cast": [
+                {
+                  "name": "Rodolfo Abrantes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/5ZfH8zXKW5sTEsnoahkaACDTtnR.jpg"
+                },
+                {
+                  "name": "Digão",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ldxq0RKXq6JlMRM3TJ88zZnjULS.jpg"
+                },
+                {
+                  "name": "Fred Castro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/isE7d8RNUKAw6b9nF3ifb07Tc6n.jpg"
+                },
+                {
+                  "name": "Canisso",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dJcWD7x0objBoKAMhoKxkmUKrZu.jpg"
+                }
+              ],
+              "message_ids": [
+                7415,
+                7416
+              ],
+              "video_message_id": 7416
+            },
             {
               "number": 4,
               "tmdb_id": 7063414,

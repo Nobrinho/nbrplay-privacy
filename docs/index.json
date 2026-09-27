@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:38:44+00:00",
+  "generated_at": "2026-09-27T07:39:01+00:00",
   "channel": "-1004483833987",
-  "count": 2866,
-  "movie_count": 2720,
+  "count": 2867,
+  "movie_count": 2721,
   "series_count": 23,
   "episode_count": 146,
   "movies": [
@@ -87248,6 +87248,76 @@
         7172
       ],
       "video_message_id": 7172
+    },
+    {
+      "tmdb_id": 297556,
+      "title": "Liga da Justiça: Trono de Atlantis",
+      "original_title": "Justice League: Throne of Atlantis",
+      "year": "2015",
+      "poster_url": "https://image.tmdb.org/t/p/w500/t6hcyzdgpGBVlEzizCmg5CWY8Fv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ltlPFTMRsohmi2QbbSZUkAVg7Nc.jpg",
+      "overview": "Após os eventos de \"Liga da Justiça: Guerra”, o Mestre do Oceano e o Arraia Negra declararam guerra contra a superfície em retaliação aos testes com armas realizados pela marinha após a invasão planetária do Senhor de Apokolips, Darkseid. Enquanto isso, a Rainha Atlanna busca pelo seu outro filho, meio-irmão do Mestre do oceano, Arthur Curry, um meio-humano com poderes aquáticos, mas sem o conhecimento de sua linhagem. Mesmo que ele viva com poderes além de sua compreensão, ele percebe os perigos que o cercam e se junta à Liga da Justiça, e junto aos seus novos companheiros ele deve abraçar o seu destino e lutar contra a destruição da Terra.",
+      "genres": [
+        "Ficção científica",
+        "Ação",
+        "Animação",
+        "Aventura"
+      ],
+      "cast": [
+        {
+          "name": "Sean Astin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg"
+        },
+        {
+          "name": "Rosario Dawson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/siTzOI810a0K46wv1TORXMw5N7J.jpg"
+        },
+        {
+          "name": "Nathan Fillion",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aW6vCxkUZtwb6iH2Wf88Uq0XNVv.jpg"
+        },
+        {
+          "name": "Christopher Gorham",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dKFXHJ3KBJaeQ50udMdBEC0VFvI.jpg"
+        },
+        {
+          "name": "Matt Lanter",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2ms8DR9n4wh9ZU6lIuqsE58LPT9.jpg"
+        },
+        {
+          "name": "Sumalee Montano",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cqkKL8hTGglY1n0DRrDmsfvwpDx.jpg"
+        },
+        {
+          "name": "Jerry O'Connell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/siMZhO5SIUc6K5sTKyVJRXmkoiG.jpg"
+        },
+        {
+          "name": "Jason O'Mara",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9Cs9PD5pwUkFQPLmpp5e6wkFQoY.jpg"
+        },
+        {
+          "name": "Shemar Moore",
+          "photo_url": "https://image.tmdb.org/t/p/w185/epkv0UiwrPfCK3c0sHemSMi2jeh.jpg"
+        },
+        {
+          "name": "Sam Witwer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8flOyMoh9hBQPqi6ISD7W1mDjnY.jpg"
+        },
+        {
+          "name": "Juliet Landau",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fxLW9OteJEO2MGVaNc3oDL0EjR0.jpg"
+        },
+        {
+          "name": "Harry Lennix",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kNGiizWpetf4pyAkINkjkWacmCL.jpg"
+        }
+      ],
+      "message_ids": [
+        7173,
+        7174
+      ],
+      "video_message_id": 7174
     },
     {
       "tmdb_id": 9303,

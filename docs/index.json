@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:53:16+00:00",
+  "generated_at": "2026-09-27T07:53:23+00:00",
   "channel": "-1004483833987",
-  "count": 2908,
-  "movie_count": 2751,
+  "count": 2909,
+  "movie_count": 2752,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -100750,6 +100750,75 @@
         4429
       ],
       "video_message_id": 4429
+    },
+    {
+      "tmdb_id": 9644,
+      "title": "Máquina Quase Mortífera",
+      "original_title": "National Lampoon's Loaded Weapon 1",
+      "year": "1993",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sagFSgq5RPU9glBgOEN42AyFnIC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vYq0sXktMc9zwSiAsRCYwRlayk3.jpg",
+      "overview": "Eles são uma dupla de políciais que não combina em nada, mas vão ter que se unir de um jeito ou de outro para resolver um caso muito arriscado e tirar uma gangue de criminosos das ruas da cidade. Parece \" Máquina Mortífera\"? Na verdade, é \"Máquina Mortífera\"! Depois do assassinato de sua parceira, o sargento Wes Luger (Samuel L. Jackson) acaba fazendo uma explosiva parceria com o policial esquentadinho Jack Colt (Emilio Estevez) para impedir que um grupo de bandidos liderado pelo General Curtis Mortars (William Shatner) consiga a tão sonhada fórmula que transforma cocaína em... Biscoitos!",
+      "genres": [
+        "Comédia",
+        "Crime",
+        "Ação"
+      ],
+      "cast": [
+        {
+          "name": "Emilio Estevez",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6TNIik0wBLo8DTvmJNDkKDqKWme.jpg"
+        },
+        {
+          "name": "Samuel L. Jackson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+        },
+        {
+          "name": "Jon Lovitz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jBXSLoDEVwYkNqSVWHV9yDo8whA.jpg"
+        },
+        {
+          "name": "Tim Curry",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg"
+        },
+        {
+          "name": "Kathy Ireland",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iuqJwQMDWGqRF5ZloPwwi3ZcrjW.jpg"
+        },
+        {
+          "name": "Frank McRae",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5aGo82fuwSs1k9ZQckvdFGLjqPE.jpg"
+        },
+        {
+          "name": "William Shatner",
+          "photo_url": "https://image.tmdb.org/t/p/w185/puzpe91Lh0CzdRKg9iYilQsjoYk.jpg"
+        },
+        {
+          "name": "Dhiru Shah",
+          "photo_url": null
+        },
+        {
+          "name": "Gokul",
+          "photo_url": null
+        },
+        {
+          "name": "Tom Bruggemann",
+          "photo_url": null
+        },
+        {
+          "name": "Danny Castle",
+          "photo_url": null
+        },
+        {
+          "name": "Lance Kinsey",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ilFV8TFr6ckK5OAjjsAneDAMRcp.jpg"
+        }
+      ],
+      "message_ids": [
+        7248,
+        7249
+      ],
+      "video_message_id": 7249
     },
     {
       "tmdb_id": 9539,

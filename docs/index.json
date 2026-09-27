@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:45:11+00:00",
+  "generated_at": "2026-09-27T07:45:15+00:00",
   "channel": "-1004483833987",
-  "count": 2884,
+  "count": 2885,
   "movie_count": 2736,
   "series_count": 24,
-  "episode_count": 148,
+  "episode_count": 149,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -183631,6 +183631,69 @@
                 7207
               ],
               "video_message_id": 7207
+            },
+            {
+              "number": 5,
+              "tmdb_id": 1439624,
+              "title": "Final",
+              "air_date": "2018-03-24",
+              "overview": "A tragédia no Rio Heroes deixa todos perplexos e aflitos. Acusado pelo acidente, Jorge descobre uma armação e decide enfrentar quem está por trás de tudo, mas é interrompido pelo seu mestre Galdino. Chega a tão esperada última noite do campeonato.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/hzlephQqTqect43KuXkRd8MrGre.jpg",
+              "cast": [
+                {
+                  "name": "Murilo Rosa",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7151dJTIoayM6qJfxjYaD9jLJw2.jpg"
+                },
+                {
+                  "name": "Duda Nagle",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/46UzIu4pzIbnD47q60ndfC2Nocz.jpg"
+                },
+                {
+                  "name": "Ingrid Gaigher",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/kFo5faGaMtF5Gh76kfhVkZiJMFH.jpg"
+                },
+                {
+                  "name": "Juliana Araripe",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/fYng0fAq9qNboJeD2sO47lWbz2a.jpg"
+                },
+                {
+                  "name": "Luiz Guilherme",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/89CTjwCN2Xzt2HJ08RQjTaOXJlv.jpg"
+                },
+                {
+                  "name": "André Ramiro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/t0UlmNhX0eqj0KMLaOijvHQ9qLa.jpg"
+                },
+                {
+                  "name": "Charles Paraventi",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3vo65ipC5cSmctFdZoEbLSh03pH.jpg"
+                },
+                {
+                  "name": "Bruno Bellarmino",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zRJZAtvamzkrmIVUjutCdOsrX2R.jpg"
+                },
+                {
+                  "name": "Giovanni Gallo",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/A45YkzBZiFJVm8ZWkLYFRZWNJbb.jpg"
+                },
+                {
+                  "name": "Rafael Losso",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/mSo5wmZPWczy6msoVgCCl5bHHwf.jpg"
+                },
+                {
+                  "name": "Vinicius Teixeira",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/nQKbMWhHvhovLohPoSPkxEeUEht.jpg"
+                },
+                {
+                  "name": "Miguel Nader",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qWWhXRdCeJwku41L9skdzWmMZjY.jpg"
+                }
+              ],
+              "message_ids": [
+                7208,
+                7209
+              ],
+              "video_message_id": 7209
             }
           ]
         }

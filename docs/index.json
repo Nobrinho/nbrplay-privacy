@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:40:15+00:00",
+  "generated_at": "2026-09-27T07:40:25+00:00",
   "channel": "-1004483833987",
-  "count": 2872,
-  "movie_count": 2726,
+  "count": 2873,
+  "movie_count": 2727,
   "series_count": 23,
   "episode_count": 146,
   "movies": [
@@ -158304,6 +158304,73 @@
         3442
       ],
       "video_message_id": 3442
+    },
+    {
+      "tmdb_id": 13339,
+      "title": "Te Pego Lá Fora",
+      "original_title": "Three O'Clock High",
+      "year": "1987",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vMCyrV3jMHAxcuHTTeXPM1Rw64j.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hrD8UN3J7XMC2b9ponFzGDk0kYG.jpg",
+      "overview": "Jerry Mitchell está tendo um dia daqueles: Se atrasou para a aula, seu carro estava com o pneu furado e o professor o mandou para a sala do diretor da escola. Só que o pior ainda estava por vir. Quando ele precisa dar uma passada urgente no banheiro, tem o azar de trombar com Buddy Revell, o valentão recém-chegado à escola. Ao se desculpar, Jerry dá um tapinha de leve nas costas do rapaz. Terrível erro! Buddy não suporta ser tocado e desafia o pobre coitado para uma briga às três da tarde, no estacionamento da escola. Em pânico, Jerry pede ajuda a sua irmã mais nova e, juntos, eles precisam pensar em uma maneira de evitar o confronto, já que ele é um covarde de primeira. O tempo passa e as opções de Jerry vão ficando cada vez menores.",
+      "genres": [
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Casey Siemaszko",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7Ba8fFtFsh1SX01UxfIADtTTVl9.jpg"
+        },
+        {
+          "name": "Annie Ryan",
+          "photo_url": null
+        },
+        {
+          "name": "Richard Tyson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2VqDaBqbCTnz0qZKXLtuUa9MO7R.jpg"
+        },
+        {
+          "name": "Stacey Glick",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tMVGcY8nr1d09uQ5D4EWiig6Xus.jpg"
+        },
+        {
+          "name": "Jonathan Wise",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gVDKn3VlaTGEQXfUZjrBJcLMDef.jpg"
+        },
+        {
+          "name": "Jeffrey Tambor",
+          "photo_url": "https://image.tmdb.org/t/p/w185/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg"
+        },
+        {
+          "name": "Philip Baker Hall",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mC1wmuGSCyIQ7ABkfRe1jJV1FGV.jpg"
+        },
+        {
+          "name": "John P. Ryan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6WV5Sv2YnFG0W1rVnxOxpLyIFUM.jpg"
+        },
+        {
+          "name": "Mitch Pileggi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ufAWo3HkALg96aEPPoY8C1YB5K7.jpg"
+        },
+        {
+          "name": "Paul Feig",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mE3eFY3gq1UQ7Rj2He2YbZ7PFya.jpg"
+        },
+        {
+          "name": "Yeardley Smith",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg"
+        },
+        {
+          "name": "Liza Morrow",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7185,
+        7186
+      ],
+      "video_message_id": 7186
     },
     {
       "tmdb_id": 455980,

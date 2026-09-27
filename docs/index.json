@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T03:47:18+00:00",
+  "generated_at": "2026-09-27T03:47:23+00:00",
   "channel": "-1004483833987",
-  "count": 2556,
+  "count": 2557,
   "movie_count": 2555,
   "series_count": 1,
-  "episode_count": 1,
+  "episode_count": 2,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -171624,6 +171624,28 @@
                 6773
               ],
               "video_message_id": 6773
+            },
+            {
+              "number": 2,
+              "tmdb_id": 2724278,
+              "title": "Sonhar com rei dá leão",
+              "air_date": "2021-02-11",
+              "overview": "Após uma série de assassinatos, emerge a Cúpula do Jogo do Bicho. Em 1985, Castor sonha com um ano de glórias no samba e no futebol.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/8keMBPzju9iSHSQrSUrdxltVDGX.jpg",
+              "cast": [
+                {
+                  "name": "Castor de Andrade",
+                  "photo_url": null
+                },
+                {
+                  "name": "Dé Aranha",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                6774
+              ],
+              "video_message_id": 6774
             }
           ]
         }

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:24:08+00:00",
+  "generated_at": "2026-09-27T04:24:12+00:00",
   "channel": "-1004483833987",
-  "count": 2597,
+  "count": 2598,
   "movie_count": 2580,
   "series_count": 5,
-  "episode_count": 17,
+  "episode_count": 18,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -173153,6 +173153,69 @@
                 6815
               ],
               "video_message_id": 6815
+            },
+            {
+              "number": 6,
+              "tmdb_id": 2069047,
+              "title": "Episódio 6",
+              "air_date": "2020-03-09",
+              "overview": "Quando o julgamento se aproxima, muitos dos réus aceitam acordos e cooperam com o governo, mas George Chandler e alguns outros decidem lutar para provar sua inocência. Quando Jerome \"Jerry\" Jacobson, anteriormente não cooperativo, assume a posição, os detalhes restantes de como ele iniciou seu plano são divulgados. Quase vinte anos depois, novas informações são reveladas e os envolvidos - de \"vencedores\" a co-conspiradores, familiares e funcionários do governo - refletem sobre o que aprenderam, seus arrependimentos e os efeitos que a ganância de um homem causou em tantas pessoas em todo o país.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/cSQs2PYdHf9zc6TKGqmIWmjUgL6.jpg",
+              "cast": [
+                {
+                  "name": "Michael C. Pizzuto",
+                  "photo_url": null
+                },
+                {
+                  "name": "Pelé Kizy",
+                  "photo_url": null
+                },
+                {
+                  "name": "Cristal Bubblin",
+                  "photo_url": null
+                },
+                {
+                  "name": "Doug Mathews",
+                  "photo_url": null
+                },
+                {
+                  "name": "Mark Devereux",
+                  "photo_url": null
+                },
+                {
+                  "name": "Rob Holm",
+                  "photo_url": null
+                },
+                {
+                  "name": "Tom Kneir",
+                  "photo_url": null
+                },
+                {
+                  "name": "Robin Colombo",
+                  "photo_url": null
+                },
+                {
+                  "name": "AJ Glomb",
+                  "photo_url": null
+                },
+                {
+                  "name": "Marsha Derbyshire",
+                  "photo_url": null
+                },
+                {
+                  "name": "Alistair David Herz",
+                  "photo_url": null
+                },
+                {
+                  "name": "Nelson Hayne",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                6816,
+                6817
+              ],
+              "video_message_id": 6817
             }
           ]
         }

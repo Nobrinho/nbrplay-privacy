@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:25:48+00:00",
+  "generated_at": "2026-09-27T06:26:40+00:00",
   "channel": "-1004483833987",
-  "count": 2733,
-  "movie_count": 2670,
+  "count": 2734,
+  "movie_count": 2671,
   "series_count": 14,
   "episode_count": 63,
   "movies": [
@@ -2908,6 +2908,57 @@
         388
       ],
       "video_message_id": 388
+    },
+    {
+      "tmdb_id": 1058616,
+      "title": "20 Dias em Mariupol",
+      "original_title": "20 Days in Mariupol",
+      "year": "2023",
+      "poster_url": "https://image.tmdb.org/t/p/w500/21rFQUyP8SDJhWm6cpAbHdOL5f0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/986n9SAXsuxpPJzFAWK3azPknX0.jpg",
+      "overview": "Quando a invasão russa começa, jornalistas ucranianos presos na cidade de Mariupol lutam para continuar documentando as atrocidades da guerra.",
+      "genres": [
+        "Documentário",
+        "Guerra"
+      ],
+      "cast": [
+        {
+          "name": "Мстислав Чернов",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nIN9Q0DykLKbhM6Imnbh2IHj9Bk.jpg"
+        },
+        {
+          "name": "Evgeniy Maloletka",
+          "photo_url": "https://image.tmdb.org/t/p/w185/z4QSMYhT1geafn6fo7PXrJ7g3H.jpg"
+        },
+        {
+          "name": "Liudmyla Amelkina",
+          "photo_url": null
+        },
+        {
+          "name": "Zhanna Homa",
+          "photo_url": null
+        },
+        {
+          "name": "Oleksandr Ivanov",
+          "photo_url": null
+        },
+        {
+          "name": "Irina Kalinina",
+          "photo_url": null
+        },
+        {
+          "name": "Volodymyr Nikulin",
+          "photo_url": null
+        },
+        {
+          "name": "Anastasiya Yerashova",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6991
+      ],
+      "video_message_id": 6991
     },
     {
       "tmdb_id": 173,

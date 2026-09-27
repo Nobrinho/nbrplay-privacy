@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T18:53:19+00:00",
+  "generated_at": "2026-09-27T18:53:24+00:00",
   "channel": "-1004483833987",
-  "count": 2961,
+  "count": 2962,
   "movie_count": 2786,
   "series_count": 26,
-  "episode_count": 175,
+  "episode_count": 176,
   "custom_count": 0,
   "movies": [
     {
@@ -183725,6 +183725,60 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 747956,
+              "title": "Zeus",
+              "air_date": "2009-09-28",
+              "overview": "O deus mais poderoso da mitologia grega enfrenta seu pai em uma luta pelo controle do Universo.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/j0A36vVNM3JXQuZBoNOhZ5Dr8bP.jpg",
+              "cast": [
+                {
+                  "name": "Tracey-Anne Cooper",
+                  "photo_url": null
+                },
+                {
+                  "name": "Michael Drout",
+                  "photo_url": null
+                },
+                {
+                  "name": "Dimitra Fimi",
+                  "photo_url": null
+                },
+                {
+                  "name": "David George",
+                  "photo_url": null
+                },
+                {
+                  "name": "Blair Jones",
+                  "photo_url": null
+                },
+                {
+                  "name": "Scott A. Mellor",
+                  "photo_url": null
+                },
+                {
+                  "name": "John Rennie",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/yjMHU83zGqDQWaoKRBkbRz4Fxke.jpg"
+                },
+                {
+                  "name": "Stan Bernard",
+                  "photo_url": null
+                },
+                {
+                  "name": "Tate Steinsiek",
+                  "photo_url": null
+                },
+                {
+                  "name": "Greg Ford",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/sGIh8QXF5pYR7sozSQtCo1GTymR.jpg"
+                }
+              ],
+              "message_ids": [
+                7324
+              ],
+              "video_message_id": 7324
+            },
             {
               "number": 2,
               "tmdb_id": 747957,

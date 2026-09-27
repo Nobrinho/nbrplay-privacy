@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:22:35+00:00",
+  "generated_at": "2026-09-27T05:22:56+00:00",
   "channel": "-1004483833987",
-  "count": 2649,
-  "movie_count": 2616,
+  "count": 2650,
+  "movie_count": 2617,
   "series_count": 8,
   "episode_count": 33,
   "movies": [
@@ -132664,6 +132664,28 @@
         5639
       ],
       "video_message_id": 5639
+    },
+    {
+      "tmdb_id": 220290,
+      "title": "Por que a Beleza Importa",
+      "original_title": "Why Beauty Matters",
+      "year": "2009",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sapp7XWYqPyKnGAEmYvNTOeWGVr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5UYzNGzmJunOdxuXvgVw88PbtW9.jpg",
+      "overview": "O filósofo Roger Scruton apresenta um argumento fascinante para a importância da beleza na nossa arte e nas nossas vidas, e explora o que é e não é verdadeiramente belo, independentemente do seu observador.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Roger Scruton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/k2MfeIeHiO18OSMBMcwGqJgiEt2.jpg"
+        }
+      ],
+      "message_ids": [
+        6876
+      ],
+      "video_message_id": 6876
     },
     {
       "tmdb_id": 1087040,

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T18:45:56+00:00",
+  "generated_at": "2026-09-27T18:52:52+00:00",
   "channel": "-1004483833987",
-  "count": 2954,
+  "count": 2955,
   "movie_count": 2786,
   "series_count": 26,
-  "episode_count": 168,
+  "episode_count": 169,
   "custom_count": 0,
   "movies": [
     {
@@ -183725,6 +183725,60 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 8,
+              "tmdb_id": 747961,
+              "title": "Beowulf a Lenda do Guerreiro",
+              "air_date": "2009-09-28",
+              "overview": "A lenda de Beowulf, a história do guerreiro mais famoso do mundo Viking, é definitivamente uma história sobre a coragem.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/j0A36vVNM3JXQuZBoNOhZ5Dr8bP.jpg",
+              "cast": [
+                {
+                  "name": "Tracey-Anne Cooper",
+                  "photo_url": null
+                },
+                {
+                  "name": "Michael Drout",
+                  "photo_url": null
+                },
+                {
+                  "name": "Dimitra Fimi",
+                  "photo_url": null
+                },
+                {
+                  "name": "David George",
+                  "photo_url": null
+                },
+                {
+                  "name": "Blair Jones",
+                  "photo_url": null
+                },
+                {
+                  "name": "Scott A. Mellor",
+                  "photo_url": null
+                },
+                {
+                  "name": "John Rennie",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/yjMHU83zGqDQWaoKRBkbRz4Fxke.jpg"
+                },
+                {
+                  "name": "Stan Bernard",
+                  "photo_url": null
+                },
+                {
+                  "name": "Tate Steinsiek",
+                  "photo_url": null
+                },
+                {
+                  "name": "Greg Ford",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/sGIh8QXF5pYR7sozSQtCo1GTymR.jpg"
+                }
+              ],
+              "message_ids": [
+                7317
+              ],
+              "video_message_id": 7317
+            },
             {
               "number": 9,
               "tmdb_id": 747962,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:25:08+00:00",
+  "generated_at": "2026-09-27T04:30:20+00:00",
   "channel": "-1004483833987",
-  "count": 2608,
-  "movie_count": 2582,
+  "count": 2609,
+  "movie_count": 2583,
   "series_count": 6,
   "episode_count": 26,
   "movies": [
@@ -45136,6 +45136,48 @@
         6183
       ],
       "video_message_id": 6183
+    },
+    {
+      "tmdb_id": 702738,
+      "title": "Cryptopia: Bitcoin, Blockchains e o Futuro da Internet",
+      "original_title": "Cryptopia: Bitcoin, Blockchains & the Future of the Internet",
+      "year": "2020",
+      "poster_url": "https://image.tmdb.org/t/p/w500/o3dGOQ5PsfKvtv9ew8Ee3S6A5JR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cBFkBnfnVed0ufGgPzdtd9QcJSo.jpg",
+      "overview": "Uma análise aprofundada à tecnologia blockchain (também conhecida como “o protocolo da confiança”) e aos sistemas de criptografia da Internet para revelar o bom e o mau desta indústria controversa. Um filme de Torsten Hoffman que dirigiu o documentário galardoado, Bitcoin: The End of Money as We Know It.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Torsten Hoffmann",
+          "photo_url": null
+        },
+        {
+          "name": "Roger Ver",
+          "photo_url": null
+        },
+        {
+          "name": "Charlie Lee",
+          "photo_url": null
+        },
+        {
+          "name": "Wences Casares",
+          "photo_url": null
+        },
+        {
+          "name": "Andreas M. Antonopoulos",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9YUjGsFPUAr8uw5PKRrjDvAwL40.jpg"
+        },
+        {
+          "name": "Craig Wright",
+          "photo_url": "https://image.tmdb.org/t/p/w185/b5vO7Hm7hL67ZGDtyfyTe1aTEWo.jpg"
+        }
+      ],
+      "message_ids": [
+        6829
+      ],
+      "video_message_id": 6829
     },
     {
       "tmdb_id": 1233199,

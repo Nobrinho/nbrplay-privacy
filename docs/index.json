@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:29:43+00:00",
+  "generated_at": "2026-09-27T19:30:29+00:00",
   "channel": "-1004483833987",
-  "count": 3014,
+  "count": 3015,
   "movie_count": 2797,
   "series_count": 32,
-  "episode_count": 217,
+  "episode_count": 218,
   "custom_count": 0,
   "movies": [
     {
@@ -184316,7 +184316,7 @@
       "title": "Blade Runner: Black Lotus",
       "original_title": "Blade Runner: Black Lotus",
       "poster_url": "https://image.tmdb.org/t/p/w500/4e0bY3weyKiVe58kMS34ddOdc4Q.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/7eUIdzt3VsHATllcsRlAD4POIaB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/apaSRYNHikclwP8CNTYesf1KAGf.jpg",
       "genres": [
         "Animação",
         "Sci-Fi & Fantasy",
@@ -184326,6 +184326,37 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 3,
+              "tmdb_id": 3318070,
+              "title": "Requisitos Necessários para se Ser Humano",
+              "air_date": "2021-11-21",
+              "overview": "Atordoada por um taser, Elle acorda na casa de J (Joseph). Depois de ser chamada por Bannister de \"replicante\", Elle procura entender melhor quem eles são. J aplica nela o teste Voight-Kampff, que retorna negativo. Enquanto isso, a policial Davis investiga o caso, interrogando moradores do submundo de Los Angeles.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/apaSRYNHikclwP8CNTYesf1KAGf.jpg",
+              "cast": [
+                {
+                  "name": "Jessica Henwick",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hRrEqDIWlov1FvYRmBN2vLaAxyl.jpg"
+                },
+                {
+                  "name": "Will Yun Lee",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg"
+                },
+                {
+                  "name": "Wes Bentley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+                },
+                {
+                  "name": "Samira Wiley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/m45A0hYcpnGckwxqs7j0I6Sp2Dj.jpg"
+                }
+              ],
+              "message_ids": [
+                7394,
+                7395
+              ],
+              "video_message_id": 7395
+            },
             {
               "number": 4,
               "tmdb_id": 3337284,

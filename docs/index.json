@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T03:45:16+00:00",
+  "generated_at": "2026-09-27T03:47:18+00:00",
   "channel": "-1004483833987",
-  "count": 2555,
+  "count": 2556,
   "movie_count": 2555,
-  "series_count": 0,
-  "episode_count": 0,
+  "series_count": 1,
+  "episode_count": 1,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -171589,5 +171589,45 @@
       "video_message_id": 5318
     }
   ],
-  "series": []
+  "series": [
+    {
+      "tmdb_id": 118585,
+      "title": "Doutor Castor",
+      "original_title": "Doutor Castor",
+      "poster_url": "https://image.tmdb.org/t/p/w500/j11ZZgDJtr2TdAB0N2v2IByx54Z.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zSfzAI2lpAAevWgJehPH4MuJj1C.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 2724277,
+              "title": "Nos tempos da malandragem",
+              "air_date": "2021-02-11",
+              "overview": "Castor é o chefe do bicho em Bangu, subúrbio do Rio. Com dinheiro sujo e violência, ele usa o time do Bangu e a escola de samba Mocidade para se promover.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/zSfzAI2lpAAevWgJehPH4MuJj1C.jpg",
+              "cast": [
+                {
+                  "name": "Castor de Andrade",
+                  "photo_url": null
+                },
+                {
+                  "name": "Dé Aranha",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                6773
+              ],
+              "video_message_id": 6773
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

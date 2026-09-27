@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T03:53:38+00:00",
+  "generated_at": "2026-09-27T04:01:00+00:00",
   "channel": "-1004483833987",
-  "count": 2563,
+  "count": 2564,
   "movie_count": 2559,
-  "series_count": 1,
-  "episode_count": 4,
+  "series_count": 2,
+  "episode_count": 5,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -171837,6 +171837,66 @@
                 6776
               ],
               "video_message_id": 6776
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 127617,
+      "title": "Elize Matsunaga: Era uma Vez um Crime",
+      "original_title": "Elize Matsunaga: Era uma Vez um Crime",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nTRqmcds3dn3Bbu5Sts07ouyF0k.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1R11prSyQga8Mjb8kFrhgGXEBOt.jpg",
+      "genres": [
+        "Documentário",
+        "Crime"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 3028611,
+              "title": "Estado civil: viúva",
+              "air_date": "2021-07-08",
+              "overview": "O crime chocou o Brasil: Elize Matsunaga atirou e esquartejou seu marido rico.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/1R11prSyQga8Mjb8kFrhgGXEBOt.jpg",
+              "cast": [
+                {
+                  "name": "Elize Matsunaga",
+                  "photo_url": null
+                },
+                {
+                  "name": "Thaís Nunes",
+                  "photo_url": null
+                },
+                {
+                  "name": "Juliana Santoro",
+                  "photo_url": null
+                },
+                {
+                  "name": "Luciano Santoro",
+                  "photo_url": null
+                },
+                {
+                  "name": "Luiz Flávio D'Urso",
+                  "photo_url": null
+                },
+                {
+                  "name": "Flávio Varella",
+                  "photo_url": null
+                },
+                {
+                  "name": "Mauro Dias",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                6781
+              ],
+              "video_message_id": 6781
             }
           ]
         }

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:48:14+00:00",
+  "generated_at": "2026-09-27T07:48:22+00:00",
   "channel": "-1004483833987",
-  "count": 2898,
-  "movie_count": 2741,
+  "count": 2899,
+  "movie_count": 2742,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -34667,6 +34667,67 @@
         6260
       ],
       "video_message_id": 6260
+    },
+    {
+      "tmdb_id": 831760,
+      "title": "Bob Cuspe: Nós Não Gostamos de Gente",
+      "original_title": "Bob Cuspe: Nós Não Gostamos de Gente",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cdYMR3Pim5qPWmz45Y0KvXVJUDQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9Bedn0SYqOkT3SYmR4etfjNc6la.jpg",
+      "overview": "O filme conta a história de Bob Cuspe, um velho punk tentando escapar de um deserto apocalíptico que na verdade é um purgatório dentro da mente do seu criador, Angeli, um cartunista passando por uma crise autoral.",
+      "genres": [
+        "Animação",
+        "Documentário",
+        "Ficção científica",
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Milhem Cortaz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vA9hgFemy6JHxgjdbQW78xZyAnq.jpg"
+        },
+        {
+          "name": "Angeli",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mTSSpiKHGi5zFtZwTUHWfe1nRXk.jpg"
+        },
+        {
+          "name": "Paulo Miklos",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dqsz5celntOcn0whRJxdMcsxteX.jpg"
+        },
+        {
+          "name": "Carol Guaycuru",
+          "photo_url": null
+        },
+        {
+          "name": "Laerte Coutinho",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dTfL5LgEWfjj2TV40sjKXfgZcrF.jpg"
+        },
+        {
+          "name": "André Abujamra",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kq1B1dlAMtCXmgWoGirxq8j618l.jpg"
+        },
+        {
+          "name": "Beto Hora",
+          "photo_url": null
+        },
+        {
+          "name": "Hugo Possolo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uYQ8ZmaYdtKAKwDTQltDjwGi5zy.jpg"
+        },
+        {
+          "name": "Grace Gianoukas",
+          "photo_url": "https://image.tmdb.org/t/p/w185/170LTQyLHG0kJzM4Q8ZtjBIjzpV.jpg"
+        },
+        {
+          "name": "Márcio Nigro",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7232
+      ],
+      "video_message_id": 7232
     },
     {
       "tmdb_id": 991494,

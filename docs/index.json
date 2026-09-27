@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:03:08+00:00",
+  "generated_at": "2026-09-27T04:04:03+00:00",
   "channel": "-1004483833987",
-  "count": 2569,
-  "movie_count": 2561,
+  "count": 2570,
+  "movie_count": 2562,
   "series_count": 2,
   "episode_count": 8,
   "movies": [
@@ -31943,6 +31943,23 @@
         4340
       ],
       "video_message_id": 4340
+    },
+    {
+      "tmdb_id": 237844,
+      "title": "Bill Gates A Tycoon Story",
+      "original_title": "Bill Gates A Tycoon Story",
+      "year": "2012",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mtfv0OanXa2IADKbpwcZQIf62nj.jpg",
+      "backdrop_url": null,
+      "overview": null,
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [],
+      "message_ids": [
+        6787
+      ],
+      "video_message_id": 6787
     },
     {
       "tmdb_id": 12647,

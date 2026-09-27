@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:01:13+00:00",
+  "generated_at": "2026-09-27T04:02:19+00:00",
   "channel": "-1004483833987",
-  "count": 2567,
-  "movie_count": 2559,
+  "count": 2568,
+  "movie_count": 2560,
   "series_count": 2,
   "episode_count": 8,
   "movies": [
@@ -27224,6 +27224,46 @@
         5346
       ],
       "video_message_id": 5346
+    },
+    {
+      "tmdb_id": 824865,
+      "title": "Atentados em Londres",
+      "original_title": "Nail Bomber: Manhunt",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xqwmWg0eH4qxkelrx9bNJahW6rU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9KRKWXUCL983d9V9GgAsd8GxfeZ.jpg",
+      "overview": "Este documentário retrata os ataques terroristas ocorridos em 1999 em Londres contra comunidades de minoria social e a corrida para encontrar o extremista responsável.",
+      "genres": [
+        "Crime",
+        "Documentário",
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "Tony Blair",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8d2ImyiI2fNSFW365FHsSmsfDvW.jpg"
+        },
+        {
+          "name": "Nick Ross",
+          "photo_url": null
+        },
+        {
+          "name": "Alan Fry",
+          "photo_url": null
+        },
+        {
+          "name": "Mike Franklin",
+          "photo_url": null
+        },
+        {
+          "name": "John Tyndall",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6785
+      ],
+      "video_message_id": 6785
     },
     {
       "tmdb_id": 420634,

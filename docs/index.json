@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T02:40:46+00:00",
+  "generated_at": "2026-09-27T02:40:59+00:00",
   "channel": "-1004483833987",
-  "count": 2522,
-  "movie_count": 2522,
+  "count": 2523,
+  "movie_count": 2523,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -122443,6 +122443,73 @@
         4497
       ],
       "video_message_id": 4497
+    },
+    {
+      "tmdb_id": 14613,
+      "title": "Os Novos Vingadores: Heróis do Amanhã",
+      "original_title": "Next Avengers: Heroes of Tomorrow",
+      "year": "2008",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eLQQccRpk3Z6K6xR9GYxYJ8JAM3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iYY8wiLHASWDxhGWTXfqr4XOAGG.jpg",
+      "overview": "Os filhos dos Vingadores originais se unem para derrotar Ultron, o invencível robô que matou seus pais. Para esses jovens heróis vencerem, eles devem encontrar o Hulk e se juntar como os Novos Vingadores!",
+      "genres": [
+        "Animação",
+        "Família",
+        "Ação",
+        "Aventura",
+        "Ficção científica"
+      ],
+      "cast": [
+        {
+          "name": "Noah Crawford",
+          "photo_url": "https://image.tmdb.org/t/p/w185/c3R1GuH9wzKUlyZIM8f6uzY0lG9.jpg"
+        },
+        {
+          "name": "Brenna O'Brien",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uELRo1iat97rVeyBxCrpqy6v1OR.jpg"
+        },
+        {
+          "name": "Aidan Drummond",
+          "photo_url": "https://image.tmdb.org/t/p/w185/atlly2oEm9ng6baREYcIuZc3EYN.jpg"
+        },
+        {
+          "name": "Dempsey Pappion",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jPqHoYUzlo5MwZbvFUKi2XqNYaN.jpg"
+        },
+        {
+          "name": "Tom Kane",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sq49aVP56G50Nr5kCL7Ove6Z9jE.jpg"
+        },
+        {
+          "name": "Fred Tatasciore",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xodxYKRC9mdvgquTdqpmYldliJ3.jpg"
+        },
+        {
+          "name": "Michael Adamthwaite",
+          "photo_url": "https://image.tmdb.org/t/p/w185/J9R1DkSkmGDioXJmHIMg5Vt8pb.jpg"
+        },
+        {
+          "name": "Adrian Petriw",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3jbR14GEKoUCbrs3NVmQw8eWRvu.jpg"
+        },
+        {
+          "name": "Shawn Macdonald",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tBDcAI3h0T6IHK2ON2Yupwq4jNy.jpg"
+        },
+        {
+          "name": "Nicole Oliver",
+          "photo_url": "https://image.tmdb.org/t/p/w185/plAsVfhTrYaU78JrZbJSQ4uXpX1.jpg"
+        },
+        {
+          "name": "Ken Kramer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/has3BbqVWB9ZByFD0FXCCHEQ6Jc.jpg"
+        }
+      ],
+      "message_ids": [
+        6717,
+        6718
+      ],
+      "video_message_id": 6718
     },
     {
       "tmdb_id": 1086747,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:04:03+00:00",
+  "generated_at": "2026-09-27T04:04:16+00:00",
   "channel": "-1004483833987",
-  "count": 2570,
-  "movie_count": 2562,
+  "count": 2571,
+  "movie_count": 2563,
   "series_count": 2,
   "episode_count": 8,
   "movies": [
@@ -110188,6 +110188,29 @@
         1349
       ],
       "video_message_id": 1349
+    },
+    {
+      "tmdb_id": 113735,
+      "title": "O Leão Africano",
+      "original_title": "The African Lion",
+      "year": "1955",
+      "poster_url": "https://image.tmdb.org/t/p/w500/umzKA31cNEzBcStzisURGbVorB2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/oLMsq5YwqzIFzAmiJyPdNDRp6WQ.jpg",
+      "overview": "Documentário que mostra a vida selvagem na África focando não apenas em leões, mas também em chacais, hienas e rinocerontes. Narrado por Winston Hibler.",
+      "genres": [
+        "Documentário",
+        "Família"
+      ],
+      "cast": [
+        {
+          "name": "Winston Hibler",
+          "photo_url": "https://image.tmdb.org/t/p/w185/f6LAlCVRPLYejk0S6RhJNoVs5EX.jpg"
+        }
+      ],
+      "message_ids": [
+        6788
+      ],
+      "video_message_id": 6788
     },
     {
       "tmdb_id": 800198,

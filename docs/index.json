@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:25:50+00:00",
+  "generated_at": "2026-09-27T05:26:05+00:00",
   "channel": "-1004483833987",
-  "count": 2654,
-  "movie_count": 2621,
+  "count": 2655,
+  "movie_count": 2622,
   "series_count": 8,
   "episode_count": 33,
   "movies": [
@@ -119852,6 +119852,28 @@
         4201
       ],
       "video_message_id": 4201
+    },
+    {
+      "tmdb_id": 628845,
+      "title": "O Silêncio dos Homens",
+      "original_title": "O Silêncio dos Homens",
+      "year": "2019",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ez7rMQBQkBRlkzTYBLMD1qHMYlF.jpg",
+      "backdrop_url": null,
+      "overview": "This film is part of a project that has listened to over 40,000 people on masculinity issues and has resulted in a documentary and a tool book based on this publicly available study through an agreement with the Social Information Consortium (CIS) of the University of São Paulo.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Ícaro Silva",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rHOdj11tthNUoVYMTW0gYQmUrhq.jpg"
+        }
+      ],
+      "message_ids": [
+        6881
+      ],
+      "video_message_id": 6881
     },
     {
       "tmdb_id": 274,

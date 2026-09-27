@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:04:06+00:00",
+  "generated_at": "2026-09-27T06:04:15+00:00",
   "channel": "-1004483833987",
-  "count": 2702,
-  "movie_count": 2658,
+  "count": 2703,
+  "movie_count": 2659,
   "series_count": 10,
   "episode_count": 44,
   "movies": [
@@ -137073,6 +137073,73 @@
         398
       ],
       "video_message_id": 398
+    },
+    {
+      "tmdb_id": 5205,
+      "title": "Pumping Iron: O Homem dos Músculos de Aço",
+      "original_title": "Pumping Iron",
+      "year": "1977",
+      "poster_url": "https://image.tmdb.org/t/p/w500/x0zmAcHKzvfjd6nBwUF6T659JjT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pqpOzayMENfhXNE9wzXdRGwUSho.jpg",
+      "overview": "Este filme documentando é comumente referido como \"A Idade do Ouro\" do fisiculturismo, uma época na qual massa e tamanho importavam menos, e a simetria e definição do corpo era preferida. O documentário segue duas principais competições, o Mr. Universo da IFBB (para amadores) e o Mr. Olympia (para profissionais) em Pretória, África do Sul. Embora o documentário foque em Arnold Schwarzenegger, muitos outros fisiculturistas notáveis fazem aparições, incluindo Lou Ferrigno, Franco Columbu, Mike Mentzer, Robby Robinson, Mike Katz, Albert Beckles, Ken Waller, Frank Zane, Paul Grant, Ed Corney, Serge Nubret e Danny Padilla, todos campeões talentosos em suas categorias.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Arnold Schwarzenegger",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dgCABuZp2HBehCT84O4WBp7KIoe.jpg"
+        },
+        {
+          "name": "Lou Ferrigno",
+          "photo_url": "https://image.tmdb.org/t/p/w185/obTtRrm8EbDzuiKpLjAd9s1i9v5.jpg"
+        },
+        {
+          "name": "Mike Katz",
+          "photo_url": null
+        },
+        {
+          "name": "Serge Nubret",
+          "photo_url": null
+        },
+        {
+          "name": "Franco Columbu",
+          "photo_url": "https://image.tmdb.org/t/p/w185/JhEw4nZrxg1hCn7wLTMOtiC4Cx.jpg"
+        },
+        {
+          "name": "Ed Corney",
+          "photo_url": null
+        },
+        {
+          "name": "Ken Waller",
+          "photo_url": null
+        },
+        {
+          "name": "Robbie Robinson",
+          "photo_url": null
+        },
+        {
+          "name": "Marianne Claire",
+          "photo_url": null
+        },
+        {
+          "name": "Roger Callard",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eu2zPHPeALXvz6IstUkT2hphVe1.jpg"
+        },
+        {
+          "name": "Bud Cort",
+          "photo_url": "https://image.tmdb.org/t/p/w185/t3ncccw3yAk69FYDdG9RkvT0qpC.jpg"
+        },
+        {
+          "name": "Jimmy Williams",
+          "photo_url": "https://image.tmdb.org/t/p/w185/artkCCvx9D2MlcKLfmw2rg8Mzvf.jpg"
+        }
+      ],
+      "message_ids": [
+        6944,
+        6945
+      ],
+      "video_message_id": 6945
     },
     {
       "tmdb_id": 4232,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:23:26+00:00",
+  "generated_at": "2026-09-27T05:24:05+00:00",
   "channel": "-1004483833987",
-  "count": 2651,
-  "movie_count": 2618,
+  "count": 2652,
+  "movie_count": 2619,
   "series_count": 8,
   "episode_count": 33,
   "movies": [
@@ -7170,6 +7170,23 @@
         5438
       ],
       "video_message_id": 5438
+    },
+    {
+      "tmdb_id": 972482,
+      "title": "A Face Oculta do Feminismo",
+      "original_title": "A Face Oculta do Feminismo",
+      "year": "2022",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iXjBoRHtOEFChA13YCPUrGRXWKD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jsXx8lAAaQbX7DwgYUwK5ljeMQW.jpg",
+      "overview": "O feminismo é um movimento político popular. Suas concepções pautam a política, os debates públicos, as interações sociais. Mas por trás dessa feição conhecida, esconde-se outra, oculta até de seus apoiadores, e que agora será revelada.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [],
+      "message_ids": [
+        6878
+      ],
+      "video_message_id": 6878
     },
     {
       "tmdb_id": 481084,

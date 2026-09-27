@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:05:45+00:00",
+  "generated_at": "2026-09-27T06:06:01+00:00",
   "channel": "-1004483833987",
-  "count": 2708,
+  "count": 2709,
   "movie_count": 2659,
   "series_count": 11,
-  "episode_count": 49,
+  "episode_count": 50,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -178131,6 +178131,37 @@
                 6955
               ],
               "video_message_id": 6955
+            },
+            {
+              "number": 8,
+              "tmdb_id": 4270163,
+              "title": "Quem Quer Dinheiro?",
+              "air_date": "2023-03-29",
+              "overview": "Fernando Dutra Pinto, o sequestrador de Patrícia, invade a casa dos Abravanel e faz Silvio Santos de refém. Enquanto o circo midiático se forma do lado de fora, Silvio precisará usar sua habilidade como comunicador para se aproximar de seu algoz e, sob a mira de um revólver, domina o show.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/gp3e5cdRSgkv0h8FletJF0QeSUx.jpg",
+              "cast": [
+                {
+                  "name": "José Rubens Chachá",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/1CvvDlkKL3W6jnuSr4OK6TJTp9K.jpg"
+                },
+                {
+                  "name": "Leona Cavalli",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/b1wi0Lkcf2UjlbWz9arhFwBKaff.jpg"
+                },
+                {
+                  "name": "Larissa Nunes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3zVdzi7SvNJbYH3mfEjm9YxkqNN.jpg"
+                },
+                {
+                  "name": "Daniela Paschoal",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/kI4Ohlg5gMr5TE8oT1XKpHYzMiZ.jpg"
+                }
+              ],
+              "message_ids": [
+                6956,
+                6957
+              ],
+              "video_message_id": 6957
             }
           ]
         }

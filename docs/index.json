@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:02:35+00:00",
+  "generated_at": "2026-09-27T07:04:49+00:00",
   "channel": "-1004483833987",
-  "count": 2775,
+  "count": 2776,
   "movie_count": 2698,
-  "series_count": 18,
-  "episode_count": 77,
+  "series_count": 19,
+  "episode_count": 78,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -179142,6 +179142,88 @@
                 6784
               ],
               "video_message_id": 6784
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 292474,
+      "title": "Emergência Radioativa",
+      "original_title": "Emergência Radioativa",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5MxP4pmZWyBA8d27fAaROFsaH1h.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qicUJJUptke2GqvPsCIPpkhGeQJ.jpg",
+      "genres": [
+        "Drama",
+        "Mistério",
+        "Action & Adventure"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 2,
+              "tmdb_id": 7000390,
+              "title": "Quando a gente vai voltar pra casa?",
+              "air_date": "2026-03-18",
+              "overview": "A notícia se espalha, dividindo as famílias e provocando pânico em Goiânia. Orenstein e sua equipe sentem na pele o verdadeiro impacto da crise.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/qicUJJUptke2GqvPsCIPpkhGeQJ.jpg",
+              "cast": [
+                {
+                  "name": "Johnny Massaro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/gPwKUHWiUpQAyITlCQZ0aCngiHJ.jpg"
+                },
+                {
+                  "name": "Paulo Gorgulho",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/sSWzsf7p4xHnOLIf61k7Jx7V0Q2.jpg"
+                },
+                {
+                  "name": "Ana Costa",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/cl9e0zmPwaxamALFaOefuJWgIgd.jpg"
+                },
+                {
+                  "name": "Bukassa Kabengele",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/wg1lFAnr2cYQsIC1DoES6i1VbCx.jpg"
+                },
+                {
+                  "name": "Alan Rocha",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/9Vc1TJtnF70SEC0oKZ99w20rhqf.jpg"
+                },
+                {
+                  "name": "Marina Merlino",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/sVsF5gA1tCEKG9D5DHv7H7l1UBa.jpg"
+                },
+                {
+                  "name": "William Costa",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/tHtzXety96qbFBcd4AySrRpQ10Z.jpg"
+                },
+                {
+                  "name": "Antonio Saboia",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/cjSFDPYxqR1duZjhwGwTr8LNFsj.jpg"
+                },
+                {
+                  "name": "Luiz Bertazzo",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/9rpkxfChPTkNkOscTfd2lqqENix.jpg"
+                },
+                {
+                  "name": "Clarissa Kiste",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/fAi4LdPgXMHLWtNNyxmPVbq2dyt.jpg"
+                },
+                {
+                  "name": "Douglas Simon",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/mftMMs1XQA38cYnvdE9TjaTXxiO.jpg"
+                },
+                {
+                  "name": "Tuca Andrada",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xK0464NhRY67ZTX45os2oEwRWyT.jpg"
+                }
+              ],
+              "message_ids": [
+                7047,
+                7048
+              ],
+              "video_message_id": 7048
             }
           ]
         }

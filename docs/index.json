@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:48:12+00:00",
+  "generated_at": "2026-09-27T05:48:43+00:00",
   "channel": "-1004483833987",
-  "count": 2677,
-  "movie_count": 2639,
+  "count": 2678,
+  "movie_count": 2640,
   "series_count": 9,
   "episode_count": 38,
   "movies": [
@@ -52496,6 +52496,35 @@
         6712
       ],
       "video_message_id": 6712
+    },
+    {
+      "tmdb_id": 19715,
+      "title": "Donald no País da Matemágica",
+      "original_title": "Donald in Mathmagic Land",
+      "year": "1959",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dKyvrSVysFobPPmMHqyStvrJRqc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iZyAqg3fszylsDD3gXeX5rTnBOi.jpg",
+      "overview": "Desenho animado da Disney que, por meio desta maravilhosa aventura de Donald, explica como a matemática pode ser útil na vida real. Através desta viagem Donald nos mostra como a matemática não é apenas números e gráficos, mas também coisas reais e mágicas.",
+      "genres": [
+        "Animação",
+        "Fantasia",
+        "Família",
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Clarence Nash",
+          "photo_url": "https://image.tmdb.org/t/p/w185/x2g2hbu4RRIcn6Q5RT8gpWR1FKV.jpg"
+        },
+        {
+          "name": "Paul Frees",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pACT0LYkEyff7PGt88iqr5u9T7u.jpg"
+        }
+      ],
+      "message_ids": [
+        6915
+      ],
+      "video_message_id": 6915
     },
     {
       "tmdb_id": 141,

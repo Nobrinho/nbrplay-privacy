@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T22:44:35+00:00",
+  "generated_at": "2026-09-27T22:44:42+00:00",
   "channel": "-1004483833987",
-  "count": 3097,
+  "count": 3098,
   "movie_count": 2807,
   "series_count": 40,
-  "episode_count": 290,
+  "episode_count": 291,
   "custom_count": 0,
   "movies": [
     {
@@ -184869,7 +184869,7 @@
       "title": "Bem-vindos à Terra",
       "original_title": "Welcome to Earth",
       "poster_url": "https://image.tmdb.org/t/p/w500/6tJMH9Qjbefj5kLoIeNcyR6Z4Ep.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qwzp5D5i3sodgXWQAKCxG4L7CfB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/s3zyHFpUXgv7mPplG8WccNT5yRG.jpg",
       "genres": [
         "Documentário"
       ],
@@ -184877,6 +184877,41 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 3,
+              "tmdb_id": 3329917,
+              "title": "A Mente em Massa",
+              "air_date": "2021-12-08",
+              "overview": "Will Smith cruza o Serengueti para observar uma das maiores migrações da Terra. Ele descobre o super poder da união de grandes grupos de animais.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/s3zyHFpUXgv7mPplG8WccNT5yRG.jpg",
+              "cast": [
+                {
+                  "name": "Will Smith",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
+                },
+                {
+                  "name": "Dwayne Fields",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/jVWolBOJhp5tGlQhn6sEDxgPFAK.jpg"
+                },
+                {
+                  "name": "Erik Weihenmayer",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/vtcA8YKFSQh8W2SsOXXSX4I3chh.jpg"
+                },
+                {
+                  "name": "Cody Richardson",
+                  "photo_url": null
+                },
+                {
+                  "name": "Diva Amon",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7495,
+                7496
+              ],
+              "video_message_id": 7496
+            },
             {
               "number": 4,
               "tmdb_id": 3329918,

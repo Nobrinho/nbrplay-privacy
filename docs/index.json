@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:47:40+00:00",
+  "generated_at": "2026-09-27T07:47:48+00:00",
   "channel": "-1004483833987",
-  "count": 2895,
-  "movie_count": 2738,
+  "count": 2896,
+  "movie_count": 2739,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -21573,6 +21573,73 @@
         4003
       ],
       "video_message_id": 4003
+    },
+    {
+      "tmdb_id": 18173,
+      "title": "American Poop: A Vida Pós-Faculdade é uma Droga",
+      "original_title": "The American Poop Movie",
+      "year": "2006",
+      "poster_url": "https://image.tmdb.org/t/p/w500/CeAS4fVgYZ5v1Bf1YNoQb6cZNZ.jpg",
+      "backdrop_url": null,
+      "overview": "O jovem Russ está vivendo seu sonho realizado: está no último ano de faculdade, tem seu próprio programa no canal de TV local e tudo está um mar de rosas. Só tem um problema, ele vai se formar! Sem dinheiro, emprego ou plano para sair dessa, Russ é obrigado a voltar para a pequena cidade onde nasceu e reencontrar seus velhos – e amalucados – amigos. O único alívio para ele é encontrar novamente sua antiga paixão, a bela Tara. Com a vida entrando novamente nos eixos, Russ será obrigado a escolher viver na cidadezinha ou tentar voltar para o grande centro e deixar tudo para trás novamente.",
+      "genres": [
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Amelia Morck",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dYmwHcHAVcYwEmQ1k8j9MVMkrE0.jpg"
+        },
+        {
+          "name": "Ross Kidder",
+          "photo_url": "https://image.tmdb.org/t/p/w185/w2De6IadUcUGrNvdzWbbt3lrKS4.jpg"
+        },
+        {
+          "name": "Elizabeth Shapiro",
+          "photo_url": "https://image.tmdb.org/t/p/w185/e67C8U3Pbto0pcyChlS3HlMRc4P.jpg"
+        },
+        {
+          "name": "Jessica Snell",
+          "photo_url": null
+        },
+        {
+          "name": "Vanessa Dunn",
+          "photo_url": null
+        },
+        {
+          "name": "Randy Tobin",
+          "photo_url": null
+        },
+        {
+          "name": "Jonathan Cahill",
+          "photo_url": null
+        },
+        {
+          "name": "Jason Sarayba",
+          "photo_url": null
+        },
+        {
+          "name": "Chuck Kaiton",
+          "photo_url": null
+        },
+        {
+          "name": "James Hawkes",
+          "photo_url": null
+        },
+        {
+          "name": "Greg Petralis",
+          "photo_url": null
+        },
+        {
+          "name": "Joe Kingsley",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7230,
+        7231
+      ],
+      "video_message_id": 7231
     },
     {
       "tmdb_id": 830663,

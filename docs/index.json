@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:23:59+00:00",
+  "generated_at": "2026-09-27T04:24:04+00:00",
   "channel": "-1004483833987",
-  "count": 2595,
+  "count": 2596,
   "movie_count": 2580,
   "series_count": 5,
-  "episode_count": 15,
+  "episode_count": 16,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -173028,6 +173028,68 @@
                 6812
               ],
               "video_message_id": 6812
+            },
+            {
+              "number": 4,
+              "tmdb_id": 2050637,
+              "title": "Episódio 4",
+              "air_date": "2020-02-24",
+              "overview": "Um acidente de carro leva Gennaro \"Jerry\" Colombo à UTI, fazendo Jerome \"Jerry\" Jacobson procurar novos recrutadores. O FBI reúne informações sobre intermediários do \"Tio Jerry\" e acaba seguindo Dwight Baker até o aeroporto.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/iOBVJ7wRmziQlBEzpeTK18DhIi3.jpg",
+              "cast": [
+                {
+                  "name": "Michael C. Pizzuto",
+                  "photo_url": null
+                },
+                {
+                  "name": "Pelé Kizy",
+                  "photo_url": null
+                },
+                {
+                  "name": "Cristal Bubblin",
+                  "photo_url": null
+                },
+                {
+                  "name": "Doug Mathews",
+                  "photo_url": null
+                },
+                {
+                  "name": "Mark Devereux",
+                  "photo_url": null
+                },
+                {
+                  "name": "Rob Holm",
+                  "photo_url": null
+                },
+                {
+                  "name": "Tom Kneir",
+                  "photo_url": null
+                },
+                {
+                  "name": "Robin Colombo",
+                  "photo_url": null
+                },
+                {
+                  "name": "AJ Glomb",
+                  "photo_url": null
+                },
+                {
+                  "name": "Marsha Derbyshire",
+                  "photo_url": null
+                },
+                {
+                  "name": "Alistair David Herz",
+                  "photo_url": null
+                },
+                {
+                  "name": "Nelson Hayne",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                6813
+              ],
+              "video_message_id": 6813
             }
           ]
         }

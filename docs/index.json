@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T03:47:23+00:00",
+  "generated_at": "2026-09-27T03:47:27+00:00",
   "channel": "-1004483833987",
-  "count": 2557,
+  "count": 2558,
   "movie_count": 2555,
   "series_count": 1,
-  "episode_count": 2,
+  "episode_count": 3,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -171646,6 +171646,28 @@
                 6774
               ],
               "video_message_id": 6774
+            },
+            {
+              "number": 3,
+              "tmdb_id": 2724279,
+              "title": "Capo de tutti capi",
+              "air_date": "2021-02-11",
+              "overview": "O chefão do bicho estende seus tentáculos sobre a política e as forças de segurança. O Bangu disputa a Libertadores e a Mocidade se torna protagonista no carnaval.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/xNkFndO4phXa2w5dd0XCEYDwpac.jpg",
+              "cast": [
+                {
+                  "name": "Castor de Andrade",
+                  "photo_url": null
+                },
+                {
+                  "name": "Dé Aranha",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                6775
+              ],
+              "video_message_id": 6775
             }
           ]
         }

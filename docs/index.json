@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:49:56+00:00",
+  "generated_at": "2026-09-27T05:53:52+00:00",
   "channel": "-1004483833987",
-  "count": 2679,
+  "count": 2680,
   "movie_count": 2641,
-  "series_count": 9,
-  "episode_count": 38,
+  "series_count": 10,
+  "episode_count": 39,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -176770,6 +176770,37 @@
                 6828
               ],
               "video_message_id": 6828
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 124407,
+      "title": "O Caso Evandro",
+      "original_title": "O Caso Evandro",
+      "poster_url": "https://image.tmdb.org/t/p/w500/90xXYiJ8BxCVsJkt3r8b0KVFZaM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vELI0sEn26haDjHk80MdpTrGiGu.jpg",
+      "genres": [
+        "Documentário",
+        "Crime"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 2,
+              "tmdb_id": 2911503,
+              "title": "Os Acusados",
+              "air_date": "2021-05-13",
+              "overview": "Durante a investigação do desaparecimento, o pai de santo Osvaldo Marceneiro, na prisão, confessa mais um caso e abala a cidade de Guaratuba.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/vELI0sEn26haDjHk80MdpTrGiGu.jpg",
+              "cast": [],
+              "message_ids": [
+                6917
+              ],
+              "video_message_id": 6917
             }
           ]
         }

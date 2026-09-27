@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:48:42+00:00",
+  "generated_at": "2026-09-27T07:49:06+00:00",
   "channel": "-1004483833987",
-  "count": 2900,
-  "movie_count": 2743,
+  "count": 2901,
+  "movie_count": 2744,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -142990,6 +142990,49 @@
         6623
       ],
       "video_message_id": 6623
+    },
+    {
+      "tmdb_id": 87389,
+      "title": "Querida, Vou Comprar Cigarros e Já Volto",
+      "original_title": "Querida, voy a comprar cigarrillos y vuelvo",
+      "year": "2011",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wmQSiIQNB4ECRkBv6gJXso5btma.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5SbN1lH59pENzxfd6DTjozUXRCP.jpg",
+      "overview": "Ernesto, um homem comum que, após fazer um acordo com um personagem estranho, tem a chance de voltar ao passado e viver sua juventude novamente, tenta recuperar oportunidades perdidas e evitar certos comportamentos para mudar seu presente cinzento e insípido.",
+      "genres": [
+        "Comédia",
+        "Fantasia"
+      ],
+      "cast": [
+        {
+          "name": "Emilio Disi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8cmbKUPnkLwj2SsjMkViaDNjg1s.jpg"
+        },
+        {
+          "name": "Eusebio Poncela",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pCbXRk44XYJzWDzYybAco5dlGF7.jpg"
+        },
+        {
+          "name": "Darío Lopilato",
+          "photo_url": "https://image.tmdb.org/t/p/w185/Ao3iuntjHdGBaUdqJJ1xtdLHotd.jpg"
+        },
+        {
+          "name": "Alberto Laiseca",
+          "photo_url": null
+        },
+        {
+          "name": "Emma Rivera",
+          "photo_url": null
+        },
+        {
+          "name": "Daniel Aráoz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tx46xI0fjGPM6gtkYSOclwHUQqa.jpg"
+        }
+      ],
+      "message_ids": [
+        7235
+      ],
+      "video_message_id": 7235
     },
     {
       "tmdb_id": 27458,

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T22:44:04+00:00",
+  "generated_at": "2026-09-27T22:44:23+00:00",
   "channel": "-1004483833987",
-  "count": 3094,
+  "count": 3095,
   "movie_count": 2807,
-  "series_count": 39,
-  "episode_count": 287,
+  "series_count": 40,
+  "episode_count": 288,
   "custom_count": 0,
   "movies": [
     {
@@ -184859,6 +184859,58 @@
                 7068
               ],
               "video_message_id": 7068
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 127700,
+      "title": "Bem-vindos à Terra",
+      "original_title": "Welcome to Earth",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6tJMH9Qjbefj5kLoIeNcyR6Z4Ep.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ovgPlpZwVSTUAJAvUGAPZbDLoJU.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 6,
+              "tmdb_id": 3329921,
+              "title": "Além do Medo",
+              "air_date": "2021-12-08",
+              "overview": "Will Smith confronta e supera o próprio medo da natureza em um dos ambientes mais exóticos do planeta - a poderosa corredeira de água branca, na Islândia.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/ovgPlpZwVSTUAJAvUGAPZbDLoJU.jpg",
+              "cast": [
+                {
+                  "name": "Will Smith",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
+                },
+                {
+                  "name": "Dwayne Fields",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/jVWolBOJhp5tGlQhn6sEDxgPFAK.jpg"
+                },
+                {
+                  "name": "Erik Weihenmayer",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/vtcA8YKFSQh8W2SsOXXSX4I3chh.jpg"
+                },
+                {
+                  "name": "Cody Richardson",
+                  "photo_url": null
+                },
+                {
+                  "name": "Diva Amon",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7489,
+                7490
+              ],
+              "video_message_id": 7490
             }
           ]
         }

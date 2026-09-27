@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:54:55+00:00",
+  "generated_at": "2026-09-27T07:55:07+00:00",
   "channel": "-1004483833987",
-  "count": 2911,
-  "movie_count": 2754,
+  "count": 2912,
+  "movie_count": 2755,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -163590,6 +163590,75 @@
         4834
       ],
       "video_message_id": 4834
+    },
+    {
+      "tmdb_id": 9255,
+      "title": "Top Gang 2! A Missão",
+      "original_title": "Hot Shots! Part Deux",
+      "year": "1993",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4U7bR7cUzqLDaJWwkea0fSEdw1P.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lKoEEg7Nf1FUPSzRR0oMtPIqiyX.jpg",
+      "overview": "Topper Harley (Charlie Sheen) está vivendo em um templo budista, seu incompetente ex-comandante (Lloyd Bridges) está na Casa Branca, e reféns americanos precisam ser resgatados no Oriente Médio! Topper é o único homem para o serviço, mas ele está obcecado demais por sua ex-namorada (Valeria Golino) para aceitar a tarefa - até que uma bela agente da CIA o coloca de volta na sela. É uma missão hilariante que leva Harley e sua Top Gang por uma trilha repleta de ação, de sátiras dos clássicos do cinema e conta com a participação de rostos famosos em cenas divertidas.",
+      "genres": [
+        "Ação",
+        "Comédia",
+        "Guerra"
+      ],
+      "cast": [
+        {
+          "name": "Charlie Sheen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/48GB5aISoibd9IYXBO40jrSgFRl.jpg"
+        },
+        {
+          "name": "Lloyd Bridges",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lO4HWxYvneC0dMFckK2WrKPZa9o.jpg"
+        },
+        {
+          "name": "Valeria Golino",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bLw0lNPEhICtbTLtnTswamefN7C.jpg"
+        },
+        {
+          "name": "Richard Crenna",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dsViQ2ate32xTSQgxoEHKQl0Evj.jpg"
+        },
+        {
+          "name": "Rowan Atkinson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gdiN2zLjC3Mnfrp7hM3TXVJjWJv.jpg"
+        },
+        {
+          "name": "Miguel Ferrer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n6VZ8OQmozHmnJQRwR55gBH8Tl0.jpg"
+        },
+        {
+          "name": "Brenda Bakke",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nCef3oKQVRsCi95s8fpUH9IXRsx.jpg"
+        },
+        {
+          "name": "Jerry Haleva",
+          "photo_url": "https://image.tmdb.org/t/p/w185/35qEndFolCdLDkAKIbXammIlLyt.jpg"
+        },
+        {
+          "name": "David Wohl",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iPHxMD2eimYJysHYIzLZUbPFhnp.jpg"
+        },
+        {
+          "name": "Mitchell Ryan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9XrbQfOjDeqjXJUHeSIA6OxJAJa.jpg"
+        },
+        {
+          "name": "Michael Colyar",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eG4ojLYkXY84hRQnfqysnZzl2H4.jpg"
+        },
+        {
+          "name": "Ryan Stiles",
+          "photo_url": "https://image.tmdb.org/t/p/w185/u8mLAujNFBoce7RzFFhwaX0DaJZ.jpg"
+        }
+      ],
+      "message_ids": [
+        7254,
+        7255
+      ],
+      "video_message_id": 7255
     },
     {
       "tmdb_id": 9595,

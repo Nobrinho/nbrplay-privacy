@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:23:55+00:00",
+  "generated_at": "2026-09-27T04:23:59+00:00",
   "channel": "-1004483833987",
-  "count": 2594,
+  "count": 2595,
   "movie_count": 2580,
   "series_count": 5,
-  "episode_count": 14,
+  "episode_count": 15,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -172966,6 +172966,68 @@
                 6811
               ],
               "video_message_id": 6811
+            },
+            {
+              "number": 3,
+              "tmdb_id": 2050636,
+              "title": "Episódio 3",
+              "air_date": "2020-02-17",
+              "overview": "Frank Colombo revela o funcionamento do golpe. Sob o pretexto de organizar uma reunião dos vencedores, a equipe de vídeo disfarçada do FBI entrevista uma \"vencedora\" de um milhão de dólares que tenta obscurecer as origens de seu bilhete premiado.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/Adz4Kw1bZ6L7v1QRhl1jKDh200b.jpg",
+              "cast": [
+                {
+                  "name": "Michael C. Pizzuto",
+                  "photo_url": null
+                },
+                {
+                  "name": "Pelé Kizy",
+                  "photo_url": null
+                },
+                {
+                  "name": "Cristal Bubblin",
+                  "photo_url": null
+                },
+                {
+                  "name": "Doug Mathews",
+                  "photo_url": null
+                },
+                {
+                  "name": "Mark Devereux",
+                  "photo_url": null
+                },
+                {
+                  "name": "Rob Holm",
+                  "photo_url": null
+                },
+                {
+                  "name": "Tom Kneir",
+                  "photo_url": null
+                },
+                {
+                  "name": "Robin Colombo",
+                  "photo_url": null
+                },
+                {
+                  "name": "AJ Glomb",
+                  "photo_url": null
+                },
+                {
+                  "name": "Marsha Derbyshire",
+                  "photo_url": null
+                },
+                {
+                  "name": "Alistair David Herz",
+                  "photo_url": null
+                },
+                {
+                  "name": "Nelson Hayne",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                6812
+              ],
+              "video_message_id": 6812
             }
           ]
         }

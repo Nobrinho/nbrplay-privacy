@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T16:11:57+00:00",
+  "generated_at": "2026-09-27T16:43:25+00:00",
   "channel": "-1004483833987",
-  "count": 2939,
-  "movie_count": 2782,
+  "count": 2940,
+  "movie_count": 2783,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -180366,6 +180366,76 @@
         7238
       ],
       "video_message_id": 7238
+    },
+    {
+      "tmdb_id": 1299652,
+      "title": "Watchmen: Capítulo 2",
+      "original_title": "Watchmen: Chapter II",
+      "year": "2024",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rvSEowY2XE0Gb06FBEwQng2M6KX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dGGjuaUR253aAZ2Zhto2Y9TR9l6.jpg",
+      "overview": "Suspeitos dos eventos que enredam seus antigos colegas, Nite Owl e Silk Spectre são estimulados a sair da aposentadoria para investigar. Enquanto eles lutam com ética pessoal, demônios internos e uma sociedade voltada contra eles, eles correm contra o relógio para descobrir uma conspiração profunda que pode desencadear uma guerra nuclear global.",
+      "genres": [
+        "Animação",
+        "Mistério",
+        "Ficção científica",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Troy Baker",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mppX8pDkwNvx3dJzclwcGkngEb3.jpg"
+        },
+        {
+          "name": "Adrienne Barbeau",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8uQqjG63SFCkmgdFB4SG8wRQmfp.jpg"
+        },
+        {
+          "name": "Michael Cerveris",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vahLGniF2yY8I11ZtzhhhXVTbDc.jpg"
+        },
+        {
+          "name": "Zehra Fazal",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gEL0hqxcckQth8ogIEByxirXa7f.jpg"
+        },
+        {
+          "name": "Phil Fondacaro",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vJbPx90IzOdE6L1maYu1HIJayjG.jpg"
+        },
+        {
+          "name": "Grey DeLisle",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+        },
+        {
+          "name": "John Marshall Jones",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8aQ8qxVOeUx23Jw89ouj9gOwy1W.jpg"
+        },
+        {
+          "name": "Max Koch",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bi7D9dmHQur9r0YeakZ5xOpJhcs.jpg"
+        },
+        {
+          "name": "Phil LaMarr",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+        },
+        {
+          "name": "Yuri Lowenthal",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aLgXm0kbbIC8I5OBmnsK8TgVKwy.jpg"
+        },
+        {
+          "name": "Long Nguyen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/c47F79zg0QreGz2wZ4b78lIZC9M.jpg"
+        },
+        {
+          "name": "Geoff Pierson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vIhxKBwqV19CwHdPuycmkchYOba.jpg"
+        }
+      ],
+      "message_ids": [
+        7295,
+        7296
+      ],
+      "video_message_id": 7296
     },
     {
       "tmdb_id": 13183,

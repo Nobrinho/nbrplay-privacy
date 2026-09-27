@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T16:09:15+00:00",
+  "generated_at": "2026-09-27T16:09:24+00:00",
   "channel": "-1004483833987",
-  "count": 2932,
-  "movie_count": 2775,
+  "count": 2933,
+  "movie_count": 2776,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -137473,6 +137473,41 @@
         4894
       ],
       "video_message_id": 4894
+    },
+    {
+      "tmdb_id": 666284,
+      "title": "Pistas do Naufrágio do Titanic",
+      "original_title": "Titanic's Achilles Heel",
+      "year": "2007",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sTPc8vDnmVT4tg2FwUf4vv4oz4z.jpg",
+      "backdrop_url": null,
+      "overview": "John e Richie investigam o Britannic, o navio irmão do famoso barco. Roger utiliza tecnologia de ponta para estudar o desenho do Titanic.",
+      "genres": [
+        "Documentário",
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "Edward Herrmann",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ov33sPPuTzw21KYwAkkAB8AmjIV.jpg"
+        },
+        {
+          "name": "John Chatterton",
+          "photo_url": null
+        },
+        {
+          "name": "Richard Kohler",
+          "photo_url": null
+        },
+        {
+          "name": "Parks Stephenson",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7286
+      ],
+      "video_message_id": 7286
     },
     {
       "tmdb_id": 257344,

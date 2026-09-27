@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:54:12+00:00",
+  "generated_at": "2026-09-27T05:54:28+00:00",
   "channel": "-1004483833987",
-  "count": 2684,
+  "count": 2685,
   "movie_count": 2641,
   "series_count": 10,
-  "episode_count": 43,
+  "episode_count": 44,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -176853,6 +176853,19 @@
                 6921
               ],
               "video_message_id": 6921
+            },
+            {
+              "number": 9,
+              "tmdb_id": 3062625,
+              "title": "Episódio Extra: Consequências",
+              "air_date": "2021-07-08",
+              "overview": "A estreia de O Caso Evandro provoca reviravoltas no caso. Uma criança desaparecida se reconhece na série. O advogado de defesa processa o estado. E Osvaldo Marcineiro decide falar.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/fdmAio8qEMG2uLGbO8lPYsWkUMk.jpg",
+              "cast": [],
+              "message_ids": [
+                6922
+              ],
+              "video_message_id": 6922
             }
           ]
         }

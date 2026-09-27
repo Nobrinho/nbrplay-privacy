@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:39:30+00:00",
+  "generated_at": "2026-09-27T07:39:47+00:00",
   "channel": "-1004483833987",
-  "count": 2869,
-  "movie_count": 2723,
+  "count": 2870,
+  "movie_count": 2724,
   "series_count": 23,
   "episode_count": 146,
   "movies": [
@@ -87181,6 +87181,75 @@
         984
       ],
       "video_message_id": 984
+    },
+    {
+      "tmdb_id": 141052,
+      "title": "Liga da Justiça",
+      "original_title": "Justice League",
+      "year": "2017",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vQIwxoGxW46Skq5ipu0pBFKZTKd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2nyaeISu2xIxIgZYNpX4UayY8PN.jpg",
+      "overview": "Impulsionado pela restauração de sua fé na humanidade e inspirado pelo ato altruísta do Superman, Bruce Wayne convoca sua nova aliada Diana Prince para o combate contra um inimigo ainda maior, recém-despertado. Juntos, Batman e Mulher-Maravilha buscam e recrutam com agilidade um time de meta-humanos, mas mesmo com a formação da liga de heróis sem precedentes, poderá ser tarde demais para salvar o planeta de um catastrófico ataque.",
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Ficção científica"
+      ],
+      "cast": [
+        {
+          "name": "Ben Affleck",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+        },
+        {
+          "name": "Henry Cavill",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg"
+        },
+        {
+          "name": "Amy Adams",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1h2r2VTpoFb5QefAaBYYQgQzL9z.jpg"
+        },
+        {
+          "name": "Gal Gadot",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AbXKtWQwuDiwhoQLh34VRglwuBE.jpg"
+        },
+        {
+          "name": "Ezra Miller",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6wmTpbYpmhthaxzM5ss3377F9IV.jpg"
+        },
+        {
+          "name": "Jason Momoa",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+        },
+        {
+          "name": "Ray Fisher",
+          "photo_url": "https://image.tmdb.org/t/p/w185/310snvA05xDOQZDn2fJSp242GHw.jpg"
+        },
+        {
+          "name": "Jeremy Irons",
+          "photo_url": "https://image.tmdb.org/t/p/w185/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
+        },
+        {
+          "name": "Diane Lane",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6OfP3vFMuCL51zamFKgb8aS74hs.jpg"
+        },
+        {
+          "name": "Connie Nielsen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gSQ3O3PJ6ly6nT63joOtfZyscFP.jpg"
+        },
+        {
+          "name": "J.K. Simmons",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+        },
+        {
+          "name": "Ciarán Hinds",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+        }
+      ],
+      "message_ids": [
+        7179,
+        7180
+      ],
+      "video_message_id": 7180
     },
     {
       "tmdb_id": 791373,

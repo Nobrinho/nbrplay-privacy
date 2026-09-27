@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:13:12+00:00",
+  "generated_at": "2026-09-27T04:13:24+00:00",
   "channel": "-1004483833987",
-  "count": 2577,
-  "movie_count": 2569,
+  "count": 2578,
+  "movie_count": 2570,
   "series_count": 2,
   "episode_count": 8,
   "movies": [
@@ -30138,6 +30138,65 @@
         5496
       ],
       "video_message_id": 5496
+    },
+    {
+      "tmdb_id": 427451,
+      "title": "Banco ou Bitcoin",
+      "original_title": "Banking on Bitcoin",
+      "year": "2016",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qW3vsno24UBawZjnrKfQ1qHRPD6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9xsLWzEeDUjhHAIqjsKbDV3y7xJ.jpg",
+      "overview": "Not since the invention of the Internet has there been such a disruptive technology as Bitcoin. Bitcoin's early pioneers sought to blur the lines of sovereignty and the financial status quo. After years of underground development Bitcoin grabbed the attention of a curious public, and the ire of the regulators the technology had subverted. After landmark arrests of prominent cyber criminals Bitcoin faces its most severe adversary yet, the very banks it was built to destroy.",
+      "genres": [
+        "Documentário",
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "Wences Casares",
+          "photo_url": null
+        },
+        {
+          "name": "Nathaniel Popper",
+          "photo_url": null
+        },
+        {
+          "name": "Alex Winter",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2GM34tP0VZegydEXgCj541udTP9.jpg"
+        },
+        {
+          "name": "Rand Paul",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hzrKXLQd6X0ma7UcZhuyj6dkaOP.jpg"
+        },
+        {
+          "name": "Cameron Winklevoss",
+          "photo_url": "https://image.tmdb.org/t/p/w185/95R1S9LDLLXaM6SYvYclo06hpJN.jpg"
+        },
+        {
+          "name": "Andy Greenberg",
+          "photo_url": null
+        },
+        {
+          "name": "Tyler Winklevoss",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fbZC8DSCQtdHiJInhG8G4i8CIKH.jpg"
+        },
+        {
+          "name": "Michael Casey",
+          "photo_url": null
+        },
+        {
+          "name": "Gavin Andresen",
+          "photo_url": null
+        },
+        {
+          "name": "Paul Vigna",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6794
+      ],
+      "video_message_id": 6794
     },
     {
       "tmdb_id": 21301,

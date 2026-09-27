@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:52:40+00:00",
+  "generated_at": "2026-09-27T06:53:32+00:00",
   "channel": "-1004483833987",
-  "count": 2762,
-  "movie_count": 2685,
+  "count": 2765,
+  "movie_count": 2688,
   "series_count": 18,
   "episode_count": 77,
   "movies": [
@@ -31921,6 +31921,21 @@
         635
       ],
       "video_message_id": 635
+    },
+    {
+      "tmdb_id": 286323,
+      "title": "Bateau Mouche: O Naufrágio da Justiça — S01E02 — A Tempestade Perfeita",
+      "original_title": "Action Words! Vol. 3",
+      "year": "2025",
+      "poster_url": null,
+      "backdrop_url": null,
+      "overview": "Action Words! video series was created to help stimulate language development in infants and toddlers and introduces verbs into your child's budding vocabulary!",
+      "genres": [],
+      "cast": [],
+      "message_ids": [
+        7028
+      ],
+      "video_message_id": 7028
     },
     {
       "tmdb_id": 631842,
@@ -71455,6 +71470,73 @@
       "video_message_id": 1372
     },
     {
+      "tmdb_id": 239574,
+      "title": "Handsome Devils — S01E02 — Episódio 2",
+      "original_title": "Era una notte buia e tempestosa...",
+      "year": "2014",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6XUNRGfeLMWdlRZXtoUazk4Ebjq.jpg",
+      "backdrop_url": null,
+      "overview": "Three young people sharing a flat become friends.",
+      "genres": [
+        "Comédia",
+        "Romance"
+      ],
+      "cast": [
+        {
+          "name": "Athina Cenci",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ojLwsdLsIS1szIRJSsf5FcCoccC.jpg"
+        },
+        {
+          "name": "Alessandro Benvenuti",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xnMlW2zJArNkIMBQWEN4pc1vptL.jpg"
+        },
+        {
+          "name": "Daniele Trambusti",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3rIH8hPS7gv7bQQH5V3maPmT33d.jpg"
+        },
+        {
+          "name": "Maria Rosaria Omaggio",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hrZYJI94cGEOqof7KWOknUkcRJH.jpg"
+        },
+        {
+          "name": "Maurizio Dami",
+          "photo_url": null
+        },
+        {
+          "name": "Antonio Baudrocco",
+          "photo_url": null
+        },
+        {
+          "name": "Giovanni Chinnici Botta",
+          "photo_url": null
+        },
+        {
+          "name": "Clara Colosimo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rlKV4c5HiCB3zVx5QsX84XT3jvY.jpg"
+        },
+        {
+          "name": "Franco Cortese",
+          "photo_url": null
+        },
+        {
+          "name": "Michelangelo Lo Prete",
+          "photo_url": null
+        },
+        {
+          "name": "Marco Paoli",
+          "photo_url": null
+        },
+        {
+          "name": "Stefano Tirelli",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7031
+      ],
+      "video_message_id": 7031
+    },
+    {
       "tmdb_id": 50456,
       "title": "Hanna",
       "original_title": "Hanna",
@@ -103642,6 +103724,32 @@
         5876
       ],
       "video_message_id": 5876
+    },
+    {
+      "tmdb_id": 229277,
+      "title": "O Assassino do Baralho — S01E01 — Episódio 1",
+      "original_title": "Kuang Ther Mar Plon",
+      "year": "2023",
+      "poster_url": null,
+      "backdrop_url": null,
+      "overview": "1994 film by Thai martial arts director, Panna Rittikrai.\r Thai action supermo Panna Rittikrai stars as a hard boiled gangster who takes control of a Bangkok suburb with a violent and iron grip. Great fights and stunts galore.",
+      "genres": [
+        "Ação"
+      ],
+      "cast": [
+        {
+          "name": "Tunyaluk Ratchatar",
+          "photo_url": null
+        },
+        {
+          "name": "พันนา ฤทธิไกร",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ztvTI56VNksjMB0i9AM8us2NLE9.jpg"
+        }
+      ],
+      "message_ids": [
+        7024
+      ],
+      "video_message_id": 7024
     },
     {
       "tmdb_id": 9362,

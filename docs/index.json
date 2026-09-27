@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T03:43:25+00:00",
+  "generated_at": "2026-09-27T03:44:33+00:00",
   "channel": "-1004483833987",
-  "count": 2552,
-  "movie_count": 2552,
+  "count": 2553,
+  "movie_count": 2553,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -9640,6 +9640,73 @@
         1291
       ],
       "video_message_id": 1291
+    },
+    {
+      "tmdb_id": 566228,
+      "title": "A Inventora: À Procura de Sangue no Vale do Silício",
+      "original_title": "The Inventor: Out for Blood in Silicon Valley",
+      "year": "2019",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xxNvIvk12m5gTI8zxO6xW9nGyfD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/911kCT2YwGBhFz1CNDfb0La8ybG.jpg",
+      "overview": "Com uma nova invenção mágica que prometia revolucionar os testes de sangue, Elizabeth Holmes tornou-se a bilionária mais jovem do mundo, anunciada como o próximo Steve Jobs. Então, durante a noite, sua empresa de US $ 10 bilhões se dissolveu. A ascensão e queda de Theranos é uma janela para a psicologia da fraude.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Elizabeth Holmes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/s7ej8dZ7zncd4nPBrkBUbArnTJl.jpg"
+        },
+        {
+          "name": "Alex Gibney",
+          "photo_url": "https://image.tmdb.org/t/p/w185/g0Ugf78mLVtJIuKgsslMNTAnBmU.jpg"
+        },
+        {
+          "name": "Dan Ariely",
+          "photo_url": "https://image.tmdb.org/t/p/w185/en9PbX37I6mUiL1k0oD7A65WGNJ.jpg"
+        },
+        {
+          "name": "Roger Parloff",
+          "photo_url": "https://image.tmdb.org/t/p/w185/k7FX46M42bfmFdLvniwaeMJ2O86.jpg"
+        },
+        {
+          "name": "Ken Auletta",
+          "photo_url": null
+        },
+        {
+          "name": "Erika Cheung",
+          "photo_url": null
+        },
+        {
+          "name": "Cheryl Gafner",
+          "photo_url": null
+        },
+        {
+          "name": "Dave Philippides",
+          "photo_url": null
+        },
+        {
+          "name": "Douglas Matje",
+          "photo_url": null
+        },
+        {
+          "name": "Ryan Wistort",
+          "photo_url": null
+        },
+        {
+          "name": "Tony Nugent",
+          "photo_url": null
+        },
+        {
+          "name": "Phyllis Gardner",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uS6Iix0CGUfHN83v3lJHkdA0w9B.jpg"
+        }
+      ],
+      "message_ids": [
+        6769,
+        6770
+      ],
+      "video_message_id": 6770
     },
     {
       "tmdb_id": 44826,

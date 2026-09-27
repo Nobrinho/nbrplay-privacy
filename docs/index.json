@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:58:55+00:00",
+  "generated_at": "2026-09-27T20:02:45+00:00",
   "channel": "-1004483833987",
-  "count": 3071,
+  "count": 3072,
   "movie_count": 2805,
-  "series_count": 35,
-  "episode_count": 266,
+  "series_count": 36,
+  "episode_count": 267,
   "custom_count": 0,
   "movies": [
     {
@@ -190808,6 +190808,36 @@
                 6974
               ],
               "video_message_id": 6974
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 106282,
+      "title": "Sobrevivendo a Jeffrey Epstein",
+      "original_title": "Surviving Jeffrey Epstein",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3BZS3xqniTSkAMjmvIAWsnaVZp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/oA4XUQGydQWXnnKG5TKU58eheB.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 4,
+              "tmdb_id": 2385363,
+              "title": "Episódio 4",
+              "air_date": "2020-08-10",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/oA4XUQGydQWXnnKG5TKU58eheB.jpg",
+              "cast": [],
+              "message_ids": [
+                7458
+              ],
+              "video_message_id": 7458
             }
           ]
         }

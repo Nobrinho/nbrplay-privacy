@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T23:23:10+00:00",
+  "generated_at": "2026-09-27T23:23:15+00:00",
   "channel": "-1004483833987",
-  "count": 3107,
+  "count": 3108,
   "movie_count": 2811,
   "series_count": 42,
-  "episode_count": 296,
+  "episode_count": 297,
   "custom_count": 0,
   "movies": [
     {
@@ -188058,7 +188058,7 @@
       "title": "Galvão: Olha o Que Ele Fez",
       "original_title": "Galvão: Olha o Que Ele Fez",
       "poster_url": "https://image.tmdb.org/t/p/w500/vKiYPS4ovZYsJJ3z5VUSlBle8rl.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/gRWiQPoM0CdxQMhXE97Nend2nWC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tjqEBnTh2WHCykjZ4065ec35nkB.jpg",
       "genres": [
         "Documentário"
       ],
@@ -188066,6 +188066,28 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 4,
+              "tmdb_id": 4110616,
+              "title": "Ego nas alturas",
+              "air_date": "2023-05-25",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/tjqEBnTh2WHCykjZ4065ec35nkB.jpg",
+              "cast": [
+                {
+                  "name": "Galvão Bueno",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xMinaMBm3T9Lr0anZTXgA0TMfhi.jpg"
+                },
+                {
+                  "name": "Luca Bueno",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/jYzuIoly5WZGfJxp3FvOMfS5hMb.jpg"
+                }
+              ],
+              "message_ids": [
+                7504
+              ],
+              "video_message_id": 7504
+            },
             {
               "number": 5,
               "tmdb_id": 4110617,

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:27:41+00:00",
+  "generated_at": "2026-09-27T07:27:51+00:00",
   "channel": "-1004483833987",
-  "count": 2802,
+  "count": 2803,
   "movie_count": 2713,
   "series_count": 22,
-  "episode_count": 89,
+  "episode_count": 90,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -182559,6 +182559,45 @@
                 7082
               ],
               "video_message_id": 7082
+            },
+            {
+              "number": 4,
+              "tmdb_id": 908614,
+              "title": "A Coisa no Fosso",
+              "air_date": "2010-02-12",
+              "overview": "Após seu fracasso na luta contra Crixus, Spartacus é forçado a lutar no fosso. Batiatus precisa pagar a dívida para salvar sua vida.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/vHdU2ryKG8YSaxsdttJi1vmB6Qv.jpg",
+              "cast": [
+                {
+                  "name": "Andy Whitfield",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/yC50iAotrMDY03ha6R5zpHIaZDO.jpg"
+                },
+                {
+                  "name": "John Hannah",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/8GzJhaZrChZpv84SU4vAsvsR3cl.jpg"
+                },
+                {
+                  "name": "Manu Bennett",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/vwcTCQoRqfOjGZA1TPCx9TWTNht.jpg"
+                },
+                {
+                  "name": "Lucy Lawless",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7fYfVk6jtdCWuJEo9pEqc6O2JkD.jpg"
+                },
+                {
+                  "name": "Erin Cummings",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/4GpursPJJ6eImqos5XM5RlkDqI8.jpg"
+                },
+                {
+                  "name": "Craig Parker",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/gV5dbZ0gorOtIJXmJz7g3maDGgM.jpg"
+                }
+              ],
+              "message_ids": [
+                7083,
+                7084
+              ],
+              "video_message_id": 7084
             }
           ]
         }

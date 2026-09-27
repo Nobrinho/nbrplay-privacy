@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T15:52:51+00:00",
+  "generated_at": "2026-09-27T15:53:16+00:00",
   "channel": "-1004483833987",
-  "count": 2926,
-  "movie_count": 2769,
+  "count": 2927,
+  "movie_count": 2770,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -138880,6 +138880,24 @@
         5299
       ],
       "video_message_id": 5299
+    },
+    {
+      "tmdb_id": 668186,
+      "title": "Pouso na Lua: Os Vídeos Perdidos",
+      "original_title": "Moon Landing: The Lost Tapes",
+      "year": "2019",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fhQIAgEQxTkVlu4u9qbgLxWnM7V.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ceeLBcbtU2FFck9zRULzfyjqB9i.jpg",
+      "overview": "No 50º aniversário do histórico pouso na Lua, este documentário revela fitas perdidas dos astronautas da missão Apollo 11 e explora os perigos e desafios enfrentados durante a jornada rumo à Lua.",
+      "genres": [
+        "Documentário",
+        "Cinema TV"
+      ],
+      "cast": [],
+      "message_ids": [
+        7277
+      ],
+      "video_message_id": 7277
     },
     {
       "tmdb_id": 930951,

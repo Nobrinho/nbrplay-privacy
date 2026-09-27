@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:55:07+00:00",
+  "generated_at": "2026-09-27T07:56:10+00:00",
   "channel": "-1004483833987",
-  "count": 2912,
-  "movie_count": 2755,
+  "count": 2913,
+  "movie_count": 2756,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -171723,6 +171723,75 @@
         4543
       ],
       "video_message_id": 4543
+    },
+    {
+      "tmdb_id": 31397,
+      "title": "Uma Estranha de Los Angeles",
+      "original_title": "Alien from L.A.",
+      "year": "1988",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2cAt2hUoP0mmWrJMryCwlm43ieD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rwD8N3wvfxcDBborM1BCZ6AiExZ.jpg",
+      "overview": "O filme conta a história de Wanda, uma jovem desengonçada, sem mãe, rejeitada pelo pai e abandonada pelo namorado.  Um dia, ela recebe uma carta e uma passagem aérea para visitar um senhor que teria informações importantes sobre seu pai.  No entanto, durante a busca, ela cai em um buraco.  O buraco é um caminho para uma civilização perdida, chamada Atlantis.",
+      "genres": [
+        "Família",
+        "Ficção científica",
+        "Aventura"
+      ],
+      "cast": [
+        {
+          "name": "Kathy Ireland",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iuqJwQMDWGqRF5ZloPwwi3ZcrjW.jpg"
+        },
+        {
+          "name": "William R. Moses",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mbGteKONCey21NqRO5sfIIKs1UF.jpg"
+        },
+        {
+          "name": "Don Michael Paul",
+          "photo_url": "https://image.tmdb.org/t/p/w185/68anBJK0vHrbwiORHh8NDaoOaLH.jpg"
+        },
+        {
+          "name": "Thom Mathews",
+          "photo_url": "https://image.tmdb.org/t/p/w185/x1F6jwzwCFs2CgnGM50XV9lj08M.jpg"
+        },
+        {
+          "name": "Simon Poland",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eOnBcqGKynCg3rBd31vRvlzNIBq.jpg"
+        },
+        {
+          "name": "Linda Kerridge",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ftTVmvJgUpqWgwujkUXIDzI1FV4.jpg"
+        },
+        {
+          "name": "Deep Roy",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hXq63dj4WjwcKann7h9Wy7z7Ac7.jpg"
+        },
+        {
+          "name": "Jeff Celentano",
+          "photo_url": "https://image.tmdb.org/t/p/w185/529TK0OU7AmosBtsqVrOV3cB5sg.jpg"
+        },
+        {
+          "name": "Richard Haines",
+          "photo_url": null
+        },
+        {
+          "name": "Christian Andrews",
+          "photo_url": null
+        },
+        {
+          "name": "Lynda Marshall",
+          "photo_url": null
+        },
+        {
+          "name": "Greg Latter",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rquWDe8QatetbD1m991GP6TfKKU.jpg"
+        }
+      ],
+      "message_ids": [
+        7256,
+        7257
+      ],
+      "video_message_id": 7257
     },
     {
       "tmdb_id": 1148046,

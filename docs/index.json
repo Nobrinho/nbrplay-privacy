@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:50:30+00:00",
+  "generated_at": "2026-09-27T06:52:35+00:00",
   "channel": "-1004483833987",
-  "count": 2760,
+  "count": 2761,
   "movie_count": 2685,
-  "series_count": 17,
-  "episode_count": 75,
+  "series_count": 18,
+  "episode_count": 76,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -178582,6 +178582,42 @@
                 6862
               ],
               "video_message_id": 6862
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 239574,
+      "title": "Handsome Devils",
+      "original_title": "Handsome Devils",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sn5mwxf1C8vIqh5RqQI2x2P3FK7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xafN9eYiFLrQ3yBcVG3QBDGNt4s.jpg",
+      "genres": [
+        "Crime",
+        "Documentário"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 2,
+              "tmdb_id": 4922195,
+              "title": "Episódio 2",
+              "air_date": "2014-07-17",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/xafN9eYiFLrQ3yBcVG3QBDGNt4s.jpg",
+              "cast": [
+                {
+                  "name": "Sylvie Pamphile",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/sWdtFxzaLkJ8Y51D6pmynN3A0i.jpg"
+                }
+              ],
+              "message_ids": [
+                7031
+              ],
+              "video_message_id": 7031
             }
           ]
         }

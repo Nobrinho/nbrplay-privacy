@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:24:23+00:00",
+  "generated_at": "2026-09-27T04:24:35+00:00",
   "channel": "-1004483833987",
-  "count": 2599,
-  "movie_count": 2581,
+  "count": 2600,
+  "movie_count": 2582,
   "series_count": 5,
   "episode_count": 18,
   "movies": [
@@ -95091,6 +95091,34 @@
         637
       ],
       "video_message_id": 637
+    },
+    {
+      "tmdb_id": 32688,
+      "title": "Mundo Cão",
+      "original_title": "Mondo Cane",
+      "year": "1962",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kbAxCFfjgPMFhRasrkcrgLsO3pH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mSnbknxnpgnWu50yspMdVc23xLM.jpg",
+      "overview": "Mondo Cane. Com estas palavras, os diretores deram início ao sucesso internacional de crítica e público deste filme, bem como revolucionaram o gênero documentário para sempre. Filmado em vários rincões do mundo, este épico referencial explora a cultura da vida e da morte, a agonia dos homens e das feras, os tabus do sexo, e das religiões, a transformação da civilização doentia em barbárie. Algumas vezes belo, freqüentemente horripilante e ainda surpreendente, mantem-se um dos mais perturbadores e controversos filmes de todos os tempos. Este shockumentary - foi o começo de tudo. Este é Mondo Cane.  Temos nesta obra, a brilhante trilha musical de Nino Oliviero e Riz Ortolani, que inclui a música tema More, indicada ao Oscar.",
+      "genres": [
+        "Documentário",
+        "Terror"
+      ],
+      "cast": [
+        {
+          "name": "Rossano Brazzi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/MC2Dc5QTvuOP3VS7vuWW07EoOE.jpg"
+        },
+        {
+          "name": "Stefano Sibaldi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/13IekqzqVZGhiqJ9FitQ1ICSPmW.jpg"
+        }
+      ],
+      "message_ids": [
+        6819,
+        6820
+      ],
+      "video_message_id": 6820
     },
     {
       "tmdb_id": 412656,

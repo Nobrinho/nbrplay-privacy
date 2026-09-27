@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:54:34+00:00",
+  "generated_at": "2026-09-27T07:54:55+00:00",
   "channel": "-1004483833987",
-  "count": 2910,
-  "movie_count": 2753,
+  "count": 2911,
+  "movie_count": 2754,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -163590,6 +163590,75 @@
         4834
       ],
       "video_message_id": 4834
+    },
+    {
+      "tmdb_id": 9595,
+      "title": "Top Gang! Ases Muito Loucos",
+      "original_title": "Hot Shots!",
+      "year": "1991",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iCG8H1mcDS56akEwGuLc6sQfFXl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4RriqSJFCQkYpRhxFnQGh3sxZYY.jpg",
+      "overview": "Piloto talentoso e instável precisa superar os fantasmas de seu pai e salvar uma missão sabotada por fabricantes de armas gananciosos em meio a uma série de confusões e um enorme mal-entendido.",
+      "genres": [
+        "Ação",
+        "Comédia",
+        "Guerra"
+      ],
+      "cast": [
+        {
+          "name": "Charlie Sheen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/48GB5aISoibd9IYXBO40jrSgFRl.jpg"
+        },
+        {
+          "name": "Cary Elwes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9UszBdQJ9PmyBydIeIBxlStozhW.jpg"
+        },
+        {
+          "name": "Valeria Golino",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bLw0lNPEhICtbTLtnTswamefN7C.jpg"
+        },
+        {
+          "name": "Lloyd Bridges",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lO4HWxYvneC0dMFckK2WrKPZa9o.jpg"
+        },
+        {
+          "name": "Kevin Dunn",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7dqLQjMNCQnuxQJQwQ5Ozz16LBq.jpg"
+        },
+        {
+          "name": "Jon Cryer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7PB7dDNHP9l5LlCCw6GP8GjaCAE.jpg"
+        },
+        {
+          "name": "William O'Leary",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qaTKXEh5rl8PP7XThJAjC5DUChs.jpg"
+        },
+        {
+          "name": "Kristy Swanson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8gPVElKDCBllmfIP0pjZL9zISKv.jpg"
+        },
+        {
+          "name": "Efrem Zimbalist Jr.",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d1xwCJUtKxddiO3r1WAZQehd0is.jpg"
+        },
+        {
+          "name": "Bill Irwin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bAV5qsljgiHQkn3QluB5clVYC13.jpg"
+        },
+        {
+          "name": "Heidi Swedberg",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aDMeu2mOXgCYOXEr3U795BYpl7t.jpg"
+        },
+        {
+          "name": "Bruce A. Young",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6IFRI8plA00HKPcrubGYo9K23Kj.jpg"
+        }
+      ],
+      "message_ids": [
+        7252,
+        7253
+      ],
+      "video_message_id": 7253
     },
     {
       "tmdb_id": 744,

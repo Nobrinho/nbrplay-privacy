@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:17:15+00:00",
+  "generated_at": "2026-09-27T06:17:19+00:00",
   "channel": "-1004483833987",
-  "count": 2722,
+  "count": 2723,
   "movie_count": 2665,
   "series_count": 13,
-  "episode_count": 57,
+  "episode_count": 58,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -177586,6 +177586,69 @@
                 6978
               ],
               "video_message_id": 6978
+            },
+            {
+              "number": 2,
+              "tmdb_id": 5211955,
+              "title": "Episódio II - Sonho de Lenin",
+              "air_date": "2024-03-21",
+              "overview": "Conheça Lenin, o primeiro homem a tirar as ideias de Marx do papel, criando, assim, o primeiro país comunista do mundo e consolidando o poder do grupo político conhecido como bolcheviques;",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/kuqp72qgb5TLHod8VSUaL4WJ3G2.jpg",
+              "cast": [
+                {
+                  "name": "Karl Marx",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/eFaca4IMGc2gPStxK7TvSP9uEHb.jpg"
+                },
+                {
+                  "name": "Friedrich Engels",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/h6GxfgyLXOfuFc1XpAJvZ8nOr1h.jpg"
+                },
+                {
+                  "name": "Mikhail Bakunin",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/pxSkDUdp4031C2wM1kpQD4RKIWv.jpg"
+                },
+                {
+                  "name": "Vladimir Lenin",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3gPPlnU48vZcLC1Poo5vSL6j5gJ.jpg"
+                },
+                {
+                  "name": "Leon Trotsky",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ugXC8P9qAbLgQa6GpSobIk7x1SX.jpg"
+                },
+                {
+                  "name": "Joseph Stalin",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/lXOn6MhSwB3idCyZrM58ZiKreCH.jpg"
+                },
+                {
+                  "name": "Fidel Castro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/1L26bvwYjFEwp38ODyPTfDFej4B.jpg"
+                },
+                {
+                  "name": "Ernesto \"Che\" Guevara",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/vlOewYHCIf8oB18uppiOXLRPJ3y.jpg"
+                },
+                {
+                  "name": "Mao Tsé Tung",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/nuQSpbdD2i4jvBDB0TnvoVbD493.jpg"
+                },
+                {
+                  "name": "Simon Sebag Montefiore",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/o2wN8rccuBB50yJnnXkM1LW8SeN.jpg"
+                },
+                {
+                  "name": "Victor Sebestyen",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/1SDndbLwrmeMD6J3gdL9Nlqj6Mi.jpg"
+                },
+                {
+                  "name": "Stephen Smith",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xFAA41o33KUnD4ve9A50kpBxPp2.jpg"
+                }
+              ],
+              "message_ids": [
+                6979,
+                6980
+              ],
+              "video_message_id": 6980
             }
           ]
         }

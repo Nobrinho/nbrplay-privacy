@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:07:44+00:00",
+  "generated_at": "2026-09-27T07:11:35+00:00",
   "channel": "-1004483833987",
-  "count": 2783,
-  "movie_count": 2703,
+  "count": 2784,
+  "movie_count": 2704,
   "series_count": 19,
   "episode_count": 80,
   "movies": [
@@ -3471,6 +3471,28 @@
         4449
       ],
       "video_message_id": 4449
+    },
+    {
+      "tmdb_id": 783348,
+      "title": "500 - Os bebês roubados pela ditadura argentina",
+      "original_title": "500 - Os bebês roubados pela ditadura argentina",
+      "year": "2013",
+      "poster_url": "https://image.tmdb.org/t/p/w500/d8BcqTidjBVkIONudrIqgOEoVQ9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qjDnPhA8vJfvslq59TiPfxfwws6.jpg",
+      "overview": "Entre 1976 e 1983, a Argentina viveu sob uma ditadura militar e, um dos aterrorizantes atos do regime foi o sequestro de bebês e crianças, filhos de presos e desaparecidos políticos. Uma marca que nunca será apagada da história",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Alexandre Valenti",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7060
+      ],
+      "video_message_id": 7060
     },
     {
       "tmdb_id": 700391,

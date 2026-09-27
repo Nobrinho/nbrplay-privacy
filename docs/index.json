@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:05:39+00:00",
+  "generated_at": "2026-09-27T07:05:47+00:00",
   "channel": "-1004483833987",
-  "count": 2780,
-  "movie_count": 2700,
+  "count": 2781,
+  "movie_count": 2701,
   "series_count": 19,
   "episode_count": 80,
   "movies": [
@@ -145450,6 +145450,28 @@
         5514
       ],
       "video_message_id": 5514
+    },
+    {
+      "tmdb_id": 1249412,
+      "title": "Rogai Por Nós",
+      "original_title": "Rogai Por Nós",
+      "year": "2022",
+      "poster_url": "https://image.tmdb.org/t/p/w500/m0pQFHUpyLa1Mmax3pRVsvUVCFl.jpg",
+      "backdrop_url": null,
+      "overview": "Rogai Por Nós conta a história dos santos católicos, reverenciados no Brasil, com a apresentação de suas obras, milagres e ensinamentos edificantes.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Vanessa Gerbelli",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xfaVIYqEFrlFK7GrMZbXxD1dmA0.jpg"
+        }
+      ],
+      "message_ids": [
+        7056
+      ],
+      "video_message_id": 7056
     },
     {
       "tmdb_id": 330459,

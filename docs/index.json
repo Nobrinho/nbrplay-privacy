@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T15:54:09+00:00",
+  "generated_at": "2026-09-27T16:07:59+00:00",
   "channel": "-1004483833987",
-  "count": 2928,
-  "movie_count": 2771,
+  "count": 2929,
+  "movie_count": 2772,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -147088,6 +147088,30 @@
         1063
       ],
       "video_message_id": 1063
+    },
+    {
+      "tmdb_id": 273186,
+      "title": "Revolução Industrial",
+      "original_title": "Revolução Industrial",
+      "year": "2014",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qF4cvLwGqN65girJPKtpQyY0WzU.jpg",
+      "backdrop_url": null,
+      "overview": "The Ave Valley is, for more than a century, a territory seized by an imposing industry. Amongst ruins and operating factories, we descend the river on a journey alongside the banks of the present, unveiling the marks of the past.",
+      "genres": [
+        "História",
+        "Documentário",
+        "Mistério"
+      ],
+      "cast": [
+        {
+          "name": "Avelino Silva Dias",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7280
+      ],
+      "video_message_id": 7280
     },
     {
       "tmdb_id": 10851,

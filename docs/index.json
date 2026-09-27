@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T16:11:02+00:00",
+  "generated_at": "2026-09-27T16:11:31+00:00",
   "channel": "-1004483833987",
-  "count": 2937,
-  "movie_count": 2780,
+  "count": 2938,
+  "movie_count": 2781,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -108504,6 +108504,23 @@
         3909
       ],
       "video_message_id": 3909
+    },
+    {
+      "tmdb_id": 397093,
+      "title": "O Começo da Vida",
+      "original_title": "O Começo da Vida",
+      "year": "2016",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pVVWDrkbm49clF97ylqxfia7dLU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hfA3rmSm63bY8YeUqUYVMCh5tkc.jpg",
+      "overview": "Um dos maiores avanços da neurociência é ter descoberto que os bebês são muito mais do que uma carga genética. O desenvolvimento de todos os seres humanos encontra-se na combinação da genética com a qualidade das relações que desenvolvemos e do ambiente em que estamos inseridos.  O Começo da Vida convida todo mundo a refletir como parte da sociedade: estamos cuidando bem dos primeiros anos de vida, que definem tanto o presente quanto o futuro da humanidade?",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [],
+      "message_ids": [
+        7293
+      ],
+      "video_message_id": 7293
     },
     {
       "tmdb_id": 302946,

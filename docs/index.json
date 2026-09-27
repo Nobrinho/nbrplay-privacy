@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T02:45:01+00:00",
+  "generated_at": "2026-09-27T02:45:37+00:00",
   "channel": "-1004483833987",
-  "count": 2528,
-  "movie_count": 2528,
+  "count": 2529,
+  "movie_count": 2529,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -51004,6 +51004,71 @@
         4719
       ],
       "video_message_id": 4719
+    },
+    {
+      "tmdb_id": 14830,
+      "title": "Doutor Estranho",
+      "original_title": "Doctor Strange",
+      "year": "2007",
+      "poster_url": "https://image.tmdb.org/t/p/w500/OAPPwWLNKTh4AriTBkz9XwWD44.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/r72uEx8x2aFNygkr1cJeDIZJsbG.jpg",
+      "overview": "Como o novo Mago Supremo, Dr. Estranho testa seus limites, combatendo os monstros que guardam os portões e enfrentando a mais terrível entidade conhecida pela humanidade.",
+      "genres": [
+        "Ação",
+        "Animação",
+        "Fantasia",
+        "Ficção científica"
+      ],
+      "cast": [
+        {
+          "name": "Bryce Johnson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/m27ITiYlBJ4biPS8dmZ9W5QOPZX.jpg"
+        },
+        {
+          "name": "Paul Nakauchi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oKBP7IPy3OdGGNePltjdPVaMd5x.jpg"
+        },
+        {
+          "name": "Kevin Michael Richardson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg"
+        },
+        {
+          "name": "Michael Yama",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1TaxJr5SkPg2EdWGcMRE59NpXEF.jpg"
+        },
+        {
+          "name": "Susan Spano",
+          "photo_url": null
+        },
+        {
+          "name": "Jonathan Adams",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mkgyl2MciZ14wsYi6zedyj6hnR8.jpg"
+        },
+        {
+          "name": "Fred Tatasciore",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xodxYKRC9mdvgquTdqpmYldliJ3.jpg"
+        },
+        {
+          "name": "Tara Strong",
+          "photo_url": "https://image.tmdb.org/t/p/w185/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg"
+        },
+        {
+          "name": "Josh Keaton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9ss2EXbN0VarF1tM2Qotwxy6fJs.jpg"
+        },
+        {
+          "name": "Phil LaMarr",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+        },
+        {
+          "name": "Masasa Moyo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9TvAkxkLGsnREVqzg7JRHtSVzZW.jpg"
+        }
+      ],
+      "message_ids": [
+        6728
+      ],
+      "video_message_id": 6728
     },
     {
       "tmdb_id": 37527,

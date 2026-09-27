@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T22:00:51+00:00",
+  "generated_at": "2026-09-27T22:00:56+00:00",
   "channel": "-1004483833987",
-  "count": 3086,
+  "count": 3087,
   "movie_count": 2807,
   "series_count": 37,
-  "episode_count": 279,
+  "episode_count": 280,
   "custom_count": 0,
   "movies": [
     {
@@ -189058,6 +189058,37 @@
                 6951
               ],
               "video_message_id": 6951
+            },
+            {
+              "number": 4,
+              "tmdb_id": 4270159,
+              "title": "Silvio Santos Night Show",
+              "air_date": "2023-03-29",
+              "overview": "Obcecado, Silvio Santos decide transformar o SBT e toda a sua programação. Afastado de sua essência, ele entra em conflito com seus mais antigos funcionários, sem se dar conta de que pode colocar tudo a perder. Em 2010, com algumas informações sobre o passado da jornalista em mãos, Silvio tenta virar o jogo e transformá-la em sua aliada.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/3SUVGtd8RZo2tJww1MZaaozovdZ.jpg",
+              "cast": [
+                {
+                  "name": "José Rubens Chachá",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/1CvvDlkKL3W6jnuSr4OK6TJTp9K.jpg"
+                },
+                {
+                  "name": "Leona Cavalli",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/b1wi0Lkcf2UjlbWz9arhFwBKaff.jpg"
+                },
+                {
+                  "name": "Larissa Nunes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3zVdzi7SvNJbYH3mfEjm9YxkqNN.jpg"
+                },
+                {
+                  "name": "Daniela Paschoal",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/kI4Ohlg5gMr5TE8oT1XKpHYzMiZ.jpg"
+                }
+              ],
+              "message_ids": [
+                7480,
+                7481
+              ],
+              "video_message_id": 7481
             },
             {
               "number": 5,

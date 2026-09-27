@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:49:06+00:00",
+  "generated_at": "2026-09-27T04:50:57+00:00",
   "channel": "-1004483833987",
-  "count": 2626,
-  "movie_count": 2596,
+  "count": 2627,
+  "movie_count": 2597,
   "series_count": 7,
   "episode_count": 30,
   "movies": [
@@ -89061,6 +89061,36 @@
         941
       ],
       "video_message_id": 941
+    },
+    {
+      "tmdb_id": 701931,
+      "title": "Maserati: A Hundred Years Against All Odds",
+      "original_title": "Maserati: A Hundred Years Against All Odds",
+      "year": "2020",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hLMHNNKlJ6Zbn8tVTRei3RTLFGn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rmqX1opuYaQMt5T7BneVQ4tzM2j.jpg",
+      "overview": "Celebrate the long and storied history of one of the world's most recognizable icons, Maserati. From humble beginnings into a small Italian garage to the coveted and luxurious automobile we know today, witness the evolution of the business, the brand, and the cars themselves over 100 years. Featuring interviews with the Maserati family, world-famous racers, collectors, and more.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Nick Mason",
+          "photo_url": "https://image.tmdb.org/t/p/w185/krV54Bs4Kuyk4bHGRwT8jr3sbsQ.jpg"
+        },
+        {
+          "name": "Stirling Moss",
+          "photo_url": "https://image.tmdb.org/t/p/w185/66CI64Xz94moWojBOfm0bTRUjW4.jpg"
+        },
+        {
+          "name": "John Surtees",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gcaT2Vol8YDyCXHcW9UsvhNFRMR.jpg"
+        }
+      ],
+      "message_ids": [
+        6848
+      ],
+      "video_message_id": 6848
     },
     {
       "tmdb_id": 359410,

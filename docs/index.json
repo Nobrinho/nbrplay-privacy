@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:42:48+00:00",
+  "generated_at": "2026-09-27T06:43:24+00:00",
   "channel": "-1004483833987",
-  "count": 2754,
+  "count": 2755,
   "movie_count": 2683,
-  "series_count": 15,
-  "episode_count": 71,
+  "series_count": 16,
+  "episode_count": 72,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -179386,6 +179386,43 @@
                 6828
               ],
               "video_message_id": 6828
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 229277,
+      "title": "O Assassino do Baralho",
+      "original_title": "Baraja: La firma del asesino",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dAlCq0KT2bFjCdtHpMecTicuqnK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dvn3O6RCNndbQqmghlMtLiDqe2H.jpg",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Documentário"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 4546156,
+              "title": "Episódio 1",
+              "air_date": "2023-06-09",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/dvn3O6RCNndbQqmghlMtLiDqe2H.jpg",
+              "cast": [
+                {
+                  "name": "Francisco Javier Barroso",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7024
+              ],
+              "video_message_id": 7024
             }
           ]
         }

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:46:12+00:00",
+  "generated_at": "2026-09-27T07:46:21+00:00",
   "channel": "-1004483833987",
-  "count": 2887,
+  "count": 2888,
   "movie_count": 2736,
   "series_count": 25,
-  "episode_count": 151,
+  "episode_count": 152,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -183167,6 +183167,49 @@
                 7213
               ],
               "video_message_id": 7213
+            },
+            {
+              "number": 3,
+              "tmdb_id": 245427,
+              "title": "Deus Está de Boa",
+              "air_date": "1997-07-21",
+              "overview": "O diretor ameaça trancar a prisão a não ser que os líderes dos prisioneiros consigam manter seus rapazes em silêncio.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/4MigjBVwZcJ39qrq5MbsywOxUbX.jpg",
+              "cast": [
+                {
+                  "name": "Lee Tergesen",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qAldK2CeBVzeRZ9sqTd3zU9SiU1.jpg"
+                },
+                {
+                  "name": "Harold Perrineau",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/bVSLpGUaislREbujmknOqadrxYM.jpg"
+                },
+                {
+                  "name": "Dean Winters",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zxgOZAYGxa2qmiZkJKGRIhwbGhG.jpg"
+                },
+                {
+                  "name": "Eamonn Walker",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/mJ2pENrcO4uRy2TNVUzg5cEI9b3.jpg"
+                },
+                {
+                  "name": "Ernie Hudson",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/kgAdQA2ItCDVvKXufeDHc6Omiso.jpg"
+                },
+                {
+                  "name": "Terry Kinney",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/2Y6AeUUj1xUd5p7mRM9tFqUCN87.jpg"
+                },
+                {
+                  "name": "Edie Falco",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/jS2Hnr5OmntpX0J7EpH70zAG0mz.jpg"
+                }
+              ],
+              "message_ids": [
+                7214,
+                7215
+              ],
+              "video_message_id": 7215
             }
           ]
         }

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:28:07+00:00",
+  "generated_at": "2026-09-27T19:28:41+00:00",
   "channel": "-1004483833987",
-  "count": 3011,
+  "count": 3012,
   "movie_count": 2797,
   "series_count": 32,
-  "episode_count": 214,
+  "episode_count": 215,
   "custom_count": 0,
   "movies": [
     {
@@ -184356,6 +184356,37 @@
                 7387
               ],
               "video_message_id": 7387
+            },
+            {
+              "number": 6,
+              "tmdb_id": 3337286,
+              "title": "A Persistência da Memória",
+              "air_date": "2021-12-12",
+              "overview": "Em sua busca por vingança, Elle invade a casa de seu próximo alvo e é forçada a fazer um refém; O chefe Grant chama reforços.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/lxYvoHNu7SLIq1XIkSKR51b2h2h.jpg",
+              "cast": [
+                {
+                  "name": "Jessica Henwick",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hRrEqDIWlov1FvYRmBN2vLaAxyl.jpg"
+                },
+                {
+                  "name": "Will Yun Lee",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg"
+                },
+                {
+                  "name": "Wes Bentley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+                },
+                {
+                  "name": "Samira Wiley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/m45A0hYcpnGckwxqs7j0I6Sp2Dj.jpg"
+                }
+              ],
+              "message_ids": [
+                7388,
+                7389
+              ],
+              "video_message_id": 7389
             },
             {
               "number": 8,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T02:39:26+00:00",
+  "generated_at": "2026-09-27T02:39:35+00:00",
   "channel": "-1004483833987",
-  "count": 2520,
-  "movie_count": 2520,
+  "count": 2521,
+  "movie_count": 2521,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -71247,6 +71247,69 @@
         6309
       ],
       "video_message_id": 6309
+    },
+    {
+      "tmdb_id": 15257,
+      "title": "Hulk vs. Wolverine",
+      "original_title": "Hulk vs. Wolverine",
+      "year": "2009",
+      "poster_url": "https://image.tmdb.org/t/p/w500/p8PZfkrCuXanfYr3k6xAS6WzN8Y.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/Aack4R47Po0qtyvID374rRacuWB.jpg",
+      "overview": "No filme Hulk Vs. Wolverine, O incrível tem deixado um rastro de destruição na zona rural canadense. Ele tem que ser detido, e só existe um homem para o trabalho. Ele é o melhor no que faz, mas o que ele não é muito agradável. Ele é Wolverine, agente de elite do Departamento Secreto H do Canadá, Wolverine irá segui o rastro de Hulk com um único objetivo: parar o Monstro Verde a todo custo. Hulk e Wolveriene estão prestes a entrar na mais feroz batalha de suas vidas.",
+      "genres": [
+        "Animação",
+        "Ação",
+        "Ficção científica",
+        "Aventura",
+        "Fantasia"
+      ],
+      "cast": [
+        {
+          "name": "Fred Tatasciore",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xodxYKRC9mdvgquTdqpmYldliJ3.jpg"
+        },
+        {
+          "name": "Bryce Johnson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/m27ITiYlBJ4biPS8dmZ9W5QOPZX.jpg"
+        },
+        {
+          "name": "Steve Blum",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cpO0muunoigq1WHegeOEI1AIQAo.jpg"
+        },
+        {
+          "name": "Nolan North",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gb499KZIoBTZnKCGKE4zwzlcfSe.jpg"
+        },
+        {
+          "name": "Tom Kane",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sq49aVP56G50Nr5kCL7Ove6Z9jE.jpg"
+        },
+        {
+          "name": "Janyse Jaud",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7ZvfIfmgkU2B8jA25czUoKXXq6e.jpg"
+        },
+        {
+          "name": "Nicole Oliver",
+          "photo_url": "https://image.tmdb.org/t/p/w185/plAsVfhTrYaU78JrZbJSQ4uXpX1.jpg"
+        },
+        {
+          "name": "Mark Acheson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gY6VEIa7BoLjzMCaO3slSnocuah.jpg"
+        },
+        {
+          "name": "Colin Murdock",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6t5LJdFTW7VSu7UYULs22quJIT.jpg"
+        },
+        {
+          "name": "Qayam Devji",
+          "photo_url": "https://image.tmdb.org/t/p/w185/arrHuLjuUqkG3rE5zb0ugdzr79e.jpg"
+        }
+      ],
+      "message_ids": [
+        6713,
+        6714
+      ],
+      "video_message_id": 6714
     },
     {
       "tmdb_id": 1658572,

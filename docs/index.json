@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:50:01+00:00",
+  "generated_at": "2026-09-27T06:50:30+00:00",
   "channel": "-1004483833987",
-  "count": 2759,
-  "movie_count": 2684,
+  "count": 2760,
+  "movie_count": 2685,
   "series_count": 17,
   "episode_count": 75,
   "movies": [
@@ -41145,6 +41145,73 @@
         4882
       ],
       "video_message_id": 4882
+    },
+    {
+      "tmdb_id": 86843,
+      "title": "Com Grandes Poderes: A História de Stan Lee",
+      "original_title": "With Great Power: The Stan Lee Story",
+      "year": "2010",
+      "poster_url": "https://image.tmdb.org/t/p/w500/36OgSOnBYoqJWwtY1VX5tc2f1iG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mmzmtzzaDnkgN9N5NsZIUfjWahL.jpg",
+      "overview": "Aos 89 anos, Stan Lee tem seu nome associado a mais de um bilhão de quadrinhos em 75 países e 25 idiomas. Co-criador de mais de 500 personagens icônicos, como Homem-Aranha, X-Men, Quarteto Fantástico e Hulk, Lee continua a criar histórias e entreter fãs de todas as idades. *Com Grandes Poderes: A História de Stan Lee* explora sua vida, desde a infância durante a Grande Depressão até a era dos quadrinhos da Marvel e além. O documentário revela transcrições, ilustrações e fotografias de sua jornada, que inclui seus primeiros anos na Timely Comics, sua participação na Segunda Guerra Mundial, a luta contra a censura nos anos 50, o nascimento da Marvel Comics e os personagens que co-criou. O filme também aborda sua carreira atual com a POW! Entertainment e seu impacto duradouro na cultura pop e nos quadrinhos.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Stan Lee",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+        },
+        {
+          "name": "Joan Lee",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ZIOy95J2tBe7ufNRmNQNrntvts.jpg"
+        },
+        {
+          "name": "Sean Astin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg"
+        },
+        {
+          "name": "Kenneth Branagh",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+        },
+        {
+          "name": "Nicolas Cage",
+          "photo_url": "https://image.tmdb.org/t/p/w185/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+        },
+        {
+          "name": "Michael Chiklis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pAkKjbzxP6Z6Y5zAGpwmWQo1iji.jpg"
+        },
+        {
+          "name": "Thomas Haden Church",
+          "photo_url": "https://image.tmdb.org/t/p/w185/74NK9HCYvNafMggSp1PAK5Nwkpe.jpg"
+        },
+        {
+          "name": "Kirsten Dunst",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
+        },
+        {
+          "name": "Jon Favreau",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+        },
+        {
+          "name": "Lou Ferrigno",
+          "photo_url": "https://image.tmdb.org/t/p/w185/obTtRrm8EbDzuiKpLjAd9s1i9v5.jpg"
+        },
+        {
+          "name": "James Franco",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bjmAntHGiibLZixH8nTNVBzaFQn.jpg"
+        },
+        {
+          "name": "Samuel L. Jackson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+        }
+      ],
+      "message_ids": [
+        7029,
+        7030
+      ],
+      "video_message_id": 7030
     },
     {
       "tmdb_id": 1017633,

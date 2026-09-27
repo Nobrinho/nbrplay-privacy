@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:37:46+00:00",
+  "generated_at": "2026-09-27T05:39:26+00:00",
   "channel": "-1004483833987",
-  "count": 2660,
-  "movie_count": 2627,
+  "count": 2661,
+  "movie_count": 2628,
   "series_count": 8,
   "episode_count": 33,
   "movies": [
@@ -40859,6 +40859,41 @@
         6440
       ],
       "video_message_id": 6440
+    },
+    {
+      "tmdb_id": 438137,
+      "title": "Como ser Warren Buffett",
+      "original_title": "Becoming Warren Buffett",
+      "year": "2017",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sMS6f2uBu0tyGK9iowA21La9F1o.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uG1GUcp4z0ywuO8fjAU7eUz4Sie.jpg",
+      "overview": "Um olhar sincero sobre a vida de Warren Buffet, um multimilionário que apesar de dirigir a quarta maior companhia do mundo, ainda leva uma vida humilde em uma modesta casa em Omaha. Este documentário original HBO mostra uma nova perspectiva do homem que começou como um ambicioso menino de Nebraska e cresceu para se transformar, não somente em um dos empresários de maior sucesso do mundo, mas também em um dos filantropos mais respeitados.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Warren Buffett",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rv356zotYoQXiNxk00ar2TKduLl.jpg"
+        },
+        {
+          "name": "Susan Buffett",
+          "photo_url": null
+        },
+        {
+          "name": "Bill Gates",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eh5oNJmnfIJkqy3Ub8uRz9hHzQI.jpg"
+        },
+        {
+          "name": "Aiden Linkov",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6890,
+        6891
+      ],
+      "video_message_id": 6891
     },
     {
       "tmdb_id": 10191,

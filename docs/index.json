@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:40:42+00:00",
+  "generated_at": "2026-09-27T07:40:58+00:00",
   "channel": "-1004483833987",
-  "count": 2874,
-  "movie_count": 2728,
+  "count": 2875,
+  "movie_count": 2729,
   "series_count": 23,
   "episode_count": 146,
   "movies": [
@@ -116273,6 +116273,74 @@
         7188
       ],
       "video_message_id": 7188
+    },
+    {
+      "tmdb_id": 27764,
+      "title": "O Massacre 2",
+      "original_title": "Slumber Party Massacre II",
+      "year": "1987",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qn5Se7EGwCGFifvaakS4Mc7hVbR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/d7wDFWW2IeRdXn4RPOgw6ozrILu.jpg",
+      "overview": "Courtney, a irmã mais nova de Vallerie no primeiro filme cresceu agora, mas sofre de pesadelos macabros sobre o massacre na casa dos Cravens. Ela e os outros membros de seu grupo de rock feminino vão para a mansão dos pais de sua amiga para curtir o fim de semana,ensaiar com a banda e se divertir com os namorados. Os sonhos de Courtney são de sua irmã, que está em uma instituição mental,Os pesadelos ficam mais reais, e os sonhos começam a se tornar realiadede, atingindo Courtney e seus amigos.",
+      "genres": [
+        "Terror",
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Crystal Bernard",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bsuipk2YLkS09Fjkw0zlvkznhg1.jpg"
+        },
+        {
+          "name": "Jennifer Rhodes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dwEd76KplNjpu1Z6eHVPOpsZ9JG.jpg"
+        },
+        {
+          "name": "Kimberly McArthur",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jeX0btZiksWC83mYMk079vpsUxH.jpg"
+        },
+        {
+          "name": "Patrick Lowe",
+          "photo_url": null
+        },
+        {
+          "name": "Juliette Cummins",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1RP0YyosfzW5TUH65iEKyUvZptr.jpg"
+        },
+        {
+          "name": "Heidi Kozak",
+          "photo_url": "https://image.tmdb.org/t/p/w185/y2DANrFIgZnMLwFVlkabhwr1Rx5.jpg"
+        },
+        {
+          "name": "Cindy Eilbacher",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bRJevXNNn4ioryElqjVFjD5lxri.jpg"
+        },
+        {
+          "name": "Atanas Ilitch",
+          "photo_url": null
+        },
+        {
+          "name": "Joel Hoffman",
+          "photo_url": null
+        },
+        {
+          "name": "Scott Westmoreland",
+          "photo_url": null
+        },
+        {
+          "name": "Michael Delano",
+          "photo_url": "https://image.tmdb.org/t/p/w185/A0fqmlno4d6nXwSco5pDafazmI.jpg"
+        },
+        {
+          "name": "Hamilton Mitchell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oyaKqvrqrbwOdBgHlvWjc2zngb9.jpg"
+        }
+      ],
+      "message_ids": [
+        7189,
+        7190
+      ],
+      "video_message_id": 7190
     },
     {
       "tmdb_id": 30497,

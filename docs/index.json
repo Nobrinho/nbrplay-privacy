@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T15:43:33+00:00",
+  "generated_at": "2026-09-27T15:44:16+00:00",
   "channel": "-1004483833987",
-  "count": 2920,
-  "movie_count": 2763,
+  "count": 2921,
+  "movie_count": 2764,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -1937,6 +1937,21 @@
         1503
       ],
       "video_message_id": 1503
+    },
+    {
+      "tmdb_id": 278590,
+      "title": "101 Armas Que Mudaram o Mundo",
+      "original_title": "101 Weapons that Changed the World",
+      "year": "2013",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tZA7pQlAeXTg0q02702jkjPjtrc.jpg",
+      "backdrop_url": null,
+      "overview": "Da catapulta à tecnologia stealth, as armas mais básicas e as mais complexas parecem ter mudado o curso da história, e com elas nosso mundo. Os seres humanos se tornaram os mais perigosos depredadores da história, em sua sede de alimentar e expandir impérios. Mas apesar da evolução constante das armas, muitas vezes a mais simples (como a AK-47, que só tem 9 partes móveis) têm tirado mais vidas em um ano do que as tiradas pelas bombas atômicas de Hiroshima e Nagasaki em 1945. Prepare-se para esta contagem regressiva com cada golpe, estrondo e disparo inventado na história do homem.",
+      "genres": [],
+      "cast": [],
+      "message_ids": [
+        7270
+      ],
+      "video_message_id": 7270
     },
     {
       "tmdb_id": 505177,

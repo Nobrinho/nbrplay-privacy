@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T23:23:24+00:00",
+  "generated_at": "2026-09-27T23:23:28+00:00",
   "channel": "-1004483833987",
-  "count": 3110,
+  "count": 3111,
   "movie_count": 2811,
   "series_count": 42,
-  "episode_count": 299,
+  "episode_count": 300,
   "custom_count": 0,
   "movies": [
     {
@@ -188058,7 +188058,7 @@
       "title": "Galvão: Olha o Que Ele Fez",
       "original_title": "Galvão: Olha o Que Ele Fez",
       "poster_url": "https://image.tmdb.org/t/p/w500/vKiYPS4ovZYsJJ3z5VUSlBle8rl.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/AlhIRhJseKZTjLBYgPuqUv3VgKp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zdvlZSpXkp5fdrOZAKdRMSVIzr5.jpg",
       "genres": [
         "Documentário"
       ],
@@ -188066,6 +188066,28 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 4110613,
+              "title": "O menino por trás da voz",
+              "air_date": "2023-05-18",
+              "overview": "Os pais se separam e Galvão se torna uma criança sem raiz. A paixão pelo esporte é o caminho. Mas o trabalho faz dele um pai ausente.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/zdvlZSpXkp5fdrOZAKdRMSVIzr5.jpg",
+              "cast": [
+                {
+                  "name": "Galvão Bueno",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xMinaMBm3T9Lr0anZTXgA0TMfhi.jpg"
+                },
+                {
+                  "name": "Luca Bueno",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/jYzuIoly5WZGfJxp3FvOMfS5hMb.jpg"
+                }
+              ],
+              "message_ids": [
+                7507
+              ],
+              "video_message_id": 7507
+            },
             {
               "number": 2,
               "tmdb_id": 4110614,

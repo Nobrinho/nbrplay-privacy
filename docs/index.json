@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T03:40:17+00:00",
+  "generated_at": "2026-09-27T03:40:29+00:00",
   "channel": "-1004483833987",
-  "count": 2547,
-  "movie_count": 2547,
+  "count": 2548,
+  "movie_count": 2548,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -125709,6 +125709,41 @@
         5105
       ],
       "video_message_id": 5105
+    },
+    {
+      "tmdb_id": 695476,
+      "title": "Pai, Filho, Pátria",
+      "original_title": "Father Soldier Son",
+      "year": "2020",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ulUEelaJcab8uNZGyytFSuumXB9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8IjnyGbzcX5Ulb4kXLnecgWDEYA.jpg",
+      "overview": "Depois de sofrer um ferimento grave no Afeganistão, um soldado embarca com seus filhos em uma jornada de amor, perda, redenção e legado.",
+      "genres": [
+        "Documentário",
+        "Guerra"
+      ],
+      "cast": [
+        {
+          "name": "Brian Eisch",
+          "photo_url": null
+        },
+        {
+          "name": "Isaac Eisch",
+          "photo_url": null
+        },
+        {
+          "name": "Joey Eisch",
+          "photo_url": null
+        },
+        {
+          "name": "Roxanne Gregory",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6762
+      ],
+      "video_message_id": 6762
     },
     {
       "tmdb_id": 10147,

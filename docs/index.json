@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:49:27+00:00",
+  "generated_at": "2026-09-27T07:50:14+00:00",
   "channel": "-1004483833987",
-  "count": 2902,
-  "movie_count": 2745,
+  "count": 2903,
+  "movie_count": 2746,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -178447,6 +178447,75 @@
         5763
       ],
       "video_message_id": 5763
+    },
+    {
+      "tmdb_id": 1155058,
+      "title": "Watchmen: Capítulo 1",
+      "original_title": "Watchmen: Chapter I",
+      "year": "2024",
+      "poster_url": "https://image.tmdb.org/t/p/w500/x50RGRXzl2Ohib9t6aL6by4m4LW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4cazJU7Jjb5EukxmT7XRCoO9VnV.jpg",
+      "overview": "Em um mundo alternativo moldado por super-heróis, os outrora celebrados \"aventureiros fantasiados\" foram banidos por uma sociedade desencantada com o vigilantismo. Agora, em 1985, o assassinato do Comediante, um herói que se tornou agente do governo, chama a atenção de Rorschach, o último dos vigilantes banidos. A investigação de Rorschach envolve seus colegas aposentados, Nite Owl, Silk Spectre, Dr. Manhattan e Ozymandias, em um conflito com seus passados, uns com os outros e em um mistério que ameaça suas vidas e um mundo à beira da guerra.",
+      "genres": [
+        "Animação",
+        "Drama",
+        "Ficção científica"
+      ],
+      "cast": [
+        {
+          "name": "Troy Baker",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mppX8pDkwNvx3dJzclwcGkngEb3.jpg"
+        },
+        {
+          "name": "Adrienne Barbeau",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8uQqjG63SFCkmgdFB4SG8wRQmfp.jpg"
+        },
+        {
+          "name": "Corey Burton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wcpFwdL7m01cZoBJiUSMQVakK2G.jpg"
+        },
+        {
+          "name": "Michael Cerveris",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vahLGniF2yY8I11ZtzhhhXVTbDc.jpg"
+        },
+        {
+          "name": "Jeffrey Combs",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dfWcxKNsyGuN18GjWkbOmMhO4c9.jpg"
+        },
+        {
+          "name": "Grey DeLisle",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+        },
+        {
+          "name": "Kelly Hu",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jLhnDPiUIrIcdKJYnnVSZ4nbgyh.jpg"
+        },
+        {
+          "name": "John Marshall Jones",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8aQ8qxVOeUx23Jw89ouj9gOwy1W.jpg"
+        },
+        {
+          "name": "Max Koch",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bi7D9dmHQur9r0YeakZ5xOpJhcs.jpg"
+        },
+        {
+          "name": "Phil LaMarr",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+        },
+        {
+          "name": "Yuri Lowenthal",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aLgXm0kbbIC8I5OBmnsK8TgVKwy.jpg"
+        },
+        {
+          "name": "Geoff Pierson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vIhxKBwqV19CwHdPuycmkchYOba.jpg"
+        }
+      ],
+      "message_ids": [
+        7237,
+        7238
+      ],
+      "video_message_id": 7238
     },
     {
       "tmdb_id": 13183,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:24:22+00:00",
+  "generated_at": "2026-09-27T19:26:39+00:00",
   "channel": "-1004483833987",
-  "count": 2999,
-  "movie_count": 2791,
+  "count": 3003,
+  "movie_count": 2795,
   "series_count": 31,
   "episode_count": 208,
   "custom_count": 0,
@@ -36000,6 +36000,75 @@
       "video_message_id": 4662
     },
     {
+      "tmdb_id": 292532,
+      "title": "Brasil 70: A Saga do Tri — S01E05 — Eu não morri",
+      "original_title": "Wicked Spring",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/s9qtTzz7zcV6A9eMAz8Ml74TRON.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/o3aOmchAYXtPsabMhwNDOkq5VA.jpg",
+      "overview": "During the 1864 battle of the Wilderness, three Union soldiers and three Confederate Soldiers get seperated from their units as twilight engulfs the ravaged battlefield. The men wander alone through the dangerous woods, separate of each other, until they meet by chance on the banks of a quiet creek. The men meet and spend the night around a campfire, not realizing they are enemies until the next morning when the sun rises and a new day of battle begins.",
+      "genres": [
+        "Faroeste",
+        "Drama",
+        "Guerra"
+      ],
+      "cast": [
+        {
+          "name": "Brian Merrick",
+          "photo_url": null
+        },
+        {
+          "name": "DJ Perry",
+          "photo_url": null
+        },
+        {
+          "name": "Terry Jernigan",
+          "photo_url": null
+        },
+        {
+          "name": "Aaron Jackson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gajMGmXfGPPJesTdAoz1MTuHFGA.jpg"
+        },
+        {
+          "name": "Vondie Curtis-Hall",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eJbwjnUB3VGGioAtQTmiYI4k7lH.jpg"
+        },
+        {
+          "name": "Mark Lacy",
+          "photo_url": null
+        },
+        {
+          "name": "Lindsey Ingram",
+          "photo_url": null
+        },
+        {
+          "name": "Rebecca Lawlor",
+          "photo_url": null
+        },
+        {
+          "name": "John Pagano",
+          "photo_url": null
+        },
+        {
+          "name": "Anthony Hornus",
+          "photo_url": null
+        },
+        {
+          "name": "Jim Schruefer",
+          "photo_url": null
+        },
+        {
+          "name": "Barry Privett",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7361,
+        7362
+      ],
+      "video_message_id": 7362
+    },
+    {
       "tmdb_id": 631904,
       "title": "Brasil Football Club",
       "original_title": "Brasil Football Club",
@@ -55904,6 +55973,76 @@
         5805
       ],
       "video_message_id": 5805
+    },
+    {
+      "tmdb_id": 50572,
+      "title": "Duelo até a Morte",
+      "original_title": "生死決",
+      "year": "1983",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cfWUUgPJgDoungZg9EAE0VIbC1u.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/x03QH4nwFTLhFchMj8FUYKXh19P.jpg",
+      "overview": "A cada 10 anos, os melhores espadachins do Japão e da China travam um duelo até a morte em nome da honra de seus países. Com o duelo se aproximando, o campeão chinês Ching Wan e o campeão japonês Hashimoto descobrem uma trama de traições por trás do duelo, e passam a questionar seus papéis no conflito iminente.",
+      "genres": [
+        "Ação",
+        "Drama",
+        "Fantasia",
+        "Romance"
+      ],
+      "cast": [
+        {
+          "name": "徐少強",
+          "photo_url": "https://image.tmdb.org/t/p/w185/k3uX6Sa5NuKepM1w48p8cRksKgJ.jpg"
+        },
+        {
+          "name": "劉松仁",
+          "photo_url": "https://image.tmdb.org/t/p/w185/68XKvV0tjeZOnNM1OyenbAR50Xl.jpg"
+        },
+        {
+          "name": "張天愛",
+          "photo_url": "https://image.tmdb.org/t/p/w185/31suD8IJdFzs4JBnUqoS5yoG5qJ.jpg"
+        },
+        {
+          "name": "高雄",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1Zsn0zSmo5AS5p527XDaZvD0i3y.jpg"
+        },
+        {
+          "name": "張沖",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pIyhvE3PyKaDl9cahuWzQXKm9FT.jpg"
+        },
+        {
+          "name": "권영문",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9XhxVkKIigw5iqnSCPtLLmHgyHE.jpg"
+        },
+        {
+          "name": "楊澤霖",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qcRuGyA38BDCPMzv0O6dXp8aXsm.jpg"
+        },
+        {
+          "name": "韩国材",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yyDXxl4tEPWF4MsK7utL4oVyX4y.jpg"
+        },
+        {
+          "name": "卡薩伐",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xdvbEae6w85nDKtRAqDSbgppFen.jpg"
+        },
+        {
+          "name": "Lau Yat-Fan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5ZzL9wBTfCAHwpju6SvcVCGVsKO.jpg"
+        },
+        {
+          "name": "鄭孟霞",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nh6lsFVunVFyfI3Jnp2gBL3kW7N.jpg"
+        },
+        {
+          "name": "劉晃世",
+          "photo_url": "https://image.tmdb.org/t/p/w185/p5XQSP6VBzYGM5SZHaRS55k6lGR.jpg"
+        }
+      ],
+      "message_ids": [
+        7371,
+        7372
+      ],
+      "video_message_id": 7372
     },
     {
       "tmdb_id": 841,
@@ -81500,6 +81639,73 @@
       "video_message_id": 6258
     },
     {
+      "tmdb_id": 302,
+      "title": "Jim Rome Is Burning — S01E01 — Episódio 1",
+      "original_title": "Swimming Pool",
+      "year": "2003",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uF2evDwmm7WswpcjGKAULdM0Lxs.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/q0kZOxL6OMSeDlT6SRNKCJYStlF.jpg",
+      "overview": "Uma escritora britânica busca inspiração e solidão na casa de férias de seu editor no sul da França. Sua quietude logo é interrompida pelo estilo de vida imprudente e erótico da filha dele. As interações turbulentas entre as duas desencadeiam uma série de acontecimentos perturbadores.",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Charlotte Rampling",
+          "photo_url": "https://image.tmdb.org/t/p/w185/Htvl9mN6mlf2a18RAFzNXF3RiG.jpg"
+        },
+        {
+          "name": "Ludivine Sagnier",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hd4fLjgtgNEidJOjuLNGfK1sOhm.jpg"
+        },
+        {
+          "name": "Charles Dance",
+          "photo_url": "https://image.tmdb.org/t/p/w185/28ElvRC5ftOSzZBFM0cn4XrwH36.jpg"
+        },
+        {
+          "name": "Marc Fayolle",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2Cvct2fmu1vUuc0UGLJF1jlN4bi.jpg"
+        },
+        {
+          "name": "Jean-Marie Lamour",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aqd6lgXXjwDfoDOUgdtk2sE6viR.jpg"
+        },
+        {
+          "name": "Mireille Mossé",
+          "photo_url": null
+        },
+        {
+          "name": "Michel Fau",
+          "photo_url": null
+        },
+        {
+          "name": "Jean-Claude Lecas",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dAnsAGS3kkp2RQ2YbScUUhBUCaK.jpg"
+        },
+        {
+          "name": "Émilie Gavois-Kahn",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1UWOiaw6O7VlcCwujtJpZb9ATD2.jpg"
+        },
+        {
+          "name": "Erarde Forestali",
+          "photo_url": null
+        },
+        {
+          "name": "Lauren Farrow",
+          "photo_url": null
+        },
+        {
+          "name": "Sebastian Harcombe",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7360
+      ],
+      "video_message_id": 7360
+    },
+    {
       "tmdb_id": 115782,
       "title": "Jobs",
       "original_title": "Jobs",
@@ -97456,6 +97662,71 @@
         5354
       ],
       "video_message_id": 5354
+    },
+    {
+      "tmdb_id": 323111,
+      "title": "Michael Jackson: O Veredito — S01E03 — Episódio 3",
+      "original_title": "Semper Fi",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8WzhW02Wd3X5HZs6OITRqUdFOaz.jpg",
+      "backdrop_url": null,
+      "overview": "Cliff Truckee refuses a privileged start in life at a top college while other young men are enlisting. On the bus out of Chicago he meets a girl on her way to join the Marines, falls in love and decides to do the same. Paris Island is physically tough, but it is troubles that are brought from home that endanger some recruits success, in an extreme case even a life. Team bonding is changing Cliff, but so can a broken heart.",
+      "genres": [
+        "Ação",
+        "Drama",
+        "Cinema TV"
+      ],
+      "cast": [
+        {
+          "name": "Scott Bairstow",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pxvumZ8VGyVcafP98iMLqHPhOls.jpg"
+        },
+        {
+          "name": "Steve Burton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/57CLC5pCHjgrgU6YJtyMHMSHwLY.jpg"
+        },
+        {
+          "name": "Vicellous Shannon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rgWqPIgDSgFoIEYjXw9rdnHVFXy.jpg"
+        },
+        {
+          "name": "Alex Burns",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hW8ZX1720qlcEQ5Qkaq6HMuidgW.jpg"
+        },
+        {
+          "name": "Bianca Kajlich",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mJdcpCgnR4nJLcCivk3E4jThuNn.jpg"
+        },
+        {
+          "name": "Michael Peña",
+          "photo_url": "https://image.tmdb.org/t/p/w185/afs4PCiwn8LR93a10drULLVeVLo.jpg"
+        },
+        {
+          "name": "Tammy Townsend",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vIZSa3ITSLELHUywN9LcN8LwjZ8.jpg"
+        },
+        {
+          "name": "Terry O'Quinn",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kSweOGPprLe1vDvu38wJQaWIih7.jpg"
+        },
+        {
+          "name": "Greg Serano",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bqKA6wmh7j4HVTm0FfsYCOBGTKo.jpg"
+        },
+        {
+          "name": "Lana Parrilla",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jw0H1hMEW9xJ4atAzGMMRUFiys.jpg"
+        },
+        {
+          "name": "Keith David",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg"
+        }
+      ],
+      "message_ids": [
+        7356,
+        7357
+      ],
+      "video_message_id": 7357
     },
     {
       "tmdb_id": 696506,

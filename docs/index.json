@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:40:07+00:00",
+  "generated_at": "2026-09-27T05:40:12+00:00",
   "channel": "-1004483833987",
-  "count": 2666,
+  "count": 2667,
   "movie_count": 2629,
   "series_count": 9,
-  "episode_count": 37,
+  "episode_count": 38,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -175253,6 +175253,69 @@
                 6901
               ],
               "video_message_id": 6901
+            },
+            {
+              "number": 5,
+              "tmdb_id": 4823715,
+              "title": "Episódio 5",
+              "air_date": "2023-11-16",
+              "overview": "Anderson continuará lutando ou viverá de sua fama como Spider? Por causa de uma perda amarga, Anderson começa a consertar relacionamentos que sofreram por causa de seu sucesso.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/bXo6hJh1evVnCHKLpXPgQECIayI.jpg",
+              "cast": [
+                {
+                  "name": "William Nascimento",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/wXrex1kLUW8DZmQ9UUndATI2sf9.jpg"
+                },
+                {
+                  "name": "Seu Jorge",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/p8VUk0ZSzfAF9uWjWg2jEVpPtTy.jpg"
+                },
+                {
+                  "name": "Jeniffer Dias",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/fic7v1eY6jO76xyhjlM3TyoU9PY.jpg"
+                },
+                {
+                  "name": "Tatiana Tiburcio",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/nINTA2OP0USeBT23GJ1wwX9DxsB.jpg"
+                },
+                {
+                  "name": "Bruno Vinicius",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/rJWCMYEkJ2Ie8b5XgnYO7FLZPh.jpg"
+                },
+                {
+                  "name": "Caetano Vieira",
+                  "photo_url": null
+                },
+                {
+                  "name": "Douglas Silva",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7C2ZoLBU0W2gwnGbNRbi1cyIU2h.jpg"
+                },
+                {
+                  "name": "Iza Moreira",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/rxrpouximelRZVvVTFipEhMQMth.jpg"
+                },
+                {
+                  "name": "Larissa Nunes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3zVdzi7SvNJbYH3mfEjm9YxkqNN.jpg"
+                },
+                {
+                  "name": "Lívia Silva",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/4RVM81EVloIUkOdoZU6Fxx2wf02.jpg"
+                },
+                {
+                  "name": "Milhem Cortaz",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/vA9hgFemy6JHxgjdbQW78xZyAnq.jpg"
+                },
+                {
+                  "name": "Vaneza Oliveira",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/6LwVfDcys25Z3ZsCPMaALLdmV3b.jpg"
+                }
+              ],
+              "message_ids": [
+                6902,
+                6903
+              ],
+              "video_message_id": 6903
             }
           ]
         }

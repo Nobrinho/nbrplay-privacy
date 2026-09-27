@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:58:36+00:00",
+  "generated_at": "2026-09-27T06:58:52+00:00",
   "channel": "-1004483833987",
-  "count": 2770,
-  "movie_count": 2693,
+  "count": 2771,
+  "movie_count": 2694,
   "series_count": 18,
   "episode_count": 77,
   "movies": [
@@ -41799,6 +41799,73 @@
         4584
       ],
       "video_message_id": 4584
+    },
+    {
+      "tmdb_id": 1291143,
+      "title": "Como Roubar um Banco",
+      "original_title": "How to Rob a Bank",
+      "year": "2024",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wbpo8IBtg1NZ4FHJxMaRTPJoBUg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yjf0RWXeZ0FyStOD5e0i0KlnBVE.jpg",
+      "overview": "Neste documentário sobre crimes reais, um rebelde carismático faz uma série de roubos a banco dignos de cinema na década de 1990 em Seattle.",
+      "genres": [
+        "Documentário",
+        "Crime"
+      ],
+      "cast": [
+        {
+          "name": "Jordan Burtchett",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wXCUmxrCh9KJPTCPCIUCw83K2K1.jpg"
+        },
+        {
+          "name": "Mark Biggins",
+          "photo_url": null
+        },
+        {
+          "name": "Susan Dodd",
+          "photo_url": null
+        },
+        {
+          "name": "Ellen Glasser",
+          "photo_url": null
+        },
+        {
+          "name": "Steven Harper",
+          "photo_url": null
+        },
+        {
+          "name": "Deborah Horne",
+          "photo_url": null
+        },
+        {
+          "name": "Shawn Johnson",
+          "photo_url": null
+        },
+        {
+          "name": "David Kerley",
+          "photo_url": null
+        },
+        {
+          "name": "Gavin Langelo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tBFFnPzif4Fhzkio9Cd2rvBskKq.jpg"
+        },
+        {
+          "name": "Scott Levine",
+          "photo_url": null
+        },
+        {
+          "name": "T.J. Losey",
+          "photo_url": null
+        },
+        {
+          "name": "Mike Magan",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7039
+      ],
+      "video_message_id": 7039
     },
     {
       "tmdb_id": 1824,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:28:22+00:00",
+  "generated_at": "2026-09-27T06:28:38+00:00",
   "channel": "-1004483833987",
-  "count": 2739,
-  "movie_count": 2676,
+  "count": 2740,
+  "movie_count": 2677,
   "series_count": 14,
   "episode_count": 63,
   "movies": [
@@ -14127,6 +14127,56 @@
         657
       ],
       "video_message_id": 657
+    },
+    {
+      "tmdb_id": 1689600,
+      "title": "A República",
+      "original_title": "A República",
+      "year": "2025",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6XZd30JKCnT6e73IcY1fHczd6er.jpg",
+      "backdrop_url": null,
+      "overview": "Melissa, a young girl who has always lived in her own bubble, begins a new chapter when she starts college and decides to live in a student house. There, she allows herself to have new experiences, going through a process of growing up and gradually discovering a new family.",
+      "genres": [
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Fiona Colaço",
+          "photo_url": null
+        },
+        {
+          "name": "Bento Furlan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aeMLlin5EBanLEOcldWW8NEJMED.jpg"
+        },
+        {
+          "name": "Rafa Brant",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1tQWVXX9w0GkACtFWfpV4NDt1cQ.jpg"
+        },
+        {
+          "name": "Giulia Ramos",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2UB2ZlGfkiiKPCVHnR0UXjV8rVn.jpg"
+        },
+        {
+          "name": "Beatriz Vasconcellos",
+          "photo_url": null
+        },
+        {
+          "name": "Yuri Marques",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gweSCvIerbizvzOUw4upqgJE5iv.jpg"
+        },
+        {
+          "name": "Sofia J. Torrealba",
+          "photo_url": null
+        },
+        {
+          "name": "Miguel Trevizani",
+          "photo_url": "https://image.tmdb.org/t/p/w185/c4BzUQZZCU64tJYO8NKKWjm807r.jpg"
+        }
+      ],
+      "message_ids": [
+        7001
+      ],
+      "video_message_id": 7001
     },
     {
       "tmdb_id": 23048,

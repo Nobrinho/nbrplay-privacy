@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T15:53:16+00:00",
+  "generated_at": "2026-09-27T15:54:09+00:00",
   "channel": "-1004483833987",
-  "count": 2927,
-  "movie_count": 2770,
+  "count": 2928,
+  "movie_count": 2771,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -120595,6 +120595,73 @@
         3340
       ],
       "video_message_id": 3340
+    },
+    {
+      "tmdb_id": 33308,
+      "title": "O Poder da Mente",
+      "original_title": "Unspeakable",
+      "year": "2003",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ws6GROYMy46uaR4rxZbLSN2HH2E.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7VYpAMHOK1EKpBhbZ54nIenprQs.jpg",
+      "overview": "Apesar das objeções do diretor Blakely, a psicóloga penitenciária Diana Purlow viaja profundamente na mente do serial killer Jesse Mowat em uma tentativa desesperada de revelar a origem de suas tendências psicóticas.",
+      "genres": [
+        "Terror"
+      ],
+      "cast": [
+        {
+          "name": "Dina Meyer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1AQEXem8soBEKjjDhE0mOyXtjCG.jpg"
+        },
+        {
+          "name": "Pavan Grover",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9189YJKUbf0jJPJLAphy0ytQMYG.jpg"
+        },
+        {
+          "name": "Lance Henriksen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1PkFmD5HdjmRa2DumtwINnnAjTH.jpg"
+        },
+        {
+          "name": "Dennis Hopper",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kqyNvLHi5RZGZcZMxl7e6XvoB5U.jpg"
+        },
+        {
+          "name": "Jeff Fahey",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zRu1ZmM7ekKwKbmXn3U0VjD8Wyd.jpg"
+        },
+        {
+          "name": "Luce Rains",
+          "photo_url": "https://image.tmdb.org/t/p/w185/az7wB3HJNQ7T3TmDdZ3rIdZ6bxO.jpg"
+        },
+        {
+          "name": "Michelle Wolff",
+          "photo_url": "https://image.tmdb.org/t/p/w185/q8FRwYJ1WNYzXWUuFuZ72hwENmX.jpg"
+        },
+        {
+          "name": "Mark Voltura",
+          "photo_url": null
+        },
+        {
+          "name": "Angelo Jaramillo",
+          "photo_url": null
+        },
+        {
+          "name": "J.D. Garfield",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7omIUAP7WPEXkS0OtFUmqXCgTq9.jpg"
+        },
+        {
+          "name": "Michael Crabtree",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sLKKuCl3LMIqIblR9fgfaqEMLMZ.jpg"
+        },
+        {
+          "name": "Anthony Dilio",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ooRTkCVCuOCGI4c5fc4z5jllBaX.jpg"
+        }
+      ],
+      "message_ids": [
+        7278,
+        7279
+      ],
+      "video_message_id": 7279
     },
     {
       "tmdb_id": 50348,

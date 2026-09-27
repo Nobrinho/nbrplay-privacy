@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T02:36:29+00:00",
+  "generated_at": "2026-09-27T02:36:54+00:00",
   "channel": "-1004483833987",
-  "count": 2515,
-  "movie_count": 2515,
+  "count": 2516,
+  "movie_count": 2516,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -21884,6 +21884,75 @@
         4922
       ],
       "video_message_id": 4922
+    },
+    {
+      "tmdb_id": 788045,
+      "title": "Anne Frank, Minha Melhor Amiga",
+      "original_title": "Mijn beste vriendin Anne Frank",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xI1OdOVyHuiIw4DYrH1hnQQk8P5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/giutn8OjG6WPQ7eqlk9PoJQyCae.jpg",
+      "overview": "Baseado na história real da amizade entre Anne Frank e Hannah Goslar, da ocupação nazista em Amsterdã ao angustiante reencontro em um campo de concentração.",
+      "genres": [
+        "História",
+        "Guerra",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Josephine Arendsen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/y7nGxasHFE16CpuOKGDdk7FlL8f.jpg"
+        },
+        {
+          "name": "Aiko Beemsterboer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ng1nu4yks5cvo2oxWt4W29RLlxQ.jpg"
+        },
+        {
+          "name": "Roeland Fernhout",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ifRueSipFaJ2txu60ySNFIL65cU.jpg"
+        },
+        {
+          "name": "Hans Peterson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3MI8UXBJCvi2l46KcAOgcSU3QB8.jpg"
+        },
+        {
+          "name": "Rein Hofman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tj1C5TbTkT56sqLvYxNqoGXiHRH.jpg"
+        },
+        {
+          "name": "Joep Paddenburg",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qSmisMR8OZ86wE4oYM52pxj8djC.jpg"
+        },
+        {
+          "name": "Lottie Hellingman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sCe6Xn8nOYlxVzn4m8cZAxAkEh.jpg"
+        },
+        {
+          "name": "Ariane Schluter",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oQdGo6V7yLOMfr9xl9uXo9u7PtL.jpg"
+        },
+        {
+          "name": "Peter Blok",
+          "photo_url": "https://image.tmdb.org/t/p/w185/q8ByeMv8i8hBwMGEkwaEAE2GUBA.jpg"
+        },
+        {
+          "name": "Stefan de Walle",
+          "photo_url": "https://image.tmdb.org/t/p/w185/urE8mkFySX2gDmMLlsjC1zhouIw.jpg"
+        },
+        {
+          "name": "Lieneke le Roux",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zJ8fzbChnoLB4ZaVJ3Jl74UbTzb.jpg"
+        },
+        {
+          "name": "Jordán Adél",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pcb4jdYClrjuvqKvX4YwwCvIHeA.jpg"
+        }
+      ],
+      "message_ids": [
+        6703,
+        6704
+      ],
+      "video_message_id": 6704
     },
     {
       "tmdb_id": 1064213,

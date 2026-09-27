@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:01:50+00:00",
+  "generated_at": "2026-09-27T07:02:35+00:00",
   "channel": "-1004483833987",
-  "count": 2774,
-  "movie_count": 2697,
+  "count": 2775,
+  "movie_count": 2698,
   "series_count": 18,
   "episode_count": 77,
   "movies": [
@@ -51090,6 +51090,23 @@
         6361
       ],
       "video_message_id": 6361
+    },
+    {
+      "tmdb_id": 1636918,
+      "title": "Detox de Plástico",
+      "original_title": "The Plastic Detox",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/q97dOzjJNNz1Kw2lWZkdEjzJttp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/q3VkiqQi7syrVANAK8PjgIry0Vx.jpg",
+      "overview": "Este documentário acompanha seis casais com problemas inexplicáveis de fertilidade que diminuem a exposição aos plásticos na esperança de conseguir engravidar.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [],
+      "message_ids": [
+        7046
+      ],
+      "video_message_id": 7046
     },
     {
       "tmdb_id": 9760,

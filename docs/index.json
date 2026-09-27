@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:40:43+00:00",
+  "generated_at": "2026-09-27T04:40:55+00:00",
   "channel": "-1004483833987",
-  "count": 2620,
-  "movie_count": 2590,
+  "count": 2621,
+  "movie_count": 2591,
   "series_count": 7,
   "episode_count": 30,
   "movies": [
@@ -91795,6 +91795,72 @@
         1382
       ],
       "video_message_id": 1382
+    },
+    {
+      "tmdb_id": 763119,
+      "title": "Meu Sangue é Vermelho",
+      "original_title": "Meu Sangue é Vermelho",
+      "year": "2019",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f2szRIWAsuhDxD20hHhmcEkzttd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/c3HdnwD7Mf3PrMaqnyUtpPUfizG.jpg",
+      "overview": "Um jovem rapper indígena tenta encontrar sua identidade em meio ao genocídio de seu povo.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Criolo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sr6zjJQbafHTDmsxE2JoA7f4Gag.jpg"
+        },
+        {
+          "name": "Sonia Guajajara",
+          "photo_url": null
+        },
+        {
+          "name": "Vincent Carelli",
+          "photo_url": null
+        },
+        {
+          "name": "Werá Jeguaka Mirim",
+          "photo_url": null
+        },
+        {
+          "name": "Damiana Apyka'i",
+          "photo_url": null
+        },
+        {
+          "name": "Nivaldo Apyka'i",
+          "photo_url": null
+        },
+        {
+          "name": "Tonico Benites",
+          "photo_url": null
+        },
+        {
+          "name": "Inaldo Gamela",
+          "photo_url": null
+        },
+        {
+          "name": "Olivio Jekupé",
+          "photo_url": null
+        },
+        {
+          "name": "Fernanda Kaingang",
+          "photo_url": null
+        },
+        {
+          "name": "Ailton Krenak",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wos9ItOuevRVY9BHVPZze6iFVMG.jpg"
+        },
+        {
+          "name": "Mr. Bomba",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6839
+      ],
+      "video_message_id": 6839
     },
     {
       "tmdb_id": 47263,

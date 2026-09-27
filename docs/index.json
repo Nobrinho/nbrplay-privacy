@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T22:43:55+00:00",
+  "generated_at": "2026-09-27T22:43:59+00:00",
   "channel": "-1004483833987",
-  "count": 3092,
+  "count": 3093,
   "movie_count": 2807,
-  "series_count": 38,
-  "episode_count": 285,
+  "series_count": 39,
+  "episode_count": 286,
   "custom_count": 0,
   "movies": [
     {
@@ -184859,6 +184859,41 @@
                 7068
               ],
               "video_message_id": 7068
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 235540,
+      "title": "Big Vape",
+      "original_title": "Big Vape: The Rise and Fall of Juul",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dI0kGcAZ3SLikVYmfxkkdbKa68d.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xPkJyTy40yPYf7d69vUhjY3BNSm.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 4,
+              "tmdb_id": 4749476,
+              "title": "Bilionários da noite para o dia",
+              "air_date": "2023-10-11",
+              "overview": "Os fundadores da Juul se tornam bilionários, mas alguns funcionários ficam divididos. Uma crise de saúde ligada ao uso do vape põe em risco o futuro da empresa.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/xPkJyTy40yPYf7d69vUhjY3BNSm.jpg",
+              "cast": [
+                {
+                  "name": "David Pierce",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7487
+              ],
+              "video_message_id": 7487
             }
           ]
         }

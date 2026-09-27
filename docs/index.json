@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:41:10+00:00",
+  "generated_at": "2026-09-27T07:41:24+00:00",
   "channel": "-1004483833987",
-  "count": 2876,
-  "movie_count": 2730,
+  "count": 2877,
+  "movie_count": 2731,
   "series_count": 23,
   "episode_count": 146,
   "movies": [
@@ -55972,6 +55972,61 @@
         6571
       ],
       "video_message_id": 6571
+    },
+    {
+      "tmdb_id": 9267,
+      "title": "E Agora para Algo Completamente Diferente",
+      "original_title": "And Now for Something Completely Different",
+      "year": "1971",
+      "poster_url": "https://image.tmdb.org/t/p/w500/h8FMTtglpIKbYry2srUjNAj9pla.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aDFKsJW39VxoFcs9oTcMPpMiSZQ.jpg",
+      "overview": "Monty Python em \"E Agora Algo Completamente Diferente\" é uma miscelânea de excertos completamente loucos e atrevidos da lendária série de televisão da BBC \"Monty Python's Flying Circus\", que é tida como um marco histórico da comédia britânica.  Considerado o primeira longa-metragem dos Monty Python, esta antologia inclui pontos altos como, por exemplo, \"Como não se deixar ver\" no qual os participantes são severamente punidos por serem apanhados, bem como um conselheiro matrimonial que faz amor com a mulher do paciente, ou um contador que quer ser domador de leões, além de sequências divertidíssimas como a do papagaio morto e a do programa de televisão \"Chantagem\" que convida os espectadores a enviarem dinheiro para evitar escândalos.  \"E Agora Algo Completamente Diferente\" é um filme obrigatório para os fãs dos Monty Python e para todos que gostam do humor excêntrico e negro dos britânicos.",
+      "genres": [
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Graham Chapman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qmTXDGNxuuwQ4IGNHwxmCdjuTGk.jpg"
+        },
+        {
+          "name": "John Cleese",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nQpBf77cStmR35V0XOinm2zZMWG.jpg"
+        },
+        {
+          "name": "Terry Gilliam",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7qBkaXxANmnb6hqQCBc4iWqXEL6.jpg"
+        },
+        {
+          "name": "Eric Idle",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1Vj7Lvrl8OHby7AeOK1Z07JyeMp.jpg"
+        },
+        {
+          "name": "Terry Jones",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lQQuz4YhDwDe0xJ1Sl5VB0aMqGD.jpg"
+        },
+        {
+          "name": "Michael Palin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gWz8S2FEUEm1f3LQrN8cSUjnfhu.jpg"
+        },
+        {
+          "name": "Carol Cleveland",
+          "photo_url": "https://image.tmdb.org/t/p/w185/woaXQdK0DZpWSxvRBCpmWZn7ZAn.jpg"
+        },
+        {
+          "name": "Connie Booth",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qyPfZ7GcqSGNBCFjaOCWFOBSPzS.jpg"
+        },
+        {
+          "name": "Lesley Judd",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7193,
+        7194
+      ],
+      "video_message_id": 7194
     },
     {
       "tmdb_id": 117534,

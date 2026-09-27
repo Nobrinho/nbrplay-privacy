@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:12:56+00:00",
+  "generated_at": "2026-09-27T04:13:12+00:00",
   "channel": "-1004483833987",
-  "count": 2576,
-  "movie_count": 2568,
+  "count": 2577,
+  "movie_count": 2569,
   "series_count": 2,
   "episode_count": 8,
   "movies": [
@@ -4019,6 +4019,72 @@
         3740
       ],
       "video_message_id": 3740
+    },
+    {
+      "tmdb_id": 407806,
+      "title": "A 13ª Emenda",
+      "original_title": "13th",
+      "year": "2016",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3DVJArQJ3zSTvc34Bve0diIwTJz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hwn9CN2x5Qhm3laLRvZlXttL6LU.jpg",
+      "overview": "Estudiosos, ativistas e políticos analisam a correlação entre a criminalização da população negra dos EUA e o boom do sistema carcerário do país.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Jelani Cobb",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ltl1gmFGw96zPqSCXoT1pJoV0Z4.jpg"
+        },
+        {
+          "name": "Angela Davis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rCGiP5iycqFodkrxslZl19IsIcf.jpg"
+        },
+        {
+          "name": "Henry Louis Gates, Jr.",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3yykjP9JTqDZRIPZFBpHpLk1hFX.jpg"
+        },
+        {
+          "name": "Michelle Alexander",
+          "photo_url": "https://image.tmdb.org/t/p/w185/af2ybpGlXZgUfm2axcJh80nEGTp.jpg"
+        },
+        {
+          "name": "Cory Booker",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qbs1ZFOQK8iTZmYuB94gVkaNbvM.jpg"
+        },
+        {
+          "name": "Marie Gottschalk",
+          "photo_url": "https://image.tmdb.org/t/p/w185/q18irjqb0RV1P2j5OytV8pWOPY5.jpg"
+        },
+        {
+          "name": "Michael Hough",
+          "photo_url": null
+        },
+        {
+          "name": "Gina Clayton",
+          "photo_url": null
+        },
+        {
+          "name": "David Keene",
+          "photo_url": null
+        },
+        {
+          "name": "James Kilgore",
+          "photo_url": null
+        },
+        {
+          "name": "Bryan Stevenson",
+          "photo_url": null
+        },
+        {
+          "name": "Nicholas Turner",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6793
+      ],
+      "video_message_id": 6793
     },
     {
       "tmdb_id": 1026999,

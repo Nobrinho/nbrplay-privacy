@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T03:42:51+00:00",
+  "generated_at": "2026-09-27T03:43:00+00:00",
   "channel": "-1004483833987",
-  "count": 2549,
-  "movie_count": 2549,
+  "count": 2550,
+  "movie_count": 2550,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -62550,6 +62550,72 @@
         5273
       ],
       "video_message_id": 5273
+    },
+    {
+      "tmdb_id": 567860,
+      "title": "Fyre Festival: Fiasco no Caribe",
+      "original_title": "Fyre",
+      "year": "2019",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yFsP0BAJhAH3RTXCAnGvI1CtaUb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5i2prsAzznXWGSmhkr9yMh5tnmO.jpg",
+      "overview": "O Fyre Festival prometia ser uma experiência musical de luxo numa ilha exclusiva, mas a arrogância de seu produtor colocou tudo a perder.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Billy McFarland",
+          "photo_url": null
+        },
+        {
+          "name": "Ja Rule",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jiYEwuTCkp0vW14eHLFDRJ9v111.jpg"
+        },
+        {
+          "name": "Jason Bell",
+          "photo_url": null
+        },
+        {
+          "name": "Gabrielle Bluestone",
+          "photo_url": null
+        },
+        {
+          "name": "Shiyuan Deng",
+          "photo_url": null
+        },
+        {
+          "name": "Michael Ciccarelli",
+          "photo_url": null
+        },
+        {
+          "name": "Mdavid Low",
+          "photo_url": null
+        },
+        {
+          "name": "Samuel Krost",
+          "photo_url": null
+        },
+        {
+          "name": "Andy King",
+          "photo_url": null
+        },
+        {
+          "name": "J.R.",
+          "photo_url": null
+        },
+        {
+          "name": "Brett Kincaid",
+          "photo_url": null
+        },
+        {
+          "name": "Mick Purzycki",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6765
+      ],
+      "video_message_id": 6765
     },
     {
       "tmdb_id": 1284856,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T16:09:24+00:00",
+  "generated_at": "2026-09-27T16:10:37+00:00",
   "channel": "-1004483833987",
-  "count": 2933,
-  "movie_count": 2776,
+  "count": 2934,
+  "movie_count": 2777,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -72308,6 +72308,37 @@
         859
       ],
       "video_message_id": 859
+    },
+    {
+      "tmdb_id": 93633,
+      "title": "Hackers: Criminosos e Anjos",
+      "original_title": "Hackers: Outlaws and Angels",
+      "year": "2002",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6jtuBXmL2Bm8lXGZLltUfi8EMI1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5SXMABNJxaGs4dnqNAMAvB8d659.jpg",
+      "overview": "Enquanto as ciências da computação buscam abranger cada vez mais todas as áreas e atividades do nosso cotidiano, governos, empresas e o público em geral tornam-se vítimass do terrorismo cibernético, da espionagem industrial emúltiplas formas de fraude. Este documentário investiga o mundo do crime cibernético: as vítimas, os invasores, seus métodos e suas motivações. Vamos nos aprofundar neste mundo sombrio, enquanto os organismos da lei contam com a ajuda de ex-hackers para tentar proteger cidadãos e instituições do que pode-se prever como um verdadeiro caos eletrônico.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Steve Wozniak",
+          "photo_url": "https://image.tmdb.org/t/p/w185/e82vzfieRhpZ961pkTZbpfsWi6Z.jpg"
+        },
+        {
+          "name": "Qarie Marshall",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1tDGiwZ6qTfa3DgtYKEb3iFcjuZ.jpg"
+        },
+        {
+          "name": "Ian Arthur Murphy",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mwfZMa6c8rc8RLzdYFjfdnubc9H.jpg"
+        }
+      ],
+      "message_ids": [
+        7287,
+        7288
+      ],
+      "video_message_id": 7288
     },
     {
       "tmdb_id": 1585208,

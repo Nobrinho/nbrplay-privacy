@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:49:06+00:00",
+  "generated_at": "2026-09-27T07:49:27+00:00",
   "channel": "-1004483833987",
-  "count": 2901,
-  "movie_count": 2744,
+  "count": 2902,
+  "movie_count": 2745,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -28305,6 +28305,57 @@
         5166
       ],
       "video_message_id": 5166
+    },
+    {
+      "tmdb_id": 602688,
+      "title": "Assassino de Aluguel",
+      "original_title": "The Bounty Killer",
+      "year": "2018",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eYIkE5wwM2rQgMyKdAkrnhYZ5zQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zDEUW2YakWKR7X0UGxlhGBj6d1E.jpg",
+      "overview": "Um assassino de aluguel e caçador de recompensas é contratado por um latifundiário mexicano para resgatar sua filha, que foi sequestrada por uma gangue bandidos no dia de seu casamento.",
+      "genres": [
+        "Ação",
+        "Faroeste"
+      ],
+      "cast": [
+        {
+          "name": "Crispian Belfrage",
+          "photo_url": "https://image.tmdb.org/t/p/w185/a7TALOuiI7QZZOUeIFPYOWUaDQC.jpg"
+        },
+        {
+          "name": "Ethan McDowell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oSl1Ek1T8Xr8PJIryDf2YGDcvFD.jpg"
+        },
+        {
+          "name": "David Gilliam",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9mwuTYuzrta6PwUVcNACIeR0f7v.jpg"
+        },
+        {
+          "name": "Antonio Mayans",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vA1qDHVekxZR3QMZJYVnemIB6wN.jpg"
+        },
+        {
+          "name": "Naila Mansour",
+          "photo_url": null
+        },
+        {
+          "name": "Nadia Lanfranconi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fqvM9ec940Q4urOh3G89rbqQC2T.jpg"
+        },
+        {
+          "name": "Aaron Stielstra",
+          "photo_url": "https://image.tmdb.org/t/p/w185/y87E6AwNzXAqqyr6T3cFKdOg3d7.jpg"
+        },
+        {
+          "name": "Lenore Andriel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8uxCZlYFynFpJuuzrDdXzru2xur.jpg"
+        }
+      ],
+      "message_ids": [
+        7236
+      ],
+      "video_message_id": 7236
     },
     {
       "tmdb_id": 535265,

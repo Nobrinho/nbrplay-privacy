@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:21:33+00:00",
+  "generated_at": "2026-09-27T04:23:22+00:00",
   "channel": "-1004483833987",
-  "count": 2592,
-  "movie_count": 2579,
+  "count": 2593,
+  "movie_count": 2580,
   "series_count": 4,
   "episode_count": 13,
   "movies": [
@@ -4754,6 +4754,23 @@
         2485
       ],
       "video_message_id": 2485
+    },
+    {
+      "tmdb_id": 1104229,
+      "title": "A Braskem passou por aqui: A catástrofe de Maceió",
+      "original_title": "A Braskem passou por aqui: A catástrofe de Maceió",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7M3ocuUmngzFhyeHbNZgj2PXyqr.jpg",
+      "backdrop_url": null,
+      "overview": "O documentário retrata o maior crime socioambiental em curso no mundo, que condenou cinco bairros na capital alagoana pelo afundamento do solo, tendo atingido quase 70.000 pessoas, 4.500 negócios e 30 mil empregos. A empresa Braskem explora minas de sal-gema há mais de quatro décadas em 35 minas a cerca de 1.200 metros de profundidade. Os desabamentos das minas ocorrem há mais de dez anos, já tendo formado crateras subterrâneas do tamanho do Complexo Esportivo do Maracanã. O documentário traz depoimentos de moradores, associações de vítimas, líderes comunitários, cientistas, militantes de movimentos sociais e representantes de órgãos públicos.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [],
+      "message_ids": [
+        6810
+      ],
+      "video_message_id": 6810
     },
     {
       "tmdb_id": 310131,

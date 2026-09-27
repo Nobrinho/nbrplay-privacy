@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T22:44:54+00:00",
+  "generated_at": "2026-09-27T22:50:42+00:00",
   "channel": "-1004483833987",
-  "count": 3100,
+  "count": 3101,
   "movie_count": 2807,
-  "series_count": 40,
-  "episode_count": 293,
+  "series_count": 41,
+  "episode_count": 294,
   "custom_count": 0,
   "movies": [
     {
@@ -186029,6 +186029,37 @@
                 7463
               ],
               "video_message_id": 7463
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 226403,
+      "title": "Como Criar um Escândalo Sexual",
+      "original_title": "How to Create a Sex Scandal",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mN1VpSxee3QQivoosYuzXS7s9Oy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/68H6AhOHtcv1X9eqp2pPHdZ4aIz.jpg",
+      "genres": [
+        "Documentário",
+        "Crime"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 3,
+              "tmdb_id": 4437093,
+              "title": "Episódio 3",
+              "air_date": "2023-05-23",
+              "overview": "Quando a verdade vem a tona, pais e filhos ficam livres para reconstruir suas vidas, mas uma ultima verdade precisa ser revelada.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/68H6AhOHtcv1X9eqp2pPHdZ4aIz.jpg",
+              "cast": [],
+              "message_ids": [
+                7501
+              ],
+              "video_message_id": 7501
             }
           ]
         }

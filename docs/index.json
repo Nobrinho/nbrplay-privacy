@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:53:23+00:00",
+  "generated_at": "2026-09-27T07:54:34+00:00",
   "channel": "-1004483833987",
-  "count": 2909,
-  "movie_count": 2752,
+  "count": 2910,
+  "movie_count": 2753,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -128726,6 +128726,75 @@
         4446
       ],
       "video_message_id": 4446
+    },
+    {
+      "tmdb_id": 10897,
+      "title": "Os Batutinhas",
+      "original_title": "The Little Rascals",
+      "year": "1994",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dj2ZDfh7oi2zY1V957tQ42G8aim.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/GGtBQDAl7CtZtTFTCUUoYHVHyJ.jpg",
+      "overview": "Batatinha (Travis Tedford), Porky (Zachary Mabry) , Alfalfa (Bug Hall), Stymie (Kevin Jamal Woods) e outros meninos integram um grupo de garotos que simplesmente detesta garotas. Entretanto o clube se sente traído quando Alfafa se apaixona por Darla (Brittany Ashton Holmes) e os meninos começam a aprontar divertidas confusões para separar o novo casal.",
+      "genres": [
+        "Romance",
+        "Comédia",
+        "Família"
+      ],
+      "cast": [
+        {
+          "name": "Bug Hall",
+          "photo_url": "https://image.tmdb.org/t/p/w185/axuZx8nn7R7ohlkfnxO9k3TIGiq.jpg"
+        },
+        {
+          "name": "Brittany Ashton Holmes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8wV95voN0vX7CSTbwaQV87Ty7cM.jpg"
+        },
+        {
+          "name": "Travis Tedford",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mVfFFVKhxADeJgyZkdmUmWTY9R1.jpg"
+        },
+        {
+          "name": "Kevin Jamal Woods",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hL7bQ6VmiXgnAHgQ20OUIsKZdZz.jpg"
+        },
+        {
+          "name": "Jordan Warkol",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3PKc7upjRt4JmkjlwIgKjDmsL7u.jpg"
+        },
+        {
+          "name": "Zachary Mabry",
+          "photo_url": "https://image.tmdb.org/t/p/w185/10lmmasKRPJhPwukCQGt74vcaZQ.jpg"
+        },
+        {
+          "name": "Ross Bagley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/modarNXEmohsS1cEstQ6ppVeMlX.jpg"
+        },
+        {
+          "name": "Courtland Mead",
+          "photo_url": "https://image.tmdb.org/t/p/w185/71Npi8B3YfSbOOXo5uvT5Nhn3Ah.jpg"
+        },
+        {
+          "name": "Sam Saletta",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rekTUrHdRmxIMdadujaj7gmtnkF.jpg"
+        },
+        {
+          "name": "Blake Jeremy Collins",
+          "photo_url": "https://image.tmdb.org/t/p/w185/22guUMxVi5P9TMVYV76NdgsuVNY.jpg"
+        },
+        {
+          "name": "Blake McIver Ewing",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8TFz5gIYNNttwVQZgllHbygYKv6.jpg"
+        },
+        {
+          "name": "Juliette Brewer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/c8pxfyYFR92YiTrecnj2l5pMNnP.jpg"
+        }
+      ],
+      "message_ids": [
+        7250,
+        7251
+      ],
+      "video_message_id": 7251
     },
     {
       "tmdb_id": 769,

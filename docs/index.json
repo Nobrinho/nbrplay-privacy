@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:17:07+00:00",
+  "generated_at": "2026-09-27T05:17:39+00:00",
   "channel": "-1004483833987",
-  "count": 2645,
-  "movie_count": 2612,
+  "count": 2646,
+  "movie_count": 2613,
   "series_count": 8,
   "episode_count": 33,
   "movies": [
@@ -174124,6 +174124,60 @@
         1473
       ],
       "video_message_id": 1473
+    },
+    {
+      "tmdb_id": 1661246,
+      "title": "Πράκτωρ 00Λεφτά",
+      "original_title": "Πράκτωρ 00Λεφτά",
+      "year": "2022",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dGs6xuAIwkDpoNjApDBVEfM7337.jpg",
+      "backdrop_url": null,
+      "overview": null,
+      "genres": [
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Μάρκος Σεφερλής",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xWuFbka0dOH34i3Mf0CJlKcml4i.jpg"
+        },
+        {
+          "name": "Γιάννης Καπετάνιος",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lVz8gfvThPHoB1DGBZ8PBXDnaDq.jpg"
+        },
+        {
+          "name": "Έλενα Τσαβαλιά",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6KmwgnYLtYDvrRWpO39hI663Jeb.jpg"
+        },
+        {
+          "name": "Αρετή Ζαχαριάδου",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7Jw9AcfjsCxheM2eQ7tVquVWMmm.jpg"
+        },
+        {
+          "name": "Γιάννης Αγριόμαλλος",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yz1bBte7nopovXy9kWHxgEKBxL0.jpg"
+        },
+        {
+          "name": "Ανάργυρος Βαζαίος",
+          "photo_url": null
+        },
+        {
+          "name": "Λεωνίδας Ιορδάνου",
+          "photo_url": null
+        },
+        {
+          "name": "Νίκος Λάιος",
+          "photo_url": null
+        },
+        {
+          "name": "Χριστιάνα Καρνέζη",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wQKjCNW62iA15xJzeAqKBdRNDVs.jpg"
+        }
+      ],
+      "message_ids": [
+        6872
+      ],
+      "video_message_id": 6872
     },
     {
       "tmdb_id": 1274391,

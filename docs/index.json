@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T18:55:03+00:00",
+  "generated_at": "2026-09-27T18:55:08+00:00",
   "channel": "-1004483833987",
-  "count": 2964,
+  "count": 2965,
   "movie_count": 2786,
   "series_count": 27,
-  "episode_count": 178,
+  "episode_count": 179,
   "custom_count": 0,
   "movies": [
     {
@@ -183717,7 +183717,7 @@
       "title": "Blade Runner: Black Lotus",
       "original_title": "Blade Runner: Black Lotus",
       "poster_url": "https://image.tmdb.org/t/p/w500/4e0bY3weyKiVe58kMS34ddOdc4Q.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/6vkJtgAa4x4fiP0pRz0QyPT2GjD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tEYkNs7PDBUguL0bvgI9zsylBKD.jpg",
       "genres": [
         "Animação",
         "Sci-Fi & Fantasy",
@@ -183727,6 +183727,37 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 11,
+              "tmdb_id": 3396153,
+              "title": "Todas as Boas Memórias",
+              "air_date": "2022-01-23",
+              "overview": "Com a morte do pai, Niander Wallace Jr. assume a corporação Wallace e inicia seus planos de trazer uma nova era ao mundo. Numa tentativa de poupar Elle de ser eliminada, Joseph a convence a apagar suas memórias e começar uma nova vida. Mas seu empregador, Wallace, não acredita em sua sinceridade, e decide colocar seus próprios peões em jogo.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/tEYkNs7PDBUguL0bvgI9zsylBKD.jpg",
+              "cast": [
+                {
+                  "name": "Jessica Henwick",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hRrEqDIWlov1FvYRmBN2vLaAxyl.jpg"
+                },
+                {
+                  "name": "Will Yun Lee",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg"
+                },
+                {
+                  "name": "Wes Bentley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+                },
+                {
+                  "name": "Samira Wiley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/m45A0hYcpnGckwxqs7j0I6Sp2Dj.jpg"
+                }
+              ],
+              "message_ids": [
+                7329,
+                7330
+              ],
+              "video_message_id": 7330
+            },
             {
               "number": 12,
               "tmdb_id": 3396154,

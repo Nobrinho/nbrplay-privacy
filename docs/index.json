@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:40:38+00:00",
+  "generated_at": "2026-09-27T05:43:08+00:00",
   "channel": "-1004483833987",
-  "count": 2669,
-  "movie_count": 2631,
+  "count": 2670,
+  "movie_count": 2632,
   "series_count": 9,
   "episode_count": 38,
   "movies": [
@@ -88886,6 +88886,73 @@
         6346
       ],
       "video_message_id": 6346
+    },
+    {
+      "tmdb_id": 438446,
+      "title": "Mamãe Morta e Querida",
+      "original_title": "Mommy Dead and Dearest",
+      "year": "2017",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9WPHhLcRYJEibNlUBn9hRlmHcj1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yh0HQQRTWqBJpJtnombyXJz2L8I.jpg",
+      "overview": "A bizarra história de Claudine e de sua filha, que confessou ter matado a mãe devido aos abusos cometidos por ela desde sua infância.",
+      "genres": [
+        "Crime",
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Gypsy-Rose Blanchard",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rbB0O44IdVVrevlt2oW8prsBhT0.jpg"
+        },
+        {
+          "name": "Dee Dee Blanchard",
+          "photo_url": null
+        },
+        {
+          "name": "Rod Blanchard",
+          "photo_url": null
+        },
+        {
+          "name": "Kristy Blanchard",
+          "photo_url": null
+        },
+        {
+          "name": "Jim Arnott",
+          "photo_url": null
+        },
+        {
+          "name": "David Blanchard",
+          "photo_url": null
+        },
+        {
+          "name": "Michelle Dean",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lLnJvI1y921oUjgRPzYwbkUbQtN.jpg"
+        },
+        {
+          "name": "Marc Feldman",
+          "photo_url": null
+        },
+        {
+          "name": "Bernard Flatersten",
+          "photo_url": null
+        },
+        {
+          "name": "Nicholas Godejohn",
+          "photo_url": null
+        },
+        {
+          "name": "Charles Goldhammer",
+          "photo_url": null
+        },
+        {
+          "name": "Stephanie Goldhammer",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6907
+      ],
+      "video_message_id": 6907
     },
     {
       "tmdb_id": 334541,

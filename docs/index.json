@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:28:41+00:00",
+  "generated_at": "2026-09-27T19:28:57+00:00",
   "channel": "-1004483833987",
-  "count": 3012,
+  "count": 3013,
   "movie_count": 2797,
   "series_count": 32,
-  "episode_count": 215,
+  "episode_count": 216,
   "custom_count": 0,
   "movies": [
     {
@@ -184356,6 +184356,37 @@
                 7387
               ],
               "video_message_id": 7387
+            },
+            {
+              "number": 5,
+              "tmdb_id": 3337285,
+              "title": "Pressão",
+              "air_date": "2021-12-05",
+              "overview": "Um novo Blade Runner entra em cena, e dá cabo do replicante boxeador enquanto este tentava fugir da cidade. Wallace dá uma bronca em Grant por permitir que Elle escapasse da Caça às Bonecas. Grant mobiliza todos os policiais da divisão de Los Angeles atrás da Elle, e recebem uma dica de que ela pode estar na loja de Doc Badger. Enquanto isso, munida de fotos de alta resolução dos responsáveis pela Caça às Bonecas, Elle segue para a residência de Josephine, esposa de Grant.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/gKrnJwRR726JolfWW9HKWKOJj4G.jpg",
+              "cast": [
+                {
+                  "name": "Jessica Henwick",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hRrEqDIWlov1FvYRmBN2vLaAxyl.jpg"
+                },
+                {
+                  "name": "Will Yun Lee",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg"
+                },
+                {
+                  "name": "Wes Bentley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+                },
+                {
+                  "name": "Samira Wiley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/m45A0hYcpnGckwxqs7j0I6Sp2Dj.jpg"
+                }
+              ],
+              "message_ids": [
+                7390,
+                7391
+              ],
+              "video_message_id": 7391
             },
             {
               "number": 6,

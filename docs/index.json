@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:47:01+00:00",
+  "generated_at": "2026-09-27T07:47:11+00:00",
   "channel": "-1004483833987",
-  "count": 2892,
+  "count": 2893,
   "movie_count": 2736,
   "series_count": 25,
-  "episode_count": 156,
+  "episode_count": 157,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -183382,6 +183382,49 @@
                 7223
               ],
               "video_message_id": 7223
+            },
+            {
+              "number": 8,
+              "tmdb_id": 245456,
+              "title": "Um Jogo de Damas",
+              "air_date": "1997-08-25",
+              "overview": "No final da primeira temporada, uma rebelião estoura e sexualidade, ódio, vingança e racismo mostram suas garras.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/tmp2lbfMgjkmUnctxdtFky6m8vX.jpg",
+              "cast": [
+                {
+                  "name": "Lee Tergesen",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qAldK2CeBVzeRZ9sqTd3zU9SiU1.jpg"
+                },
+                {
+                  "name": "Harold Perrineau",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/bVSLpGUaislREbujmknOqadrxYM.jpg"
+                },
+                {
+                  "name": "Dean Winters",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zxgOZAYGxa2qmiZkJKGRIhwbGhG.jpg"
+                },
+                {
+                  "name": "Eamonn Walker",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/mJ2pENrcO4uRy2TNVUzg5cEI9b3.jpg"
+                },
+                {
+                  "name": "Ernie Hudson",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/kgAdQA2ItCDVvKXufeDHc6Omiso.jpg"
+                },
+                {
+                  "name": "Terry Kinney",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/2Y6AeUUj1xUd5p7mRM9tFqUCN87.jpg"
+                },
+                {
+                  "name": "Edie Falco",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/jS2Hnr5OmntpX0J7EpH70zAG0mz.jpg"
+                }
+              ],
+              "message_ids": [
+                7224,
+                7225
+              ],
+              "video_message_id": 7225
             }
           ]
         }

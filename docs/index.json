@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T16:11:31+00:00",
+  "generated_at": "2026-09-27T16:11:57+00:00",
   "channel": "-1004483833987",
-  "count": 2938,
-  "movie_count": 2781,
+  "count": 2939,
+  "movie_count": 2782,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -95480,6 +95480,23 @@
         1501
       ],
       "video_message_id": 1501
+    },
+    {
+      "tmdb_id": 371961,
+      "title": "Menino 23: Infâncias Perdidas no Brasil",
+      "original_title": "Menino 23: Infâncias Perdidas no Brasil",
+      "year": "2016",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ojxPUoTwfrEOSGoNfMkhetA6ZJf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/glkCbTypII55PhdJXSW9g59UCxI.jpg",
+      "overview": "As investigações do historiador Sidney Aguilar sobre tijolos marcados com a suástica nazista encontrados no interior do Brasil revelam a história de meninos órfãos e negros, vítimas de um projeto criminoso de eugenia. Aloisio Silva, o menino 23, sobreviveu para contar.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [],
+      "message_ids": [
+        7294
+      ],
+      "video_message_id": 7294
     },
     {
       "tmdb_id": 51184,

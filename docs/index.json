@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:46:11+00:00",
+  "generated_at": "2026-09-27T05:47:11+00:00",
   "channel": "-1004483833987",
-  "count": 2675,
-  "movie_count": 2637,
+  "count": 2676,
+  "movie_count": 2638,
   "series_count": 9,
   "episode_count": 38,
   "movies": [
@@ -45961,6 +45961,48 @@
         1332
       ],
       "video_message_id": 1332
+    },
+    {
+      "tmdb_id": 474433,
+      "title": "Cuba e o Cameraman",
+      "original_title": "Cuba and the Cameraman",
+      "year": "2017",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qaHgQmUAAsB7FzMFQZUp6MfG1r2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ljVwCo2TwcYZu0fn0lgKxPicaPM.jpg",
+      "overview": "Este retrato revelador de Cuba acompanha a vida de Fidel Castro e de três famílias cubanas afetadas pelas políticas de seu governo nas últimas quatro décadas.\r Documentário original Netflix.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Jon Alpert",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gV6MbxjBthduIWjsJgTVxWsWfZl.jpg"
+        },
+        {
+          "name": "Fidel Castro",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1L26bvwYjFEwp38ODyPTfDFej4B.jpg"
+        },
+        {
+          "name": "Angél Borrego",
+          "photo_url": null
+        },
+        {
+          "name": "Cristobal Borrego",
+          "photo_url": null
+        },
+        {
+          "name": "Gregorio Borrego",
+          "photo_url": null
+        },
+        {
+          "name": "Luis Amores",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6914
+      ],
+      "video_message_id": 6914
     },
     {
       "tmdb_id": 869291,

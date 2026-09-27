@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:26:39+00:00",
+  "generated_at": "2026-09-27T19:26:51+00:00",
   "channel": "-1004483833987",
-  "count": 3003,
-  "movie_count": 2795,
-  "series_count": 31,
-  "episode_count": 208,
+  "count": 3006,
+  "movie_count": 2796,
+  "series_count": 32,
+  "episode_count": 210,
   "custom_count": 0,
   "movies": [
     {
@@ -23404,6 +23404,46 @@
         4956
       ],
       "video_message_id": 4956
+    },
+    {
+      "tmdb_id": 1699420,
+      "title": "Animal Party",
+      "original_title": "Animal Party",
+      "year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ztgagDkbbVkvAgFnZz74gq3BWfi.jpg",
+      "backdrop_url": null,
+      "overview": "When a house party turns into a search party for a missing dog, three party-goers privately confront a universal affliction.",
+      "genres": [],
+      "cast": [
+        {
+          "name": "Rebecca Makar",
+          "photo_url": null
+        },
+        {
+          "name": "Xavier Nunan",
+          "photo_url": null
+        },
+        {
+          "name": "Lachlan Phipps",
+          "photo_url": null
+        },
+        {
+          "name": "Jordan Chodziesner",
+          "photo_url": null
+        },
+        {
+          "name": "Ming-En Cui",
+          "photo_url": null
+        },
+        {
+          "name": "Jeremy Hughes",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7373
+      ],
+      "video_message_id": 7373
     },
     {
       "tmdb_id": 55931,
@@ -190743,6 +190783,103 @@
                 7134
               ],
               "video_message_id": 7134
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 321291,
+      "title": "Territórios - Sob o Domínio do Crime",
+      "original_title": "Territórios - Sob o Domínio do Crime",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sq5oUBojNNbk97hKMAk0IqGo2Vc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uDnZpYXuYckG9NwORcSJ8HavZCR.jpg",
+      "genres": [
+        "Documentário",
+        "Crime",
+        "War & Politics"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 5,
+              "tmdb_id": 7216382,
+              "title": "Território é Lucro?",
+              "air_date": "2026-04-30",
+              "overview": "Agentes do Estado criam milícias e transformam o domínio territorial em negócio. O tráfico aprende com as milícias e passa a monopolizar serviços e extorquir dinheiro de moradores.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/uDnZpYXuYckG9NwORcSJ8HavZCR.jpg",
+              "cast": [
+                {
+                  "name": "Paulo Renato Soares",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/45jlzHMHbfHNSSJmIXbw2QSa1Zs.jpg"
+                },
+                {
+                  "name": "Leslie Leitão",
+                  "photo_url": null
+                },
+                {
+                  "name": "Mahomed Saigg",
+                  "photo_url": null
+                },
+                {
+                  "name": "Luiz Fernando da Costa",
+                  "photo_url": null
+                },
+                {
+                  "name": "Delegado Fabrício",
+                  "photo_url": null
+                },
+                {
+                  "name": "Ivana David",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7376,
+                7378
+              ],
+              "video_message_id": 7378
+            },
+            {
+              "number": 6,
+              "tmdb_id": 7216384,
+              "title": "Território da Corrupção",
+              "air_date": "2026-04-30",
+              "overview": "A simbiose entre crime e política sabota projetos de paz e perpetua a crise na segurança pública, revelando que uma das armas mais poderosa das facções é a corrupção.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/5tvOlEuCKHcDZfvhTWTx2Hi0GE8.jpg",
+              "cast": [
+                {
+                  "name": "Paulo Renato Soares",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/45jlzHMHbfHNSSJmIXbw2QSa1Zs.jpg"
+                },
+                {
+                  "name": "Leslie Leitão",
+                  "photo_url": null
+                },
+                {
+                  "name": "Mahomed Saigg",
+                  "photo_url": null
+                },
+                {
+                  "name": "Luiz Fernando da Costa",
+                  "photo_url": null
+                },
+                {
+                  "name": "Delegado Fabrício",
+                  "photo_url": null
+                },
+                {
+                  "name": "Ivana David",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7374,
+                7375
+              ],
+              "video_message_id": 7375
             }
           ]
         }

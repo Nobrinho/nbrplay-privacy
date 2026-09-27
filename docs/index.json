@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:04:49+00:00",
+  "generated_at": "2026-09-27T04:10:32+00:00",
   "channel": "-1004483833987",
-  "count": 2572,
-  "movie_count": 2564,
+  "count": 2573,
+  "movie_count": 2565,
   "series_count": 2,
   "episode_count": 8,
   "movies": [
@@ -54286,6 +54286,46 @@
         5372
       ],
       "video_message_id": 5372
+    },
+    {
+      "tmdb_id": 127617,
+      "title": "Elize Matsunaga: Era uma Vez um Crime — S01E01 — Estado civil: viúva",
+      "original_title": "Kaiju Big Battel: Shocking Truth",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ywQ5h3BBlTC9NsuKBB1hlUSL6rI.jpg",
+      "backdrop_url": null,
+      "overview": "Um pico chocante no mundo do combate contra monstros de alto risco. Shocking Truth apresenta uma visita à caverna de Dino Kang Jr, a ascensão e queda de Silver Potato, o épico Kaiju The Swarm e muito mais.",
+      "genres": [
+        "Ação",
+        "Comédia",
+        "Ficção científica"
+      ],
+      "cast": [
+        {
+          "name": "David Coffill",
+          "photo_url": null
+        },
+        {
+          "name": "Jack Dourakos",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rpt5L32RRi2MQkU4CX5MI5vBGd9.jpg"
+        },
+        {
+          "name": "Michael J. Epstein",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d1Pwo71wzYKp6q2zGaWPa4rkk5l.jpg"
+        },
+        {
+          "name": "Benjamin Russell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vHgXimuKTk0dgt0LJYUdF3bfdyl.jpg"
+        },
+        {
+          "name": "James Wu",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6781
+      ],
+      "video_message_id": 6781
     },
     {
       "tmdb_id": 5680,

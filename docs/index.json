@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:43:08+00:00",
+  "generated_at": "2026-09-27T05:43:35+00:00",
   "channel": "-1004483833987",
-  "count": 2670,
-  "movie_count": 2632,
+  "count": 2671,
+  "movie_count": 2633,
   "series_count": 9,
   "episode_count": 38,
   "movies": [
@@ -66732,6 +66732,74 @@
         891
       ],
       "video_message_id": 891
+    },
+    {
+      "tmdb_id": 519176,
+      "title": "Gintama 2: Quebrando As Regras",
+      "original_title": "銀魂2 掟は破るためにこそある",
+      "year": "2018",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3wSD4S4LF9BR7rq6dL966fJIvAe.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qZkJFagYiIIsZNXhMCMGKMsb0p4.jpg",
+      "overview": "A gangue Yorozuya retorna para proteger o shogun do país quando a força policial de Shinsengumi se encontra em crise.",
+      "genres": [
+        "Comédia",
+        "Ação",
+        "Ficção científica"
+      ],
+      "cast": [
+        {
+          "name": "Shun Oguri",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4tfrhvqp3IGHPATor0lYE9X9UD3.jpg"
+        },
+        {
+          "name": "菅田将暉",
+          "photo_url": "https://image.tmdb.org/t/p/w185/g7gXu0bE9jZ5LHjSqn1zHdNtiA1.jpg"
+        },
+        {
+          "name": "橋本環奈",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yw4F2T2o0HTnzouPSmFJAiPflvY.jpg"
+        },
+        {
+          "name": "長澤まさみ",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yvHhfDOral1DeyBRSzpxsoHz60t.jpg"
+        },
+        {
+          "name": "岡田将生",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5eP3OovRGR229Ney2jUZ39Vr4QW.jpg"
+        },
+        {
+          "name": "佐藤二朗",
+          "photo_url": "https://image.tmdb.org/t/p/w185/v3DcwY4cq1AqYmOTmo6AKyqHhy5.jpg"
+        },
+        {
+          "name": "Yuya Yagira",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7gk7OBP0r51M897sRZseU7n3OMm.jpg"
+        },
+        {
+          "name": "吉沢亮",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5M0Bk6ix0yNP1iuut3a1BKt3RyH.jpg"
+        },
+        {
+          "name": "ムロツヨシ",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7zYDe29fjtQstenjMN4ITSdyTos.jpg"
+        },
+        {
+          "name": "キムラ緑子",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lG0GMt6J2uiWCEC1hsVlZaUY7yE.jpg"
+        },
+        {
+          "name": "中村勘九郎",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qnh2YMfGAg0HuXAyvd12pM9s6lZ.jpg"
+        },
+        {
+          "name": "堂本剛",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fsPenXgw6Zm2Wds2ws8HG6GnB8m.jpg"
+        }
+      ],
+      "message_ids": [
+        6908
+      ],
+      "video_message_id": 6908
     },
     {
       "tmdb_id": 98,

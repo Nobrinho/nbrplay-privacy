@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:19:04+00:00",
+  "generated_at": "2026-09-27T07:21:37+00:00",
   "channel": "-1004483833987",
-  "count": 2789,
+  "count": 2790,
   "movie_count": 2709,
-  "series_count": 19,
-  "episode_count": 80,
+  "series_count": 20,
+  "episode_count": 81,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -179265,6 +179265,37 @@
                 7028
               ],
               "video_message_id": 7028
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 333058,
+      "title": "Bem-vindo à Família: O Assassinato de Dan Markel",
+      "original_title": "Welcome to the Family: The Murder of Dan Markel",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2Do6U54cg31Y9DWWmjT69O6lFow.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cnpAeA9hQtNGlnDIXeZeNQBvNqc.jpg",
+      "genres": [
+        "Crime",
+        "Documentário"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 7738041,
+              "title": "Episódio 1",
+              "air_date": "2026-09-01",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/cnpAeA9hQtNGlnDIXeZeNQBvNqc.jpg",
+              "cast": [],
+              "message_ids": [
+                7065
+              ],
+              "video_message_id": 7065
             }
           ]
         }

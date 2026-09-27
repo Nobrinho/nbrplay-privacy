@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:11:35+00:00",
+  "generated_at": "2026-09-27T07:13:19+00:00",
   "channel": "-1004483833987",
-  "count": 2784,
-  "movie_count": 2704,
+  "count": 2785,
+  "movie_count": 2705,
   "series_count": 19,
   "episode_count": 80,
   "movies": [
@@ -89184,6 +89184,72 @@
         5339
       ],
       "video_message_id": 5339
+    },
+    {
+      "tmdb_id": 341529,
+      "title": "Luz, Anima, Ação",
+      "original_title": "Luz, Anima, Ação",
+      "year": "2013",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1zgwv9FgKFrBPS7nCE5TdtrW79T.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nOkTL3rqOLTSUwQnM1epTYSdJjb.jpg",
+      "overview": "Documentário longa-metragem coproduzido pelo Canal Brasil, que resgata a fabulosa trajetória da animação brasileira desde o pioneiro “O Kaiser” ao boom produtivo que expande fronteiras!",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Marcos Magalhães",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nuQ65xbwRAEzHW8DVWfncKhf9JS.jpg"
+        },
+        {
+          "name": "Antônio Moreno",
+          "photo_url": null
+        },
+        {
+          "name": "Arnaldo Galvão",
+          "photo_url": null
+        },
+        {
+          "name": "Marão",
+          "photo_url": "https://image.tmdb.org/t/p/w185/m1PJtfGTta0nqAbdnGyTtLaqT3A.jpg"
+        },
+        {
+          "name": "Zé Brandão",
+          "photo_url": "https://image.tmdb.org/t/p/w185/elAGTQ6AkGtXndQDyN9AQhWB9Zl.jpg"
+        },
+        {
+          "name": "Olivia Latini",
+          "photo_url": null
+        },
+        {
+          "name": "Stil",
+          "photo_url": null
+        },
+        {
+          "name": "Roberto Miller",
+          "photo_url": null
+        },
+        {
+          "name": "Roberto Maia",
+          "photo_url": null
+        },
+        {
+          "name": "Quiá Rodrigues",
+          "photo_url": null
+        },
+        {
+          "name": "Daniel Messias",
+          "photo_url": null
+        },
+        {
+          "name": "Walbercy Ribas",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ozJJNSmk1dQkSXyTGhDfukmP9EZ.jpg"
+        }
+      ],
+      "message_ids": [
+        7061
+      ],
+      "video_message_id": 7061
     },
     {
       "tmdb_id": 901,

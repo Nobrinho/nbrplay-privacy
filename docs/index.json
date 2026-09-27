@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:24:18+00:00",
+  "generated_at": "2026-09-27T05:25:50+00:00",
   "channel": "-1004483833987",
-  "count": 2653,
-  "movie_count": 2620,
+  "count": 2654,
+  "movie_count": 2621,
   "series_count": 8,
   "episode_count": 33,
   "movies": [
@@ -153188,6 +153188,72 @@
         4852
       ],
       "video_message_id": 4852
+    },
+    {
+      "tmdb_id": 502166,
+      "title": "Take Your Pills",
+      "original_title": "Take Your Pills",
+      "year": "2018",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yo2rBT7vdsyWFBH5aoJ8pk7am79.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gjiiRn9SwtJup0Xe5EIinP7sf6v.jpg",
+      "overview": "Alguns medicamentos oferecem a estudantes, atletas, programadores e pessoas de todas as áreas a chance de fazer mais coisas, mais rápido e melhor. Mas tudo tem seu preço.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Eben Britton",
+          "photo_url": null
+        },
+        {
+          "name": "Dr. Wendy Brown",
+          "photo_url": null
+        },
+        {
+          "name": "Ariana",
+          "photo_url": null
+        },
+        {
+          "name": "Delaney",
+          "photo_url": null
+        },
+        {
+          "name": "Jasper Holt-Teza",
+          "photo_url": null
+        },
+        {
+          "name": "Leigh",
+          "photo_url": null
+        },
+        {
+          "name": "Anjan Chatterjee",
+          "photo_url": null
+        },
+        {
+          "name": "Alan Schwarz",
+          "photo_url": null
+        },
+        {
+          "name": "Nicholas Rasmussen",
+          "photo_url": null
+        },
+        {
+          "name": "Nathanael",
+          "photo_url": null
+        },
+        {
+          "name": "Sheila Britt",
+          "photo_url": null
+        },
+        {
+          "name": "Martha Farah",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6880
+      ],
+      "video_message_id": 6880
     },
     {
       "tmdb_id": 24510,

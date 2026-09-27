@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:48:21+00:00",
+  "generated_at": "2026-09-27T04:49:06+00:00",
   "channel": "-1004483833987",
-  "count": 2625,
-  "movie_count": 2595,
+  "count": 2626,
+  "movie_count": 2596,
   "series_count": 7,
   "episode_count": 30,
   "movies": [
@@ -122583,6 +122583,73 @@
         647
       ],
       "video_message_id": 647
+    },
+    {
+      "tmdb_id": 50056,
+      "title": "Origem Secreta: A História da DC Comics",
+      "original_title": "Secret Origin: The Story of DC Comics",
+      "year": "2010",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bi4k7EE8JFuTHKWhiWEgdIlp40Z.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/g87RVIZHXKA6JNj1ZvA4zP7F4iM.jpg",
+      "overview": "Documentário trata da história da criação da DC Comics.\r A idéia dos primeiros super-herois, Super Man, Bat Man, Lanterna Verde, Mulher Maravilha, Sand Man, Aquaman, The Flash.\r As eras de ouro, prata e bronze.\r E a reinvenção dos quadrinhos após a segunda-guerra mundial.\r A cronologia do documentário merece atenção.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Ryan Reynolds",
+          "photo_url": "https://image.tmdb.org/t/p/w185/trzgptffGvAlAT6MEu01fz47cLW.jpg"
+        },
+        {
+          "name": "Paul Levitz",
+          "photo_url": null
+        },
+        {
+          "name": "Gerard Jones",
+          "photo_url": null
+        },
+        {
+          "name": "Mark Waid",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bXwe0oFfEidqoj6YgIQMKLSAmfP.jpg"
+        },
+        {
+          "name": "Neal Adams",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8tnfmCt3UhGUIIx8jldMvsMWtEs.jpg"
+        },
+        {
+          "name": "Joe Kubert",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kzgDIqr05rpR22z7LQrZ6IAHmn3.jpg"
+        },
+        {
+          "name": "Louise Simonson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kGT0XeZIC9oufqIGLF5lAe3wG6I.jpg"
+        },
+        {
+          "name": "Dwayne McDuffie",
+          "photo_url": "https://image.tmdb.org/t/p/w185/g72XJpetIstOArmmDKq5pHjfPTy.jpg"
+        },
+        {
+          "name": "Irwin Hasen",
+          "photo_url": null
+        },
+        {
+          "name": "Dan Didio",
+          "photo_url": null
+        },
+        {
+          "name": "Chip Kidd",
+          "photo_url": null
+        },
+        {
+          "name": "Mike Carlin",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6846,
+        6847
+      ],
+      "video_message_id": 6847
     },
     {
       "tmdb_id": 1005875,

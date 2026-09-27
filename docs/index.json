@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:55:57+00:00",
+  "generated_at": "2026-09-27T05:56:08+00:00",
   "channel": "-1004483833987",
-  "count": 2687,
-  "movie_count": 2643,
+  "count": 2688,
+  "movie_count": 2644,
   "series_count": 10,
   "episode_count": 44,
   "movies": [
@@ -98468,6 +98468,72 @@
         3813
       ],
       "video_message_id": 3813
+    },
+    {
+      "tmdb_id": 926676,
+      "title": "Navalny",
+      "original_title": "Navalny",
+      "year": "2022",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9FXHNsqB4Wk9p42Yh0UtDflRY1f.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aZQR5Np9fZjck0HM3qYs1wUgwYD.jpg",
+      "overview": "Este documentário revelador registra a investigação de uma tentativa de assassinato descarada e surpreendente, em que o alvo era o líder da oposição russa, Alexei Navalny, nos levando para uma história de sua luta pela reforma democrática.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Alexei Navalny",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8mI7pu9Dam4YvfZc7TTOUfK6XQu.jpg"
+        },
+        {
+          "name": "Юлия Навальная",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hNVoGjHRbq9miFASIS8sCbwi4h6.jpg"
+        },
+        {
+          "name": "Дарья Навальная",
+          "photo_url": "https://image.tmdb.org/t/p/w185/y0WMR74dtp4Pr8yvHBTKT2ljRa9.jpg"
+        },
+        {
+          "name": "Захар Навальный",
+          "photo_url": null
+        },
+        {
+          "name": "Maria Pevchikh",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gjLnEynzlQ9Ey6nMBYRN6grS5OV.jpg"
+        },
+        {
+          "name": "Христо Грозев",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gYVTNIckvwAWv1hO7UZNIDkv1WV.jpg"
+        },
+        {
+          "name": "Леонид Волков",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eV4GPDuDdWP24haxqOARAIlxUof.jpg"
+        },
+        {
+          "name": "Kira Yarmysh",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aD1QLORkpRxaRJ0zKSmp8JGH0mh.jpg"
+        },
+        {
+          "name": "Георгий Албуров",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sl7MUYMOuAWbbA1vDD7PYWxIGth.jpg"
+        },
+        {
+          "name": "Anna Biryukova",
+          "photo_url": null
+        },
+        {
+          "name": "Fidelius Schmid",
+          "photo_url": null
+        },
+        {
+          "name": "Tim Lister",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6925
+      ],
+      "video_message_id": 6925
     },
     {
       "tmdb_id": 615453,

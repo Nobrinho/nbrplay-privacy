@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T20:24:12+00:00",
+  "generated_at": "2026-09-27T20:24:17+00:00",
   "channel": "-1004483833987",
-  "count": 3079,
+  "count": 3080,
   "movie_count": 2806,
   "series_count": 37,
-  "episode_count": 273,
+  "episode_count": 274,
   "custom_count": 0,
   "movies": [
     {
@@ -185469,7 +185469,7 @@
       "title": "Caçador de Marajás",
       "original_title": "Caçador de Marajás",
       "poster_url": "https://image.tmdb.org/t/p/w500/tsf5nLz0QCt95TKoRbJxG3qV3WX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/oTho7hhGPoOZqfikMh3HwKmEajo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5rCtn5nRVo4ozBjo9ylTmHIM9Zu.jpg",
       "genres": [
         "Documentário"
       ],
@@ -185477,6 +185477,41 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 4,
+              "tmdb_id": 6608052,
+              "title": "Indiana Collor",
+              "air_date": "2025-10-16",
+              "overview": "Na tentativa de conter uma inflação galopante, o governo Collor lança um plano econômico que traumatiza o país, ofuscando algumas de suas políticas mais acertadas. À frente dele, Collor demonstra um personalismo exibicionista.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/5rCtn5nRVo4ozBjo9ylTmHIM9Zu.jpg",
+              "cast": [
+                {
+                  "name": "Fernando Collor de Mello",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/v0UiR8TV0aPsbIKMkpVZuyEmllj.jpg"
+                },
+                {
+                  "name": "Thereza Collor",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/5i4BNReJQva3OUlgd3jr1feeY8O.jpg"
+                },
+                {
+                  "name": "Eduardo Bueno",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/kZWdFDP7d4NQo1UbpUgFyTU8zEW.jpg"
+                },
+                {
+                  "name": "Luís Costa Pinto",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/kDvLf3WitWtlA3issJZsOGr2kA7.jpg"
+                },
+                {
+                  "name": "Luiz Estevão",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/gxgZaZwbIfNrcLWxCaqUIwLRUtF.jpg"
+                }
+              ],
+              "message_ids": [
+                7468,
+                7469
+              ],
+              "video_message_id": 7469
+            },
             {
               "number": 5,
               "tmdb_id": 6608053,

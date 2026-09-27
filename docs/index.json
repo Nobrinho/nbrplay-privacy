@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T18:42:12+00:00",
+  "generated_at": "2026-09-27T18:43:42+00:00",
   "channel": "-1004483833987",
-  "count": 2951,
+  "count": 2952,
   "movie_count": 2786,
   "series_count": 26,
-  "episode_count": 165,
+  "episode_count": 166,
   "custom_count": 0,
   "movies": [
     {
@@ -186536,7 +186536,7 @@
       "title": "Revanche",
       "original_title": "Rematch",
       "poster_url": "https://image.tmdb.org/t/p/w500/lmDv54CIGxZyHSSbbXtvkIqULSW.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/adNnXfQ1cwyESzplG58ucIC6CEu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bQJhxozsByQ915QxVY77rwH1Yjl.jpg",
       "genres": [
         "Drama"
       ],
@@ -186544,6 +186544,56 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 3,
+              "tmdb_id": 5561886,
+              "title": "Episódio 3",
+              "air_date": "2024-10-17",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/bQJhxozsByQ915QxVY77rwH1Yjl.jpg",
+              "cast": [
+                {
+                  "name": "Christian Cooke",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/pqIqDP4HuRLc60KR8QMTHWhIJNq.jpg"
+                },
+                {
+                  "name": "Orion Lee",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/jHz7papyoOAFvMql64cXQVQqKYu.jpg"
+                },
+                {
+                  "name": "Sarah Bolger",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/A3K2l5kkqTMQHtAkctzICqtbZMY.jpg"
+                },
+                {
+                  "name": "Trine Dyrholm",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/cjw6eAdD01ICRs8Y2Fa8qBBSzEJ.jpg"
+                },
+                {
+                  "name": "Aidan Quinn",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/viUuUmhiGdsfoQh0IpO5N312qNd.jpg"
+                },
+                {
+                  "name": "Tom Austen",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/6TC9gW3ZJzrNyFgsYDeWj8V6RYo.jpg"
+                },
+                {
+                  "name": "Luke Pasqualino",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/egwyqohJ3KLag4GUyTzXGngwTc1.jpg"
+                },
+                {
+                  "name": "Molly Harris",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/sJ6LJl75paSDDtxtdBPrBQB4UDA.jpg"
+                },
+                {
+                  "name": "Trieve Blackwood-Cambridge",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zd5w5sCxAdGIquYeW1Uqbz8pbbI.jpg"
+                }
+              ],
+              "message_ids": [
+                7314
+              ],
+              "video_message_id": 7314
+            },
             {
               "number": 4,
               "tmdb_id": 5561887,

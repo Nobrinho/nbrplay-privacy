@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:05:57+00:00",
+  "generated_at": "2026-09-27T07:07:44+00:00",
   "channel": "-1004483833987",
-  "count": 2782,
-  "movie_count": 2702,
+  "count": 2783,
+  "movie_count": 2703,
   "series_count": 19,
   "episode_count": 80,
   "movies": [
@@ -102556,6 +102556,50 @@
         1154
       ],
       "video_message_id": 1154
+    },
+    {
+      "tmdb_id": 17359,
+      "title": "Notícias de uma Guerra Particular",
+      "original_title": "Notícias de uma Guerra Particular",
+      "year": "1999",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rrnjox3BPU9pKWTTKHQeVcncwb7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/x4WU8d0Wj22KjGtdl8wyaoCrklI.jpg",
+      "overview": "Notícias de uma Guerra Particular é um documentário brasileiro de 1999, produzido pelo cineasta João Moreira Salles e pela produtora Kátia Lund. O documentário retrata o cotidiano dos traficantes e moradores da favela Santa Marta, no Rio de Janeiro. Resultado de dois anos (1997 - 1998) de entrevistas com pessoas ligadas diretamente ao trafico de entorpecentes, com moradores que vislumbram esta rotina de perto e policiais, o documentário traça um paralelo entre as falas de moradores, dos traficantes e da polícia, colocando todos no mesmo patamar de envolvimento em uma guerra que não é uma \"guerra civil\", mas uma \"guerra particular\".",
+      "genres": [
+        "Documentário",
+        "Crime"
+      ],
+      "cast": [
+        {
+          "name": "Nilton Cerqueira",
+          "photo_url": null
+        },
+        {
+          "name": "Carlos Luis Gregório",
+          "photo_url": null
+        },
+        {
+          "name": "Paulo Lins",
+          "photo_url": null
+        },
+        {
+          "name": "Hélio Luz",
+          "photo_url": null
+        },
+        {
+          "name": "Rodrigo Pimentel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sgwDmYNkoPvxv2VtP4h234sgzJT.jpg"
+        },
+        {
+          "name": "Itamar Silva",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7058,
+        7059
+      ],
+      "video_message_id": 7059
     },
     {
       "tmdb_id": 9882,

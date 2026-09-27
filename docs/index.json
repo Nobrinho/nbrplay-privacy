@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:19:49+00:00",
+  "generated_at": "2026-09-27T06:20:54+00:00",
   "channel": "-1004483833987",
-  "count": 2728,
-  "movie_count": 2665,
+  "count": 2731,
+  "movie_count": 2668,
   "series_count": 14,
   "episode_count": 63,
   "movies": [
@@ -73067,6 +73067,22 @@
         6354
       ],
       "video_message_id": 6354
+    },
+    {
+      "tmdb_id": 249056,
+      "title": "História do Comunismo — S01E01 — Episódio I -  Marxismo de Marx",
+      "original_title": null,
+      "year": "2024",
+      "poster_url": null,
+      "backdrop_url": null,
+      "overview": null,
+      "genres": [],
+      "cast": [],
+      "message_ids": [
+        6977,
+        6978
+      ],
+      "video_message_id": 6978
     },
     {
       "tmdb_id": 50014,
@@ -148081,6 +148097,45 @@
       "video_message_id": 6936
     },
     {
+      "tmdb_id": 211039,
+      "title": "Senna — S01E01 — Vocação",
+      "original_title": "The Final Moments of Karl Brant",
+      "year": "2024",
+      "poster_url": "https://image.tmdb.org/t/p/w500/A9qoZvnKqbkt1jBpL6lVNmmsbGx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/puSL6bWHLb9vbhjzUphMl7ryv0Q.jpg",
+      "overview": "Set in the near future where experimental technology allows two detectives to bring a murder victim back to life in a digital state in order to question him about his final moments.",
+      "genres": [
+        "Ficção científica"
+      ],
+      "cast": [
+        {
+          "name": "Paul Reubens",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7T0ExonMf6PAvphKVaTm73BXdLW.jpg"
+        },
+        {
+          "name": "Janina Gavankar",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pvywjGmHdJFuR0DLmrGbrii6MKm.jpg"
+        },
+        {
+          "name": "Pete Chekvala",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mXGcVkWJWc4HAQvBzNAqZOTfwgI.jpg"
+        },
+        {
+          "name": "Fay Masterson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bRI23ePNttuIh9v1zVt7FzllHBT.jpg"
+        },
+        {
+          "name": "Jon Sklaroff",
+          "photo_url": "https://image.tmdb.org/t/p/w185/f2sObKMPWfp2uA6rWQg0IeA65cl.jpg"
+        }
+      ],
+      "message_ids": [
+        6963,
+        6964
+      ],
+      "video_message_id": 6964
+    },
+    {
       "tmdb_id": 244539,
       "title": "Sentimentos que Curam",
       "original_title": "Infinitely Polar Bear",
@@ -168607,6 +168662,75 @@
         5434
       ],
       "video_message_id": 5434
+    },
+    {
+      "tmdb_id": 271805,
+      "title": "Unitopia — S01E01 — Parte 1",
+      "original_title": "A Whale for the Killing",
+      "year": "2024",
+      "poster_url": "https://image.tmdb.org/t/p/w500/r3u9M2X4xl2WavxMx6rSsHPtQrZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cts5VhwegQ69NEDfU6aIk9WDlqm.jpg",
+      "overview": "A conservationst, stranded with his family at a Newfoundland coastal resort, flies in the face of custom and fights an entire community to prevent a trapped whale's slaughter with only the support of his wife and one of the locals.",
+      "genres": [
+        "Aventura",
+        "Drama",
+        "Família",
+        "Cinema TV"
+      ],
+      "cast": [
+        {
+          "name": "Peter Strauss",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nu2QWP09Ju0eMabE0hEmYjm1c6V.jpg"
+        },
+        {
+          "name": "Dee Wallace",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gVnwovXGgGcny8LJ3w9j3I9xTE7.jpg"
+        },
+        {
+          "name": "Kathryn Walker",
+          "photo_url": "https://image.tmdb.org/t/p/w185/13aCj5XfKWF2G5G9vHpsa4avdty.jpg"
+        },
+        {
+          "name": "Bruce McGill",
+          "photo_url": "https://image.tmdb.org/t/p/w185/j4mn0fPdhhXfRqQwheAwCU8Hwrm.jpg"
+        },
+        {
+          "name": "Ken James",
+          "photo_url": "https://image.tmdb.org/t/p/w185/neSztvMYp0yFKwbZ7j7FxATkskC.jpg"
+        },
+        {
+          "name": "David Ferry",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vSp7x6OqIfAktTmFp7xNgox7OGb.jpg"
+        },
+        {
+          "name": "Richard Widmark",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fvR0fQcGTVzmHZUGfPocqT6pRgJ.jpg"
+        },
+        {
+          "name": "David Hollander",
+          "photo_url": null
+        },
+        {
+          "name": "Bill Calvert",
+          "photo_url": "https://image.tmdb.org/t/p/w185/u0VjXyNPWbbH3FSzd3FdeoC648J.jpg"
+        },
+        {
+          "name": "Larry Reynolds",
+          "photo_url": null
+        },
+        {
+          "name": "George Merner",
+          "photo_url": null
+        },
+        {
+          "name": "Reuven Bar-Yotam",
+          "photo_url": "https://image.tmdb.org/t/p/w185/meLpiUjxY43kfSqF82nFMaVD4Up.jpg"
+        }
+      ],
+      "message_ids": [
+        6987
+      ],
+      "video_message_id": 6987
     },
     {
       "tmdb_id": 62211,

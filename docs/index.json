@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T15:38:25+00:00",
+  "generated_at": "2026-09-27T15:40:05+00:00",
   "channel": "-1004483833987",
-  "count": 2918,
-  "movie_count": 2761,
+  "count": 2919,
+  "movie_count": 2762,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -25369,6 +25369,75 @@
         3618
       ],
       "video_message_id": 3618
+    },
+    {
+      "tmdb_id": 10974,
+      "title": "Armadura de Deus",
+      "original_title": "龍兄虎弟",
+      "year": "1986",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nstPbqmWlOibLutLsVvgT7RarRk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lF0JRUvbi5AFaXcA5O4ZpHdosAC.jpg",
+      "overview": "Vilões sequestraram a ex-namorada de Jackie e atual do seu amigo cantor, que não hesita em pedir sua ajuda para resgatá-la. Porém, eles devem primeiro encontrar a lendária Armadura de Deus, que torna invencível quem a usa.",
+      "genres": [
+        "Aventura",
+        "Ação",
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Jackie Chan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+        },
+        {
+          "name": "譚詠麟",
+          "photo_url": "https://image.tmdb.org/t/p/w185/50gZXOmhml4thJBzn2Sq4xxbIUM.jpg"
+        },
+        {
+          "name": "Lola Forner",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2OwF2pVfXxzPEG6B66LAXu4pGkF.jpg"
+        },
+        {
+          "name": "關之琳",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pbHKTJaOzFVTD1HNOnPD0RyLMlK.jpg"
+        },
+        {
+          "name": "Ken Boyle",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eB6hM4x2hHX4TuwCtBcX0v9wsVu.jpg"
+        },
+        {
+          "name": "John Ladalski",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ln5e5D33K5J93KlSDv6cvuPy5Yr.jpg"
+        },
+        {
+          "name": "Robert O'Brien",
+          "photo_url": null
+        },
+        {
+          "name": "Boris Gregorić",
+          "photo_url": null
+        },
+        {
+          "name": "Marcia Chisholm",
+          "photo_url": null
+        },
+        {
+          "name": "Linda Denley",
+          "photo_url": null
+        },
+        {
+          "name": "Stephanie Evans",
+          "photo_url": null
+        },
+        {
+          "name": "Alicia Shonte",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7267,
+        7268
+      ],
+      "video_message_id": 7268
     },
     {
       "tmdb_id": 95,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:13:33+00:00",
+  "generated_at": "2026-09-27T07:15:25+00:00",
   "channel": "-1004483833987",
-  "count": 2786,
-  "movie_count": 2706,
+  "count": 2787,
+  "movie_count": 2707,
   "series_count": 19,
   "episode_count": 80,
   "movies": [
@@ -57628,6 +57628,25 @@
         1461
       ],
       "video_message_id": 1461
+    },
+    {
+      "tmdb_id": 292474,
+      "title": "Emergência Radioativa — S01E02 — Quando a gente vai voltar pra casa?",
+      "original_title": "Strawberry Shortcake: Berry Friends Forever",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wAasezblc9WMJQoVCYVHFrWXWkL.jpg",
+      "backdrop_url": null,
+      "overview": "Life in Berry Bitty City is always better when Strawberry and her friends try their berry best! Princess Berrykin decides to bring back an old tradition, and Blueberry spends so much time worrying about manners that she forgets what's really important. When a Good Citizens Club is formed, Plum learns that fitting in with others is fine, as long as she follows her heart. Lemon and Raspberry work together to clean up a playground, and soon see the berrytastic value of teamwork. Strawberry helps out the Postmaster Bee, who shows her the value of honest effort. It's friendship and helping hands to the rescue in these sweet, fun-filled adventures!",
+      "genres": [
+        "Animação",
+        "Família"
+      ],
+      "cast": [],
+      "message_ids": [
+        7047,
+        7048
+      ],
+      "video_message_id": 7048
     },
     {
       "tmdb_id": 974950,

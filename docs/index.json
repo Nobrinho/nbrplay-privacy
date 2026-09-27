@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T03:34:36+00:00",
+  "generated_at": "2026-09-27T03:36:32+00:00",
   "channel": "-1004483833987",
-  "count": 2544,
-  "movie_count": 2544,
+  "count": 2545,
+  "movie_count": 2545,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -20154,6 +20154,23 @@
         5227
       ],
       "video_message_id": 5227
+    },
+    {
+      "tmdb_id": 638658,
+      "title": "Amazônia Sociedade Anônima",
+      "original_title": "Amazônia Sociedade Anônima",
+      "year": "2019",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jpTPLytxrsrTEVS5B7piwjZislC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7MaFOtq6NDmZfr7iFrFdqMBnRv0.jpg",
+      "overview": "Diante do fracasso do governo brasileiro em proteger a Amazônia, índios e ribeirinhos, em uma união inédita liderada pelo Cacique Juarez Saw Munduruku, enfrentam máfias de roubo de terras e desmatamento ilegal para salvar a floresta.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [],
+      "message_ids": [
+        6758
+      ],
+      "video_message_id": 6758
     },
     {
       "tmdb_id": 888195,

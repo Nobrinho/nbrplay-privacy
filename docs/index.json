@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T03:34:22+00:00",
+  "generated_at": "2026-09-27T03:34:36+00:00",
   "channel": "-1004483833987",
-  "count": 2543,
-  "movie_count": 2543,
+  "count": 2544,
+  "movie_count": 2544,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -166460,6 +166460,73 @@
         1744
       ],
       "video_message_id": 1744
+    },
+    {
+      "tmdb_id": 269100,
+      "title": "Video Games: O Filme",
+      "original_title": "Video Games: The Movie",
+      "year": "2014",
+      "poster_url": "https://image.tmdb.org/t/p/w500/l5lIK1sM5UeCE2IozXdgv1oOSlA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/z3lw2NBdxhh2vfhDkZpHkAa0Tm8.jpg",
+      "overview": "O filme narra a ascensão meteórica dos jogos de vídeo, de um nicho nerd para uma indústria multi-bilionária, e apresenta entrevistas em profundidade com os pais do vídeo game que começaram tudo, os ícones do design de jogos e os gurus geeks que estão conduzindo eles para o futuro.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Sean Astin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg"
+        },
+        {
+          "name": "Al Alcorn",
+          "photo_url": null
+        },
+        {
+          "name": "Peter Armstrong",
+          "photo_url": null
+        },
+        {
+          "name": "Cliff Bleszinski",
+          "photo_url": "https://image.tmdb.org/t/p/w185/74xIjQSU4KxUOlTF7a4wZl1PW4Q.jpg"
+        },
+        {
+          "name": "Zach Braff",
+          "photo_url": "https://image.tmdb.org/t/p/w185/koIHwqE6hWIXuOIDHNADwSuGq6N.jpg"
+        },
+        {
+          "name": "Jim Brown",
+          "photo_url": null
+        },
+        {
+          "name": "Nolan Bushnell",
+          "photo_url": null
+        },
+        {
+          "name": "Louis Castle",
+          "photo_url": null
+        },
+        {
+          "name": "Wil Wheaton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3Jn3uSa79TwsK4D5fFyFzKag6ST.jpg"
+        },
+        {
+          "name": "Chloe Dykstra",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lPtZtKRun3Nt6zglPKrtPXYr6gv.jpg"
+        },
+        {
+          "name": "Donald Faison",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gNwWP1CHob9Y8fjY69w7EwGxMoz.jpg"
+        },
+        {
+          "name": "Brian Fargo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4fxu6wwgwsVx3Z4784icXPGxZ7V.jpg"
+        }
+      ],
+      "message_ids": [
+        6756,
+        6757
+      ],
+      "video_message_id": 6757
     },
     {
       "tmdb_id": 837,

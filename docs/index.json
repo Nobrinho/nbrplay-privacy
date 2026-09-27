@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:29:19+00:00",
+  "generated_at": "2026-09-27T07:29:29+00:00",
   "channel": "-1004483833987",
-  "count": 2812,
+  "count": 2813,
   "movie_count": 2713,
   "series_count": 22,
-  "episode_count": 99,
+  "episode_count": 100,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -182949,6 +182949,74 @@
                 7102
               ],
               "video_message_id": 7102
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 908625,
+              "title": "Fugitivus",
+              "air_date": "2012-01-27",
+              "overview": "Spartacus descobre as responsabilidades e as dificuldades de seu novo papel como líder dos escravos libertados.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/8dBEXwXM4xaQ3e7fikdCvqWgZeW.jpg",
+              "cast": [
+                {
+                  "name": "Liam McIntyre",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/vTw11F1awNW8AlxInljEsK96cNB.jpg"
+                },
+                {
+                  "name": "Manu Bennett",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/vwcTCQoRqfOjGZA1TPCx9TWTNht.jpg"
+                },
+                {
+                  "name": "Dustin Clare",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3F2pmjmi7CnUELSq613ifLekYx1.jpg"
+                },
+                {
+                  "name": "Lucy Lawless",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7fYfVk6jtdCWuJEo9pEqc6O2JkD.jpg"
+                },
+                {
+                  "name": "Cynthia Addai-Robinson",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/fgXXRWLRDprVH9Bf2et0zRLk7HQ.jpg"
+                },
+                {
+                  "name": "Jaime Murray",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/viqfbECKPLI8nRO6sya8YFu8yc2.jpg"
+                },
+                {
+                  "name": "Ellen Hollman",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ebNqpUF7WFr4lhP6FhT9O1doc8q.jpg"
+                },
+                {
+                  "name": "Marisa Ramirez",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dE0Sx1J7V0FYviow3x554A0Aufh.jpg"
+                },
+                {
+                  "name": "Barry Duffield",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/TFXTlHgCA5ALVCk2C5lltqkyQU.jpg"
+                },
+                {
+                  "name": "Pana Hema-Taylor",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/mwjF8ZM8AWhCajUNarysOnR9ViJ.jpg"
+                },
+                {
+                  "name": "Stephen Lovatt",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hN24wBIZ1BmuedLi69bKjFHUERD.jpg"
+                },
+                {
+                  "name": "Hanna Mangan Lawrence",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/v1KvC9H5xXy25DIiQwxBAEgrZfs.jpg"
+                }
+              ],
+              "message_ids": [
+                7103,
+                7104
+              ],
+              "video_message_id": 7104
             }
           ]
         }

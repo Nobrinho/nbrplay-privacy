@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T03:36:32+00:00",
+  "generated_at": "2026-09-27T03:36:40+00:00",
   "channel": "-1004483833987",
-  "count": 2545,
-  "movie_count": 2545,
+  "count": 2546,
+  "movie_count": 2546,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -17666,6 +17666,64 @@
         5108
       ],
       "video_message_id": 5108
+    },
+    {
+      "tmdb_id": 493687,
+      "title": "Aeroporto Central",
+      "original_title": "Zentralflughafen THF",
+      "year": "2018",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2fn2KgNfEdwj5EDPqcFljpYX51r.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tEfiCXs92P6FtjXBj2GDlcFsSIr.jpg",
+      "overview": "A história se passa no antigo aeroporto de Tempelhof, na capital alemã, uma das construções mais emblemáticas do regime nazista, que há dez anos foi desativada para voos.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Ibrahim Al Hussein",
+          "photo_url": null
+        },
+        {
+          "name": "Qutaiba Nafer",
+          "photo_url": null
+        },
+        {
+          "name": "Maria Alahmad",
+          "photo_url": null
+        },
+        {
+          "name": "Christine Kiessig-Kämper",
+          "photo_url": null
+        },
+        {
+          "name": "Olivier Bonnet",
+          "photo_url": null
+        },
+        {
+          "name": "Mahmoud Sultan",
+          "photo_url": null
+        },
+        {
+          "name": "Jihad Mohamad",
+          "photo_url": null
+        },
+        {
+          "name": "Gert Köppe",
+          "photo_url": null
+        },
+        {
+          "name": "Eva Szybalski",
+          "photo_url": null
+        },
+        {
+          "name": "Sigrid Mausch",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6759
+      ],
+      "video_message_id": 6759
     },
     {
       "tmdb_id": 613504,

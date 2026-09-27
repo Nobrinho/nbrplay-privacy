@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:44:23+00:00",
+  "generated_at": "2026-09-27T06:50:01+00:00",
   "channel": "-1004483833987",
-  "count": 2758,
+  "count": 2759,
   "movie_count": 2684,
-  "series_count": 16,
-  "episode_count": 74,
+  "series_count": 17,
+  "episode_count": 75,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -178137,6 +178137,37 @@
                 6903
               ],
               "video_message_id": 6903
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 286323,
+      "title": "Bateau Mouche: O Naufrágio da Justiça",
+      "original_title": "Bateau Mouche: O Naufrágio da Justiça",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bBwp5AjofA5qfE0jxa1CFVNolpd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hG6U5keTAE2TeMWLVKHaz6ve5mj.jpg",
+      "genres": [
+        "Documentário",
+        "Crime"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 2,
+              "tmdb_id": 6044505,
+              "title": "A Tempestade Perfeita",
+              "air_date": "2025-03-25",
+              "overview": "Famílias são lançadas ao mar revolto até que um pescador se depara com náufragos e corpos. Após um resgate dramático, os sobreviventes passam a noite em busca de familiares. Na investigação criminal, graves irregularidades aparecem.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/hG6U5keTAE2TeMWLVKHaz6ve5mj.jpg",
+              "cast": [],
+              "message_ids": [
+                7028
+              ],
+              "video_message_id": 7028
             }
           ]
         }

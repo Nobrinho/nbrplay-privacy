@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:18:45+00:00",
+  "generated_at": "2026-09-27T04:19:10+00:00",
   "channel": "-1004483833987",
-  "count": 2581,
-  "movie_count": 2573,
+  "count": 2582,
+  "movie_count": 2574,
   "series_count": 2,
   "episode_count": 8,
   "movies": [
@@ -72542,6 +72542,61 @@
         526
       ],
       "video_message_id": 526
+    },
+    {
+      "tmdb_id": 84286,
+      "title": "How to Survive a Plague",
+      "original_title": "How to Survive a Plague",
+      "year": "2012",
+      "poster_url": "https://image.tmdb.org/t/p/w500/azlN2LO5OtJVeSokkK408xMtt1n.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/m85Ns8BthzdQYlUPEjwy8KOvvtG.jpg",
+      "overview": "A story of two coalitions – ACT UP and TAG (Treatment Action Group) – whose activism and innovation turned AIDS from a death sentence into a manageable condition. Despite having no scientific training, these self-made activists infiltrated the pharmaceutical industry and helped identify promising new drugs, moving them from experimental trials to patients in record time.",
+      "genres": [
+        "Documentário",
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "Peter Staley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iBmfgwwhfY8FMZ71Xr24YxdGjmA.jpg"
+        },
+        {
+          "name": "Larry Kramer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eKmaCgORYTI76Cdz8pbZmp0rRYV.jpg"
+        },
+        {
+          "name": "Iris Long",
+          "photo_url": null
+        },
+        {
+          "name": "Bob Rafsky",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AoH3ji6ZL9Tt6P9nWxEJBcJF1df.jpg"
+        },
+        {
+          "name": "Mark Harrington",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2E5YGAcsyOzOm00uBToj9Fgiwpd.jpg"
+        },
+        {
+          "name": "Anthony Fauci",
+          "photo_url": "https://image.tmdb.org/t/p/w185/XzVLVHHZdAKt163fHEP8YcUTDw.jpg"
+        },
+        {
+          "name": "David Barr",
+          "photo_url": null
+        },
+        {
+          "name": "Jim Eigo",
+          "photo_url": null
+        },
+        {
+          "name": "Ann Northrop",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6798
+      ],
+      "video_message_id": 6798
     },
     {
       "tmdb_id": 10658,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:54:34+00:00",
+  "generated_at": "2026-09-27T06:54:48+00:00",
   "channel": "-1004483833987",
-  "count": 2767,
-  "movie_count": 2690,
+  "count": 2768,
+  "movie_count": 2691,
   "series_count": 18,
   "episode_count": 77,
   "movies": [
@@ -56559,6 +56559,74 @@
         5907
       ],
       "video_message_id": 5907
+    },
+    {
+      "tmdb_id": 31151,
+      "title": "Elvis É Assim",
+      "original_title": "Elvis: That's the Way It Is",
+      "year": "1970",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8qwwp5fOPNXDfaqta5x34nDXEDI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tXwXxjxuTZFy6PJqhSzwOI1Grzd.jpg",
+      "overview": "É noite de estréia. Elvis Presley vestindo sua radiante jaqueta nova, aguarda com ansiedade sua entrada no palco. Se as músicas não funcionarem, ironiza, a gente pode fazer um desfile de moda. As músicas funcionam demais. Nesta Edição Especial do lendário Show filmado no verão de 1970 em Las Vegas. Rick Schmidlin, montador e restaurador , conseguiu recuperar mais de 30 minutos das músicas originais do filme, que permaneciam guardado nos cofres do estúdio à espera de sua renovação. As cenas adicionais mostram entre outras, performances das músicas Get Back, One Night e Suspicius Mind, em diferentes versões ao show original.",
+      "genres": [
+        "Documentário",
+        "Música"
+      ],
+      "cast": [
+        {
+          "name": "Elvis Presley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/psf1wJUw48ALsfV3tN31FX0mDW5.jpg"
+        },
+        {
+          "name": "James Burton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sQjA76GfRloD7uN3mpAUxUsIv87.jpg"
+        },
+        {
+          "name": "John Wilkinson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yCejx6OBpF320oOSbTvT7CZPjb6.jpg"
+        },
+        {
+          "name": "Charlie Hodge",
+          "photo_url": "https://image.tmdb.org/t/p/w185/haaRS7llHZaAydhicszhkZ8kfvl.jpg"
+        },
+        {
+          "name": "Jerry Scheff",
+          "photo_url": null
+        },
+        {
+          "name": "Glen D. Hardin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oSA5fqJHR3OeOUYHDUOiyrYQ41K.jpg"
+        },
+        {
+          "name": "Ronnie Tutt",
+          "photo_url": null
+        },
+        {
+          "name": "Cary Grant",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lcNAirMFcyM7WIiCmaabjbNZVOJ.jpg"
+        },
+        {
+          "name": "Sammy Davis Jr.",
+          "photo_url": "https://image.tmdb.org/t/p/w185/b6UVWbUBAR280fSC85FgyPSmxHe.jpg"
+        },
+        {
+          "name": "Tom Parker",
+          "photo_url": "https://image.tmdb.org/t/p/w185/m929dKquU8S1caX54RKRQcl4LK8.jpg"
+        },
+        {
+          "name": "George Hamilton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/za0jt4pZEjHf3kzUecbIC6hpX7I.jpg"
+        },
+        {
+          "name": "Cissy Houston",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rXPQvVm7m2aajWZKIoQCetvpHS.jpg"
+        }
+      ],
+      "message_ids": [
+        7035,
+        7036
+      ],
+      "video_message_id": 7036
     },
     {
       "tmdb_id": 68724,

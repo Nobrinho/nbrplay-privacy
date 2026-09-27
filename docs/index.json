@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:40:25+00:00",
+  "generated_at": "2026-09-27T07:40:42+00:00",
   "channel": "-1004483833987",
-  "count": 2873,
-  "movie_count": 2727,
+  "count": 2874,
+  "movie_count": 2728,
   "series_count": 23,
   "episode_count": 146,
   "movies": [
@@ -116205,6 +116205,74 @@
         4511
       ],
       "video_message_id": 4511
+    },
+    {
+      "tmdb_id": 27475,
+      "title": "O Massacre",
+      "original_title": "The Slumber Party Massacre",
+      "year": "1982",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2JNvePbWvCOFJbSqzulKOfBCT8t.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3A8hf7Va32HjGAAgatMa0ibPD9E.jpg",
+      "overview": "A festa do pijama de uma estudante do ensino médio se transforma em um banho de sangue quando um assassino em série psicótico recém-fugido ronda seu bairro com uma furadeira.",
+      "genres": [
+        "Terror",
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Michele Michaels",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fVrGdJElVAUngMTKjN2mpNyjMzx.jpg"
+        },
+        {
+          "name": "Robin Stille",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dOieiO8j9S8dEn2ZRVIft7aBgs8.jpg"
+        },
+        {
+          "name": "Michael Villella",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9nyYNzclhw9GLh4MhQnFhqMEci.jpg"
+        },
+        {
+          "name": "Debra De Liso",
+          "photo_url": "https://image.tmdb.org/t/p/w185/A4SdcVt0KgKSGP0yvd79IDTmNDw.jpg"
+        },
+        {
+          "name": "Andree Honore",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bFEA1fwuiUx7hbVFaO6wPq9Ujiq.jpg"
+        },
+        {
+          "name": "Gina Smika Hunter",
+          "photo_url": "https://image.tmdb.org/t/p/w185/e4qzFXUNZDVVpZ6Ym5UlDBDpgfC.jpg"
+        },
+        {
+          "name": "Jennifer Meyers",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ls2mJTCGCrL6hdLLtTHYiCsVhic.jpg"
+        },
+        {
+          "name": "Joseph Alan Johnson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fZqjHdwkqjOeLii1f28lQxN3TVy.jpg"
+        },
+        {
+          "name": "David Millbern",
+          "photo_url": "https://image.tmdb.org/t/p/w185/i6cpS4vUBeETywXONjixMZhAcnv.jpg"
+        },
+        {
+          "name": "Jim Boyce",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7lqkifKFP8uFrrduJleDcN7bV9J.jpg"
+        },
+        {
+          "name": "Pamela Roylance",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lpJYXvuAK0yJsByRYJ87uUEGp1z.jpg"
+        },
+        {
+          "name": "Brinke Stevens",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9iLKKRl38hasBiWSvysmHClQSSe.jpg"
+        }
+      ],
+      "message_ids": [
+        7187,
+        7188
+      ],
+      "video_message_id": 7188
     },
     {
       "tmdb_id": 30497,

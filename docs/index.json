@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:24:12+00:00",
+  "generated_at": "2026-09-27T04:24:23+00:00",
   "channel": "-1004483833987",
-  "count": 2598,
-  "movie_count": 2580,
+  "count": 2599,
+  "movie_count": 2581,
   "series_count": 5,
   "episode_count": 18,
   "movies": [
@@ -44831,6 +44831,36 @@
         1159
       ],
       "video_message_id": 1159
+    },
+    {
+      "tmdb_id": 433051,
+      "title": "Crise na Síria",
+      "original_title": "Cries from Syria",
+      "year": "2017",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eNfvQKttsz9Gw1veOi05FxeHQRL.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/38iy9DzfWAzXbBr67JH2PJIrV1u.jpg",
+      "overview": "Ativistas sírios, líderes revolucionários, ex-generais do exército, jornalistas e cidadãos comuns discutem a crise humanitária e a Guerra Civil no país.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Hadi Al Abdullah",
+          "photo_url": null
+        },
+        {
+          "name": "Raed Al Saleh",
+          "photo_url": null
+        },
+        {
+          "name": "Helen Mirren",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1reKRrsdsHXJaRVHVyOEg4oPTcZ.jpg"
+        }
+      ],
+      "message_ids": [
+        6818
+      ],
+      "video_message_id": 6818
     },
     {
       "tmdb_id": 625450,

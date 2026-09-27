@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:15:16+00:00",
+  "generated_at": "2026-09-27T05:15:37+00:00",
   "channel": "-1004483833987",
-  "count": 2643,
-  "movie_count": 2610,
+  "count": 2644,
+  "movie_count": 2611,
   "series_count": 8,
   "episode_count": 33,
   "movies": [
@@ -68034,6 +68034,21 @@
         3381
       ],
       "video_message_id": 3381
+    },
+    {
+      "tmdb_id": 211792,
+      "title": "Guerra do Imaginário: A Jornada de Chesterton, Lewis e Tolkien — S01E01 — Dragões Podem Ser Vencidos",
+      "original_title": null,
+      "year": "2022",
+      "poster_url": null,
+      "backdrop_url": null,
+      "overview": null,
+      "genres": [],
+      "cast": [],
+      "message_ids": [
+        6860
+      ],
+      "video_message_id": 6860
     },
     {
       "tmdb_id": 74,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:57:05+00:00",
+  "generated_at": "2026-09-27T05:57:21+00:00",
   "channel": "-1004483833987",
-  "count": 2692,
-  "movie_count": 2648,
+  "count": 2693,
+  "movie_count": 2649,
   "series_count": 10,
   "episode_count": 44,
   "movies": [
@@ -153679,6 +153679,73 @@
         5398
       ],
       "video_message_id": 5398
+    },
+    {
+      "tmdb_id": 9372,
+      "title": "Super Size Me - A Dieta do Palhaço",
+      "original_title": "Super Size Me",
+      "year": "2004",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AkJZjBoJP9ITW1W7xqY4sKfBsxG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/f589RGsnKpDvHu9qvELM6LZBEbG.jpg",
+      "overview": "O diretor Morgan Spurlock decide ser a cobaia de uma experiência: se alimentar apenas em restaurantes da rede McDonald's, realizando neles três refeições ao dia durante um mês. Durante a realização da experiência o diretor fala sobre a cultura do fast food nos Estados Unidos, além de mostrar em si mesmo os efeitos físicos e mentais que os alimentos deste tipo de restaurante provocam.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Morgan Spurlock",
+          "photo_url": "https://image.tmdb.org/t/p/w185/umV7q1bhSeDosEWpS3MhgdwZIXk.jpg"
+        },
+        {
+          "name": "Daryl Isaacs",
+          "photo_url": null
+        },
+        {
+          "name": "Lisa Ganjhu",
+          "photo_url": null
+        },
+        {
+          "name": "Stephen Siegel",
+          "photo_url": null
+        },
+        {
+          "name": "Bridget Bennett",
+          "photo_url": null
+        },
+        {
+          "name": "Eric Rowley",
+          "photo_url": null
+        },
+        {
+          "name": "Mark Fenton",
+          "photo_url": null
+        },
+        {
+          "name": "Alexandra Jamieson",
+          "photo_url": null
+        },
+        {
+          "name": "John Banzhaf",
+          "photo_url": null
+        },
+        {
+          "name": "David Satcher",
+          "photo_url": null
+        },
+        {
+          "name": "Lisa Young",
+          "photo_url": null
+        },
+        {
+          "name": "Kelly Brownell",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6930,
+        6931
+      ],
+      "video_message_id": 6931
     },
     {
       "tmdb_id": 11918,

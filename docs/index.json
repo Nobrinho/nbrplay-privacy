@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:39:47+00:00",
+  "generated_at": "2026-09-27T07:40:03+00:00",
   "channel": "-1004483833987",
-  "count": 2870,
-  "movie_count": 2724,
+  "count": 2871,
+  "movie_count": 2725,
   "series_count": 23,
   "episode_count": 146,
   "movies": [
@@ -82487,6 +82487,75 @@
         703
       ],
       "video_message_id": 703
+    },
+    {
+      "tmdb_id": 408647,
+      "title": "Jovens Titãs: O Contrato de Judas",
+      "original_title": "Teen Titans: The Judas Contract",
+      "year": "2017",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4FLXao03tPeEZJUCSUWkATPlBV3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lanjolLsav0NxKPZDpPTmoZPYSv.jpg",
+      "overview": "Liderados por Estelar, os Jovens Titãs – Mutano, Ravena, Besouro Azul, Robin e o recém-chegado Asa Norturna – formam um time estrondoso para lutar contra as forças do mal. Porém, a chegada de uma nova integrante, a misteriosa e poderosa Terra pode afetar o equilíbrio desse grupo. Enquanto isso, um ser maligno antigo, Irmão Sangue, acordou e Exterminador, um inimigo familiar está escondendo-se nas sombras, ambos esperando para atacar. Os Jovens Titãs vão enfrentar seus inimigos e precisarão superar conflitos dentro do time nesta aventura intrigante e cheia de reviravoltas.",
+      "genres": [
+        "Ficção científica",
+        "Animação",
+        "Ação"
+      ],
+      "cast": [
+        {
+          "name": "Stuart Allan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xCAGTIcgC7J6YCl2bviIADY8blp.jpg"
+        },
+        {
+          "name": "Jake T. Austin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tRqrikX123Z01WRKwAEmURcSV7V.jpg"
+        },
+        {
+          "name": "Taissa Farmiga",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jMDY4rFh2SFINj0wzoX10Roye3n.jpg"
+        },
+        {
+          "name": "Christina Ricci",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dzB58d6fNrTEi7nBAU1tySJc2at.jpg"
+        },
+        {
+          "name": "Brandon Soo Hoo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8diINjJaRv4PKC66RC8oRRfNqDw.jpg"
+        },
+        {
+          "name": "Kari Wahlgren",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kc0BOnSdzCfq8w9qoNVEm5K12x1.jpg"
+        },
+        {
+          "name": "Miguel Ferrer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n6VZ8OQmozHmnJQRwR55gBH8Tl0.jpg"
+        },
+        {
+          "name": "Sean Maher",
+          "photo_url": "https://image.tmdb.org/t/p/w185/o7splcOIVAdbHnwohJOUAvXWVlk.jpg"
+        },
+        {
+          "name": "Gregg Henry",
+          "photo_url": "https://image.tmdb.org/t/p/w185/j17nuAFulrbYP34g4Qw8SZRDNUo.jpg"
+        },
+        {
+          "name": "Kevin Smith",
+          "photo_url": "https://image.tmdb.org/t/p/w185/g8sC36zUTkSTh7y9HjWa4Rbr0JP.jpg"
+        },
+        {
+          "name": "David Zayas",
+          "photo_url": "https://image.tmdb.org/t/p/w185/w1E8n9gl2HcZEhfBOXdVzMvIlzg.jpg"
+        },
+        {
+          "name": "Crispin Freeman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oqqNzJK7F9ZO6Kft4BwncT6K8hz.jpg"
+        }
+      ],
+      "message_ids": [
+        7181,
+        7182
+      ],
+      "video_message_id": 7182
     },
     {
       "tmdb_id": 583406,

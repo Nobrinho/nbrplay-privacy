@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T18:55:22+00:00",
+  "generated_at": "2026-09-27T19:04:35+00:00",
   "channel": "-1004483833987",
-  "count": 2968,
-  "movie_count": 2786,
+  "count": 2970,
+  "movie_count": 2788,
   "series_count": 27,
   "episode_count": 182,
   "custom_count": 0,
@@ -34696,6 +34696,24 @@
         3857
       ],
       "video_message_id": 3857
+    },
+    {
+      "tmdb_id": 84553,
+      "title": "Blade Runner: Black Lotus — S01E13 — Hora de Morrer",
+      "original_title": "Semper Fi: Always Faithful",
+      "year": "2022",
+      "poster_url": "https://image.tmdb.org/t/p/w500/y9In7M1LZ2f3CRIY3EY7RVteXEb.jpg",
+      "backdrop_url": null,
+      "overview": "Marine Corps Master Sgt. Jerry Ensminger was a devoted Marine for nearly twenty-five years. As a drill instructor he lived and breathed the \"Corps\" and was responsible for indoctrinating thousands of new recruits with its motto Semper Fidelis or \"Always Faithful\". When Jerry's nine-year old daughter Janey died of a rare type of leukemia, his world collapsed. As a grief-stricken father, he struggled for years to make sense of what happened. His search for answers led to the shocking discovery of a Marine Corps cover-up of one of the largest water contamination incidents in U.S. history. Semper Fi: Always Faithful follows Jerry's mission to expose the Marine Corps and force them to live up to their motto to the thousands of soldiers and their families exposed to toxic chemicals. His fight reveals a grave injustice at North Carolina's Camp Lejeune and a looming environmental crisis at military sites across the country.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [],
+      "message_ids": [
+        7325,
+        7326
+      ],
+      "video_message_id": 7326
     },
     {
       "tmdb_id": 78,
@@ -147537,6 +147555,21 @@
         6036
       ],
       "video_message_id": 6036
+    },
+    {
+      "tmdb_id": 217606,
+      "title": "Revanche — S01E05 — Episódio 5",
+      "original_title": null,
+      "year": "2024",
+      "poster_url": null,
+      "backdrop_url": null,
+      "overview": null,
+      "genres": [],
+      "cast": [],
+      "message_ids": [
+        7311
+      ],
+      "video_message_id": 7311
     },
     {
       "tmdb_id": 313943,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T03:51:34+00:00",
+  "generated_at": "2026-09-27T03:51:49+00:00",
   "channel": "-1004483833987",
-  "count": 2561,
-  "movie_count": 2557,
+  "count": 2562,
+  "movie_count": 2558,
   "series_count": 1,
   "episode_count": 4,
   "movies": [
@@ -160271,6 +160271,57 @@
         4765
       ],
       "video_message_id": 4765
+    },
+    {
+      "tmdb_id": 738362,
+      "title": "Um Maluco no Pedaço: A Reunião",
+      "original_title": "The Fresh Prince of Bel-Air Reunion",
+      "year": "2020",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tcKsgTnrjuZLWAJwn8uBZHy5YWy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hzbrQ8gR26R6BWbrp3HaPCRs08T.jpg",
+      "overview": "Junte-se a Will Smith, Tatyana Ali, Karyn Parsons, Joseph Marcell, Daphne Maxwell Reid, Alfonso Ribeiro e DJ Jazzy Jeff, para uma noite divertida e emocionante cheia de música e dança em homenagem ao show que teve seis temporadas e 148 episódios.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Will Smith",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
+        },
+        {
+          "name": "Tatyana Ali",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wlCYid92sB1dffkxW271NEqrYOB.jpg"
+        },
+        {
+          "name": "Karyn Parsons",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iQzZ1Vedy1aP2i2qnMkOcJoElGS.jpg"
+        },
+        {
+          "name": "Joseph Marcell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mbjY5qqeT9aV7weLzvbN1ikPq0M.jpg"
+        },
+        {
+          "name": "Daphne Maxwell Reid",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mKCNflFVAnuRNEnyVZqNjRzt1UA.jpg"
+        },
+        {
+          "name": "Alfonso Ribeiro",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9yDIqDBOSRgSoZHGKHYt09gvsrG.jpg"
+        },
+        {
+          "name": "DJ Jazzy Jeff",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7k1zF7LAn4QgG5HdVBrLmscLMif.jpg"
+        },
+        {
+          "name": "Janet Hubert",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aUjFBiO1xHJqV8V95hpg0hbLBy0.jpg"
+        }
+      ],
+      "message_ids": [
+        6778,
+        6779
+      ],
+      "video_message_id": 6779
     },
     {
       "tmdb_id": 8491,

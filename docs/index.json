@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:00:35+00:00",
+  "generated_at": "2026-09-27T07:01:23+00:00",
   "channel": "-1004483833987",
-  "count": 2772,
-  "movie_count": 2695,
+  "count": 2773,
+  "movie_count": 2696,
   "series_count": 18,
   "episode_count": 77,
   "movies": [
@@ -131686,6 +131686,74 @@
         6151
       ],
       "video_message_id": 6151
+    },
+    {
+      "tmdb_id": 1260643,
+      "title": "Paul McCartney: Homem em Fuga",
+      "original_title": "Man on the Run",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/knvjDPSFRhsGpQR6QvJE8l14zpy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mA03GgESjKMCUAiCywyx6I7kSZx.jpg",
+      "overview": "Homem em Fuga é um retrato íntimo da jornada de Paul McCartney após os Beatles, quando ele e a esposa, Linda, formam os Wings. Dirigido por Morgan Neville, vencedor do Oscar, o filme explora a reinvenção de McCartney com filmagens raras que registram as lutas e vitórias de se redefinir numa nova era musical.",
+      "genres": [
+        "Documentário",
+        "Música"
+      ],
+      "cast": [
+        {
+          "name": "Paul McCartney",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sCPsv9ueP5UR6BkMSmRDlwbra6S.jpg"
+        },
+        {
+          "name": "Linda McCartney",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dxyaSK1b09bKraDsJO9UDAfoEdX.jpg"
+        },
+        {
+          "name": "Denny Laine",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fpamPZe9AfqeGGvy3Z7IBa8bv1z.jpg"
+        },
+        {
+          "name": "Denny Seiwell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4XlxuBPskSWPMi6fx6DLlpjBBFv.jpg"
+        },
+        {
+          "name": "Henry McCullough",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4KOclUvJQBPpOdBrvVu0NJpv6CS.jpg"
+        },
+        {
+          "name": "Jimmy McCulloch",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xZYg1F2JyjCt5jL6fRyXnrHJ2Xu.jpg"
+        },
+        {
+          "name": "John Lennon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iawyLGZKTr7eD8XWhNGjM8Cb95x.jpg"
+        },
+        {
+          "name": "George Harrison",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zwUO2gnKBnSrKOB9hnhI9GdOX6e.jpg"
+        },
+        {
+          "name": "Ringo Starr",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7fSrrdl90BYdR3dtOnNkosOw0kw.jpg"
+        },
+        {
+          "name": "Mick Jagger",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wDanhh7Z94tI0kdWJ1YFZK1UV5O.jpg"
+        },
+        {
+          "name": "Elton John",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wjsJqw6nliNPV3oVpo9sCGWia48.jpg"
+        },
+        {
+          "name": "Mary McCartney",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iCoSckL6NNPZaFJtUctDcE8zc33.jpg"
+        }
+      ],
+      "message_ids": [
+        7042,
+        7043
+      ],
+      "video_message_id": 7043
     },
     {
       "tmdb_id": 476968,

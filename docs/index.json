@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:18:34+00:00",
+  "generated_at": "2026-09-27T04:18:45+00:00",
   "channel": "-1004483833987",
-  "count": 2580,
-  "movie_count": 2572,
+  "count": 2581,
+  "movie_count": 2573,
   "series_count": 2,
   "episode_count": 8,
   "movies": [
@@ -20375,6 +20375,65 @@
         5227
       ],
       "video_message_id": 5227
+    },
+    {
+      "tmdb_id": 356199,
+      "title": "Amazing Grace",
+      "original_title": "Amazing Grace",
+      "year": "2018",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eABsBr5TnW8FBSSSsAKFnwDW1BW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2FT4Li1enVvQBaYSqvGji6vlvbE.jpg",
+      "overview": "Um documentário apresentando Aretha Franklin com coro na Igreja Batista de New Bethel em Watts, Los Angeles, em janeiro de 1972.  Em 1972, Aretha Franklin gravou o álbum 'Amazing Grace' numa igreja no sul de Los Angeles. O evento foi filmado por Sydney Pollack mas nunca foi lançado. Na platéia temos Mick Jagger, Sydney Pollack e Charlie Watts, baterista do The Rolling Stones. (e Livre - Estimado Livre)",
+      "genres": [
+        "Música",
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Aretha Franklin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/arFzDAEdNaObOgnlORXKQAT3Y2p.jpg"
+        },
+        {
+          "name": "James Cleveland",
+          "photo_url": null
+        },
+        {
+          "name": "C.L. Franklin",
+          "photo_url": null
+        },
+        {
+          "name": "Bernard \"Pretty\" Purdie",
+          "photo_url": null
+        },
+        {
+          "name": "Chuck Rainey",
+          "photo_url": null
+        },
+        {
+          "name": "Clara Ward",
+          "photo_url": "https://image.tmdb.org/t/p/w185/raoUCVnE3BdIxpqYCFwpkhAJ24u.jpg"
+        },
+        {
+          "name": "Mick Jagger",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wDanhh7Z94tI0kdWJ1YFZK1UV5O.jpg"
+        },
+        {
+          "name": "Sydney Pollack",
+          "photo_url": "https://image.tmdb.org/t/p/w185/l6Sq7iEakN4eCeMXyZuloc5VIJO.jpg"
+        },
+        {
+          "name": "Charlie Watts",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yZUiyOV9ImKLwAczuLd7TsImC1k.jpg"
+        },
+        {
+          "name": "Alexander Hamilton",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6797
+      ],
+      "video_message_id": 6797
     },
     {
       "tmdb_id": 638658,

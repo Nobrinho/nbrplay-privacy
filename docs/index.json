@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:42:02+00:00",
+  "generated_at": "2026-09-27T07:42:38+00:00",
   "channel": "-1004483833987",
-  "count": 2879,
-  "movie_count": 2733,
+  "count": 2880,
+  "movie_count": 2734,
   "series_count": 23,
   "episode_count": 146,
   "movies": [
@@ -64760,6 +64760,44 @@
         3774
       ],
       "video_message_id": 3774
+    },
+    {
+      "tmdb_id": 481093,
+      "title": "Foro Íntimo",
+      "original_title": "Foro Íntimo",
+      "year": "2017",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8htevandDGCHfzGCiMAjaJDZJuN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ieFhkUTfd1sEbXO8oL8KbfFeZQK.jpg",
+      "overview": "Inspirado em eventos reais, o filme acompanha 24 horas na vida de um juiz acuado por criminosos e refém do sistema legal.",
+      "genres": [
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Gustavo Werneck",
+          "photo_url": null
+        },
+        {
+          "name": "Jefferson da Fonseca",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hk5WDjDUG4k7oTFrLteXbaJYxMu.jpg"
+        },
+        {
+          "name": "Beatriz França",
+          "photo_url": null
+        },
+        {
+          "name": "Léo Quintão",
+          "photo_url": null
+        },
+        {
+          "name": "Alexandre Cioletti",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oCg1pkXKsBhoOqqSQtJ9yuyzI8u.jpg"
+        }
+      ],
+      "message_ids": [
+        7199
+      ],
+      "video_message_id": 7199
     },
     {
       "tmdb_id": 13,

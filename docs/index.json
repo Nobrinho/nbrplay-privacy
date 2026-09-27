@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T15:38:17+00:00",
+  "generated_at": "2026-09-27T15:38:25+00:00",
   "channel": "-1004483833987",
-  "count": 2917,
-  "movie_count": 2760,
+  "count": 2918,
+  "movie_count": 2761,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -129213,6 +129213,75 @@
         6739
       ],
       "video_message_id": 6739
+    },
+    {
+      "tmdb_id": 83088,
+      "title": "Os Cavaleiros do Zodíaco: Os Guerreiros do Armagedon",
+      "original_title": "聖闘士星矢 最終聖戦の戦士たち",
+      "year": "1989",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cXCWqtb7oRtkQfpxjdPS4G2c3RR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1FdYcvnpyk8vxBbw583ZzwVQ5Ev.jpg",
+      "overview": "Os cosmos de Poseidon, Abel e Éris, todos mandados ao inferno pelos Cavaleiros de Bronze, são usados para reviver Lúcifer, o mais cruel dos demônios. Decidido a se vingar de Atena, Lúcifer resolve destruir a Terra e enfrenta os Cavaleiros de Bronze.",
+      "genres": [
+        "Ação",
+        "Animação",
+        "Fantasia"
+      ],
+      "cast": [
+        {
+          "name": "Toru Furuya",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2et31Lo8I0gRbyYFaOu3TBRby7U.jpg"
+        },
+        {
+          "name": "Hirotaka Suzuoki",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pgFcxD6dazHWy3KFobU6gDz0iCJ.jpg"
+        },
+        {
+          "name": "Koichi Hashimoto",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AURtsY0sQ82WgMgOlMGtqyTZ3z.jpg"
+        },
+        {
+          "name": "Ryo Horikawa",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vZ69WQJfR5D2xow5FkddduRjq6c.jpg"
+        },
+        {
+          "name": "Hideyuki Hori",
+          "photo_url": "https://image.tmdb.org/t/p/w185/r07AnLi1EMS4hJf5fQF3Y9SjR4q.jpg"
+        },
+        {
+          "name": "Keiko Han",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7fi4oxXVJJJnyZMwcud1Yzq8Re0.jpg"
+        },
+        {
+          "name": "津嘉山正種",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7zeWvl3m6EAqCL0TKwGL3hVso3F.jpg"
+        },
+        {
+          "name": "森功至",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7HMCnhwbBPNEut2s2VziMVBWXuL.jpg"
+        },
+        {
+          "name": "山口健",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7g2KzcWAHyVj218L5AxQg8YPzUd.jpg"
+        },
+        {
+          "name": "Toshio Furukawa",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zZjO0NxIbEhYW3507gXVnvWeRkG.jpg"
+        },
+        {
+          "name": "難波圭一",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qazcRBlCE0XJMeXIiSUvPcZNsd8.jpg"
+        },
+        {
+          "name": "Kaneto Shiozawa",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8F6MjUfPyV6WkfIBcThc8qijrhB.jpg"
+        }
+      ],
+      "message_ids": [
+        7265,
+        7266
+      ],
+      "video_message_id": 7266
     },
     {
       "tmdb_id": 50253,

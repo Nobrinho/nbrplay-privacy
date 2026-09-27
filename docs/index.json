@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:33:42+00:00",
+  "generated_at": "2026-09-27T04:40:43+00:00",
   "channel": "-1004483833987",
-  "count": 2619,
-  "movie_count": 2589,
+  "count": 2620,
+  "movie_count": 2590,
   "series_count": 7,
   "episode_count": 30,
   "movies": [
@@ -141787,6 +141787,72 @@
         4300
       ],
       "video_message_id": 4300
+    },
+    {
+      "tmdb_id": 565719,
+      "title": "Salve Satanás?",
+      "original_title": "Hail Satan?",
+      "year": "2019",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2URKnBTrhp84y8HX5R4SxeFl6qK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5hLKTJrwZ8F6c2xLAaWrUdCP2Zi.jpg",
+      "overview": "The story of The Satanic Temple, a controversial movement that combines religion and activism with the apparent purpose of questioning the basic foundations of US society.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Nicholas Crowe",
+          "photo_url": null
+        },
+        {
+          "name": "Malcolm Jarry",
+          "photo_url": null
+        },
+        {
+          "name": "Lucien Greaves",
+          "photo_url": null
+        },
+        {
+          "name": "Jesper Aagaard Petersen",
+          "photo_url": null
+        },
+        {
+          "name": "Jex Blackmore",
+          "photo_url": null
+        },
+        {
+          "name": "Jay D. Wexler",
+          "photo_url": null
+        },
+        {
+          "name": "Sadie Satanas",
+          "photo_url": null
+        },
+        {
+          "name": "Lynita Killen",
+          "photo_url": null
+        },
+        {
+          "name": "William Morrison",
+          "photo_url": null
+        },
+        {
+          "name": "Eve Vulgaris",
+          "photo_url": null
+        },
+        {
+          "name": "Shiva Honey",
+          "photo_url": null
+        },
+        {
+          "name": "Mason Hargett",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6838
+      ],
+      "video_message_id": 6838
     },
     {
       "tmdb_id": 629176,

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:11:53+00:00",
+  "generated_at": "2026-09-27T05:11:57+00:00",
   "channel": "-1004483833987",
-  "count": 2637,
+  "count": 2638,
   "movie_count": 2606,
   "series_count": 8,
-  "episode_count": 31,
+  "episode_count": 32,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -174191,6 +174191,19 @@
                 6860
               ],
               "video_message_id": 6860
+            },
+            {
+              "number": 2,
+              "tmdb_id": 3991819,
+              "title": "Surpreendido Pela Alegria",
+              "air_date": "2022-09-01",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/3AhTFErlXu1BMVAXhNO5coUWs4z.jpg",
+              "cast": [],
+              "message_ids": [
+                6861
+              ],
+              "video_message_id": 6861
             }
           ]
         }

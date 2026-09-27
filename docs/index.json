@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:16:10+00:00",
+  "generated_at": "2026-09-27T06:17:15+00:00",
   "channel": "-1004483833987",
-  "count": 2721,
+  "count": 2722,
   "movie_count": 2665,
-  "series_count": 12,
-  "episode_count": 56,
+  "series_count": 13,
+  "episode_count": 57,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -177506,6 +177506,86 @@
                 6862
               ],
               "video_message_id": 6862
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 249056,
+      "title": "História do Comunismo",
+      "original_title": "História do Comunismo",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eWfqKtpFOwfKkjBz8Psqsv9KYkM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kuqp72qgb5TLHod8VSUaL4WJ3G2.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 5211954,
+              "title": "Episódio I -  Marxismo de Marx",
+              "air_date": "2024-03-14",
+              "overview": "Conheça vida e a obra de Karl Marx, da sua origem até as experiências que moldaram sua visão de mundo e deram origem a uma das obras mais influentes da história: o Manifesto Comunista.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/kuqp72qgb5TLHod8VSUaL4WJ3G2.jpg",
+              "cast": [
+                {
+                  "name": "Karl Marx",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/eFaca4IMGc2gPStxK7TvSP9uEHb.jpg"
+                },
+                {
+                  "name": "Friedrich Engels",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/h6GxfgyLXOfuFc1XpAJvZ8nOr1h.jpg"
+                },
+                {
+                  "name": "Mikhail Bakunin",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/pxSkDUdp4031C2wM1kpQD4RKIWv.jpg"
+                },
+                {
+                  "name": "Vladimir Lenin",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3gPPlnU48vZcLC1Poo5vSL6j5gJ.jpg"
+                },
+                {
+                  "name": "Leon Trotsky",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ugXC8P9qAbLgQa6GpSobIk7x1SX.jpg"
+                },
+                {
+                  "name": "Joseph Stalin",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/lXOn6MhSwB3idCyZrM58ZiKreCH.jpg"
+                },
+                {
+                  "name": "Fidel Castro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/1L26bvwYjFEwp38ODyPTfDFej4B.jpg"
+                },
+                {
+                  "name": "Ernesto \"Che\" Guevara",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/vlOewYHCIf8oB18uppiOXLRPJ3y.jpg"
+                },
+                {
+                  "name": "Mao Tsé Tung",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/nuQSpbdD2i4jvBDB0TnvoVbD493.jpg"
+                },
+                {
+                  "name": "Simon Sebag Montefiore",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/o2wN8rccuBB50yJnnXkM1LW8SeN.jpg"
+                },
+                {
+                  "name": "Victor Sebestyen",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/1SDndbLwrmeMD6J3gdL9Nlqj6Mi.jpg"
+                },
+                {
+                  "name": "Stephen Smith",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xFAA41o33KUnD4ve9A50kpBxPp2.jpg"
+                }
+              ],
+              "message_ids": [
+                6977,
+                6978
+              ],
+              "video_message_id": 6978
             }
           ]
         }

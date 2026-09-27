@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:53:52+00:00",
+  "generated_at": "2026-09-27T05:53:57+00:00",
   "channel": "-1004483833987",
-  "count": 2680,
+  "count": 2681,
   "movie_count": 2641,
   "series_count": 10,
-  "episode_count": 39,
+  "episode_count": 40,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -176801,6 +176801,19 @@
                 6917
               ],
               "video_message_id": 6917
+            },
+            {
+              "number": 3,
+              "tmdb_id": 2911505,
+              "title": "O Caçador de Bruxas",
+              "air_date": "2021-05-20",
+              "overview": "Poucos dias depois das prisões, a espetaculosa cobertura da imprensa começa a apresentar novos desdobramentos do caso.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/9UdadtcFFVrh6vclnjuUbqlbWfl.jpg",
+              "cast": [],
+              "message_ids": [
+                6918
+              ],
+              "video_message_id": 6918
             }
           ]
         }

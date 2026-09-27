@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:05:47+00:00",
+  "generated_at": "2026-09-27T07:05:57+00:00",
   "channel": "-1004483833987",
-  "count": 2781,
-  "movie_count": 2701,
+  "count": 2782,
+  "movie_count": 2702,
   "series_count": 19,
   "episode_count": 80,
   "movies": [
@@ -21195,6 +21195,37 @@
         5227
       ],
       "video_message_id": 5227
+    },
+    {
+      "tmdb_id": 411009,
+      "title": "Amanda Knox",
+      "original_title": "Amanda Knox",
+      "year": "2016",
+      "poster_url": "https://image.tmdb.org/t/p/w500/he85BGyoCi42KWtwkC2sXlqdkWQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5DfhvCAWMcLLhfATTa1KuoRzoEz.jpg",
+      "overview": "Documentário. A estadunidense Amanda Knox chega em Perugia, Itália, para começar em setembro suas atividades como intercambista. A jovem de 20 anos de idade logo conhece sua colega de quarto, a britânica Meredith Kercher. O ninguém esperava é que ambas se envolveriam em um crime tão brutal.",
+      "genres": [
+        "Documentário",
+        "Crime"
+      ],
+      "cast": [
+        {
+          "name": "Amanda Knox",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vKfoY0khRYP0rdYKs4soLXyOi5o.jpg"
+        },
+        {
+          "name": "Raffaele Sollecito",
+          "photo_url": "https://image.tmdb.org/t/p/w185/a3LdsYXFHAZfCoo30WmgoHcZBKv.jpg"
+        },
+        {
+          "name": "Rudy Guede",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xZxytpoucS8eb0wOM0yYMjLSRai.jpg"
+        }
+      ],
+      "message_ids": [
+        7057
+      ],
+      "video_message_id": 7057
     },
     {
       "tmdb_id": 1229958,

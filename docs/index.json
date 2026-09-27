@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T03:09:30+00:00",
+  "generated_at": "2026-09-27T03:34:22+00:00",
   "channel": "-1004483833987",
-  "count": 2542,
-  "movie_count": 2542,
+  "count": 2543,
+  "movie_count": 2543,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -8559,6 +8559,69 @@
         1629
       ],
       "video_message_id": 1629
+    },
+    {
+      "tmdb_id": 344031,
+      "title": "A Guerra dos Consoles",
+      "original_title": "Console Wars",
+      "year": "2020",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ub1Y6s7bOmN54iV0yWjIQF8xae2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/21W3SrVdbkbOobZ3hqw9pyQ9qMX.jpg",
+      "overview": "Em 1990, a SEGA, uma nova empresa de fliperama reuniu uma equipe de desajustados para enfrentar a maior empresa de videogames do mundo, a Nintendo. Foi um conflito único na vida, sem restrições, que colocava irmão contra irmão, crianças contra adultos, Sonic contra Mario, e capitalismo exclusivamente americano contra a tradição japonesa centenária. Pela primeira vez, os homens e mulheres que lutaram na linha de frente para Sega e Nintendo discutem esta batalha que definiu uma geração.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Howard Phillips",
+          "photo_url": null
+        },
+        {
+          "name": "Shinobu Toyoda",
+          "photo_url": null
+        },
+        {
+          "name": "Paul Rioux",
+          "photo_url": null
+        },
+        {
+          "name": "Tom Kalinske",
+          "photo_url": null
+        },
+        {
+          "name": "Gail Tilden",
+          "photo_url": null
+        },
+        {
+          "name": "Peter Main",
+          "photo_url": null
+        },
+        {
+          "name": "Howard Lincoln",
+          "photo_url": null
+        },
+        {
+          "name": "Al Nilsen",
+          "photo_url": null
+        },
+        {
+          "name": "Ellen Beth Van Buskirk",
+          "photo_url": null
+        },
+        {
+          "name": "Steve Race",
+          "photo_url": null
+        },
+        {
+          "name": "Jeff Goodby",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6754,
+        6755
+      ],
+      "video_message_id": 6755
     },
     {
       "tmdb_id": 755898,

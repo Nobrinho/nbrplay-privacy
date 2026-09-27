@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:05:22+00:00",
+  "generated_at": "2026-09-27T06:05:40+00:00",
   "channel": "-1004483833987",
-  "count": 2706,
+  "count": 2707,
   "movie_count": 2659,
   "series_count": 11,
-  "episode_count": 47,
+  "episode_count": 48,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -178069,6 +178069,37 @@
                 6951
               ],
               "video_message_id": 6951
+            },
+            {
+              "number": 5,
+              "tmdb_id": 4270160,
+              "title": "De Volta às Origens",
+              "air_date": "2023-03-29",
+              "overview": "Silvio Santos está empenhado em recuperar o SBT e o primeiro lugar aos domingos, mas a \"modernização\" do canal deixou seus colaboradores magoados e um rombo no orçamento. Para recuperar as contas e o prestígio, terá que bolar uma nova estratégia e recorrer a um antigo concorrente.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/oI4JVa5Dm6RiFfXButJFoPFpDpx.jpg",
+              "cast": [
+                {
+                  "name": "José Rubens Chachá",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/1CvvDlkKL3W6jnuSr4OK6TJTp9K.jpg"
+                },
+                {
+                  "name": "Leona Cavalli",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/b1wi0Lkcf2UjlbWz9arhFwBKaff.jpg"
+                },
+                {
+                  "name": "Larissa Nunes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3zVdzi7SvNJbYH3mfEjm9YxkqNN.jpg"
+                },
+                {
+                  "name": "Daniela Paschoal",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/kI4Ohlg5gMr5TE8oT1XKpHYzMiZ.jpg"
+                }
+              ],
+              "message_ids": [
+                6952,
+                6953
+              ],
+              "video_message_id": 6953
             }
           ]
         }

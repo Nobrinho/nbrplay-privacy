@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:38:49+00:00",
+  "generated_at": "2026-09-27T19:51:58+00:00",
   "channel": "-1004483833987",
-  "count": 3030,
-  "movie_count": 2802,
-  "series_count": 34,
-  "episode_count": 228,
+  "count": 3034,
+  "movie_count": 2804,
+  "series_count": 35,
+  "episode_count": 230,
   "custom_count": 0,
   "movies": [
     {
@@ -23116,6 +23116,73 @@
         3479
       ],
       "video_message_id": 3479
+    },
+    {
+      "tmdb_id": 317068,
+      "title": "Andar na Pedra: A História do Raimundos — S01E05 — El Mariachi",
+      "original_title": "Bethsabée",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5ZZlVK1wYKizTOFcMHzi3PL4g5G.jpg",
+      "backdrop_url": null,
+      "overview": "Danielle Darrieux stars as Arabella Delvaire in this baroque adaptation of Pierre Benoit's novel Bethshabee. Arabella is a woman of the world who arrives at a remote Foreign Legion outpost for a rendezvous with her current lover, Captain Duveuil. It so happens that one of Arabella's previous amours, Captain Somerville (Paul Meurisse), is also serving at the same post. So much for joining the Foreign Legion to forget. A climactic knife duel \"solves\" the film's various plot complications. Despite its Foreign Legion background, Bethsabee has next to no action, which must have made things difficult when the film was distributed to the U.S.",
+      "genres": [
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Danielle Darrieux",
+          "photo_url": "https://image.tmdb.org/t/p/w185/l8YlVUlaJw83YQ3mmqmM1iO3KI7.jpg"
+        },
+        {
+          "name": "Georges Marchal",
+          "photo_url": "https://image.tmdb.org/t/p/w185/72gYFDkRlJkLkq8lZd92YbIXGuW.jpg"
+        },
+        {
+          "name": "Jean Murat",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4LKayHvLxcjrUCBZ6HRhg7hRaGG.jpg"
+        },
+        {
+          "name": "Paul Meurisse",
+          "photo_url": "https://image.tmdb.org/t/p/w185/i9YSdeQDiMGoN12aZwsPIwh0tjs.jpg"
+        },
+        {
+          "name": "Pierre-Louis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yx5JNDAiME8KD5AlNF4UADiSESN.jpg"
+        },
+        {
+          "name": "Olivier Darrieux",
+          "photo_url": null
+        },
+        {
+          "name": "France Mooréa",
+          "photo_url": null
+        },
+        {
+          "name": "Nicolas Vogel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zsEQgsfEqZ9VwkMWqAM1iiJRIE.jpg"
+        },
+        {
+          "name": "Larbi Tounsi",
+          "photo_url": null
+        },
+        {
+          "name": "Robert Darène",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nwwcl6M9UQjahM93E9WQNED4xGB.jpg"
+        },
+        {
+          "name": "Andrée Clément",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dbAbS2Vy6ze2l6DQwqFLHvxKoLp.jpg"
+        },
+        {
+          "name": "José Davilla",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7411,
+        7412
+      ],
+      "video_message_id": 7412
     },
     {
       "tmdb_id": 236400,
@@ -180294,6 +180361,76 @@
       "video_message_id": 3427
     },
     {
+      "tmdb_id": 331061,
+      "title": "Voepass 2283: A Queda — S01E03 — Crime?",
+      "original_title": "劇場版 デート・ア・ライブ 万由里ジャッジメント",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wPLtLeopvyg2HgndnhwvmZsF3VO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/f1HQKRYOuXyLi4HQKppbtR79BBl.jpg",
+      "overview": "De repente, uma enorme esfera começou a emitir uma misteriosa onda espiritual por toda a Cidade Tengu, que deveria ter recuperado sua paz. Ao mesmo tempo, uma garota misteriosa e bonita apareceu. Silenciosamente, ela encontra Shidou e suas amigas. Qual é o verdadeiro objetivo dela?",
+      "genres": [
+        "Animação",
+        "Romance",
+        "Ficção científica",
+        "Ação",
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Marina Inoue",
+          "photo_url": null
+        },
+        {
+          "name": "Ayana Taketatsu",
+          "photo_url": null
+        },
+        {
+          "name": "富樫美鈴",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7p3PwKmvSyLb2zM9DfWPJeMpI2O.jpg"
+        },
+        {
+          "name": "Nobunaga Shimazaki",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+        },
+        {
+          "name": "茅原実里",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qSqXpdLUq4prPtL7mkp0go6SbrF.jpg"
+        },
+        {
+          "name": "Sora Amamiya",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AouA1SfwEazdSSj8rUS9K1WIF4H.jpg"
+        },
+        {
+          "name": "月宮みどり",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8XLTl2eqP7aXrDfaOPShbMeXIi3.jpg"
+        },
+        {
+          "name": "小笠原早紀",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cD6sbgmfntoP5g6H28u6Pjrlk6P.jpg"
+        },
+        {
+          "name": "積田かよ子",
+          "photo_url": "https://image.tmdb.org/t/p/w185/24JflukoSf5FpgDWLABJFQNGPEq.jpg"
+        },
+        {
+          "name": "Takehito Koyasu",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8uBkNDKPNmp9JWgMUI02NVyfhi1.jpg"
+        },
+        {
+          "name": "Go Inoue",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pfflyhOaWISQwwlNBfb4oG6Fk95.jpg"
+        },
+        {
+          "name": "Kentaro Tone",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9IZ9SpSV0P4bJBN8ALll7IYMLG2.jpg"
+        }
+      ],
+      "message_ids": [
+        7406
+      ],
+      "video_message_id": 7406
+    },
+    {
       "tmdb_id": 711963,
       "title": "Voltando para Casa no Escuro",
       "original_title": "Coming Home in the Dark",
@@ -184069,7 +184206,7 @@
       "title": "Andar na Pedra: A História do Raimundos",
       "original_title": "Andar na Pedra: A História do Raimundos",
       "poster_url": "https://image.tmdb.org/t/p/w500/ds68uuj5GQZaL2fkBzMAQrz9vRZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jpqehwGtr0UDR46dPsGBYbWtrJ3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/c0XRTuDXDQ46E9YmNYVgHg24RQ0.jpg",
       "genres": [
         "Documentário"
       ],
@@ -184077,6 +184214,37 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 7063411,
+              "title": "Éramos Quatro",
+              "air_date": "2026-03-19",
+              "overview": "A origem do Raimundos, da amizade juvenil ao sucesso meteórico, enquanto tragédias pessoais e a inesperada conversão de Rodolfo colocam em risco a união da banda.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/c0XRTuDXDQ46E9YmNYVgHg24RQ0.jpg",
+              "cast": [
+                {
+                  "name": "Rodolfo Abrantes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/5ZfH8zXKW5sTEsnoahkaACDTtnR.jpg"
+                },
+                {
+                  "name": "Digão",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ldxq0RKXq6JlMRM3TJ88zZnjULS.jpg"
+                },
+                {
+                  "name": "Fred Castro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/isE7d8RNUKAw6b9nF3ifb07Tc6n.jpg"
+                },
+                {
+                  "name": "Canisso",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dJcWD7x0objBoKAMhoKxkmUKrZu.jpg"
+                }
+              ],
+              "message_ids": [
+                7419,
+                7420
+              ],
+              "video_message_id": 7420
+            },
             {
               "number": 2,
               "tmdb_id": 7063412,
@@ -185818,6 +185986,42 @@
                 7076
               ],
               "video_message_id": 7076
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 93005,
+      "title": "Câmera Crime",
+      "original_title": "The Murder Tapes",
+      "poster_url": "https://image.tmdb.org/t/p/w500/teMuAubTeofuSxGVGCSkFJ9Vwrv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jMHEEQgMAh10re4Xdw7Y4VM0hGe.jpg",
+      "genres": [
+        "Crime",
+        "Documentário"
+      ],
+      "seasons": [
+        {
+          "number": 6,
+          "episodes": [
+            {
+              "number": 10,
+              "tmdb_id": 3645578,
+              "title": "Episódio 10",
+              "air_date": "2022-04-19",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/jMHEEQgMAh10re4Xdw7Y4VM0hGe.jpg",
+              "cast": [
+                {
+                  "name": "Dave DeAndrea",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7421
+              ],
+              "video_message_id": 7421
             }
           ]
         }

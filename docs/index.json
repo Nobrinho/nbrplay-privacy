@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:27:02+00:00",
+  "generated_at": "2026-09-27T06:27:30+00:00",
   "channel": "-1004483833987",
-  "count": 2735,
-  "movie_count": 2672,
+  "count": 2736,
+  "movie_count": 2673,
   "series_count": 14,
   "episode_count": 63,
   "movies": [
@@ -149904,6 +149904,75 @@
         5010
       ],
       "video_message_id": 5010
+    },
+    {
+      "tmdb_id": 2359,
+      "title": "Sicko: $O$ Saúde",
+      "original_title": "Sicko",
+      "year": "2007",
+      "poster_url": "https://image.tmdb.org/t/p/w500/l9aXwtrMPLqmc58BVWtucbg0ABw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yvqAedtvpEXsc4SKrHQ7DkRLGMZ.jpg",
+      "overview": "Um painel do deficiente sistema de saúde americano. A partir do perfil de cidadãos comuns, somos levados a entender como milhões de vidas são destruídas por um sistema que, no fim das contas, só beneficia a poucos endinheirados. Ali vale a lógica de que, se você quer permanecer saudável nos Estados Unidos, é bom não ficar doente. E, depois de examinar como o país chegou a esse estado, o filme visita uma série de países com sistema de saúde público e eficiente, como Cuba e Canadá.",
+      "genres": [
+        "Documentário",
+        "Comédia",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Michael Moore",
+          "photo_url": "https://image.tmdb.org/t/p/w185/m5YViuBUXfKAHNEUObGpzhzQPgE.jpg"
+        },
+        {
+          "name": "Tony Benn",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qqrFivDwt2KyAXhzSmHbg2EzNA4.jpg"
+        },
+        {
+          "name": "Tucker Albrizzi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/C0qZQEnxp4S7mM1emI1Zs9qUaB.jpg"
+        },
+        {
+          "name": "Reggie Cervantes",
+          "photo_url": null
+        },
+        {
+          "name": "John Graham",
+          "photo_url": null
+        },
+        {
+          "name": "Aleida Guevara",
+          "photo_url": null
+        },
+        {
+          "name": "Bill Maher",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n6eOp9jGQpjO0taYMfznMhjpZxR.jpg"
+        },
+        {
+          "name": "Patrick Pedraja",
+          "photo_url": null
+        },
+        {
+          "name": "Linda Peeno",
+          "photo_url": null
+        },
+        {
+          "name": "Billy Crystal",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jfcCceTnP7rrHz1pSjCxiqRosw3.jpg"
+        },
+        {
+          "name": "Hillary Clinton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/67D6LJgwfbF0baKknUx6OPIoVlu.jpg"
+        },
+        {
+          "name": "Bill Clinton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mIgqL0UAEKSl1Ry58wgQYq2sAt6.jpg"
+        }
+      ],
+      "message_ids": [
+        6993,
+        6994
+      ],
+      "video_message_id": 6994
     },
     {
       "tmdb_id": 61012,

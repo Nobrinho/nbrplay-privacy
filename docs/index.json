@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:13:12+00:00",
+  "generated_at": "2026-09-27T05:13:43+00:00",
   "channel": "-1004483833987",
-  "count": 2641,
-  "movie_count": 2608,
+  "count": 2642,
+  "movie_count": 2609,
   "series_count": 8,
   "episode_count": 33,
   "movies": [
@@ -45978,6 +45978,73 @@
         865
       ],
       "video_message_id": 865
+    },
+    {
+      "tmdb_id": 250231,
+      "title": "Césio 137 - O Pesadelo de Goiânia",
+      "original_title": "Césio 137 - O Pesadelo de Goiânia",
+      "year": "1990",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5fKyXo3JJpiqNogkxFMzXwHXc3f.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mdxDtqQAiZDt5CNHcSUIObAszhA.jpg",
+      "overview": "Em 1987, na cidade de Goiânia, capital de Goiás, dois catadores de lixo adentram num prédio abandonado e descobrem uma pesada peça de chumbo nas ruínas de um antigo hospital. Eles levam a peça para ser vendida num ferro-velho, sem saber que dentro dela há um perigoso material radioativo, o Césio 137. Ela é vendida para Devair, o dono do ferro velho, um amigo de Vavá, um dos catadores de lixo. Devair e seus ajudantes quebram a peça e liberam a radiação do material, sem tomarem nenhum conhecimento do risco que correm.",
+      "genres": [
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Nelson Xavier",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yq7VuoCDxO8OGPcIXvAcTin285B.jpg"
+        },
+        {
+          "name": "Joana Fomm",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1zxrSjxx8atkKtzNlFC3kJK9OkZ.jpg"
+        },
+        {
+          "name": "Stepan Nercessian",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d0NfxANbOtT55dQj7xC28YtBoHg.jpg"
+        },
+        {
+          "name": "Denise Milfont",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sDX3IscKk61vTCGlvpJMuavn71u.jpg"
+        },
+        {
+          "name": "Paulo Betti",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sUC2JojNvDv4cNxD0TDelSB6F46.jpg"
+        },
+        {
+          "name": "Marcélia Cartaxo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ch8qtxE9oy9lwNzoksjnRCjfoEu.jpg"
+        },
+        {
+          "name": "Paulo Gorgulho",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sSWzsf7p4xHnOLIf61k7Jx7V0Q2.jpg"
+        },
+        {
+          "name": "Thelma Reston",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8GpQca449p1JCIBFK29LbD14Owl.jpg"
+        },
+        {
+          "name": "Mallu Moraes",
+          "photo_url": null
+        },
+        {
+          "name": "Venerando Ribeiro",
+          "photo_url": null
+        },
+        {
+          "name": "Carmem Moretzsohn",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eaWHSHS15NhWkXnHDdED9gH8HOz.jpg"
+        },
+        {
+          "name": "Ivan Marques",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6867,
+        6868
+      ],
+      "video_message_id": 6868
     },
     {
       "tmdb_id": 853,

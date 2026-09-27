@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:00:30+00:00",
+  "generated_at": "2026-09-27T06:00:40+00:00",
   "channel": "-1004483833987",
-  "count": 2699,
-  "movie_count": 2655,
+  "count": 2700,
+  "movie_count": 2656,
   "series_count": 10,
   "episode_count": 44,
   "movies": [
@@ -21913,6 +21913,73 @@
         1242
       ],
       "video_message_id": 1242
+    },
+    {
+      "tmdb_id": 471138,
+      "title": "Anabolizante - Em Busca do Corpo Perfeito",
+      "original_title": "Anabolic Life",
+      "year": "2017",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cQwnO6lVM4B9QSzsVKgtNewAiLX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fSeG9Lhi9O5sCm8a7dzGao9uVWl.jpg",
+      "overview": "Adam é um jovem com sérios problemas de autoestima, que acredita que a solução para os seus problemas está na musculação. Obcecado com sua imagem corporal, ele entrará em um mundo repleto de crimes, anabolizantes e autodestruição.",
+      "genres": [
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Sharon Lawrence",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bLu3mjAJKDq8WE3QfspIvInKGVu.jpg"
+        },
+        {
+          "name": "Noel Gugliemi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8jujXofjpSroMQ1R2JLB0GWIPor.jpg"
+        },
+        {
+          "name": "Daniel Baldwin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8dp3G3EvnQrp3awh4gc1nNsI60j.jpg"
+        },
+        {
+          "name": "Lou Ferrigno Jr.",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2rVCjxARRgogt4JH4uxO37CldUo.jpg"
+        },
+        {
+          "name": "Sophie Simmons",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pKOOFxw0MlxfZdpt8YbEfHspR7F.jpg"
+        },
+        {
+          "name": "Christopher Rich",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AkZ5a3Jg4FseCCQVoI15xI2uEGZ.jpg"
+        },
+        {
+          "name": "Juston Street",
+          "photo_url": "https://image.tmdb.org/t/p/w185/g4XDsMzR5fcFQ8jq0pZqIN2iELy.jpg"
+        },
+        {
+          "name": "Kim Kold",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oxNtZjwxItzOPZN41Le289wb7et.jpg"
+        },
+        {
+          "name": "Sarah Baldwin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jwjYlmxI8rIvkCkuZUytH1187YU.jpg"
+        },
+        {
+          "name": "Kali Muscle",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cZD6YBwd5hgjBJoLmebdSNyTQtL.jpg"
+        },
+        {
+          "name": "Jeneta St. Clair",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kr9DAtK7IowEob6fCu0URMOPes8.jpg"
+        },
+        {
+          "name": "David Gironda Jr.",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iwNKyohYVbMh5LNbVDDlgzCpJPt.jpg"
+        }
+      ],
+      "message_ids": [
+        6939,
+        6940
+      ],
+      "video_message_id": 6940
     },
     {
       "tmdb_id": 9360,

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T22:50:42+00:00",
+  "generated_at": "2026-09-27T22:50:46+00:00",
   "channel": "-1004483833987",
-  "count": 3101,
+  "count": 3102,
   "movie_count": 2807,
   "series_count": 41,
-  "episode_count": 294,
+  "episode_count": 295,
   "custom_count": 0,
   "movies": [
     {
@@ -186039,7 +186039,7 @@
       "title": "Como Criar um Escândalo Sexual",
       "original_title": "How to Create a Sex Scandal",
       "poster_url": "https://image.tmdb.org/t/p/w500/mN1VpSxee3QQivoosYuzXS7s9Oy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/68H6AhOHtcv1X9eqp2pPHdZ4aIz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5rSpCpwltupTjhJnGQZqrbpH5x1.jpg",
       "genres": [
         "Documentário",
         "Crime"
@@ -186048,6 +186048,19 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 2,
+              "tmdb_id": 4437092,
+              "title": "Episódio 2",
+              "air_date": "2023-05-23",
+              "overview": "O julgamento de um dos acusados de operar uma rede de pedofilia no Texas sai completamente dos trilhos quando uma verdade chocante e revelada.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/5rSpCpwltupTjhJnGQZqrbpH5x1.jpg",
+              "cast": [],
+              "message_ids": [
+                7502
+              ],
+              "video_message_id": 7502
+            },
             {
               "number": 3,
               "tmdb_id": 4437093,

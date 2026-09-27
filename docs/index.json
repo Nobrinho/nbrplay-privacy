@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:47:08+00:00",
+  "generated_at": "2026-09-27T04:47:44+00:00",
   "channel": "-1004483833987",
-  "count": 2622,
-  "movie_count": 2592,
+  "count": 2623,
+  "movie_count": 2593,
   "series_count": 7,
   "episode_count": 30,
   "movies": [
@@ -40274,6 +40274,73 @@
         6177
       ],
       "video_message_id": 6177
+    },
+    {
+      "tmdb_id": 502315,
+      "title": "Como os Beatles Mudaram o Mundo",
+      "original_title": "How the Beatles Changed the World",
+      "year": "2017",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ahMuknA8zKt5H9s7zBmATOa9NlE.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/h234Z2W5nImDaHYs0pYgB2Xfu3x.jpg",
+      "overview": "Entrevistas e imagens raras de arquivo mostram como os Beatles continuam a exercer uma grande influência na música e na cultura pelo mundo inteiro.",
+      "genres": [
+        "Documentário",
+        "Música"
+      ],
+      "cast": [
+        {
+          "name": "John Lennon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iawyLGZKTr7eD8XWhNGjM8Cb95x.jpg"
+        },
+        {
+          "name": "George Harrison",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zwUO2gnKBnSrKOB9hnhI9GdOX6e.jpg"
+        },
+        {
+          "name": "Paul McCartney",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sCPsv9ueP5UR6BkMSmRDlwbra6S.jpg"
+        },
+        {
+          "name": "Ringo Starr",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7fSrrdl90BYdR3dtOnNkosOw0kw.jpg"
+        },
+        {
+          "name": "Thomas Arnold",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5sRg7Cl4keWD8ol08i0jOrT4k8w.jpg"
+        },
+        {
+          "name": "Tony Bramwell",
+          "photo_url": null
+        },
+        {
+          "name": "Robert Christgau",
+          "photo_url": null
+        },
+        {
+          "name": "Jonathan Gould",
+          "photo_url": null
+        },
+        {
+          "name": "Chris Ingham",
+          "photo_url": null
+        },
+        {
+          "name": "Mark Paytress",
+          "photo_url": null
+        },
+        {
+          "name": "Anthony DeCurtis",
+          "photo_url": null
+        },
+        {
+          "name": "Yoko Ono",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aSrU3E4eibN9C5NOQXDtdDEOtMH.jpg"
+        }
+      ],
+      "message_ids": [
+        6842
+      ],
+      "video_message_id": 6842
     },
     {
       "tmdb_id": 9919,

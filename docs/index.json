@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T02:51:48+00:00",
+  "generated_at": "2026-09-27T02:57:55+00:00",
   "channel": "-1004483833987",
-  "count": 2535,
-  "movie_count": 2535,
+  "count": 2536,
+  "movie_count": 2536,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -37919,6 +37919,77 @@
         4786
       ],
       "video_message_id": 4786
+    },
+    {
+      "tmdb_id": 485337,
+      "title": "Cidade Dos Gangsteres",
+      "original_title": "Gangster Land",
+      "year": "2017",
+      "poster_url": "https://image.tmdb.org/t/p/w500/A92VgozEY1GHL3pWcQlE5ARg5IX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/q7u8cF1TzqjU3UJm3BOIaUx7EGd.jpg",
+      "overview": "Chicago na década de 1920 era uma cidade governada por Al Capone, mas ele tinha inimigos esperando para o combate. O filme mostra as guerras sangrentas entre as máfias italiana e irlandesa, quando Capone (Milo Gibson) e \"Machine Gun\" Jack McGurn (Sean Faris) atacam George \"Bugs\" Moran (Peter Facinelli). A guerra levou ao famoso Massacre do \"Valentine’s Day (Dia dos Namorados). Baseado em uma Historia Real.",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Ação",
+        "Drama",
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "Jason Patric",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iv21ZjE90f9QNiNONKF9Lp6ZD68.jpg"
+        },
+        {
+          "name": "Milo Gibson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8qauWfMZUewZKpVuU6jXUpAnXRQ.jpg"
+        },
+        {
+          "name": "Peter Facinelli",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mmha3A5INmromiCsN8FBSLScVpZ.jpg"
+        },
+        {
+          "name": "Jamie-Lynn Sigler",
+          "photo_url": "https://image.tmdb.org/t/p/w185/Aur8H7qOzDUr9cRaqqOsCE5kLJp.jpg"
+        },
+        {
+          "name": "Sean Faris",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pYzNCtRlFXOpJRB3sZe6GWBTYDN.jpg"
+        },
+        {
+          "name": "Mark Rolston",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hcrNRIptYMRXgkJ9k76BlQu6DQp.jpg"
+        },
+        {
+          "name": "Michael Paré",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jxrXW8OL6hwJgtJgePdMO5yHuAM.jpg"
+        },
+        {
+          "name": "Al Sapienza",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tqgr67aRg1OuuRhQFd8I3JduSRD.jpg"
+        },
+        {
+          "name": "Don Harvey",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dc10W0hRNxrO0IcwgKOcsUajtOG.jpg"
+        },
+        {
+          "name": "Sean Kanan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3QV1TdLajOtS35J4OUI57LKeRRG.jpg"
+        },
+        {
+          "name": "Jason Brooks",
+          "photo_url": "https://image.tmdb.org/t/p/w185/56jMhjMsKDZWZmyQjwRKfe2jmLU.jpg"
+        },
+        {
+          "name": "Ryan Kiser",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yxXrqPGqYOJUA3jizAfAjupHaHc.jpg"
+        }
+      ],
+      "message_ids": [
+        6740,
+        6741
+      ],
+      "video_message_id": 6741
     },
     {
       "tmdb_id": 1018,

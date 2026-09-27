@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:36:05+00:00",
+  "generated_at": "2026-09-27T07:37:09+00:00",
   "channel": "-1004483833987",
-  "count": 2861,
-  "movie_count": 2715,
+  "count": 2864,
+  "movie_count": 2718,
   "series_count": 23,
   "episode_count": 146,
   "movies": [
@@ -42915,6 +42915,72 @@
         4695
       ],
       "video_message_id": 4695
+    },
+    {
+      "tmdb_id": 30898,
+      "title": "Confronto dos Deuses — S01E09 — A Mitologia de Tolkien",
+      "original_title": "October 22",
+      "year": "2009",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3PDoXiNCbmmj3J9qyE8c5r3nHAA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nFM6CRyuSW1x2LiNhfqZCDfhef2.jpg",
+      "overview": "A wounded man makes a desperate call, reporting that a gunman is holding a coffee shop hostage and shooting anyone he pleases -- but when the SWAT team shows up, the madman opens fire. Through flashbacks, a waitress serves an array of customers, all of whom are blissfully unaware of how their lives will be horrifically changed.",
+      "genres": [
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Mark Boone Junior",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zcYYnZNxOfMOLq7zL0hJheoVM2k.jpg"
+        },
+        {
+          "name": "Tate Donovan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1SVx1zVO2lR5mUoduURUL64mIDH.jpg"
+        },
+        {
+          "name": "Ernie Hudson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kgAdQA2ItCDVvKXufeDHc6Omiso.jpg"
+        },
+        {
+          "name": "Colm Meaney",
+          "photo_url": "https://image.tmdb.org/t/p/w185/guL6RJdlRMtOJN3LoaY3G8hG4Rd.jpg"
+        },
+        {
+          "name": "Donna Murphy",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nbhjInhXh1puhwnfRU7Ov1XFmD0.jpg"
+        },
+        {
+          "name": "Michael Paré",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jxrXW8OL6hwJgtJgePdMO5yHuAM.jpg"
+        },
+        {
+          "name": "Amanda Plummer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wEwyajjePFVVn2wFdH1NH7z9Qn5.jpg"
+        },
+        {
+          "name": "Maylin Pultar",
+          "photo_url": null
+        },
+        {
+          "name": "Jessica Lundy",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nbTcto9xjHzQIIV1gM73IJwLVbT.jpg"
+        },
+        {
+          "name": "Esther Scott",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wCUWexYXqzrGcGOCeNOA0sw4PMA.jpg"
+        },
+        {
+          "name": "Jack Carter",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pyHTez7ynU1DzNnkOIDGIrP7Dkw.jpg"
+        },
+        {
+          "name": "Stephanie Erb",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3eTrorUzs0BCqOy0dnAMUjFaERb.jpg"
+        }
+      ],
+      "message_ids": [
+        7075
+      ],
+      "video_message_id": 7075
     },
     {
       "tmdb_id": 398175,
@@ -154755,6 +154821,74 @@
       "video_message_id": 3379
     },
     {
+      "tmdb_id": 46296,
+      "title": "Spartacus — S01E01 — A Serpente Vermelha",
+      "original_title": "Simon & Malou",
+      "year": "2010",
+      "poster_url": "https://image.tmdb.org/t/p/w500/h50E6Y59LmS1EMi48jCKY0bCmLP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hvpvUCJ7KDkmPmdKndZgF4Eh18c.jpg",
+      "overview": "Circumstances force the unstructured yet charming Danish Bohemian novelist, Simon, to share his flat in Copenhagen with the very organized and beautiful Swedish lawyer, Malou. Simon dreams of children and a family. Malou is solely focused on her career. Despite being in opposition they warm up to each other. But even though opposites do attract - can they also manage to live together? Against all odds their meeting sets of a chain of events, which will ultimately change their lives forever.",
+      "genres": [
+        "Comédia",
+        "Romance"
+      ],
+      "cast": [
+        {
+          "name": "Tuva Novotny",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gqCdACPKT59cCuxHssthedRrkrB.jpg"
+        },
+        {
+          "name": "Dejan Čukić",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yuRYpOqbugWynWRPVGGxnuQQ8SX.jpg"
+        },
+        {
+          "name": "Robert Hansen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/v0C6apzcmvHyzXeqn9k2SbDposa.jpg"
+        },
+        {
+          "name": "Solbjørg Højfeldt",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7KrkF2QgQmut3NyKfhXSlgqvpjw.jpg"
+        },
+        {
+          "name": "Mille Dinesen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5iPkBvpZ9HI9aVqRZ4D0ZivMGoS.jpg"
+        },
+        {
+          "name": "Joel Kinnaman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cVfYzTyQdJ4xtxKPZe7IcW3BJN4.jpg"
+        },
+        {
+          "name": "Line Kruse",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AqGjJgCMeXYBP18DR6XV0OI3Ydv.jpg"
+        },
+        {
+          "name": "Laura Drasbæk",
+          "photo_url": "https://image.tmdb.org/t/p/w185/siZJnSSbFlEWQvpCfzxCPDHkr0C.jpg"
+        },
+        {
+          "name": "Claus Bigum",
+          "photo_url": null
+        },
+        {
+          "name": "Martin Hestbæk",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2W9WTJuhAVEv4fjdSzwEHyDc1oI.jpg"
+        },
+        {
+          "name": "Michael Asmussen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1EB3ocRbmXYFW9k0eLl6qkFH4Uj.jpg"
+        },
+        {
+          "name": "Rafael Edholm",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fIh3YsmABjNauknmamV98TS5YJs.jpg"
+        }
+      ],
+      "message_ids": [
+        7077,
+        7078
+      ],
+      "video_message_id": 7078
+    },
+    {
       "tmdb_id": 7459,
       "title": "Speed Racer",
       "original_title": "Speed Racer",
@@ -165121,6 +165255,21 @@
         1222
       ],
       "video_message_id": 1222
+    },
+    {
+      "tmdb_id": 32351,
+      "title": "Ugly Americans — S01E01 — Episódio 1",
+      "original_title": null,
+      "year": "2010",
+      "poster_url": null,
+      "backdrop_url": null,
+      "overview": null,
+      "genres": [],
+      "cast": [],
+      "message_ids": [
+        7135
+      ],
+      "video_message_id": 7135
     },
     {
       "tmdb_id": 9920,

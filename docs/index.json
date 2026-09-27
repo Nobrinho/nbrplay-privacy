@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T16:10:37+00:00",
+  "generated_at": "2026-09-27T16:10:47+00:00",
   "channel": "-1004483833987",
-  "count": 2934,
-  "movie_count": 2777,
+  "count": 2935,
+  "movie_count": 2778,
   "series_count": 25,
   "episode_count": 157,
   "movies": [
@@ -147347,6 +147347,72 @@
         1063
       ],
       "video_message_id": 1063
+    },
+    {
+      "tmdb_id": 19433,
+      "title": "Revolution OS",
+      "original_title": "Revolution OS",
+      "year": "2001",
+      "poster_url": "https://image.tmdb.org/t/p/w500/h7oBhsEsiHUgZ1uflyqBafB6SoB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9u6KmcIbp2139xYW4RAxc5lvVPk.jpg",
+      "overview": "REVOLUTION OS tells the inside story of the hackers who rebelled against the proprietary software model and Microsoft to create GNU/Linux and the Open Source movement.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Susan Egan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3S8wsKhnEgg7hh7CogMOctj1Pvy.jpg"
+        },
+        {
+          "name": "Linus Torvalds",
+          "photo_url": "https://image.tmdb.org/t/p/w185/r8UGe3EbPGhHMfYakYgv6ULTVtN.jpg"
+        },
+        {
+          "name": "Richard M. Stallman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eN6oOCua7G1oNb2ix9jP9XZDsHz.jpg"
+        },
+        {
+          "name": "Eric S. Raymond",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lcLpSCdh55lUMaElXPEWQLOvyV0.jpg"
+        },
+        {
+          "name": "Bruce Perens",
+          "photo_url": null
+        },
+        {
+          "name": "Larry Augustin",
+          "photo_url": null
+        },
+        {
+          "name": "Michael Tiemann",
+          "photo_url": null
+        },
+        {
+          "name": "Brian Behlendorf",
+          "photo_url": null
+        },
+        {
+          "name": "Frank Hecker",
+          "photo_url": null
+        },
+        {
+          "name": "Chris DiBona",
+          "photo_url": null
+        },
+        {
+          "name": "Nick Moffitt",
+          "photo_url": null
+        },
+        {
+          "name": "Rob Malda",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7289
+      ],
+      "video_message_id": 7289
     },
     {
       "tmdb_id": 273186,

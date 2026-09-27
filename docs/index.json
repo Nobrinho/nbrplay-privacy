@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:27:59+00:00",
+  "generated_at": "2026-09-27T06:28:22+00:00",
   "channel": "-1004483833987",
-  "count": 2738,
-  "movie_count": 2675,
+  "count": 2739,
+  "movie_count": 2676,
   "series_count": 14,
   "episode_count": 63,
   "movies": [
@@ -142787,6 +142787,73 @@
         5460
       ],
       "video_message_id": 5460
+    },
+    {
+      "tmdb_id": 1112548,
+      "title": "Retratos Fantasmas",
+      "original_title": "Retratos Fantasmas",
+      "year": "2023",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bmscUBnrI9KrwdxdmvpOYAo8dBp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fz4wnEWbY3V137tlk9T1NbX1xkD.jpg",
+      "overview": "Como em tantas cidades do mundo ao longo do século XX, milhões de pessoas foram ao cinema no centro do Recife. Com a passagem do tempo, as ruínas dos grandes cinemas revelam algumas verdades sobre a vida em sociedade.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Kleber Mendonça Filho",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7jOzp98FiL6C22tphTHEPWAhK11.jpg"
+        },
+        {
+          "name": "Rubens Santos",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eyNsZkTUhiz15B5Fp4UXJItAPnr.jpg"
+        },
+        {
+          "name": "Sonia Braga",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8NqF8pH836rfSlcI4ipmPH1NL2g.jpg"
+        },
+        {
+          "name": "Maeve Jinkings",
+          "photo_url": "https://image.tmdb.org/t/p/w185/s1pZd8CgUIll9ALVcgtUJhsB8uF.jpg"
+        },
+        {
+          "name": "Lucrecia Martel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/e70SUgZRzx5fFZ49zgn2uCqw8Jm.jpg"
+        },
+        {
+          "name": "Clara Pinheiro",
+          "photo_url": null
+        },
+        {
+          "name": "Severino Cavalcanti",
+          "photo_url": null
+        },
+        {
+          "name": "Nilo Coelho",
+          "photo_url": null
+        },
+        {
+          "name": "Tony Curtis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6Pj1XkYdI5Wc40Jl0UxJk8PPwlY.jpg"
+        },
+        {
+          "name": "Joselice Jucá",
+          "photo_url": null
+        },
+        {
+          "name": "Janet Leigh",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2dv9IqJEx31RSoH7xAHlJZXF5uB.jpg"
+        },
+        {
+          "name": "Alexandre Moura",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6999,
+        7000
+      ],
+      "video_message_id": 7000
     },
     {
       "tmdb_id": 12721,

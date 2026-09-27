@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:23:22+00:00",
+  "generated_at": "2026-09-27T04:23:55+00:00",
   "channel": "-1004483833987",
-  "count": 2593,
+  "count": 2594,
   "movie_count": 2580,
-  "series_count": 4,
-  "episode_count": 13,
+  "series_count": 5,
+  "episode_count": 14,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -172885,6 +172885,87 @@
                 6784
               ],
               "video_message_id": 6784
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 96213,
+      "title": "McMillion$",
+      "original_title": "McMillion$",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xyUciqZC5hGYJqefmbGbTy5fxYh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9V1jg56qgbEuwqy1bFwwkWRcdFA.jpg",
+      "genres": [
+        "Documentário",
+        "Crime",
+        "Drama"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 2,
+              "tmdb_id": 2050635,
+              "title": "Episódio 2",
+              "air_date": "2020-02-10",
+              "overview": "Na esperança de desmascarar \"Tio Jerry\", o FBI investiga duas figuras proeminentes que eles acreditam estarem ligadas ao golpe. O agente Mathews e a funcionária do McDonald's, Amy Murray, visitam um antigo vencedor, que sua e gagueja quando as câmeras começam a filmar.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/9V1jg56qgbEuwqy1bFwwkWRcdFA.jpg",
+              "cast": [
+                {
+                  "name": "Michael C. Pizzuto",
+                  "photo_url": null
+                },
+                {
+                  "name": "Pelé Kizy",
+                  "photo_url": null
+                },
+                {
+                  "name": "Cristal Bubblin",
+                  "photo_url": null
+                },
+                {
+                  "name": "Doug Mathews",
+                  "photo_url": null
+                },
+                {
+                  "name": "Mark Devereux",
+                  "photo_url": null
+                },
+                {
+                  "name": "Rob Holm",
+                  "photo_url": null
+                },
+                {
+                  "name": "Tom Kneir",
+                  "photo_url": null
+                },
+                {
+                  "name": "Robin Colombo",
+                  "photo_url": null
+                },
+                {
+                  "name": "AJ Glomb",
+                  "photo_url": null
+                },
+                {
+                  "name": "Marsha Derbyshire",
+                  "photo_url": null
+                },
+                {
+                  "name": "Alistair David Herz",
+                  "photo_url": null
+                },
+                {
+                  "name": "Nelson Hayne",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                6811
+              ],
+              "video_message_id": 6811
             }
           ]
         }

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T19:30:29+00:00",
+  "generated_at": "2026-09-27T19:31:03+00:00",
   "channel": "-1004483833987",
-  "count": 3015,
+  "count": 3016,
   "movie_count": 2797,
   "series_count": 32,
-  "episode_count": 218,
+  "episode_count": 219,
   "custom_count": 0,
   "movies": [
     {
@@ -184316,7 +184316,7 @@
       "title": "Blade Runner: Black Lotus",
       "original_title": "Blade Runner: Black Lotus",
       "poster_url": "https://image.tmdb.org/t/p/w500/4e0bY3weyKiVe58kMS34ddOdc4Q.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/apaSRYNHikclwP8CNTYesf1KAGf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mer8dtRkkoykS8rgoVXBALJOOnA.jpg",
       "genres": [
         "Animação",
         "Sci-Fi & Fantasy",
@@ -184326,6 +184326,37 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 2,
+              "tmdb_id": 3269953,
+              "title": "Tudo o Que Não Somos",
+              "air_date": "2021-11-14",
+              "overview": "Em um monitor do quarto de J (Joseph), eu vi um rosto familiar no monitor: o senador Bannister, um dos participantes da Caça às Bonecas. Elle o segue a uma academia de boxe. Ao saber que ele é um replicante, ela o mata, empurrando-o de um prédio, e passa a ser perseguida como suspeita por um policial chamado Davis.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/mer8dtRkkoykS8rgoVXBALJOOnA.jpg",
+              "cast": [
+                {
+                  "name": "Jessica Henwick",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hRrEqDIWlov1FvYRmBN2vLaAxyl.jpg"
+                },
+                {
+                  "name": "Will Yun Lee",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg"
+                },
+                {
+                  "name": "Wes Bentley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+                },
+                {
+                  "name": "Samira Wiley",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/m45A0hYcpnGckwxqs7j0I6Sp2Dj.jpg"
+                }
+              ],
+              "message_ids": [
+                7396,
+                7397
+              ],
+              "video_message_id": 7397
+            },
             {
               "number": 3,
               "tmdb_id": 3318070,

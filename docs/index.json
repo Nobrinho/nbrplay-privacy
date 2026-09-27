@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:28:20+00:00",
+  "generated_at": "2026-09-27T07:28:30+00:00",
   "channel": "-1004483833987",
-  "count": 2806,
+  "count": 2807,
   "movie_count": 2713,
   "series_count": 22,
-  "episode_count": 93,
+  "episode_count": 94,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -182715,6 +182715,45 @@
                 7090
               ],
               "video_message_id": 7090
+            },
+            {
+              "number": 8,
+              "tmdb_id": 908621,
+              "title": "Marca da Irmandade",
+              "air_date": "2010-03-19",
+              "overview": "Batiatus compra mais escravos para serem treinados como gladiadores e considera vender Crixus. Ilithyia tenta persuadir um novato a matar Spartacus.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/pGLTdN3TTml1lpIy4WPFJ394FVe.jpg",
+              "cast": [
+                {
+                  "name": "Andy Whitfield",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/yC50iAotrMDY03ha6R5zpHIaZDO.jpg"
+                },
+                {
+                  "name": "John Hannah",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/8GzJhaZrChZpv84SU4vAsvsR3cl.jpg"
+                },
+                {
+                  "name": "Manu Bennett",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/vwcTCQoRqfOjGZA1TPCx9TWTNht.jpg"
+                },
+                {
+                  "name": "Lucy Lawless",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7fYfVk6jtdCWuJEo9pEqc6O2JkD.jpg"
+                },
+                {
+                  "name": "Erin Cummings",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/4GpursPJJ6eImqos5XM5RlkDqI8.jpg"
+                },
+                {
+                  "name": "Craig Parker",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/gV5dbZ0gorOtIJXmJz7g3maDGgM.jpg"
+                }
+              ],
+              "message_ids": [
+                7091,
+                7092
+              ],
+              "video_message_id": 7092
             }
           ]
         }

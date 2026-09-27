@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T02:37:12+00:00",
+  "generated_at": "2026-09-27T02:38:10+00:00",
   "channel": "-1004483833987",
-  "count": 2517,
-  "movie_count": 2517,
+  "count": 2518,
+  "movie_count": 2518,
   "series_count": 0,
   "episode_count": 0,
   "movies": [
@@ -107555,6 +107555,77 @@
         5637
       ],
       "video_message_id": 5637
+    },
+    {
+      "tmdb_id": 13647,
+      "title": "O Invencível Homem de Ferro",
+      "original_title": "The Invincible Iron Man",
+      "year": "2007",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tfIv37GJRHETmhqlxDZwBDGrFTP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/x6gi2yn51sjRBMt6xeVTPVGFeSB.jpg",
+      "overview": "Ao escavar as ruínas de um antigo reino chinês, o inventor bilionário Tony Stark (Marc Worden) liberta uma antiga profecia. Ela prevê a ressurreição do Mandarim (Fred Tatasciore), o imperador da dinastia mais violenta da China. Para enfrentar este perigo Stark constrói a armadura do Homem de Ferro, a qual decide usar. Entretanto o herói precisará ainda enfrentar os Elementals, guerreiros mágicos que controlam o poder dos 4 elementos, que se aliaram ao Mandarim.",
+      "genres": [
+        "Aventura",
+        "Animação",
+        "Ação",
+        "Fantasia",
+        "Ficção científica"
+      ],
+      "cast": [
+        {
+          "name": "Marc Worden",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d91IoBbnS5HX2I8lzGosvc39PgS.jpg"
+        },
+        {
+          "name": "Gwendoline Yeo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qcT51wtWxdS51q9FQcDC455HrqY.jpg"
+        },
+        {
+          "name": "John McCook",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oGk0S0V8EoXXlIinU3rGMUSPbsH.jpg"
+        },
+        {
+          "name": "Fred Tatasciore",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xodxYKRC9mdvgquTdqpmYldliJ3.jpg"
+        },
+        {
+          "name": "Elisa Gabrielli",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kPUwjZbbRbOVTYuVVAKNI5wqagA.jpg"
+        },
+        {
+          "name": "Rodney Saulsberry",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oq8ppTU9gFt6pju7Kkxd2CfuciJ.jpg"
+        },
+        {
+          "name": "James Sie",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yZ8SFsJJNmhgtNizwcWfknyBoBt.jpg"
+        },
+        {
+          "name": "Stephen Mendillo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fclYLKHhQH4ZRTsUKf9JCsHqI9a.jpg"
+        },
+        {
+          "name": "John DeMita",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1QcOloxFO6EbzAx4LuVrN48PDeX.jpg"
+        },
+        {
+          "name": "張佐治",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kUXxjH3tyxbiiTqDcqoXbuTTFGM.jpg"
+        },
+        {
+          "name": "Chris Edgerly",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bjkN9Ugv6Kd3Z3y9p9DgWAc10Q7.jpg"
+        },
+        {
+          "name": "Paul Nakauchi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oKBP7IPy3OdGGNePltjdPVaMd5x.jpg"
+        }
+      ],
+      "message_ids": [
+        6707,
+        6708
+      ],
+      "video_message_id": 6708
     },
     {
       "tmdb_id": 232519,

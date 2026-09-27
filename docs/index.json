@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T05:06:19+00:00",
+  "generated_at": "2026-09-27T05:06:31+00:00",
   "channel": "-1004483833987",
-  "count": 2633,
-  "movie_count": 2603,
+  "count": 2634,
+  "movie_count": 2604,
   "series_count": 7,
   "episode_count": 30,
   "movies": [
@@ -171415,6 +171415,72 @@
         5128
       ],
       "video_message_id": 5128
+    },
+    {
+      "tmdb_id": 355020,
+      "title": "Winter on Fire: Ukraine's Fight for Freedom",
+      "original_title": "Winter on Fire: Ukraine's Fight for Freedom",
+      "year": "2015",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xGKMWhYsK3OxQ6ceqMnvXBfFd7G.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nhjWUf4wXsWZY9hKR1EoQOhjued.jpg",
+      "overview": "O que era uma manifestação pacífica de estudantes se converte em noventa e três violentos dias de revolução na luta pelos direitos civis na Ucrânia.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Cissy Jones",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2PVc39eQL0RgF0MSJ4vruDbQviL.jpg"
+        },
+        {
+          "name": "Bishop Agapit",
+          "photo_url": null
+        },
+        {
+          "name": "Catherine Ashton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7PBHiWqCsGNzoIMXspVRICD2Dmm.jpg"
+        },
+        {
+          "name": "Serhii Averchenko",
+          "photo_url": null
+        },
+        {
+          "name": "Kristina Berdinskikh",
+          "photo_url": null
+        },
+        {
+          "name": "Pavlo Dobryanskyy",
+          "photo_url": null
+        },
+        {
+          "name": "Valery Dovgiy",
+          "photo_url": null
+        },
+        {
+          "name": "Bogdan Dubas",
+          "photo_url": null
+        },
+        {
+          "name": "Kurganskyi Eduard",
+          "photo_url": null
+        },
+        {
+          "name": "Mykhailo Havryliuk",
+          "photo_url": null
+        },
+        {
+          "name": "Natan Hazin",
+          "photo_url": null
+        },
+        {
+          "name": "Dmytro Holubnychy",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        6856
+      ],
+      "video_message_id": 6856
     },
     {
       "tmdb_id": 62837,

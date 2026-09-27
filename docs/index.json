@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T04:53:05+00:00",
+  "generated_at": "2026-09-27T04:53:53+00:00",
   "channel": "-1004483833987",
-  "count": 2628,
-  "movie_count": 2598,
+  "count": 2629,
+  "movie_count": 2599,
   "series_count": 7,
   "episode_count": 30,
   "movies": [
@@ -60260,6 +60260,72 @@
         1238
       ],
       "video_message_id": 1238
+    },
+    {
+      "tmdb_id": 687933,
+      "title": "Fat Fiction",
+      "original_title": "Fat Fiction",
+      "year": "2020",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jt1ZXNOfdutGC5QPvMjOd4VV1q5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lro2o2OxXHmvizTfNhuIJ2zo2s1.jpg",
+      "overview": "Leading health experts examine the history of the U.S. Dietary Guidelines and question decades of dietary advice insisting that saturated fats are bad for us.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Gary Taubes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qCo71oMV9uh7X7ymMJCFaDItSQ4.jpg"
+        },
+        {
+          "name": "Nina Teicholz",
+          "photo_url": null
+        },
+        {
+          "name": "Ancel Keys",
+          "photo_url": null
+        },
+        {
+          "name": "Tim Noakes",
+          "photo_url": null
+        },
+        {
+          "name": "Mark Hyman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n7GOz5eknvfwZea9PrE9nJqtjm0.jpg"
+        },
+        {
+          "name": "Bret Scher",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n4qFsDIG0vjU7aHwH0OFYLiLefr.jpg"
+        },
+        {
+          "name": "Sarah Hallberg",
+          "photo_url": null
+        },
+        {
+          "name": "Zoe Harcombe",
+          "photo_url": null
+        },
+        {
+          "name": "Salim Yusuf",
+          "photo_url": null
+        },
+        {
+          "name": "Robert Lustig",
+          "photo_url": "https://image.tmdb.org/t/p/w185/l7I1QTxuctOlgIM13hAX5pX0XMj.jpg"
+        },
+        {
+          "name": "Jason Fung",
+          "photo_url": null
+        },
+        {
+          "name": "Bill Maher",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n6eOp9jGQpjO0taYMfznMhjpZxR.jpg"
+        }
+      ],
+      "message_ids": [
+        6850
+      ],
+      "video_message_id": 6850
     },
     {
       "tmdb_id": 277546,

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T22:44:23+00:00",
+  "generated_at": "2026-09-27T22:44:29+00:00",
   "channel": "-1004483833987",
-  "count": 3095,
+  "count": 3096,
   "movie_count": 2807,
   "series_count": 40,
-  "episode_count": 288,
+  "episode_count": 289,
   "custom_count": 0,
   "movies": [
     {
@@ -184869,7 +184869,7 @@
       "title": "Bem-vindos à Terra",
       "original_title": "Welcome to Earth",
       "poster_url": "https://image.tmdb.org/t/p/w500/6tJMH9Qjbefj5kLoIeNcyR6Z4Ep.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ovgPlpZwVSTUAJAvUGAPZbDLoJU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sy7gUJjM2pvs9PGNHkHayrozWJd.jpg",
       "genres": [
         "Documentário"
       ],
@@ -184877,6 +184877,41 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 5,
+              "tmdb_id": 3329919,
+              "title": "Areias do tempo",
+              "air_date": "2021-12-08",
+              "overview": "Will viaja para a Namíbia e descobre que esse vasto deserto vazio é repleto de maravilhas invisíveis escondidas. Tudo está em movimento: a vida, a terra e até o cosmos.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/sy7gUJjM2pvs9PGNHkHayrozWJd.jpg",
+              "cast": [
+                {
+                  "name": "Will Smith",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
+                },
+                {
+                  "name": "Dwayne Fields",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/jVWolBOJhp5tGlQhn6sEDxgPFAK.jpg"
+                },
+                {
+                  "name": "Erik Weihenmayer",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/vtcA8YKFSQh8W2SsOXXSX4I3chh.jpg"
+                },
+                {
+                  "name": "Cody Richardson",
+                  "photo_url": null
+                },
+                {
+                  "name": "Diva Amon",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7491,
+                7492
+              ],
+              "video_message_id": 7492
+            },
             {
               "number": 6,
               "tmdb_id": 3329921,

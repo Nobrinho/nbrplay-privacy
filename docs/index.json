@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T18:40:57+00:00",
+  "generated_at": "2026-09-27T18:41:41+00:00",
   "channel": "-1004483833987",
-  "count": 2949,
+  "count": 2950,
   "movie_count": 2786,
   "series_count": 26,
-  "episode_count": 163,
+  "episode_count": 164,
   "custom_count": 0,
   "movies": [
     {
@@ -186593,6 +186593,56 @@
                 7311
               ],
               "video_message_id": 7311
+            },
+            {
+              "number": 6,
+              "tmdb_id": 5561889,
+              "title": "Episódio 6",
+              "air_date": "2024-10-24",
+              "overview": null,
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/oS2php4KqtRUPfUMj4cr5ItCTLU.jpg",
+              "cast": [
+                {
+                  "name": "Christian Cooke",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/pqIqDP4HuRLc60KR8QMTHWhIJNq.jpg"
+                },
+                {
+                  "name": "Orion Lee",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/jHz7papyoOAFvMql64cXQVQqKYu.jpg"
+                },
+                {
+                  "name": "Sarah Bolger",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/A3K2l5kkqTMQHtAkctzICqtbZMY.jpg"
+                },
+                {
+                  "name": "Trine Dyrholm",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/cjw6eAdD01ICRs8Y2Fa8qBBSzEJ.jpg"
+                },
+                {
+                  "name": "Aidan Quinn",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/viUuUmhiGdsfoQh0IpO5N312qNd.jpg"
+                },
+                {
+                  "name": "Tom Austen",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/6TC9gW3ZJzrNyFgsYDeWj8V6RYo.jpg"
+                },
+                {
+                  "name": "Luke Pasqualino",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/egwyqohJ3KLag4GUyTzXGngwTc1.jpg"
+                },
+                {
+                  "name": "Molly Harris",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/sJ6LJl75paSDDtxtdBPrBQB4UDA.jpg"
+                },
+                {
+                  "name": "Trieve Blackwood-Cambridge",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zd5w5sCxAdGIquYeW1Uqbz8pbbI.jpg"
+                }
+              ],
+              "message_ids": [
+                7312
+              ],
+              "video_message_id": 7312
             }
           ]
         }

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T18:52:56+00:00",
+  "generated_at": "2026-09-27T18:53:01+00:00",
   "channel": "-1004483833987",
-  "count": 2956,
+  "count": 2957,
   "movie_count": 2786,
   "series_count": 26,
-  "episode_count": 170,
+  "episode_count": 171,
   "custom_count": 0,
   "movies": [
     {
@@ -183725,6 +183725,60 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 6,
+              "tmdb_id": 747964,
+              "title": "Ulisses: A Maldição dos Mares",
+              "air_date": "2009-09-14",
+              "overview": "A Odisséia de Homero é o poema épico mais famoso já escrito.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/j0A36vVNM3JXQuZBoNOhZ5Dr8bP.jpg",
+              "cast": [
+                {
+                  "name": "Tracey-Anne Cooper",
+                  "photo_url": null
+                },
+                {
+                  "name": "Michael Drout",
+                  "photo_url": null
+                },
+                {
+                  "name": "Dimitra Fimi",
+                  "photo_url": null
+                },
+                {
+                  "name": "David George",
+                  "photo_url": null
+                },
+                {
+                  "name": "Blair Jones",
+                  "photo_url": null
+                },
+                {
+                  "name": "Scott A. Mellor",
+                  "photo_url": null
+                },
+                {
+                  "name": "John Rennie",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/yjMHU83zGqDQWaoKRBkbRz4Fxke.jpg"
+                },
+                {
+                  "name": "Stan Bernard",
+                  "photo_url": null
+                },
+                {
+                  "name": "Tate Steinsiek",
+                  "photo_url": null
+                },
+                {
+                  "name": "Greg Ford",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/sGIh8QXF5pYR7sozSQtCo1GTymR.jpg"
+                }
+              ],
+              "message_ids": [
+                7319
+              ],
+              "video_message_id": 7319
+            },
             {
               "number": 7,
               "tmdb_id": 747959,

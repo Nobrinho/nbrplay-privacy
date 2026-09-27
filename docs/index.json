@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T07:27:31+00:00",
+  "generated_at": "2026-09-27T07:27:41+00:00",
   "channel": "-1004483833987",
-  "count": 2801,
+  "count": 2802,
   "movie_count": 2713,
   "series_count": 22,
-  "episode_count": 88,
+  "episode_count": 89,
   "movies": [
     {
       "tmdb_id": 1280234,
@@ -182520,6 +182520,45 @@
                 7080
               ],
               "video_message_id": 7080
+            },
+            {
+              "number": 3,
+              "tmdb_id": 908612,
+              "title": "Lendas",
+              "air_date": "2010-02-05",
+              "overview": "Apesar de provar seu valor durante o treinamento, Spartacus fica isolado dos outros gladiadores por conta de sua atitude e da busca incansável por sua esposa.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/dPycbQ9c1hBMAD8ZU9CZnoEvfmS.jpg",
+              "cast": [
+                {
+                  "name": "Andy Whitfield",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/yC50iAotrMDY03ha6R5zpHIaZDO.jpg"
+                },
+                {
+                  "name": "John Hannah",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/8GzJhaZrChZpv84SU4vAsvsR3cl.jpg"
+                },
+                {
+                  "name": "Manu Bennett",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/vwcTCQoRqfOjGZA1TPCx9TWTNht.jpg"
+                },
+                {
+                  "name": "Lucy Lawless",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7fYfVk6jtdCWuJEo9pEqc6O2JkD.jpg"
+                },
+                {
+                  "name": "Erin Cummings",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/4GpursPJJ6eImqos5XM5RlkDqI8.jpg"
+                },
+                {
+                  "name": "Craig Parker",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/gV5dbZ0gorOtIJXmJz7g3maDGgM.jpg"
+                }
+              ],
+              "message_ids": [
+                7081,
+                7082
+              ],
+              "video_message_id": 7082
             }
           ]
         }

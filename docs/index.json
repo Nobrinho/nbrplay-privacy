@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T06:33:26+00:00",
+  "generated_at": "2026-09-27T06:33:39+00:00",
   "channel": "-1004483833987",
-  "count": 2748,
-  "movie_count": 2677,
+  "count": 2749,
+  "movie_count": 2678,
   "series_count": 15,
   "episode_count": 71,
   "movies": [
@@ -158623,6 +158623,57 @@
         6933
       ],
       "video_message_id": 6933
+    },
+    {
+      "tmdb_id": 1426306,
+      "title": "Titan: O Desastre da OceanGate",
+      "original_title": "Titan: The OceanGate Submersible Disaster",
+      "year": "2025",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tcdz5yKjEvJQxJzjvbsphjNSNCe.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cBRDacpg1Q6ZOKSxrOhhgkKx9NI.jpg",
+      "overview": "O submersível turístico Titan implodiu no fundo do oceano ao visitar os destroços do Titanic. Este documentário detalha como uma visão audaciosa terminou em tragédia.",
+      "genres": [
+        "Documentário",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Stockton Rush",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rp6KnJi633cT02NeFaXo822mVpp.jpg"
+        },
+        {
+          "name": "Emily Hammermeister",
+          "photo_url": null
+        },
+        {
+          "name": "David Lochridge",
+          "photo_url": null
+        },
+        {
+          "name": "Tony Nissen",
+          "photo_url": null
+        },
+        {
+          "name": "Jason Neubauer",
+          "photo_url": null
+        },
+        {
+          "name": "Joseph Assi",
+          "photo_url": null
+        },
+        {
+          "name": "Bonnie Carl",
+          "photo_url": null
+        },
+        {
+          "name": "David Pogue",
+          "photo_url": "https://image.tmdb.org/t/p/w185/h8VsU0aoMZv4DQioaCeBSDLIKsb.jpg"
+        }
+      ],
+      "message_ids": [
+        7018
+      ],
+      "video_message_id": 7018
     },
     {
       "tmdb_id": 597,

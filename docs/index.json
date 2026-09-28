@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:07:20+00:00",
+  "generated_at": "2026-09-28T05:07:25+00:00",
   "channel": "-1004483833987",
-  "count": 3156,
+  "count": 3158,
   "movie_count": 2840,
   "series_count": 45,
-  "episode_count": 316,
+  "episode_count": 318,
   "custom_count": 0,
   "movies": [
     {
@@ -191295,7 +191295,7 @@
       "title": "O Rei da TV",
       "original_title": "O Rei da TV",
       "poster_url": "https://image.tmdb.org/t/p/w500/6Wo3lnnZnKMBEAN8wk5IQL3icn6.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/7P3Hwd1g0oksQf6tORN9hzGWp7X.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8u5C8335VjGwWpmpB3zPwA7z257.jpg",
       "genres": [
         "Drama"
       ],
@@ -191303,6 +191303,132 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 4,
+              "tmdb_id": 3825157,
+              "title": "Petit Comité",
+              "air_date": "2022-10-19",
+              "overview": "Em Miami, Silvio Santos fica amigo de Hector, o motorista mexicano responsável por levá-lo ao médico. No SBT, Íris e Stanislau articulam para que Gugu assuma o programa dominical, salvando a emissora da bancarrota sem que Silvio fique sabendo.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/8u5C8335VjGwWpmpB3zPwA7z257.jpg",
+              "cast": [
+                {
+                  "name": "José Rubens Chachá",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/1CvvDlkKL3W6jnuSr4OK6TJTp9K.jpg"
+                },
+                {
+                  "name": "Mariano Mattos Martins",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/4TGZFyNAVDx0jagnVHXWlqwjlfT.jpg"
+                },
+                {
+                  "name": "Leona Cavalli",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/b1wi0Lkcf2UjlbWz9arhFwBKaff.jpg"
+                },
+                {
+                  "name": "Larissa Nunes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3zVdzi7SvNJbYH3mfEjm9YxkqNN.jpg"
+                },
+                {
+                  "name": "André Abujamra",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/kq1B1dlAMtCXmgWoGirxq8j618l.jpg"
+                },
+                {
+                  "name": "Ary França",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/62znkp6UdQ3QUP4vNwdq5iDcGa2.jpg"
+                },
+                {
+                  "name": "Bárbara Maia",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/nFT9UqMQv3Aq0sVyKnC9VCUb58r.jpg"
+                },
+                {
+                  "name": "Cacá Carvalho",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/rzFR40zHYjqIjcn4atC1TrjXKfj.jpg"
+                },
+                {
+                  "name": "Cássia Damasceno",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/yg0qMZIIToFU7fjLbhQytQwg7SG.jpg"
+                },
+                {
+                  "name": "Celso Frateschi",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/8KeMVMGSedsHQGkTftvt8y5W7RW.jpg"
+                },
+                {
+                  "name": "Cláudio Márcio",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/4W8P1IiZRCFGzRR2fV0XPaIXnQx.jpg"
+                },
+                {
+                  "name": "Elisa Romero",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7582,
+                7583
+              ],
+              "video_message_id": 7583
+            },
+            {
+              "number": 6,
+              "tmdb_id": 3825171,
+              "title": "E o Bambu...?",
+              "air_date": "2022-10-19",
+              "overview": "Silvio Santos revela para Íris a gravidade de seu problema de saúde. Atordoado, ele se sente assombrado pelas pragas do Egito enquanto retoma as atividades no SBT.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/sSXP15paTOlxeqlKuMhbKgP9rFm.jpg",
+              "cast": [
+                {
+                  "name": "José Rubens Chachá",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/1CvvDlkKL3W6jnuSr4OK6TJTp9K.jpg"
+                },
+                {
+                  "name": "Mariano Mattos Martins",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/4TGZFyNAVDx0jagnVHXWlqwjlfT.jpg"
+                },
+                {
+                  "name": "Leona Cavalli",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/b1wi0Lkcf2UjlbWz9arhFwBKaff.jpg"
+                },
+                {
+                  "name": "Larissa Nunes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3zVdzi7SvNJbYH3mfEjm9YxkqNN.jpg"
+                },
+                {
+                  "name": "André Abujamra",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/kq1B1dlAMtCXmgWoGirxq8j618l.jpg"
+                },
+                {
+                  "name": "Ary França",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/62znkp6UdQ3QUP4vNwdq5iDcGa2.jpg"
+                },
+                {
+                  "name": "Bárbara Maia",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/nFT9UqMQv3Aq0sVyKnC9VCUb58r.jpg"
+                },
+                {
+                  "name": "Cacá Carvalho",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/rzFR40zHYjqIjcn4atC1TrjXKfj.jpg"
+                },
+                {
+                  "name": "Cássia Damasceno",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/yg0qMZIIToFU7fjLbhQytQwg7SG.jpg"
+                },
+                {
+                  "name": "Celso Frateschi",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/8KeMVMGSedsHQGkTftvt8y5W7RW.jpg"
+                },
+                {
+                  "name": "Cláudio Márcio",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/4W8P1IiZRCFGzRR2fV0XPaIXnQx.jpg"
+                },
+                {
+                  "name": "Elisa Romero",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7580,
+                7581
+              ],
+              "video_message_id": 7581
+            },
             {
               "number": 7,
               "tmdb_id": 3825173,

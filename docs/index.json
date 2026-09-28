@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:16:32+00:00",
+  "generated_at": "2026-09-28T17:20:21+00:00",
   "channel": "-1004483833987",
-  "count": 3184,
-  "movie_count": 2850,
+  "count": 3135,
+  "movie_count": 2801,
   "series_count": 48,
   "episode_count": 334,
   "custom_count": 0,
@@ -23331,89 +23331,6 @@
       "video_message_id": 3479
     },
     {
-      "tmdb_id": 317068,
-      "title": "Andar na Pedra: A História do Raimundos — S01E05 — El Mariachi",
-      "original_title": "Bethsabée",
-      "year": "2026",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5ZZlVK1wYKizTOFcMHzi3PL4g5G.jpg",
-      "backdrop_url": null,
-      "overview": "Danielle Darrieux stars as Arabella Delvaire in this baroque adaptation of Pierre Benoit's novel Bethshabee. Arabella is a woman of the world who arrives at a remote Foreign Legion outpost for a rendezvous with her current lover, Captain Duveuil. It so happens that one of Arabella's previous amours, Captain Somerville (Paul Meurisse), is also serving at the same post. So much for joining the Foreign Legion to forget. A climactic knife duel \"solves\" the film's various plot complications. Despite its Foreign Legion background, Bethsabee has next to no action, which must have made things difficult when the film was distributed to the U.S.",
-      "genres": [
-        "Drama"
-      ],
-      "cast": [
-        {
-          "name": "Danielle Darrieux",
-          "photo_url": "https://image.tmdb.org/t/p/w185/l8YlVUlaJw83YQ3mmqmM1iO3KI7.jpg"
-        },
-        {
-          "name": "Georges Marchal",
-          "photo_url": "https://image.tmdb.org/t/p/w185/72gYFDkRlJkLkq8lZd92YbIXGuW.jpg"
-        },
-        {
-          "name": "Jean Murat",
-          "photo_url": "https://image.tmdb.org/t/p/w185/4LKayHvLxcjrUCBZ6HRhg7hRaGG.jpg"
-        },
-        {
-          "name": "Paul Meurisse",
-          "photo_url": "https://image.tmdb.org/t/p/w185/i9YSdeQDiMGoN12aZwsPIwh0tjs.jpg"
-        },
-        {
-          "name": "Pierre-Louis",
-          "photo_url": "https://image.tmdb.org/t/p/w185/yx5JNDAiME8KD5AlNF4UADiSESN.jpg"
-        },
-        {
-          "name": "Olivier Darrieux",
-          "photo_url": null
-        },
-        {
-          "name": "France Mooréa",
-          "photo_url": null
-        },
-        {
-          "name": "Nicolas Vogel",
-          "photo_url": "https://image.tmdb.org/t/p/w185/zsEQgsfEqZ9VwkMWqAM1iiJRIE.jpg"
-        },
-        {
-          "name": "Larbi Tounsi",
-          "photo_url": null
-        },
-        {
-          "name": "Robert Darène",
-          "photo_url": "https://image.tmdb.org/t/p/w185/nwwcl6M9UQjahM93E9WQNED4xGB.jpg"
-        },
-        {
-          "name": "Andrée Clément",
-          "photo_url": "https://image.tmdb.org/t/p/w185/dbAbS2Vy6ze2l6DQwqFLHvxKoLp.jpg"
-        },
-        {
-          "name": "José Davilla",
-          "photo_url": null
-        }
-      ],
-      "message_ids": [
-        7411,
-        7412
-      ],
-      "video_message_id": 7412
-    },
-    {
-      "tmdb_id": 236400,
-      "title": "Anderson Spider Silva — S01E01 — Episódio 1",
-      "original_title": null,
-      "year": "2023",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": null,
-      "genres": [],
-      "cast": [],
-      "message_ids": [
-        6894,
-        6895
-      ],
-      "video_message_id": 6895
-    },
-    {
       "tmdb_id": 259316,
       "title": "Animais Fantásticos e Onde Habitam",
       "original_title": "Fantastic Beasts and Where to Find Them",
@@ -32831,21 +32748,6 @@
       "video_message_id": 635
     },
     {
-      "tmdb_id": 286323,
-      "title": "Bateau Mouche: O Naufrágio da Justiça — S01E02 — A Tempestade Perfeita",
-      "original_title": "Action Words! Vol. 3",
-      "year": "2025",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": "Action Words! video series was created to help stimulate language development in infants and toddlers and introduces verbs into your child's budding vocabulary!",
-      "genres": [],
-      "cast": [],
-      "message_ids": [
-        7028
-      ],
-      "video_message_id": 7028
-    },
-    {
       "tmdb_id": 631842,
       "title": "Batem à Porta",
       "original_title": "Knock at the Cabin",
@@ -34075,109 +33977,6 @@
       "video_message_id": 1479
     },
     {
-      "tmdb_id": 333058,
-      "title": "Bem-vindo à Família: O Assassinato de Dan Markel — S01E01 — Episódio 1",
-      "original_title": "Parvandh",
-      "year": "2026",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1gY8keU4h9wuO53sX57Rw0SQN8d.jpg",
-      "backdrop_url": null,
-      "overview": "An imprisoned tough guy acts as a stool pigeon for the authorities, an action that violates the tough guys’ ideal code of conduct.",
-      "genres": [],
-      "cast": [
-        {
-          "name": "Faramarz Gharibian",
-          "photo_url": "https://image.tmdb.org/t/p/w185/kVvYmkcJ9r7BXX1eJS8nXVPcubR.jpg"
-        },
-        {
-          "name": "Bijan Emkanian",
-          "photo_url": "https://image.tmdb.org/t/p/w185/xLsxGPwfr4hLscHKqzf90Ab1ZFm.jpg"
-        },
-        {
-          "name": "Ferdous Kaviani",
-          "photo_url": null
-        },
-        {
-          "name": "Hossein Kasbian",
-          "photo_url": "https://image.tmdb.org/t/p/w185/5VZ2rQWRE8nPSMYztO2cPsSFu3H.jpg"
-        },
-        {
-          "name": "Valiyollah Shirandami",
-          "photo_url": "https://image.tmdb.org/t/p/w185/rIsoQVzS4UnqXEfkf11Xfn4KMWK.jpg"
-        }
-      ],
-      "message_ids": [
-        7065
-      ],
-      "video_message_id": 7065
-    },
-    {
-      "tmdb_id": 127700,
-      "title": "Bem-vindos à Terra — S01E06 — Além do Medo",
-      "original_title": "The Newest Pledge",
-      "year": "2021",
-      "poster_url": "https://image.tmdb.org/t/p/w500/askI2rBkzq99pYp3AUPDYh2mAvz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/6RJ0yITDYO2VFDStAqdrNQHvNXw.jpg",
-      "overview": "The morning after kicking off their semester with a patriotic \"stars, stripes, and strippers\" party, the members of the Omega fraternity awaken to a find a baby on their doorstep. After little to no deliberation, the Omegas decide to pledge the baby. When a rival fraternity member, Rico, learns of this, he devises a plot to ruin the Omegas reputation in the eyes of the student body at Hamilton University. It's up to the Omegas to not only secure their legacy at the University, but to also raise a baby in a fraternity house.",
-      "genres": [
-        "Comédia"
-      ],
-      "cast": [
-        {
-          "name": "Rob Steinhauser",
-          "photo_url": null
-        },
-        {
-          "name": "Joseph Booton",
-          "photo_url": "https://image.tmdb.org/t/p/w185/6Regpk2hPE6gk4sRsHnccsfSdBM.jpg"
-        },
-        {
-          "name": "Jason Mewes",
-          "photo_url": "https://image.tmdb.org/t/p/w185/jVL4WC8NbJFL894Z2FBYY3XuHW5.jpg"
-        },
-        {
-          "name": "Mindy Sterling",
-          "photo_url": "https://image.tmdb.org/t/p/w185/hX99KTTCFxB4a2rB1SpDbr8imrK.jpg"
-        },
-        {
-          "name": "Barry Pearl",
-          "photo_url": "https://image.tmdb.org/t/p/w185/u8jLHqSn55zEMuNMIhgaQZr0UGN.jpg"
-        },
-        {
-          "name": "Andy Milonakis",
-          "photo_url": "https://image.tmdb.org/t/p/w185/og7CQAYx2euArT2Jy55ZiyDEsTZ.jpg"
-        },
-        {
-          "name": "G.W. Bailey",
-          "photo_url": "https://image.tmdb.org/t/p/w185/doZuJwI446yhQ28PHT9vyM6pa0f.jpg"
-        },
-        {
-          "name": "Kevin Myers",
-          "photo_url": null
-        },
-        {
-          "name": "George Snarberg",
-          "photo_url": null
-        },
-        {
-          "name": "Kevin Nash",
-          "photo_url": "https://image.tmdb.org/t/p/w185/voSs3NTtgBHZRO4yCqQxwMhEngc.jpg"
-        },
-        {
-          "name": "Willam Belli",
-          "photo_url": "https://image.tmdb.org/t/p/w185/mh2EZS3wIsVPTIrPxOiMxGuWgov.jpg"
-        },
-        {
-          "name": "Lilith Mourning",
-          "photo_url": "https://image.tmdb.org/t/p/w185/snKtb0lFzNkumkSpYlAx28zV7jf.jpg"
-        }
-      ],
-      "message_ids": [
-        7489,
-        7490
-      ],
-      "video_message_id": 7490
-    },
-    {
       "tmdb_id": 665,
       "title": "Ben-Hur",
       "original_title": "Ben-Hur",
@@ -34449,23 +34248,6 @@
         6348
       ],
       "video_message_id": 6348
-    },
-    {
-      "tmdb_id": 235540,
-      "title": "Big Vape — S01E04 — Bilionários da noite para o dia",
-      "original_title": "Biffy Clyro: iTunes Festival 2012",
-      "year": "2023",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": "The iTunes Festival is an annual, month-long music festival and concert series which takes place in September at The Roundhouse art centre in London. Sponsored by Apple Inc. Biffy Clyro are a Scottish rock band that formed in Kilmarnock, East Ayrshire. Currently signed to 14th Floor Records, they have released six studio albums, three of which reached the top five in the UK Albums Chart.",
-      "genres": [
-        "Música"
-      ],
-      "cast": [],
-      "message_ids": [
-        7487
-      ],
-      "video_message_id": 7487
     },
     {
       "tmdb_id": 481370,
@@ -35237,24 +35019,6 @@
         3857
       ],
       "video_message_id": 3857
-    },
-    {
-      "tmdb_id": 84553,
-      "title": "Blade Runner: Black Lotus — S01E13 — Hora de Morrer",
-      "original_title": "Semper Fi: Always Faithful",
-      "year": "2022",
-      "poster_url": "https://image.tmdb.org/t/p/w500/y9In7M1LZ2f3CRIY3EY7RVteXEb.jpg",
-      "backdrop_url": null,
-      "overview": "Marine Corps Master Sgt. Jerry Ensminger was a devoted Marine for nearly twenty-five years. As a drill instructor he lived and breathed the \"Corps\" and was responsible for indoctrinating thousands of new recruits with its motto Semper Fidelis or \"Always Faithful\". When Jerry's nine-year old daughter Janey died of a rare type of leukemia, his world collapsed. As a grief-stricken father, he struggled for years to make sense of what happened. His search for answers led to the shocking discovery of a Marine Corps cover-up of one of the largest water contamination incidents in U.S. history. Semper Fi: Always Faithful follows Jerry's mission to expose the Marine Corps and force them to live up to their motto to the thousands of soldiers and their families exposed to toxic chemicals. His fight reveals a grave injustice at North Carolina's Camp Lejeune and a looming environmental crisis at military sites across the country.",
-      "genres": [
-        "Documentário"
-      ],
-      "cast": [],
-      "message_ids": [
-        7325,
-        7326
-      ],
-      "video_message_id": 7326
     },
     {
       "tmdb_id": 78,
@@ -36532,75 +36296,6 @@
       "video_message_id": 4662
     },
     {
-      "tmdb_id": 292532,
-      "title": "Brasil 70: A Saga do Tri — S01E05 — Eu não morri",
-      "original_title": "Wicked Spring",
-      "year": "2026",
-      "poster_url": "https://image.tmdb.org/t/p/w500/s9qtTzz7zcV6A9eMAz8Ml74TRON.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/o3aOmchAYXtPsabMhwNDOkq5VA.jpg",
-      "overview": "During the 1864 battle of the Wilderness, three Union soldiers and three Confederate Soldiers get seperated from their units as twilight engulfs the ravaged battlefield. The men wander alone through the dangerous woods, separate of each other, until they meet by chance on the banks of a quiet creek. The men meet and spend the night around a campfire, not realizing they are enemies until the next morning when the sun rises and a new day of battle begins.",
-      "genres": [
-        "Faroeste",
-        "Drama",
-        "Guerra"
-      ],
-      "cast": [
-        {
-          "name": "Brian Merrick",
-          "photo_url": null
-        },
-        {
-          "name": "DJ Perry",
-          "photo_url": null
-        },
-        {
-          "name": "Terry Jernigan",
-          "photo_url": null
-        },
-        {
-          "name": "Aaron Jackson",
-          "photo_url": "https://image.tmdb.org/t/p/w185/gajMGmXfGPPJesTdAoz1MTuHFGA.jpg"
-        },
-        {
-          "name": "Vondie Curtis-Hall",
-          "photo_url": "https://image.tmdb.org/t/p/w185/eJbwjnUB3VGGioAtQTmiYI4k7lH.jpg"
-        },
-        {
-          "name": "Mark Lacy",
-          "photo_url": null
-        },
-        {
-          "name": "Lindsey Ingram",
-          "photo_url": null
-        },
-        {
-          "name": "Rebecca Lawlor",
-          "photo_url": null
-        },
-        {
-          "name": "John Pagano",
-          "photo_url": null
-        },
-        {
-          "name": "Anthony Hornus",
-          "photo_url": null
-        },
-        {
-          "name": "Jim Schruefer",
-          "photo_url": null
-        },
-        {
-          "name": "Barry Privett",
-          "photo_url": null
-        }
-      ],
-      "message_ids": [
-        7361,
-        7362
-      ],
-      "video_message_id": 7362
-    },
-    {
       "tmdb_id": 631904,
       "title": "Brasil Football Club",
       "original_title": "Brasil Football Club",
@@ -36616,21 +36311,6 @@
         7290
       ],
       "video_message_id": 7290
-    },
-    {
-      "tmdb_id": 214089,
-      "title": "Brasil: A Última Cruzada — S01E03 — A Guilhotina da Igualdade",
-      "original_title": null,
-      "year": "2022",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": null,
-      "genres": [],
-      "cast": [],
-      "message_ids": [
-        7508
-      ],
-      "video_message_id": 7508
     },
     {
       "tmdb_id": 459075,
@@ -39911,34 +39591,6 @@
       "video_message_id": 6021
     },
     {
-      "tmdb_id": 303191,
-      "title": "Caçador de Marajás — S01E07 — Não Me Deixem Só",
-      "original_title": "거짓말 2014",
-      "year": "2025",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bFQaA04sKOxTCj6GoGhwiFRl4h9.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/c7tX6TBKRZv5WFIRNBJkHyVOu1k.jpg",
-      "overview": "Jin-hee (Yoon Seol-hee) meets married man Min-ki (Hong Seok-yeon) on an online meeting site to make a living for herself and her incompetent boyfriend. She meets him for money but they slowly fall into something more than just a physical relationship. One day, a rumor spreads that she's a whore and breaks up with her boyfriend. With the betrayal for her boyfriend and love for Min-ki growing deeper, Jin-hee decides to put everything in the past and go abroad. The day before she leaves, she goes to meet Min-ki for the last time...",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "cast": [
-        {
-          "name": "윤설희",
-          "photo_url": "https://image.tmdb.org/t/p/w185/kHiSjNIovGMOHs6ItH5YMDzrr9T.jpg"
-        },
-        {
-          "name": "홍석연",
-          "photo_url": "https://image.tmdb.org/t/p/w185/koTFgBF5vXHsPd5w8OocDv952Jv.jpg"
-        }
-      ],
-      "message_ids": [
-        7462,
-        7463
-      ],
-      "video_message_id": 7463
-    },
-    {
       "tmdb_id": 419831,
       "title": "Caçadora de Gigantes",
       "original_title": "I Kill Giants",
@@ -42966,21 +42618,6 @@
       "video_message_id": 4990
     },
     {
-      "tmdb_id": 226403,
-      "title": "Como Criar um Escândalo Sexual — S01E03 — Episódio 3",
-      "original_title": null,
-      "year": "2023",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": null,
-      "genres": [],
-      "cast": [],
-      "message_ids": [
-        7501
-      ],
-      "video_message_id": 7501
-    },
-    {
       "tmdb_id": 1542,
       "title": "Como Enlouquecer Seu Chefe",
       "original_title": "Office Space",
@@ -44401,72 +44038,6 @@
         4695
       ],
       "video_message_id": 4695
-    },
-    {
-      "tmdb_id": 30898,
-      "title": "Confronto dos Deuses — S01E09 — A Mitologia de Tolkien",
-      "original_title": "October 22",
-      "year": "2009",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3PDoXiNCbmmj3J9qyE8c5r3nHAA.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nFM6CRyuSW1x2LiNhfqZCDfhef2.jpg",
-      "overview": "A wounded man makes a desperate call, reporting that a gunman is holding a coffee shop hostage and shooting anyone he pleases -- but when the SWAT team shows up, the madman opens fire. Through flashbacks, a waitress serves an array of customers, all of whom are blissfully unaware of how their lives will be horrifically changed.",
-      "genres": [
-        "Drama"
-      ],
-      "cast": [
-        {
-          "name": "Mark Boone Junior",
-          "photo_url": "https://image.tmdb.org/t/p/w185/zcYYnZNxOfMOLq7zL0hJheoVM2k.jpg"
-        },
-        {
-          "name": "Tate Donovan",
-          "photo_url": "https://image.tmdb.org/t/p/w185/1SVx1zVO2lR5mUoduURUL64mIDH.jpg"
-        },
-        {
-          "name": "Ernie Hudson",
-          "photo_url": "https://image.tmdb.org/t/p/w185/kgAdQA2ItCDVvKXufeDHc6Omiso.jpg"
-        },
-        {
-          "name": "Colm Meaney",
-          "photo_url": "https://image.tmdb.org/t/p/w185/guL6RJdlRMtOJN3LoaY3G8hG4Rd.jpg"
-        },
-        {
-          "name": "Donna Murphy",
-          "photo_url": "https://image.tmdb.org/t/p/w185/nbhjInhXh1puhwnfRU7Ov1XFmD0.jpg"
-        },
-        {
-          "name": "Michael Paré",
-          "photo_url": "https://image.tmdb.org/t/p/w185/jxrXW8OL6hwJgtJgePdMO5yHuAM.jpg"
-        },
-        {
-          "name": "Amanda Plummer",
-          "photo_url": "https://image.tmdb.org/t/p/w185/wEwyajjePFVVn2wFdH1NH7z9Qn5.jpg"
-        },
-        {
-          "name": "Maylin Pultar",
-          "photo_url": null
-        },
-        {
-          "name": "Jessica Lundy",
-          "photo_url": "https://image.tmdb.org/t/p/w185/nbTcto9xjHzQIIV1gM73IJwLVbT.jpg"
-        },
-        {
-          "name": "Esther Scott",
-          "photo_url": "https://image.tmdb.org/t/p/w185/wCUWexYXqzrGcGOCeNOA0sw4PMA.jpg"
-        },
-        {
-          "name": "Jack Carter",
-          "photo_url": "https://image.tmdb.org/t/p/w185/pyHTez7ynU1DzNnkOIDGIrP7Dkw.jpg"
-        },
-        {
-          "name": "Stephanie Erb",
-          "photo_url": "https://image.tmdb.org/t/p/w185/3eTrorUzs0BCqOy0dnAMUjFaERb.jpg"
-        }
-      ],
-      "message_ids": [
-        7075
-      ],
-      "video_message_id": 7075
     },
     {
       "tmdb_id": 398175,
@@ -49183,21 +48754,6 @@
         1703
       ],
       "video_message_id": 1703
-    },
-    {
-      "tmdb_id": 93005,
-      "title": "Câmera Crime — S06E10 — Episódio 10",
-      "original_title": null,
-      "year": "2022",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": null,
-      "genres": [],
-      "cast": [],
-      "message_ids": [
-        7421
-      ],
-      "video_message_id": 7421
     },
     {
       "tmdb_id": 500,
@@ -55919,21 +55475,6 @@
       "video_message_id": 4719
     },
     {
-      "tmdb_id": 118585,
-      "title": "Doutor Castor — S01E01 — Nos tempos da malandragem",
-      "original_title": null,
-      "year": "2021",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": null,
-      "genres": [],
-      "cast": [],
-      "message_ids": [
-        6773
-      ],
-      "video_message_id": 6773
-    },
-    {
       "tmdb_id": 14830,
       "title": "Doutor Estranho",
       "original_title": "Doctor Strange",
@@ -58680,46 +58221,6 @@
       "video_message_id": 5372
     },
     {
-      "tmdb_id": 127617,
-      "title": "Elize Matsunaga: Era uma Vez um Crime — S01E01 — Estado civil: viúva",
-      "original_title": "Kaiju Big Battel: Shocking Truth",
-      "year": "2021",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ywQ5h3BBlTC9NsuKBB1hlUSL6rI.jpg",
-      "backdrop_url": null,
-      "overview": "Um pico chocante no mundo do combate contra monstros de alto risco. Shocking Truth apresenta uma visita à caverna de Dino Kang Jr, a ascensão e queda de Silver Potato, o épico Kaiju The Swarm e muito mais.",
-      "genres": [
-        "Ação",
-        "Comédia",
-        "Ficção científica"
-      ],
-      "cast": [
-        {
-          "name": "David Coffill",
-          "photo_url": null
-        },
-        {
-          "name": "Jack Dourakos",
-          "photo_url": "https://image.tmdb.org/t/p/w185/rpt5L32RRi2MQkU4CX5MI5vBGd9.jpg"
-        },
-        {
-          "name": "Michael J. Epstein",
-          "photo_url": "https://image.tmdb.org/t/p/w185/d1Pwo71wzYKp6q2zGaWPa4rkk5l.jpg"
-        },
-        {
-          "name": "Benjamin Russell",
-          "photo_url": "https://image.tmdb.org/t/p/w185/vHgXimuKTk0dgt0LJYUdF3bfdyl.jpg"
-        },
-        {
-          "name": "James Wu",
-          "photo_url": null
-        }
-      ],
-      "message_ids": [
-        6781
-      ],
-      "video_message_id": 6781
-    },
-    {
       "tmdb_id": 5680,
       "title": "Elvira: a Rainha das Trevas",
       "original_title": "Elvira: Mistress of the Dark",
@@ -59405,28 +58906,6 @@
       "video_message_id": 1214
     },
     {
-      "tmdb_id": 234409,
-      "title": "Em Roma Faça como os Pica-Paus",
-      "original_title": "Roamin' Roman",
-      "year": "1964",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wDBsgTpaE5UrTPcYn8mbpYffcpS.jpg",
-      "backdrop_url": null,
-      "overview": "Pica-Pau irrita tanto o imperador de Roma que ele manda um guarda capturá-lo.",
-      "genres": [
-        "Animação"
-      ],
-      "cast": [
-        {
-          "name": "Grace Stafford",
-          "photo_url": "https://image.tmdb.org/t/p/w185/jOW1NNoHD0fQwWwriwQBVhXIvVs.jpg"
-        }
-      ],
-      "message_ids": [
-        7542
-      ],
-      "video_message_id": 7542
-    },
-    {
       "tmdb_id": 933131,
       "title": "Em Ruínas",
       "original_title": "황야",
@@ -59632,25 +59111,6 @@
         1461
       ],
       "video_message_id": 1461
-    },
-    {
-      "tmdb_id": 292474,
-      "title": "Emergência Radioativa — S01E02 — Quando a gente vai voltar pra casa?",
-      "original_title": "Strawberry Shortcake: Berry Friends Forever",
-      "year": "2026",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wAasezblc9WMJQoVCYVHFrWXWkL.jpg",
-      "backdrop_url": null,
-      "overview": "Life in Berry Bitty City is always better when Strawberry and her friends try their berry best! Princess Berrykin decides to bring back an old tradition, and Blueberry spends so much time worrying about manners that she forgets what's really important. When a Good Citizens Club is formed, Plum learns that fitting in with others is fine, as long as she follows her heart. Lemon and Raspberry work together to clean up a playground, and soon see the berrytastic value of teamwork. Strawberry helps out the Postmaster Bee, who shows her the value of honest effort. It's friendship and helping hands to the rescue in these sweet, fun-filled adventures!",
-      "genres": [
-        "Animação",
-        "Família"
-      ],
-      "cast": [],
-      "message_ids": [
-        7047,
-        7048
-      ],
-      "video_message_id": 7048
     },
     {
       "tmdb_id": 974950,
@@ -68973,36 +68433,6 @@
       "video_message_id": 5101
     },
     {
-      "tmdb_id": 216569,
-      "title": "Galvão: Olha o Que Ele Fez — S01E05 — A última página?",
-      "original_title": "The Who: BBC Electric Proms",
-      "year": "2023",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4sn02I5V3z5QVE8ibvjbYt9d0Tk.jpg",
-      "backdrop_url": null,
-      "overview": "The Who play to a crowd that can barely believe they're about to witness one of the best live bands of the last forty years, in the beautiful and intimate surroundings of The Roundhouse.",
-      "genres": [
-        "Música"
-      ],
-      "cast": [
-        {
-          "name": "Roger Daltrey",
-          "photo_url": "https://image.tmdb.org/t/p/w185/5hXMDGmnHLYrbSZp82CECz0m1I8.jpg"
-        },
-        {
-          "name": "Pete Townshend",
-          "photo_url": "https://image.tmdb.org/t/p/w185/juqxP6G6O7i4bOHuIwdyVHNyHME.jpg"
-        },
-        {
-          "name": "Zak Starkey",
-          "photo_url": "https://image.tmdb.org/t/p/w185/4xLgdF9Xpv0FooQq3GMcycS5MQO.jpg"
-        }
-      ],
-      "message_ids": [
-        7503
-      ],
-      "video_message_id": 7503
-    },
-    {
       "tmdb_id": 1042657,
       "title": "Game Mortal",
       "original_title": "Latency",
@@ -72592,21 +72022,6 @@
       "video_message_id": 3381
     },
     {
-      "tmdb_id": 211792,
-      "title": "Guerra do Imaginário: A Jornada de Chesterton, Lewis e Tolkien — S01E01 — Dragões Podem Ser Vencidos",
-      "original_title": null,
-      "year": "2022",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": null,
-      "genres": [],
-      "cast": [],
-      "message_ids": [
-        6860
-      ],
-      "video_message_id": 6860
-    },
-    {
       "tmdb_id": 74,
       "title": "Guerra dos Mundos",
       "original_title": "War of the Worlds",
@@ -74208,73 +73623,6 @@
         1372
       ],
       "video_message_id": 1372
-    },
-    {
-      "tmdb_id": 239574,
-      "title": "Handsome Devils — S01E02 — Episódio 2",
-      "original_title": "Era una notte buia e tempestosa...",
-      "year": "2014",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6XUNRGfeLMWdlRZXtoUazk4Ebjq.jpg",
-      "backdrop_url": null,
-      "overview": "Three young people sharing a flat become friends.",
-      "genres": [
-        "Comédia",
-        "Romance"
-      ],
-      "cast": [
-        {
-          "name": "Athina Cenci",
-          "photo_url": "https://image.tmdb.org/t/p/w185/ojLwsdLsIS1szIRJSsf5FcCoccC.jpg"
-        },
-        {
-          "name": "Alessandro Benvenuti",
-          "photo_url": "https://image.tmdb.org/t/p/w185/xnMlW2zJArNkIMBQWEN4pc1vptL.jpg"
-        },
-        {
-          "name": "Daniele Trambusti",
-          "photo_url": "https://image.tmdb.org/t/p/w185/3rIH8hPS7gv7bQQH5V3maPmT33d.jpg"
-        },
-        {
-          "name": "Maria Rosaria Omaggio",
-          "photo_url": "https://image.tmdb.org/t/p/w185/hrZYJI94cGEOqof7KWOknUkcRJH.jpg"
-        },
-        {
-          "name": "Maurizio Dami",
-          "photo_url": null
-        },
-        {
-          "name": "Antonio Baudrocco",
-          "photo_url": null
-        },
-        {
-          "name": "Giovanni Chinnici Botta",
-          "photo_url": null
-        },
-        {
-          "name": "Clara Colosimo",
-          "photo_url": "https://image.tmdb.org/t/p/w185/rlKV4c5HiCB3zVx5QsX84XT3jvY.jpg"
-        },
-        {
-          "name": "Franco Cortese",
-          "photo_url": null
-        },
-        {
-          "name": "Michelangelo Lo Prete",
-          "photo_url": null
-        },
-        {
-          "name": "Marco Paoli",
-          "photo_url": null
-        },
-        {
-          "name": "Stefano Tirelli",
-          "photo_url": null
-        }
-      ],
-      "message_ids": [
-        7031
-      ],
-      "video_message_id": 7031
     },
     {
       "tmdb_id": 50456,
@@ -76351,22 +75699,6 @@
         6354
       ],
       "video_message_id": 6354
-    },
-    {
-      "tmdb_id": 249056,
-      "title": "História do Comunismo — S01E01 — Episódio I -  Marxismo de Marx",
-      "original_title": null,
-      "year": "2024",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": null,
-      "genres": [],
-      "cast": [],
-      "message_ids": [
-        6977,
-        6978
-      ],
-      "video_message_id": 6978
     },
     {
       "tmdb_id": 50014,
@@ -82758,73 +82090,6 @@
         6258
       ],
       "video_message_id": 6258
-    },
-    {
-      "tmdb_id": 302,
-      "title": "Jim Rome Is Burning — S01E01 — Episódio 1",
-      "original_title": "Swimming Pool",
-      "year": "2003",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uF2evDwmm7WswpcjGKAULdM0Lxs.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/q0kZOxL6OMSeDlT6SRNKCJYStlF.jpg",
-      "overview": "Uma escritora britânica busca inspiração e solidão na casa de férias de seu editor no sul da França. Sua quietude logo é interrompida pelo estilo de vida imprudente e erótico da filha dele. As interações turbulentas entre as duas desencadeiam uma série de acontecimentos perturbadores.",
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "cast": [
-        {
-          "name": "Charlotte Rampling",
-          "photo_url": "https://image.tmdb.org/t/p/w185/Htvl9mN6mlf2a18RAFzNXF3RiG.jpg"
-        },
-        {
-          "name": "Ludivine Sagnier",
-          "photo_url": "https://image.tmdb.org/t/p/w185/hd4fLjgtgNEidJOjuLNGfK1sOhm.jpg"
-        },
-        {
-          "name": "Charles Dance",
-          "photo_url": "https://image.tmdb.org/t/p/w185/28ElvRC5ftOSzZBFM0cn4XrwH36.jpg"
-        },
-        {
-          "name": "Marc Fayolle",
-          "photo_url": "https://image.tmdb.org/t/p/w185/2Cvct2fmu1vUuc0UGLJF1jlN4bi.jpg"
-        },
-        {
-          "name": "Jean-Marie Lamour",
-          "photo_url": "https://image.tmdb.org/t/p/w185/aqd6lgXXjwDfoDOUgdtk2sE6viR.jpg"
-        },
-        {
-          "name": "Mireille Mossé",
-          "photo_url": null
-        },
-        {
-          "name": "Michel Fau",
-          "photo_url": null
-        },
-        {
-          "name": "Jean-Claude Lecas",
-          "photo_url": "https://image.tmdb.org/t/p/w185/dAnsAGS3kkp2RQ2YbScUUhBUCaK.jpg"
-        },
-        {
-          "name": "Émilie Gavois-Kahn",
-          "photo_url": "https://image.tmdb.org/t/p/w185/1UWOiaw6O7VlcCwujtJpZb9ATD2.jpg"
-        },
-        {
-          "name": "Erarde Forestali",
-          "photo_url": null
-        },
-        {
-          "name": "Lauren Farrow",
-          "photo_url": null
-        },
-        {
-          "name": "Sebastian Harcombe",
-          "photo_url": null
-        }
-      ],
-      "message_ids": [
-        7360
-      ],
-      "video_message_id": 7360
     },
     {
       "tmdb_id": 115782,
@@ -96118,64 +95383,6 @@
       "video_message_id": 5546
     },
     {
-      "tmdb_id": 96213,
-      "title": "McMillion$ — S01E02 — Episódio 2",
-      "original_title": "Gold",
-      "year": "2020",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ka1FDLrmWHK8esHauK6aQrK4EkF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kJPww84IIVi10x41veT2aJ6wXWE.jpg",
-      "overview": "A cowboy turned gold miner fights a gang that buys miner's claims and then murders them.",
-      "genres": [
-        "Faroeste"
-      ],
-      "cast": [
-        {
-          "name": "Jack Hoxie",
-          "photo_url": "https://image.tmdb.org/t/p/w185/6Ct8EodKuxf8hZnwBNQ4oQxxrKJ.jpg"
-        },
-        {
-          "name": "Alice Day",
-          "photo_url": "https://image.tmdb.org/t/p/w185/uzlhFXfX7nUFEoqOALrxTtWTs3i.jpg"
-        },
-        {
-          "name": "Hooper Atchley",
-          "photo_url": "https://image.tmdb.org/t/p/w185/ab6UN3WPvemElRJfApwyrR4MclU.jpg"
-        },
-        {
-          "name": "Matthew Betz",
-          "photo_url": "https://image.tmdb.org/t/p/w185/tpGMjJrquUADwkV8ZXJLofwNy8d.jpg"
-        },
-        {
-          "name": "Lafe McKee",
-          "photo_url": "https://image.tmdb.org/t/p/w185/iDR6BFkx3vJY9dN3LA3bNTAK24J.jpg"
-        },
-        {
-          "name": "Jack Rube Clifford",
-          "photo_url": "https://image.tmdb.org/t/p/w185/xOwlFhANXauQur5JkuiJ1K6rdnt.jpg"
-        },
-        {
-          "name": "Tom London",
-          "photo_url": "https://image.tmdb.org/t/p/w185/nfLW8J3AMasTu1Ahm0HftRgx9qy.jpg"
-        },
-        {
-          "name": "Bob Kortman",
-          "photo_url": "https://image.tmdb.org/t/p/w185/hehu5JH7b44Pzcyeng3DF6pCoz0.jpg"
-        },
-        {
-          "name": "Jack Byron",
-          "photo_url": null
-        },
-        {
-          "name": "Slim Cole",
-          "photo_url": null
-        }
-      ],
-      "message_ids": [
-        6811
-      ],
-      "video_message_id": 6811
-    },
-    {
       "tmdb_id": 880100,
       "title": "Medo",
       "original_title": "Fear",
@@ -97223,68 +96430,6 @@
         4725
       ],
       "video_message_id": 4725
-    },
-    {
-      "tmdb_id": 117220,
-      "title": "Mercado Negro — S01E01 — Episódio 1",
-      "original_title": "Mix Tape",
-      "year": "2020",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vHPB0NLsoKPACxZY1TLyYn5aIIW.jpg",
-      "backdrop_url": null,
-      "overview": "Spanish exchange student Lily is unable to settle down in the crowded city of Amsterdam. The mix tapes she records for herself drown out the sound of the city, yet her social isolation remains. When she finds out about a musician living in the same building, she reaches out.",
-      "genres": [],
-      "cast": [
-        {
-          "name": "Liliana de Vries",
-          "photo_url": "https://image.tmdb.org/t/p/w185/hPysOdBAijqzvEp6tmheQScaDtX.jpg"
-        },
-        {
-          "name": "Marwan Kenzari",
-          "photo_url": "https://image.tmdb.org/t/p/w185/66903sgNtyzHN0Mi3D88UYgbH86.jpg"
-        },
-        {
-          "name": "Vivienne Tung",
-          "photo_url": null
-        },
-        {
-          "name": "Maja Westerveld",
-          "photo_url": null
-        }
-      ],
-      "message_ids": [
-        6805
-      ],
-      "video_message_id": 6805
-    },
-    {
-      "tmdb_id": 65425,
-      "title": "Mercado Negro — S01E05 — Imitações",
-      "original_title": "Sarah Young Private Fantasies 18",
-      "year": "2015",
-      "poster_url": "https://image.tmdb.org/t/p/w500/idfieCiJmUr5UyXH2Zeqw11Jjdx.jpg",
-      "backdrop_url": null,
-      "overview": "In Sarah Young's Private Fantasies 18, Sarah has a heated dispute with Sean but decides its better to make love not war.",
-      "genres": [
-        "Romance"
-      ],
-      "cast": [
-        {
-          "name": "Sarah Louise Young",
-          "photo_url": "https://image.tmdb.org/t/p/w185/l13NVKetFS2CkpMOhV5AzHCLtTV.jpg"
-        },
-        {
-          "name": "Sean Michaels",
-          "photo_url": "https://image.tmdb.org/t/p/w185/zGCrUrHTOIZ7WOqYMmkBEXXNa6C.jpg"
-        },
-        {
-          "name": "Peter North",
-          "photo_url": "https://image.tmdb.org/t/p/w185/uwWAK7wa1ynbLjNz88pSyf0KPQw.jpg"
-        }
-      ],
-      "message_ids": [
-        6808
-      ],
-      "video_message_id": 6808
     },
     {
       "tmdb_id": 1255775,
@@ -98958,71 +98103,6 @@
         5354
       ],
       "video_message_id": 5354
-    },
-    {
-      "tmdb_id": 323111,
-      "title": "Michael Jackson: O Veredito — S01E03 — Episódio 3",
-      "original_title": "Semper Fi",
-      "year": "2026",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8WzhW02Wd3X5HZs6OITRqUdFOaz.jpg",
-      "backdrop_url": null,
-      "overview": "Cliff Truckee refuses a privileged start in life at a top college while other young men are enlisting. On the bus out of Chicago he meets a girl on her way to join the Marines, falls in love and decides to do the same. Paris Island is physically tough, but it is troubles that are brought from home that endanger some recruits success, in an extreme case even a life. Team bonding is changing Cliff, but so can a broken heart.",
-      "genres": [
-        "Ação",
-        "Drama",
-        "Cinema TV"
-      ],
-      "cast": [
-        {
-          "name": "Scott Bairstow",
-          "photo_url": "https://image.tmdb.org/t/p/w185/pxvumZ8VGyVcafP98iMLqHPhOls.jpg"
-        },
-        {
-          "name": "Steve Burton",
-          "photo_url": "https://image.tmdb.org/t/p/w185/57CLC5pCHjgrgU6YJtyMHMSHwLY.jpg"
-        },
-        {
-          "name": "Vicellous Shannon",
-          "photo_url": "https://image.tmdb.org/t/p/w185/rgWqPIgDSgFoIEYjXw9rdnHVFXy.jpg"
-        },
-        {
-          "name": "Alex Burns",
-          "photo_url": "https://image.tmdb.org/t/p/w185/hW8ZX1720qlcEQ5Qkaq6HMuidgW.jpg"
-        },
-        {
-          "name": "Bianca Kajlich",
-          "photo_url": "https://image.tmdb.org/t/p/w185/mJdcpCgnR4nJLcCivk3E4jThuNn.jpg"
-        },
-        {
-          "name": "Michael Peña",
-          "photo_url": "https://image.tmdb.org/t/p/w185/afs4PCiwn8LR93a10drULLVeVLo.jpg"
-        },
-        {
-          "name": "Tammy Townsend",
-          "photo_url": "https://image.tmdb.org/t/p/w185/vIZSa3ITSLELHUywN9LcN8LwjZ8.jpg"
-        },
-        {
-          "name": "Terry O'Quinn",
-          "photo_url": "https://image.tmdb.org/t/p/w185/kSweOGPprLe1vDvu38wJQaWIih7.jpg"
-        },
-        {
-          "name": "Greg Serano",
-          "photo_url": "https://image.tmdb.org/t/p/w185/bqKA6wmh7j4HVTm0FfsYCOBGTKo.jpg"
-        },
-        {
-          "name": "Lana Parrilla",
-          "photo_url": "https://image.tmdb.org/t/p/w185/jw0H1hMEW9xJ4atAzGMMRUFiys.jpg"
-        },
-        {
-          "name": "Keith David",
-          "photo_url": "https://image.tmdb.org/t/p/w185/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg"
-        }
-      ],
-      "message_ids": [
-        7356,
-        7357
-      ],
-      "video_message_id": 7357
     },
     {
       "tmdb_id": 696506,
@@ -104647,22 +103727,6 @@
       "video_message_id": 1255
     },
     {
-      "tmdb_id": 153519,
-      "title": "Neymar: O Caos Perfeito — S01E03 — O Pai tá on",
-      "original_title": null,
-      "year": "2022",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": null,
-      "genres": [],
-      "cast": [],
-      "message_ids": [
-        7612,
-        7613
-      ],
-      "video_message_id": 7613
-    },
-    {
       "tmdb_id": 1180702,
       "title": "Nice Girls",
       "original_title": "Nice Girls",
@@ -108031,73 +107095,6 @@
       "video_message_id": 1536
     },
     {
-      "tmdb_id": 116986,
-      "title": "O Arsenal dos Espiões — S01E01 — Vigilância de última geração",
-      "original_title": "Los hermanos Del Hierro",
-      "year": "2021",
-      "poster_url": "https://image.tmdb.org/t/p/w500/91WLB1Q4c8YNXsjKyE7FYKX1ASd.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/v2BxiJZ6TjXBe9bnr3qr4kdW5eL.jpg",
-      "overview": "Reynaldo e Martín Del Hierro são testemunhas do assassinato de seu pai por Pascual Velazco. À medida que crescem, são envenenados pelo desejo de vingança de sua mãe, mas quando o conseguem, suas vidas mudarão para sempre.",
-      "genres": [
-        "Drama",
-        "Faroeste"
-      ],
-      "cast": [
-        {
-          "name": "Antonio Aguilar",
-          "photo_url": "https://image.tmdb.org/t/p/w185/yaBvT37fAhYJn8LXE7Qs9yXSGL6.jpg"
-        },
-        {
-          "name": "Julio Alemán",
-          "photo_url": "https://image.tmdb.org/t/p/w185/vC7pjqqLfQRNhvZxKqdcTyOSHIP.jpg"
-        },
-        {
-          "name": "Columba Domínguez",
-          "photo_url": "https://image.tmdb.org/t/p/w185/AnSsdXiBszJG1f4Xmcql0Mviyu4.jpg"
-        },
-        {
-          "name": "Patricia Conde",
-          "photo_url": "https://image.tmdb.org/t/p/w185/g0OAhqzmzu7YZMF9kO06xexIUJr.jpg"
-        },
-        {
-          "name": "David Reynoso",
-          "photo_url": "https://image.tmdb.org/t/p/w185/cTNMjcWNnG0WP5lDpsM8ca4gnOG.jpg"
-        },
-        {
-          "name": "Luis Aragón",
-          "photo_url": "https://image.tmdb.org/t/p/w185/pnjIAquINZqSfQJsUx264yY8hAe.jpg"
-        },
-        {
-          "name": "Dolores Camarillo",
-          "photo_url": "https://image.tmdb.org/t/p/w185/mCJQHtruSwGcY2lSfE1ohpHQftq.jpg"
-        },
-        {
-          "name": "Pancho Córdova",
-          "photo_url": "https://image.tmdb.org/t/p/w185/3aqUNccGsDMMt1tkwdueXl5hIUY.jpg"
-        },
-        {
-          "name": "Pascual García Peña",
-          "photo_url": "https://image.tmdb.org/t/p/w185/dtOL4Q3JyeNS0t0Vkfwel8brKBg.jpg"
-        },
-        {
-          "name": "Eleazar García",
-          "photo_url": "https://image.tmdb.org/t/p/w185/5tPrI8AYwAjas1lEOsAqgZI1n81.jpg"
-        },
-        {
-          "name": "Tito Novaro",
-          "photo_url": "https://image.tmdb.org/t/p/w185/6jGeo6s7dCrbyabt0KKA67JuSkK.jpg"
-        },
-        {
-          "name": "Sadi Dupeyrón",
-          "photo_url": null
-        }
-      ],
-      "message_ids": [
-        6821
-      ],
-      "video_message_id": 6821
-    },
-    {
       "tmdb_id": 4512,
       "title": "O Assassinato de Jesse James Pelo Covarde Robert Ford",
       "original_title": "The Assassination of Jesse James by the Coward Robert Ford",
@@ -108164,32 +107161,6 @@
         5876
       ],
       "video_message_id": 5876
-    },
-    {
-      "tmdb_id": 229277,
-      "title": "O Assassino do Baralho — S01E01 — Episódio 1",
-      "original_title": "Kuang Ther Mar Plon",
-      "year": "2023",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": "1994 film by Thai martial arts director, Panna Rittikrai.\r Thai action supermo Panna Rittikrai stars as a hard boiled gangster who takes control of a Bangkok suburb with a violent and iron grip. Great fights and stunts galore.",
-      "genres": [
-        "Ação"
-      ],
-      "cast": [
-        {
-          "name": "Tunyaluk Ratchatar",
-          "photo_url": null
-        },
-        {
-          "name": "พันนา ฤทธิไกร",
-          "photo_url": "https://image.tmdb.org/t/p/w185/ztvTI56VNksjMB0i9AM8us2NLE9.jpg"
-        }
-      ],
-      "message_ids": [
-        7024
-      ],
-      "video_message_id": 7024
     },
     {
       "tmdb_id": 9362,
@@ -109138,73 +108109,6 @@
         1085
       ],
       "video_message_id": 1085
-    },
-    {
-      "tmdb_id": 124407,
-      "title": "O Caso Evandro — S01E02 — Os Acusados",
-      "original_title": "Street Asylum",
-      "year": "2021",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fbTCWHFdYXBzk1A8FplSSiVLfsP.jpg",
-      "backdrop_url": null,
-      "overview": "In the bleak near future Los Angeles has become a dangerous war zone with cops pitted against assorted law-breaking lowlifes. Sergeant Arliss Ryder (well played with customary wired intensity by the always great Wings Hauser) has an electronic device put into his back that turns him into an out-of-control psychotic killer and put on the Strike S.Q.U.A.D. (an acronym for Scum Quelling Assault Urban Devision), which is a unit of crazed cops assigned by Captain Bill Quinton (a typically gruff Alex Cord) to rid the City of Angels of criminals by using any means necessary. The only problem is that Arliss discovers what's going down and decides to put a stop to all this madness.",
-      "genres": [
-        "Ação",
-        "Ficção científica"
-      ],
-      "cast": [
-        {
-          "name": "Wings Hauser",
-          "photo_url": "https://image.tmdb.org/t/p/w185/yYGJCFjsWNVVOPqq2Rl1JWRrYt3.jpg"
-        },
-        {
-          "name": "Alex Cord",
-          "photo_url": "https://image.tmdb.org/t/p/w185/auyeofs0g8y9KIzWzMoALUFs6TK.jpg"
-        },
-        {
-          "name": "Roberta Vasquez",
-          "photo_url": "https://image.tmdb.org/t/p/w185/1FbYyi2OxuyUV6Qo9gx4IgR5i6q.jpg"
-        },
-        {
-          "name": "Sy Richardson",
-          "photo_url": "https://image.tmdb.org/t/p/w185/jxZkTx1sGh3AkPvezh62cBJhbat.jpg"
-        },
-        {
-          "name": "Brion James",
-          "photo_url": "https://image.tmdb.org/t/p/w185/qy5jIIsWrNCV1OVRaUiqYNhLLVT.jpg"
-        },
-        {
-          "name": "G. Gordon Liddy",
-          "photo_url": "https://image.tmdb.org/t/p/w185/ayoV1So6SFOMRVKLNUDEV7LuhNt.jpg"
-        },
-        {
-          "name": "Jesse Doran",
-          "photo_url": null
-        },
-        {
-          "name": "Lisa Robins",
-          "photo_url": null
-        },
-        {
-          "name": "Marie Chambers",
-          "photo_url": null
-        },
-        {
-          "name": "Jesse Aragon",
-          "photo_url": null
-        },
-        {
-          "name": "William Shockley",
-          "photo_url": "https://image.tmdb.org/t/p/w185/lOcuXGETGWR8kVQMgjan1jOT13a.jpg"
-        },
-        {
-          "name": "Christopher Kriesa",
-          "photo_url": "https://image.tmdb.org/t/p/w185/x8mQj9GPKXc7B75u3cpjBpaLn48.jpg"
-        }
-      ],
-      "message_ids": [
-        6917
-      ],
-      "video_message_id": 6917
     },
     {
       "tmdb_id": 292011,
@@ -118749,21 +117653,6 @@
       "video_message_id": 3724
     },
     {
-      "tmdb_id": 245902,
-      "title": "O Lado Sombrio da TV Infantil — S01E03 — O Segredo Mais Sombrio",
-      "original_title": null,
-      "year": "2024",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": null,
-      "genres": [],
-      "cast": [],
-      "message_ids": [
-        7535
-      ],
-      "video_message_id": 7535
-    },
-    {
       "tmdb_id": 293670,
       "title": "O Lamento",
       "original_title": "곡성",
@@ -125399,22 +124288,6 @@
         5120
       ],
       "video_message_id": 5120
-    },
-    {
-      "tmdb_id": 124714,
-      "title": "O Rei da TV — S02E01 — O Poder dos Palcos",
-      "original_title": null,
-      "year": "2023",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": null,
-      "genres": [],
-      "cast": [],
-      "message_ids": [
-        6946,
-        6947
-      ],
-      "video_message_id": 6947
     },
     {
       "tmdb_id": 316029,
@@ -133814,40 +132687,6 @@
       "video_message_id": 3283
     },
     {
-      "tmdb_id": 284080,
-      "title": "Os Meninos do Brasil — S01E02 — Episódio 2",
-      "original_title": "一丈紅",
-      "year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2w9tHbDuZLfAaopvLavbpBTN9mF.jpg",
-      "backdrop_url": null,
-      "overview": "Drama from Hong Kong directed by Lee Tit.",
-      "genres": [
-        "Drama"
-      ],
-      "cast": [
-        {
-          "name": "Cheung Ying",
-          "photo_url": "https://image.tmdb.org/t/p/w185/rHdgBhRllo5kMzlmBKRInjXoxHq.jpg"
-        },
-        {
-          "name": "Hung Sin-Nui",
-          "photo_url": "https://image.tmdb.org/t/p/w185/dGcH8gIJHrhpN1sTL06JjRMulbM.jpg"
-        },
-        {
-          "name": "Chow Kwun-Ling",
-          "photo_url": "https://image.tmdb.org/t/p/w185/gOPTBIaWgkaWSfXNrYBCHshJGG8.jpg"
-        },
-        {
-          "name": "Mui Chun",
-          "photo_url": null
-        }
-      ],
-      "message_ids": [
-        7605
-      ],
-      "video_message_id": 7605
-    },
-    {
       "tmdb_id": 82695,
       "title": "Os Miseráveis",
       "original_title": "Les Misérables",
@@ -135929,22 +134768,6 @@
         4549
       ],
       "video_message_id": 4549
-    },
-    {
-      "tmdb_id": 3322,
-      "title": "Oz — S01E01 — A Rotina",
-      "original_title": null,
-      "year": "1997",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": null,
-      "genres": [],
-      "cast": [],
-      "message_ids": [
-        7210,
-        7211
-      ],
-      "video_message_id": 7211
     },
     {
       "tmdb_id": 6023,
@@ -147292,22 +146115,6 @@
       "video_message_id": 3762
     },
     {
-      "tmdb_id": 224390,
-      "title": "Raul Seixas: Eu Sou — S01E01 — Let Me Sing",
-      "original_title": null,
-      "year": "2025",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": null,
-      "genres": [],
-      "cast": [],
-      "message_ids": [
-        7002,
-        7003
-      ],
-      "video_message_id": 7003
-    },
-    {
       "tmdb_id": 472497,
       "title": "Raízes do Amor",
       "original_title": "Sweetness in the Belly",
@@ -149841,21 +148648,6 @@
       "video_message_id": 6036
     },
     {
-      "tmdb_id": 217606,
-      "title": "Revanche — S01E05 — Episódio 5",
-      "original_title": null,
-      "year": "2024",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": null,
-      "genres": [],
-      "cast": [],
-      "message_ids": [
-        7311
-      ],
-      "video_message_id": 7311
-    },
-    {
       "tmdb_id": 313943,
       "title": "Revolta",
       "original_title": "Revolt",
@@ -150453,74 +149245,6 @@
         5816
       ],
       "video_message_id": 5816
-    },
-    {
-      "tmdb_id": 77448,
-      "title": "Rio Heroes — S01E03 — Faixa-Preta",
-      "original_title": "That's Entertainment! III",
-      "year": "2018",
-      "poster_url": "https://image.tmdb.org/t/p/w500/g6urKxs7CnXe3TNcKGkS8VVFlxh.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kBzZR5wIY7ThPAVIZU0oISHc1v7.jpg",
-      "overview": "Algumas das estrelas musicais da MGM revisam a história dos musicais dos estúdios. De 'The Hollywood Revue' de 1929 a ' A Lenda dos Beijos Perdidos' de 1954. Dos primeiros talkies musicais a Gene Kelly em 'Cantando na Chuva' de 1952.",
-      "genres": [
-        "Documentário",
-        "Música"
-      ],
-      "cast": [
-        {
-          "name": "June Allyson",
-          "photo_url": "https://image.tmdb.org/t/p/w185/7mpc9Qjms4OZVF54NH2qQXj7CAt.jpg"
-        },
-        {
-          "name": "Cyd Charisse",
-          "photo_url": "https://image.tmdb.org/t/p/w185/g5in2cxIlYimrD5bNYPeX6AkBb2.jpg"
-        },
-        {
-          "name": "Lena Horne",
-          "photo_url": "https://image.tmdb.org/t/p/w185/vk6Z28XELYgfB1hgnoHsyRoIMll.jpg"
-        },
-        {
-          "name": "Howard Keel",
-          "photo_url": "https://image.tmdb.org/t/p/w185/8pvdM0sFqs4Jq6Foh72UYhXXSh1.jpg"
-        },
-        {
-          "name": "Gene Kelly",
-          "photo_url": "https://image.tmdb.org/t/p/w185/g98yyY7oGrkocUxxJgOt82I7z6A.jpg"
-        },
-        {
-          "name": "Ann Miller",
-          "photo_url": "https://image.tmdb.org/t/p/w185/3IWXjk5Qc4RYBdPEQdQsyo20ymh.jpg"
-        },
-        {
-          "name": "Debbie Reynolds",
-          "photo_url": "https://image.tmdb.org/t/p/w185/9Z9DQqNztKlinANGGgD5dQODtlr.jpg"
-        },
-        {
-          "name": "Mickey Rooney",
-          "photo_url": "https://image.tmdb.org/t/p/w185/eYuayEC3xhXQf3Z1Cy6AVMEcgZb.jpg"
-        },
-        {
-          "name": "Esther Williams",
-          "photo_url": "https://image.tmdb.org/t/p/w185/r6jzrhOpbWmXUxMRgwXPAwvp8lL.jpg"
-        },
-        {
-          "name": "Granville Van Dusen",
-          "photo_url": "https://image.tmdb.org/t/p/w185/j6vsh70I7VuHULC6RZ2tegwe9zn.jpg"
-        },
-        {
-          "name": "Fred Astaire",
-          "photo_url": "https://image.tmdb.org/t/p/w185/6gw9PCrKi19I5QOwjEPaOYW9uLI.jpg"
-        },
-        {
-          "name": "Lucille Ball",
-          "photo_url": "https://image.tmdb.org/t/p/w185/gcJ5Qwg9lcadvdCxC22AjFuJC4A.jpg"
-        }
-      ],
-      "message_ids": [
-        7204,
-        7205
-      ],
-      "video_message_id": 7205
     },
     {
       "tmdb_id": 60670,
@@ -151571,25 +150295,6 @@
         3352
       ],
       "video_message_id": 3352
-    },
-    {
-      "tmdb_id": 316544,
-      "title": "Ronaldinho Gaúcho — S01E03 — Disseram que eu estava acabado?",
-      "original_title": "Whiz Quiz Kid",
-      "year": "2026",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": "A Famous Studios cartoon.",
-      "genres": [
-        "Animação",
-        "Comédia"
-      ],
-      "cast": [],
-      "message_ids": [
-        7529,
-        7530
-      ],
-      "video_message_id": 7530
     },
     {
       "tmdb_id": 1646341,
@@ -155612,45 +154317,6 @@
       "video_message_id": 6936
     },
     {
-      "tmdb_id": 211039,
-      "title": "Senna — S01E01 — Vocação",
-      "original_title": "The Final Moments of Karl Brant",
-      "year": "2024",
-      "poster_url": "https://image.tmdb.org/t/p/w500/A9qoZvnKqbkt1jBpL6lVNmmsbGx.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/puSL6bWHLb9vbhjzUphMl7ryv0Q.jpg",
-      "overview": "Set in the near future where experimental technology allows two detectives to bring a murder victim back to life in a digital state in order to question him about his final moments.",
-      "genres": [
-        "Ficção científica"
-      ],
-      "cast": [
-        {
-          "name": "Paul Reubens",
-          "photo_url": "https://image.tmdb.org/t/p/w185/7T0ExonMf6PAvphKVaTm73BXdLW.jpg"
-        },
-        {
-          "name": "Janina Gavankar",
-          "photo_url": "https://image.tmdb.org/t/p/w185/pvywjGmHdJFuR0DLmrGbrii6MKm.jpg"
-        },
-        {
-          "name": "Pete Chekvala",
-          "photo_url": "https://image.tmdb.org/t/p/w185/mXGcVkWJWc4HAQvBzNAqZOTfwgI.jpg"
-        },
-        {
-          "name": "Fay Masterson",
-          "photo_url": "https://image.tmdb.org/t/p/w185/bRI23ePNttuIh9v1zVt7FzllHBT.jpg"
-        },
-        {
-          "name": "Jon Sklaroff",
-          "photo_url": "https://image.tmdb.org/t/p/w185/f2sObKMPWfp2uA6rWQg0IeA65cl.jpg"
-        }
-      ],
-      "message_ids": [
-        6963,
-        6964
-      ],
-      "video_message_id": 6964
-    },
-    {
       "tmdb_id": 244539,
       "title": "Sentimentos que Curam",
       "original_title": "Infinitely Polar Bear",
@@ -159369,21 +158035,6 @@
       "video_message_id": 6324
     },
     {
-      "tmdb_id": 106282,
-      "title": "Sobrevivendo a Jeffrey Epstein — S01E04 — Episódio 4",
-      "original_title": null,
-      "year": "2020",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": null,
-      "genres": [],
-      "cast": [],
-      "message_ids": [
-        7458
-      ],
-      "video_message_id": 7458
-    },
-    {
       "tmdb_id": 729854,
       "title": "Sobreviventes - Depois do Terremoto",
       "original_title": "콘크리트 유토피아",
@@ -160480,74 +159131,6 @@
         3379
       ],
       "video_message_id": 3379
-    },
-    {
-      "tmdb_id": 46296,
-      "title": "Spartacus — S01E01 — A Serpente Vermelha",
-      "original_title": "Simon & Malou",
-      "year": "2010",
-      "poster_url": "https://image.tmdb.org/t/p/w500/h50E6Y59LmS1EMi48jCKY0bCmLP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hvpvUCJ7KDkmPmdKndZgF4Eh18c.jpg",
-      "overview": "Circumstances force the unstructured yet charming Danish Bohemian novelist, Simon, to share his flat in Copenhagen with the very organized and beautiful Swedish lawyer, Malou. Simon dreams of children and a family. Malou is solely focused on her career. Despite being in opposition they warm up to each other. But even though opposites do attract - can they also manage to live together? Against all odds their meeting sets of a chain of events, which will ultimately change their lives forever.",
-      "genres": [
-        "Comédia",
-        "Romance"
-      ],
-      "cast": [
-        {
-          "name": "Tuva Novotny",
-          "photo_url": "https://image.tmdb.org/t/p/w185/gqCdACPKT59cCuxHssthedRrkrB.jpg"
-        },
-        {
-          "name": "Dejan Čukić",
-          "photo_url": "https://image.tmdb.org/t/p/w185/yuRYpOqbugWynWRPVGGxnuQQ8SX.jpg"
-        },
-        {
-          "name": "Robert Hansen",
-          "photo_url": "https://image.tmdb.org/t/p/w185/v0C6apzcmvHyzXeqn9k2SbDposa.jpg"
-        },
-        {
-          "name": "Solbjørg Højfeldt",
-          "photo_url": "https://image.tmdb.org/t/p/w185/7KrkF2QgQmut3NyKfhXSlgqvpjw.jpg"
-        },
-        {
-          "name": "Mille Dinesen",
-          "photo_url": "https://image.tmdb.org/t/p/w185/5iPkBvpZ9HI9aVqRZ4D0ZivMGoS.jpg"
-        },
-        {
-          "name": "Joel Kinnaman",
-          "photo_url": "https://image.tmdb.org/t/p/w185/cVfYzTyQdJ4xtxKPZe7IcW3BJN4.jpg"
-        },
-        {
-          "name": "Line Kruse",
-          "photo_url": "https://image.tmdb.org/t/p/w185/AqGjJgCMeXYBP18DR6XV0OI3Ydv.jpg"
-        },
-        {
-          "name": "Laura Drasbæk",
-          "photo_url": "https://image.tmdb.org/t/p/w185/siZJnSSbFlEWQvpCfzxCPDHkr0C.jpg"
-        },
-        {
-          "name": "Claus Bigum",
-          "photo_url": null
-        },
-        {
-          "name": "Martin Hestbæk",
-          "photo_url": "https://image.tmdb.org/t/p/w185/2W9WTJuhAVEv4fjdSzwEHyDc1oI.jpg"
-        },
-        {
-          "name": "Michael Asmussen",
-          "photo_url": "https://image.tmdb.org/t/p/w185/1EB3ocRbmXYFW9k0eLl6qkFH4Uj.jpg"
-        },
-        {
-          "name": "Rafael Edholm",
-          "photo_url": "https://image.tmdb.org/t/p/w185/fIh3YsmABjNauknmamV98TS5YJs.jpg"
-        }
-      ],
-      "message_ids": [
-        7077,
-        7078
-      ],
-      "video_message_id": 7078
     },
     {
       "tmdb_id": 7459,
@@ -164731,22 +163314,6 @@
       "video_message_id": 5801
     },
     {
-      "tmdb_id": 321291,
-      "title": "Territórios - Sob o Domínio do Crime — S01E06 — Território da Corrupção",
-      "original_title": "Gongzilla: Live in Concert / The East Village Studio",
-      "year": "2026",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": "An unbelievable five cameras cover this monster live show from Gongzilla, which includes a four-minute drum solo by jazz-rock guru Gary Husband. A memorable set list includes \"Sinister Minister,\" \"Hanniface,\" \"Aquila,\" \"Thrive,\" \"Lilly,\" \"Bad Habits,\" \"Gongzilla,\" \"Soli\" and \"Image,\" with a special guest appearance by Chuck Garvey from the jam band Giant Moe. Exclusive footage shot from a day with the band in the studio is also included.",
-      "genres": [],
-      "cast": [],
-      "message_ids": [
-        7374,
-        7375
-      ],
-      "video_message_id": 7375
-    },
-    {
       "tmdb_id": 11449,
       "title": "Terror em Amityville",
       "original_title": "The Amityville Horror",
@@ -165250,74 +163817,6 @@
       "video_message_id": 6990
     },
     {
-      "tmdb_id": 128876,
-      "title": "The Beatles: Get Back — S01E01 — Parte 1: Dias 1-7",
-      "original_title": "Tower Block",
-      "year": "2021",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ikUmaaOMbyeszWnyaIXye3f1GFe.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qSj5BPXLXEV06euTz4q6r04rDT0.jpg",
-      "overview": "A year after witnessing a murder, residents of Tower Block 31 find themselves being picked off by a sniper, pitting those lucky enough to be alive into a battle for survival.",
-      "genres": [
-        "Thriller",
-        "Ação"
-      ],
-      "cast": [
-        {
-          "name": "Sheridan Smith",
-          "photo_url": "https://image.tmdb.org/t/p/w185/6vHbF7cO4vWr8Tm8wxfZDHpO32e.jpg"
-        },
-        {
-          "name": "Ralph Brown",
-          "photo_url": "https://image.tmdb.org/t/p/w185/20VVWsUZHmTmN80xgHyy6LAFDuC.jpg"
-        },
-        {
-          "name": "Russell Tovey",
-          "photo_url": "https://image.tmdb.org/t/p/w185/p1hNveDVY6vT5FDT0zJXDnZsDw.jpg"
-        },
-        {
-          "name": "Jack O'Connell",
-          "photo_url": "https://image.tmdb.org/t/p/w185/8jiqppSqdmHZ0smiAyd6Iu3P3ZQ.jpg"
-        },
-        {
-          "name": "Jill Baker",
-          "photo_url": "https://image.tmdb.org/t/p/w185/vrWVe00gbywqkOxhVIf5Gs9vJE4.jpg"
-        },
-        {
-          "name": "Julie Graham",
-          "photo_url": "https://image.tmdb.org/t/p/w185/oqk7TrAdD8qrgE5XLxLAsLhZrsQ.jpg"
-        },
-        {
-          "name": "Christopher Fulford",
-          "photo_url": "https://image.tmdb.org/t/p/w185/2n73aEyiU4fJprC2vHIf0M7YJ62.jpg"
-        },
-        {
-          "name": "Steven Cree",
-          "photo_url": "https://image.tmdb.org/t/p/w185/oH9uSQMJPdFHeVggqvMwheW7nZl.jpg"
-        },
-        {
-          "name": "Nabil Elouahabi",
-          "photo_url": "https://image.tmdb.org/t/p/w185/gBWJGBBIWyAFv5rGv3hw3hwmEls.jpg"
-        },
-        {
-          "name": "Tony Jayawardena",
-          "photo_url": "https://image.tmdb.org/t/p/w185/neUevhaurSvKiLngn5fUg0ifRVn.jpg"
-        },
-        {
-          "name": "Jamie Thomas King",
-          "photo_url": "https://image.tmdb.org/t/p/w185/hE7R5CcybeolLiptWVvPnOkittU.jpg"
-        },
-        {
-          "name": "Ralph Laurila",
-          "photo_url": null
-        }
-      ],
-      "message_ids": [
-        7608,
-        7609
-      ],
-      "video_message_id": 7609
-    },
-    {
       "tmdb_id": 638506,
       "title": "The Cosmic Secret",
       "original_title": "The Cosmic Secret",
@@ -165491,54 +163990,6 @@
         3728
       ],
       "video_message_id": 3728
-    },
-    {
-      "tmdb_id": 75334,
-      "title": "The Lost Tapes — S02E02 — Episódio 2",
-      "original_title": "Teagan: Sexual Freak 2",
-      "year": "2018",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dUlTrMGoJT6efxjXl9wmAt2M5Ca.jpg",
-      "backdrop_url": null,
-      "overview": "Teagan: Sexual Freak 2 features Teagan Presley in perfect splendor and original, real-time audio. She maintains full control as she dominates and seduces her eager lover. She pleases him and herself before Jean Val Jean rocks her inside and out. Sexual Freak 2 showcases Teagan's animal instincts, her raw desire and engaging sexual demeanor. Digital Playground's freshest face, Shay Jordan makes her debut in an erotic and sensual power play with Scott Nails. Shay takes control and Scott delivers everything she asks for. Kapri Styles and raven-haired beauty Riley Shy also lend their inner sex freak to the title in phenomenal, heart racing, orgasmic frenzies, making Teagan: Sexual Freak 2 a total package for every warm-blooded connoisseur.",
-      "genres": [],
-      "cast": [
-        {
-          "name": "Teagan Presley",
-          "photo_url": "https://image.tmdb.org/t/p/w185/b4niADEwqWCm97XZb2cNRZdimm9.jpg"
-        },
-        {
-          "name": "Shay Jordan",
-          "photo_url": "https://image.tmdb.org/t/p/w185/yq2bCgxytCw0rZPBPGy3XPj18pP.jpg"
-        },
-        {
-          "name": "Kapri Styles",
-          "photo_url": "https://image.tmdb.org/t/p/w185/9cZd0HvEoqTxSXeyTL0zuXropZa.jpg"
-        },
-        {
-          "name": "Riley Shy",
-          "photo_url": "https://image.tmdb.org/t/p/w185/l6jMimXIXyRRdcXvOThmhL4xDWv.jpg"
-        },
-        {
-          "name": "Christian XXX",
-          "photo_url": "https://image.tmdb.org/t/p/w185/o70LBE9IKSqLwmUONBRL9npIcIq.jpg"
-        },
-        {
-          "name": "Scott Nails",
-          "photo_url": "https://image.tmdb.org/t/p/w185/p5vDmVDNYyUXfHXE36Q7houcraz.jpg"
-        },
-        {
-          "name": "Jerry Kovak",
-          "photo_url": "https://image.tmdb.org/t/p/w185/n0loElTdjHhgLV5C6mCeRhUKQwe.jpg"
-        },
-        {
-          "name": "Emmanuel Delcour",
-          "photo_url": "https://image.tmdb.org/t/p/w185/m0tr7LXCGWAnDncfVMcnsvUVRbW.jpg"
-        }
-      ],
-      "message_ids": [
-        7482
-      ],
-      "video_message_id": 7482
     },
     {
       "tmdb_id": 1422562,
@@ -166729,56 +165180,6 @@
         7275
       ],
       "video_message_id": 7275
-    },
-    {
-      "tmdb_id": 9939,
-      "title": "To Rome with Love — S02E10 — Episódio 10",
-      "original_title": "The Chatroom",
-      "year": "1970",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2osQgVpLGPhl0FWzc6jtPN6888o.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/6HfaCaMsmtbxRev1KXPjhkvTjf1.jpg",
-      "overview": "In Los Angeles, a young man starts online dating with his two friends and finds out that what's on the screen isn't exactly what meets the eye.",
-      "genres": [
-        "Comédia"
-      ],
-      "cast": [
-        {
-          "name": "GiGi Erneta",
-          "photo_url": "https://image.tmdb.org/t/p/w185/w8yBYlqI1tihNkvzKTKYbuvYcLm.jpg"
-        },
-        {
-          "name": "Brian Hooks",
-          "photo_url": "https://image.tmdb.org/t/p/w185/2E7apZ2BTqHClmlFZesLRwvlhNx.jpg"
-        },
-        {
-          "name": "LaNease Adams",
-          "photo_url": "https://image.tmdb.org/t/p/w185/8p5b5OenKjtX32N7BOjCxrhpxhg.jpg"
-        },
-        {
-          "name": "Carl Gilliard",
-          "photo_url": null
-        },
-        {
-          "name": "Natasha McCrea",
-          "photo_url": "https://image.tmdb.org/t/p/w185/uCQaIPB1BE0aDEe6ZEVEvr4gz76.jpg"
-        },
-        {
-          "name": "Baadja-Lyne Odums",
-          "photo_url": "https://image.tmdb.org/t/p/w185/iO3zGR435PQ0G8coxS9lUZC0xKD.jpg"
-        },
-        {
-          "name": "Darryl Brunson",
-          "photo_url": null
-        },
-        {
-          "name": "Troy Winbush",
-          "photo_url": "https://image.tmdb.org/t/p/w185/aGxjCVonALJublMfkLp3BZBiDg3.jpg"
-        }
-      ],
-      "message_ids": [
-        7337
-      ],
-      "video_message_id": 7337
     },
     {
       "tmdb_id": 4247,
@@ -171592,21 +169993,6 @@
         1222
       ],
       "video_message_id": 1222
-    },
-    {
-      "tmdb_id": 32351,
-      "title": "Ugly Americans — S01E01 — Episódio 1",
-      "original_title": null,
-      "year": "2010",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": null,
-      "genres": [],
-      "cast": [],
-      "message_ids": [
-        7135
-      ],
-      "video_message_id": 7135
     },
     {
       "tmdb_id": 9920,
@@ -177596,75 +175982,6 @@
       "video_message_id": 5434
     },
     {
-      "tmdb_id": 271805,
-      "title": "Unitopia — S01E01 — Parte 1",
-      "original_title": "A Whale for the Killing",
-      "year": "2024",
-      "poster_url": "https://image.tmdb.org/t/p/w500/r3u9M2X4xl2WavxMx6rSsHPtQrZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cts5VhwegQ69NEDfU6aIk9WDlqm.jpg",
-      "overview": "A conservationst, stranded with his family at a Newfoundland coastal resort, flies in the face of custom and fights an entire community to prevent a trapped whale's slaughter with only the support of his wife and one of the locals.",
-      "genres": [
-        "Aventura",
-        "Drama",
-        "Família",
-        "Cinema TV"
-      ],
-      "cast": [
-        {
-          "name": "Peter Strauss",
-          "photo_url": "https://image.tmdb.org/t/p/w185/nu2QWP09Ju0eMabE0hEmYjm1c6V.jpg"
-        },
-        {
-          "name": "Dee Wallace",
-          "photo_url": "https://image.tmdb.org/t/p/w185/gVnwovXGgGcny8LJ3w9j3I9xTE7.jpg"
-        },
-        {
-          "name": "Kathryn Walker",
-          "photo_url": "https://image.tmdb.org/t/p/w185/13aCj5XfKWF2G5G9vHpsa4avdty.jpg"
-        },
-        {
-          "name": "Bruce McGill",
-          "photo_url": "https://image.tmdb.org/t/p/w185/j4mn0fPdhhXfRqQwheAwCU8Hwrm.jpg"
-        },
-        {
-          "name": "Ken James",
-          "photo_url": "https://image.tmdb.org/t/p/w185/neSztvMYp0yFKwbZ7j7FxATkskC.jpg"
-        },
-        {
-          "name": "David Ferry",
-          "photo_url": "https://image.tmdb.org/t/p/w185/vSp7x6OqIfAktTmFp7xNgox7OGb.jpg"
-        },
-        {
-          "name": "Richard Widmark",
-          "photo_url": "https://image.tmdb.org/t/p/w185/fvR0fQcGTVzmHZUGfPocqT6pRgJ.jpg"
-        },
-        {
-          "name": "David Hollander",
-          "photo_url": null
-        },
-        {
-          "name": "Bill Calvert",
-          "photo_url": "https://image.tmdb.org/t/p/w185/u0VjXyNPWbbH3FSzd3FdeoC648J.jpg"
-        },
-        {
-          "name": "Larry Reynolds",
-          "photo_url": null
-        },
-        {
-          "name": "George Merner",
-          "photo_url": null
-        },
-        {
-          "name": "Reuven Bar-Yotam",
-          "photo_url": "https://image.tmdb.org/t/p/w185/meLpiUjxY43kfSqF82nFMaVD4Up.jpg"
-        }
-      ],
-      "message_ids": [
-        6987
-      ],
-      "video_message_id": 6987
-    },
-    {
       "tmdb_id": 62211,
       "title": "Universidade Monstros",
       "original_title": "Monsters University",
@@ -177847,72 +176164,6 @@
         4602
       ],
       "video_message_id": 4602
-    },
-    {
-      "tmdb_id": 334392,
-      "title": "Unwell Summer Games — S01E01 — Episódio 1",
-      "original_title": "鴎よ、きらめく海を見たか　めぐり逢い",
-      "year": "2026",
-      "poster_url": "https://image.tmdb.org/t/p/w500/n9SeiuRGmEHMdt7uf1PXdNyOldv.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nUXdfLBMk7i0julDFvkP03PfVGu.jpg",
-      "overview": "Fujishita Kumi is an ordinary office lady. Longing to escape her poor fishing village for a life in the city, she came to Tokyo. One day while alone in the office, she's spotted rolling up her pantyhose by the window cleaner Kurata Katsuo. This was to be their first encounter. Completely enchanted by Kumi, Katsuo does everything he can to get close to her. Katsuo is a man with a terrible past. With the death of his coal miner father, his family was broken up and he was forced to follow in his father's footsteps laboring away in the mud. In spite of this, Katsuo still has dreams. He dreams of living in Resiporuko, a utopian fantasyland that exists only in his imagination. When Katsuo and Kumi finally meet they find themselves unable to communicate. Katsuo spends all his time talking about Resiporuko with a starry look in his eyes, while Kumi dreams of living the high life in the city. One day when the two travel to the seashore, they discover a wounded seagull.",
-      "genres": [
-        "Drama"
-      ],
-      "cast": [
-        {
-          "name": "田中健",
-          "photo_url": "https://image.tmdb.org/t/p/w185/5af2OkUypOvWDHzKrglD8vl9kSh.jpg"
-        },
-        {
-          "name": "高橋洋子",
-          "photo_url": "https://image.tmdb.org/t/p/w185/8tAECRQD9QtUlk5YcMfvd1HDZQo.jpg"
-        },
-        {
-          "name": "根岸明美",
-          "photo_url": "https://image.tmdb.org/t/p/w185/oWE8EeeDOOMWFrgW6EPsAYdEnVZ.jpg"
-        },
-        {
-          "name": "下條正巳",
-          "photo_url": "https://image.tmdb.org/t/p/w185/o7Ae75gKl9HjXrK3ElmXa8kNyQO.jpg"
-        },
-        {
-          "name": "Yuzuru Amano",
-          "photo_url": null
-        },
-        {
-          "name": "Sanshotei Shoza",
-          "photo_url": null
-        },
-        {
-          "name": "Taiko Shinbashi",
-          "photo_url": null
-        },
-        {
-          "name": "日野道夫",
-          "photo_url": "https://image.tmdb.org/t/p/w185/tK9elR4MmxnMP8WQzxFE5F4O9qG.jpg"
-        },
-        {
-          "name": "長浜藤夫",
-          "photo_url": null
-        },
-        {
-          "name": "Junko Kuroda",
-          "photo_url": null
-        },
-        {
-          "name": "Noriyo Sasata",
-          "photo_url": null
-        },
-        {
-          "name": "萩原健一",
-          "photo_url": "https://image.tmdb.org/t/p/w185/8kNMHlEiANklSuuqiZu4jU7Ef9V.jpg"
-        }
-      ],
-      "message_ids": [
-        6830
-      ],
-      "video_message_id": 6830
     },
     {
       "tmdb_id": 14160,
@@ -182323,76 +180574,6 @@
         3427
       ],
       "video_message_id": 3427
-    },
-    {
-      "tmdb_id": 331061,
-      "title": "Voepass 2283: A Queda — S01E03 — Crime?",
-      "original_title": "劇場版 デート・ア・ライブ 万由里ジャッジメント",
-      "year": "2026",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wPLtLeopvyg2HgndnhwvmZsF3VO.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/f1HQKRYOuXyLi4HQKppbtR79BBl.jpg",
-      "overview": "De repente, uma enorme esfera começou a emitir uma misteriosa onda espiritual por toda a Cidade Tengu, que deveria ter recuperado sua paz. Ao mesmo tempo, uma garota misteriosa e bonita apareceu. Silenciosamente, ela encontra Shidou e suas amigas. Qual é o verdadeiro objetivo dela?",
-      "genres": [
-        "Animação",
-        "Romance",
-        "Ficção científica",
-        "Ação",
-        "Comédia"
-      ],
-      "cast": [
-        {
-          "name": "Marina Inoue",
-          "photo_url": null
-        },
-        {
-          "name": "Ayana Taketatsu",
-          "photo_url": null
-        },
-        {
-          "name": "富樫美鈴",
-          "photo_url": "https://image.tmdb.org/t/p/w185/7p3PwKmvSyLb2zM9DfWPJeMpI2O.jpg"
-        },
-        {
-          "name": "Nobunaga Shimazaki",
-          "photo_url": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
-        },
-        {
-          "name": "茅原実里",
-          "photo_url": "https://image.tmdb.org/t/p/w185/qSqXpdLUq4prPtL7mkp0go6SbrF.jpg"
-        },
-        {
-          "name": "Sora Amamiya",
-          "photo_url": "https://image.tmdb.org/t/p/w185/AouA1SfwEazdSSj8rUS9K1WIF4H.jpg"
-        },
-        {
-          "name": "月宮みどり",
-          "photo_url": "https://image.tmdb.org/t/p/w185/8XLTl2eqP7aXrDfaOPShbMeXIi3.jpg"
-        },
-        {
-          "name": "小笠原早紀",
-          "photo_url": "https://image.tmdb.org/t/p/w185/cD6sbgmfntoP5g6H28u6Pjrlk6P.jpg"
-        },
-        {
-          "name": "積田かよ子",
-          "photo_url": "https://image.tmdb.org/t/p/w185/24JflukoSf5FpgDWLABJFQNGPEq.jpg"
-        },
-        {
-          "name": "Takehito Koyasu",
-          "photo_url": "https://image.tmdb.org/t/p/w185/8uBkNDKPNmp9JWgMUI02NVyfhi1.jpg"
-        },
-        {
-          "name": "Go Inoue",
-          "photo_url": "https://image.tmdb.org/t/p/w185/pfflyhOaWISQwwlNBfb4oG6Fk95.jpg"
-        },
-        {
-          "name": "Kentaro Tone",
-          "photo_url": "https://image.tmdb.org/t/p/w185/9IZ9SpSV0P4bJBN8ALll7IYMLG2.jpg"
-        }
-      ],
-      "message_ids": [
-        7406
-      ],
-      "video_message_id": 7406
     },
     {
       "tmdb_id": 711963,

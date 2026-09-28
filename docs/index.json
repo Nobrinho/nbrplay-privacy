@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T04:55:08+00:00",
+  "generated_at": "2026-09-28T04:55:12+00:00",
   "channel": "-1004483833987",
-  "count": 3120,
+  "count": 3121,
   "movie_count": 2813,
   "series_count": 44,
-  "episode_count": 307,
+  "episode_count": 308,
   "custom_count": 0,
   "movies": [
     {
@@ -191767,7 +191767,7 @@
       "title": "Ronaldinho Gaúcho",
       "original_title": "Ronaldinho Gaúcho",
       "poster_url": "https://image.tmdb.org/t/p/w500/zYdSaQLM8w3NMuBnjRPjqpiUnyp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/yr60DEuUdEnw65st6Wf7KvBIeVc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ngM4GxLvGCZWSCPrR1SeCk8EvBj.jpg",
       "genres": [
         "Documentário"
       ],
@@ -191775,6 +191775,57 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 2,
+              "tmdb_id": 7069360,
+              "title": "O melhor do mundo",
+              "air_date": "2026-04-16",
+              "overview": "Depois da Copa do Mundo de 2002, Ronaldinho Gaúcho vira um astro global. Mas seu estilo de vida desagrada algumas pessoas.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/ngM4GxLvGCZWSCPrR1SeCk8EvBj.jpg",
+              "cast": [
+                {
+                  "name": "Ronaldinho",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/tK04ijzWbViNQFD8g57xqsfCGgM.jpg"
+                },
+                {
+                  "name": "Ronaldo",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/jcaL90kAd8tH7C0lz2VMzzcumSl.jpg"
+                },
+                {
+                  "name": "Galvão Bueno",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xMinaMBm3T9Lr0anZTXgA0TMfhi.jpg"
+                },
+                {
+                  "name": "Lionel Messi",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/gyum5zHlEsvg3DlXgeNjhayUlNo.jpg"
+                },
+                {
+                  "name": "Carles Puyol",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ecHD8vDKCYAcgdVGFArOarWg1ro.jpg"
+                },
+                {
+                  "name": "Roberto Carlos",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/jW4JXJTyCEPcOsPa6mNhbmKOPqr.jpg"
+                },
+                {
+                  "name": "Neymar",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/rSRCt66IreMqjr6IqaaCcOs4G30.jpg"
+                },
+                {
+                  "name": "Anderson Luís de Souza",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/aeSJ192KxjBT88cTGKgvltyui86.jpg"
+                },
+                {
+                  "name": "Roberto de Assis",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7531,
+                7532
+              ],
+              "video_message_id": 7532
+            },
             {
               "number": 3,
               "tmdb_id": 7069361,

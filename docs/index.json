@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:10:14+00:00",
+  "generated_at": "2026-09-28T05:11:27+00:00",
   "channel": "-1004483833987",
-  "count": 3171,
+  "count": 3172,
   "movie_count": 2846,
   "series_count": 45,
-  "episode_count": 325,
+  "episode_count": 326,
   "custom_count": 0,
   "movies": [
     {
@@ -188004,7 +188004,7 @@
       "title": "Como Criar um Escândalo Sexual",
       "original_title": "How to Create a Sex Scandal",
       "poster_url": "https://image.tmdb.org/t/p/w500/mN1VpSxee3QQivoosYuzXS7s9Oy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5rSpCpwltupTjhJnGQZqrbpH5x1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uqkiIefwUyY0x1ju3M9pkcIUPWl.jpg",
       "genres": [
         "Documentário",
         "Crime"
@@ -188013,6 +188013,19 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 4437090,
+              "title": "Episódio 1",
+              "air_date": "2023-05-23",
+              "overview": "Em 2005, a pacata comunidade de Mineola, no Texas, entra em crise quando historias chocantes sobre uma rede de pedofilia local vem a tona.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/uqkiIefwUyY0x1ju3M9pkcIUPWl.jpg",
+              "cast": [],
+              "message_ids": [
+                7602
+              ],
+              "video_message_id": 7602
+            },
             {
               "number": 2,
               "tmdb_id": 4437092,

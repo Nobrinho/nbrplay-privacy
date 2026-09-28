@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T17:20:29+00:00",
+  "generated_at": "2026-09-28T21:09:24+00:00",
   "channel": "-1004483833987",
-  "count": 3135,
-  "movie_count": 2801,
+  "count": 3134,
+  "movie_count": 2800,
   "series_count": 48,
   "episode_count": 334,
   "custom_count": 0,
@@ -62116,73 +62116,6 @@
         7022
       ],
       "video_message_id": 7022
-    },
-    {
-      "tmdb_id": 2123,
-      "title": "Eu, Eu Mesmo & Irene",
-      "original_title": "Me, Myself & Irene",
-      "year": "2000",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gzoeXKICGubWgdQ0EYRNZceVpPs.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8qLen3NLCVSu1I9aqGWbTUIoBLQ.jpg",
-      "overview": "Charlie faz parte da força policial de Rhode Island há 17 anos. Trabalhador, honesto, pai de três filhos e sempre disposto a ajudar, Charlie amado por todos sua volta. Mas ele tem um problema: sofre da Síndrome de Dupla Personalidade. Se deixar de tomar seus remédios, sua segunda personalidade, Hank, vem tona. Hank não tem nada em comum com Charlie: beberrão, agressivo e grosso com todos. Até que ambos conhecem e se apaixonam por Irene Waters e passam a lutar consigo mesmo para terem o domínio do mesmo corpo.",
-      "genres": [
-        "Comédia"
-      ],
-      "cast": [
-        {
-          "name": "Jim Carrey",
-          "photo_url": "https://image.tmdb.org/t/p/w185/y3U9QfPN6sJaGl6l68xjwWj28ig.jpg"
-        },
-        {
-          "name": "Renée Zellweger",
-          "photo_url": "https://image.tmdb.org/t/p/w185/iNnPqkEF0hPWhmWpjyuLuUdbKN8.jpg"
-        },
-        {
-          "name": "Mongo Brownlee",
-          "photo_url": "https://image.tmdb.org/t/p/w185/chHO4vrhTtngLPrU01ngN7MP5v9.jpg"
-        },
-        {
-          "name": "Zen Gesner",
-          "photo_url": "https://image.tmdb.org/t/p/w185/gaUpc3SDYQAmFei8NFllxtJGs3A.jpg"
-        },
-        {
-          "name": "Chris Cooper",
-          "photo_url": "https://image.tmdb.org/t/p/w185/j0sQDzaDlnNAdaYhy6HRRAFi22.jpg"
-        },
-        {
-          "name": "Anthony Anderson",
-          "photo_url": "https://image.tmdb.org/t/p/w185/reO1OjwFdtXmiO4LMDaBj6eatzK.jpg"
-        },
-        {
-          "name": "Jerod Mixon",
-          "photo_url": "https://image.tmdb.org/t/p/w185/xOy1r1zylqRdSSrPIwwZxEP5l6K.jpg"
-        },
-        {
-          "name": "Michael Bowman",
-          "photo_url": "https://image.tmdb.org/t/p/w185/miNmKZg9Oim0yn0vksOOXqY6b9y.jpg"
-        },
-        {
-          "name": "Richard Jenkins",
-          "photo_url": "https://image.tmdb.org/t/p/w185/muT3RZG9hiKaKojD751RcQ5tGEy.jpg"
-        },
-        {
-          "name": "Robert Forster",
-          "photo_url": "https://image.tmdb.org/t/p/w185/vGDifxN2PnO69rnpg6FoWkocFCD.jpg"
-        },
-        {
-          "name": "Mike Cerrone",
-          "photo_url": "https://image.tmdb.org/t/p/w185/fHGgN0FMz3mV2iyhMgpqpdtyUMg.jpg"
-        },
-        {
-          "name": "Rob Moran",
-          "photo_url": "https://image.tmdb.org/t/p/w185/lwGI1FIdRpwvKnZlD3dKhntP4i4.jpg"
-        }
-      ],
-      "message_ids": [
-        6406,
-        6407
-      ],
-      "video_message_id": 6407
     },
     {
       "tmdb_id": 9352,

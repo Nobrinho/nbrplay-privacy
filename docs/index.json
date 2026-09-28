@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T04:59:39+00:00",
+  "generated_at": "2026-09-28T05:00:28+00:00",
   "channel": "-1004483833987",
-  "count": 3139,
-  "movie_count": 2825,
+  "count": 3140,
+  "movie_count": 2826,
   "series_count": 45,
   "episode_count": 314,
   "custom_count": 0,
@@ -69859,6 +69859,40 @@
         6877
       ],
       "video_message_id": 6877
+    },
+    {
+      "tmdb_id": 1040599,
+      "title": "Ghislaine Maxwell: Filthy Rich",
+      "original_title": "Ghislaine Maxwell: Filthy Rich",
+      "year": "2022",
+      "poster_url": "https://image.tmdb.org/t/p/w500/Av758PktOlmKVlCzkhKBJqwpFcN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7gP3aNkDHIOwAxX7Uoy19TaqAyz.jpg",
+      "overview": "Neste documentário investigativo, sobreviventes buscam justiça enquanto a socialite Ghislaine Maxwell aguarda julgamento por tráfico sexual.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Ghislaine Maxwell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d39xIk9fnGxYN82qf7E716D8f1u.jpg"
+        },
+        {
+          "name": "Maiken Baird",
+          "photo_url": "https://image.tmdb.org/t/p/w185/A2CzA2rZLtux0CHKVtWQs12pNuF.jpg"
+        },
+        {
+          "name": "David Boies III",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n7DQXug59uzTgl8sfUnaD1JhO0D.jpg"
+        },
+        {
+          "name": "Kate Briquelet",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tfMImQQBtEMKoFZD5eaoDCTYA5O.jpg"
+        }
+      ],
+      "message_ids": [
+        7559
+      ],
+      "video_message_id": 7559
     },
     {
       "tmdb_id": 1203397,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T04:58:19+00:00",
+  "generated_at": "2026-09-28T04:58:38+00:00",
   "channel": "-1004483833987",
-  "count": 3136,
-  "movie_count": 2822,
+  "count": 3137,
+  "movie_count": 2823,
   "series_count": 45,
   "episode_count": 314,
   "custom_count": 0,
@@ -150633,6 +150633,28 @@
         3352
       ],
       "video_message_id": 3352
+    },
+    {
+      "tmdb_id": 1646341,
+      "title": "Rory McIlroy: A Espera pelo Masters",
+      "original_title": "Rory McIlroy: The Masters Wait",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/q8xeCqe55zzb7aTJkEUKlTgByVn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jQAwiXPZa2H9w3jEQkcy9sIJ67k.jpg",
+      "overview": "A busca de 14 anos de Rory McIlroy para vencer o Masters no Augusta National, o único major que lhe resta para completar o Grand Slam. Um passeio buraco a buraco pela rodada final de 2025, desde seu colapso em 2011.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Rory McIlroy",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rm10XPI4jUOCnnTkQOxrVrudNWY.jpg"
+        }
+      ],
+      "message_ids": [
+        7554
+      ],
+      "video_message_id": 7554
     },
     {
       "tmdb_id": 107846,

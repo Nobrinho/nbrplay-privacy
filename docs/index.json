@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:08:33+00:00",
+  "generated_at": "2026-09-28T05:09:00+00:00",
   "channel": "-1004483833987",
-  "count": 3166,
-  "movie_count": 2841,
+  "count": 3167,
+  "movie_count": 2842,
   "series_count": 45,
   "episode_count": 325,
   "custom_count": 0,
@@ -121210,6 +121210,23 @@
         6513
       ],
       "video_message_id": 6513
+    },
+    {
+      "tmdb_id": 1417040,
+      "title": "O Nó - Ato humano deliberado",
+      "original_title": "O Nó - Ato humano deliberado",
+      "year": "2014",
+      "poster_url": "https://image.tmdb.org/t/p/w500/auArpwM7eoEFoM1EHhjE0x9Ul7r.jpg",
+      "backdrop_url": null,
+      "overview": "A historical record of the introduction of the witch's broom disease, caused by the fungus Moniliophthora perniciosa, in the cocoa plantations of Bahia.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [],
+      "message_ids": [
+        7596
+      ],
+      "video_message_id": 7596
     },
     {
       "tmdb_id": 771220,

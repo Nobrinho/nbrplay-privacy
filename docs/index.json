@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T04:55:17+00:00",
+  "generated_at": "2026-09-28T04:55:23+00:00",
   "channel": "-1004483833987",
-  "count": 3124,
+  "count": 3126,
   "movie_count": 2813,
   "series_count": 45,
-  "episode_count": 311,
+  "episode_count": 313,
   "custom_count": 0,
   "movies": [
     {
@@ -189872,7 +189872,7 @@
       "title": "O Lado Sombrio da TV Infantil",
       "original_title": "Quiet on Set: The Dark Side of Kids TV",
       "poster_url": "https://image.tmdb.org/t/p/w500/zpZEMkTVnR7o3StN2BME8Ru26Nt.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/zwc2E1uyahIAbk94p8FLOAZYWKC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ymCUYwje12vHtLgbjGpcTI3gz4p.jpg",
       "genres": [
         "Documentário",
         "Crime"
@@ -189881,6 +189881,19 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 2,
+              "tmdb_id": 5135359,
+              "title": "Lobo em Pele de Cordeiro",
+              "air_date": "2024-03-17",
+              "overview": "O relacionamento de Dan Schneider com a estrela Amanda Bynes é abalado quando novos atores mirins enfrentam situações desconfortáveis​.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/ymCUYwje12vHtLgbjGpcTI3gz4p.jpg",
+              "cast": [],
+              "message_ids": [
+                7537
+              ],
+              "video_message_id": 7537
+            },
             {
               "number": 3,
               "tmdb_id": 5135362,
@@ -189906,6 +189919,19 @@
                 7536
               ],
               "video_message_id": 7536
+            },
+            {
+              "number": 5,
+              "tmdb_id": 5237543,
+              "title": "Rompendo o Silêncio",
+              "air_date": "2024-04-07",
+              "overview": "A apresentadora Soledad O'Brien recebe ex-estrelas do canal Nickelodeon, que compartilham suas reações à estreia da série documental.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/A0YXgBR81EWOswmMAMKIBQQ8b2G.jpg",
+              "cast": [],
+              "message_ids": [
+                7538
+              ],
+              "video_message_id": 7538
             }
           ]
         }

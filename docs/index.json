@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T04:55:23+00:00",
+  "generated_at": "2026-09-28T04:55:27+00:00",
   "channel": "-1004483833987",
-  "count": 3126,
+  "count": 3127,
   "movie_count": 2813,
   "series_count": 45,
-  "episode_count": 313,
+  "episode_count": 314,
   "custom_count": 0,
   "movies": [
     {
@@ -189872,7 +189872,7 @@
       "title": "O Lado Sombrio da TV Infantil",
       "original_title": "Quiet on Set: The Dark Side of Kids TV",
       "poster_url": "https://image.tmdb.org/t/p/w500/zpZEMkTVnR7o3StN2BME8Ru26Nt.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ymCUYwje12vHtLgbjGpcTI3gz4p.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ucsYs291UDxkrwmiqudJavYkJQx.jpg",
       "genres": [
         "Documentário",
         "Crime"
@@ -189881,6 +189881,19 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 5133719,
+              "title": "Suspeitas Crescentes",
+              "air_date": "2024-03-17",
+              "overview": "Na década de 1990, surge um novo criador no canal infantil Nickelodeon. Nos bastidores, algumas roteiristas enfrentam um ambiente tóxico e sexista.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/ucsYs291UDxkrwmiqudJavYkJQx.jpg",
+              "cast": [],
+              "message_ids": [
+                7539
+              ],
+              "video_message_id": 7539
+            },
             {
               "number": 2,
               "tmdb_id": 5135359,

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T21:09:24+00:00",
+  "generated_at": "2026-09-28T22:43:38+00:00",
   "channel": "-1004483833987",
   "count": 3134,
-  "movie_count": 2800,
-  "series_count": 48,
-  "episode_count": 334,
+  "movie_count": 2799,
+  "series_count": 49,
+  "episode_count": 335,
   "custom_count": 0,
   "movies": [
     {
@@ -135167,37 +135167,6 @@
       "video_message_id": 7271
     },
     {
-      "tmdb_id": 696348,
-      "title": "Pandemia",
-      "original_title": "Pandemia",
-      "year": "2020",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3PeZErtjgmgozjl6oOEYyn3XEMr.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/emaEb33NPsVlCCEqOryyWAC6THn.jpg",
-      "overview": "A girl struggles to return to her home country amongst the COVID-19 Pandemic.",
-      "genres": [
-        "Drama",
-        "Animação"
-      ],
-      "cast": [
-        {
-          "name": "Sofía Delfini",
-          "photo_url": null
-        },
-        {
-          "name": "Kielan Ellis",
-          "photo_url": "https://image.tmdb.org/t/p/w185/1QfXX4eDHKZrRR2tKhdzqyU4T9N.jpg"
-        },
-        {
-          "name": "Serena Crisalli",
-          "photo_url": null
-        }
-      ],
-      "message_ids": [
-        6795
-      ],
-      "video_message_id": 6795
-    },
-    {
       "tmdb_id": 10147,
       "title": "Papai Noel às Avessas",
       "original_title": "Bad Santa",
@@ -191378,6 +191347,41 @@
                 7225
               ],
               "video_message_id": 7225
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 96557,
+      "title": "Pandemia",
+      "original_title": "Pandemic: How to Prevent an Outbreak",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3UledxyPndc0Bdq4cc20RVh0lE2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kbushZDzOcExPclhuSw06LIffmF.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 2,
+              "tmdb_id": 2058689,
+              "title": "A pandemia é agora",
+              "air_date": "2020-01-22",
+              "overview": "O debate sobre vacinação se intensifica. Profissionais de saúde imunizam pessoas contra o Ebola no Congo e contra a gripe nos centros de detenção na fronteira EUA-México.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/kbushZDzOcExPclhuSw06LIffmF.jpg",
+              "cast": [
+                {
+                  "name": "Syra Madad",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                6795
+              ],
+              "video_message_id": 6795
             }
           ]
         }

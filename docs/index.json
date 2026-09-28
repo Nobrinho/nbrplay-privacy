@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T04:55:12+00:00",
+  "generated_at": "2026-09-28T04:55:17+00:00",
   "channel": "-1004483833987",
-  "count": 3121,
+  "count": 3124,
   "movie_count": 2813,
-  "series_count": 44,
-  "episode_count": 308,
+  "series_count": 45,
+  "episode_count": 311,
   "custom_count": 0,
   "movies": [
     {
@@ -189868,6 +189868,50 @@
       ]
     },
     {
+      "tmdb_id": 245902,
+      "title": "O Lado Sombrio da TV Infantil",
+      "original_title": "Quiet on Set: The Dark Side of Kids TV",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zpZEMkTVnR7o3StN2BME8Ru26Nt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zwc2E1uyahIAbk94p8FLOAZYWKC.jpg",
+      "genres": [
+        "Documentário",
+        "Crime"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 3,
+              "tmdb_id": 5135362,
+              "title": "O Segredo Mais Sombrio",
+              "air_date": "2024-03-18",
+              "overview": "Um ex-astro infantil revela como sobreviveu ao abuso nas mãos de seu coach de atuação.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/zwc2E1uyahIAbk94p8FLOAZYWKC.jpg",
+              "cast": [],
+              "message_ids": [
+                7535
+              ],
+              "video_message_id": 7535
+            },
+            {
+              "number": 4,
+              "tmdb_id": 5135360,
+              "title": "Perto Demais do Sol",
+              "air_date": "2024-03-18",
+              "overview": "Um abusador é preso, mas recebe apoio de grandes nomes de Hollywood. Enquanto isso, o poder de Dan Schneider aumenta.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/7U9v6O4Ryz5YGJrdfuAzIUFX2xR.jpg",
+              "cast": [],
+              "message_ids": [
+                7536
+              ],
+              "video_message_id": 7536
+            }
+          ]
+        }
+      ]
+    },
+    {
       "tmdb_id": 124714,
       "title": "O Rei da TV",
       "original_title": "O Rei da TV",
@@ -191767,7 +191811,7 @@
       "title": "Ronaldinho Gaúcho",
       "original_title": "Ronaldinho Gaúcho",
       "poster_url": "https://image.tmdb.org/t/p/w500/zYdSaQLM8w3NMuBnjRPjqpiUnyp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ngM4GxLvGCZWSCPrR1SeCk8EvBj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jf57UFuVC7P783ZUpAML89gCcpG.jpg",
       "genres": [
         "Documentário"
       ],
@@ -191775,6 +191819,57 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 7038706,
+              "title": "Eu tinha um sonho",
+              "air_date": "2026-04-16",
+              "overview": "Nascido e crescido em uma casa movida a futebol, Ronaldinho Gaúcho descobre a paixão que mudaria sua vida e o levaria à Copa do Mundo.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/jf57UFuVC7P783ZUpAML89gCcpG.jpg",
+              "cast": [
+                {
+                  "name": "Ronaldinho",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/tK04ijzWbViNQFD8g57xqsfCGgM.jpg"
+                },
+                {
+                  "name": "Ronaldo",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/jcaL90kAd8tH7C0lz2VMzzcumSl.jpg"
+                },
+                {
+                  "name": "Galvão Bueno",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xMinaMBm3T9Lr0anZTXgA0TMfhi.jpg"
+                },
+                {
+                  "name": "Lionel Messi",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/gyum5zHlEsvg3DlXgeNjhayUlNo.jpg"
+                },
+                {
+                  "name": "Carles Puyol",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ecHD8vDKCYAcgdVGFArOarWg1ro.jpg"
+                },
+                {
+                  "name": "Roberto Carlos",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/jW4JXJTyCEPcOsPa6mNhbmKOPqr.jpg"
+                },
+                {
+                  "name": "Neymar",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/rSRCt66IreMqjr6IqaaCcOs4G30.jpg"
+                },
+                {
+                  "name": "Anderson Luís de Souza",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/aeSJ192KxjBT88cTGKgvltyui86.jpg"
+                },
+                {
+                  "name": "Roberto de Assis",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7533,
+                7534
+              ],
+              "video_message_id": 7534
+            },
             {
               "number": 2,
               "tmdb_id": 7069360,

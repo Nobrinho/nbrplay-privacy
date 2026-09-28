@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T04:56:23+00:00",
+  "generated_at": "2026-09-28T04:57:16+00:00",
   "channel": "-1004483833987",
-  "count": 3132,
-  "movie_count": 2818,
+  "count": 3133,
+  "movie_count": 2819,
   "series_count": 45,
   "episode_count": 314,
   "custom_count": 0,
@@ -164458,6 +164458,72 @@
         5032
       ],
       "video_message_id": 5032
+    },
+    {
+      "tmdb_id": 1276011,
+      "title": "The Thinking Game",
+      "original_title": "The Thinking Game",
+      "year": "2025",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jNMzCuUIt5tfHYJEpCIef7oqkfI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qtHHjRkCPNHu7qBSQ2M8v7lYz3d.jpg",
+      "overview": "Segue a busca de Demis Hassabis para alcançar a inteligência artificial geral por meio de uma perseverança extraordinária, narrando a busca incansável pelo cientista visionário.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Demis Hassabis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/k5stoJZxASwM4PBiDkrVlsSXRFF.jpg"
+        },
+        {
+          "name": "Eleanor Maguire",
+          "photo_url": null
+        },
+        {
+          "name": "Shane Legg",
+          "photo_url": null
+        },
+        {
+          "name": "David Gardner",
+          "photo_url": null
+        },
+        {
+          "name": "Helen King",
+          "photo_url": null
+        },
+        {
+          "name": "Ben Coppin",
+          "photo_url": null
+        },
+        {
+          "name": "Koray Kavukcuoglu",
+          "photo_url": null
+        },
+        {
+          "name": "David Silver",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5j5q1F7HhA97Bs11cdZE3Bo6gXb.jpg"
+        },
+        {
+          "name": "Murray Shanahan",
+          "photo_url": null
+        },
+        {
+          "name": "Eric Schmidt",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mM4tI4WZCmohW11KMZ544ZneMja.jpg"
+        },
+        {
+          "name": "Stuart J. Russell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sy5zPa3t7KdCnbZ6f3BXcxkruyC.jpg"
+        },
+        {
+          "name": "Kenneth Cukier",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7548
+      ],
+      "video_message_id": 7548
     },
     {
       "tmdb_id": 1203329,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T22:43:38+00:00",
+  "generated_at": "2026-09-28T22:48:10+00:00",
   "channel": "-1004483833987",
-  "count": 3134,
-  "movie_count": 2799,
+  "count": 3135,
+  "movie_count": 2800,
   "series_count": 49,
   "episode_count": 335,
   "custom_count": 0,
@@ -77810,6 +77810,23 @@
         3548
       ],
       "video_message_id": 3548
+    },
+    {
+      "tmdb_id": 447201,
+      "title": "Imagens do Estado Novo 1937-45",
+      "original_title": "Imagens do Estado Novo 1937-45",
+      "year": "2016",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7l75zkAht3qQUyvJkxHefYIgHp2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tM8PDMh7v215XFLOqJjGMbKVyBt.jpg",
+      "overview": "Cine-jornais, fotografias, cartas, trechos de diário, filmes de ficção e de família, canções populares etc. – através desses registros heterogêneos, o filme oferece uma visão da ditadura de Getúlio Vargas. Comentando esses documentos, produzidos com finalidades diversas – propaganda política, informação jornalística, anotação pessoal, celebração familiar etc. –, o documentário procura desvendar a trama política do regime do Estado Novo.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [],
+      "message_ids": [
+        7618
+      ],
+      "video_message_id": 7618
     },
     {
       "tmdb_id": 19724,

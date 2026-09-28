@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:07:25+00:00",
+  "generated_at": "2026-09-28T05:07:30+00:00",
   "channel": "-1004483833987",
-  "count": 3158,
-  "movie_count": 2840,
+  "count": 3160,
+  "movie_count": 2841,
   "series_count": 45,
-  "episode_count": 318,
+  "episode_count": 319,
   "custom_count": 0,
   "movies": [
     {
@@ -91573,6 +91573,28 @@
         4346
       ],
       "video_message_id": 4346
+    },
+    {
+      "tmdb_id": 1454291,
+      "title": "Lula - O Criminoso Paz e Amor",
+      "original_title": "Lula - O Criminoso Paz e Amor",
+      "year": "2025",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mXCBv7Frfb4EOUwzAttsfs2phn5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/u4sTmXzVYrRNfOUBls4mYnzFMJo.jpg",
+      "overview": "Em um país dividido entre amor e ódio, surge um homem que prometeu ser a voz do povo – e se tornou o protagonista do escândalo político do século. \"LULA: O Criminoso Paz e Amor\" desvenda a jornada contraditória de Luiz Inácio Lula da Silva: do sindicalista que conquistou o coração das massas ao presidente acusado de comandar um esquema bilionário, do condenado que virou mártir ao líder que ressurgiu das cinzas.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Daniel Penin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ggISWuo2lr65MS0iLnMOQy4j6qr.jpg"
+        }
+      ],
+      "message_ids": [
+        7586
+      ],
+      "video_message_id": 7586
     },
     {
       "tmdb_id": 639590,
@@ -191365,6 +191387,69 @@
                 7583
               ],
               "video_message_id": 7583
+            },
+            {
+              "number": 5,
+              "tmdb_id": 3825160,
+              "title": "De Quanto É o Rombo?",
+              "air_date": "2022-10-19",
+              "overview": "Silvio Santos volta ao Brasil e fica furioso ao descobrir os rumos que o SBT tomou durante sua ausência. Em 1971, durante a gravação do programa, Silvio suspeita que será demitido da Rede Globo e traça planos para se manter no ar, seja pela recém-adquirida TV Record ou por meio de uma nova parceria com Roberto Marinho.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/g2DXtQTropwcQi1ESmFHuRDp7GC.jpg",
+              "cast": [
+                {
+                  "name": "José Rubens Chachá",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/1CvvDlkKL3W6jnuSr4OK6TJTp9K.jpg"
+                },
+                {
+                  "name": "Mariano Mattos Martins",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/4TGZFyNAVDx0jagnVHXWlqwjlfT.jpg"
+                },
+                {
+                  "name": "Leona Cavalli",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/b1wi0Lkcf2UjlbWz9arhFwBKaff.jpg"
+                },
+                {
+                  "name": "Larissa Nunes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3zVdzi7SvNJbYH3mfEjm9YxkqNN.jpg"
+                },
+                {
+                  "name": "André Abujamra",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/kq1B1dlAMtCXmgWoGirxq8j618l.jpg"
+                },
+                {
+                  "name": "Ary França",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/62znkp6UdQ3QUP4vNwdq5iDcGa2.jpg"
+                },
+                {
+                  "name": "Bárbara Maia",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/nFT9UqMQv3Aq0sVyKnC9VCUb58r.jpg"
+                },
+                {
+                  "name": "Cacá Carvalho",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/rzFR40zHYjqIjcn4atC1TrjXKfj.jpg"
+                },
+                {
+                  "name": "Cássia Damasceno",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/yg0qMZIIToFU7fjLbhQytQwg7SG.jpg"
+                },
+                {
+                  "name": "Celso Frateschi",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/8KeMVMGSedsHQGkTftvt8y5W7RW.jpg"
+                },
+                {
+                  "name": "Cláudio Márcio",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/4W8P1IiZRCFGzRR2fV0XPaIXnQx.jpg"
+                },
+                {
+                  "name": "Elisa Romero",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7584,
+                7585
+              ],
+              "video_message_id": 7585
             },
             {
               "number": 6,

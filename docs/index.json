@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:08:03+00:00",
+  "generated_at": "2026-09-28T05:08:07+00:00",
   "channel": "-1004483833987",
-  "count": 3161,
+  "count": 3163,
   "movie_count": 2841,
   "series_count": 45,
-  "episode_count": 320,
+  "episode_count": 322,
   "custom_count": 0,
   "movies": [
     {
@@ -191138,7 +191138,7 @@
       "title": "O Caso Evandro",
       "original_title": "O Caso Evandro",
       "poster_url": "https://image.tmdb.org/t/p/w500/90xXYiJ8BxCVsJkt3r8b0KVFZaM.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/vELI0sEn26haDjHk80MdpTrGiGu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xgAsAR8Cjp8BUhj8TBC5NvaUGUc.jpg",
       "genres": [
         "Documentário",
         "Crime"
@@ -191147,6 +191147,19 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 2911240,
+              "title": "O Crime",
+              "air_date": "2021-05-13",
+              "overview": "Em 6 de abril de 1992, Evandro, de seis anos, sai de casa para encontrar a mãe no trabalho, mas volta ao perceber que havia esquecido o mini-game. Ele nunca mais seria visto.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/xgAsAR8Cjp8BUhj8TBC5NvaUGUc.jpg",
+              "cast": [],
+              "message_ids": [
+                7588
+              ],
+              "video_message_id": 7588
+            },
             {
               "number": 2,
               "tmdb_id": 2911503,
@@ -191224,6 +191237,19 @@
                 7587
               ],
               "video_message_id": 7587
+            },
+            {
+              "number": 8,
+              "tmdb_id": 2911516,
+              "title": "Episódio Extra: O Caso Leandro",
+              "air_date": "2021-06-10",
+              "overview": "Leandro desaparece na noite de 15 de fevereiro de 1992, no show de Moraes Moreira, na praia de Guaratuba.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/tP0yRrIREkj8Q39o2f5BGK6XS98.jpg",
+              "cast": [],
+              "message_ids": [
+                7589
+              ],
+              "video_message_id": 7589
             },
             {
               "number": 9,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:00:48+00:00",
+  "generated_at": "2026-09-28T05:00:52+00:00",
   "channel": "-1004483833987",
-  "count": 3141,
-  "movie_count": 2827,
+  "count": 3142,
+  "movie_count": 2828,
   "series_count": 45,
   "episode_count": 314,
   "custom_count": 0,
@@ -9463,6 +9463,63 @@
         4267
       ],
       "video_message_id": 4267
+    },
+    {
+      "tmdb_id": 31688,
+      "title": "A História Soviética",
+      "original_title": "Padomju stāsts",
+      "year": "2008",
+      "poster_url": "https://image.tmdb.org/t/p/w500/r7OyvtTQo710tNLNhX6io5al3ul.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/86XAOhMI1hq9cNz3ZivGJ9BlJHR.jpg",
+      "overview": "The Soviet Story (A História Soviética) - é um documentário sobre terror interno na União Soviética e as relações germano-soviéticas antes de 1941. O filme apresenta entrevistas com historiadores ocidentais e russos, como Norman Davies e Boris Sokolov, o escritor russo Viktor Suvorov, o dissidente soviético Vladimir Bukovsky, membros do Parlamento Europeu e os participantes, bem como as vítimas do terror Soviético. O filme argumenta que houve uma estreita conexão filosófica, política e organizacional entre os regimes Nazista e Soviético antes e durante as primeiras fases da II Guerra Mundial.  Destaca o Grande Expurgo, bem como a Grande Fome, o massacre de Katyn, a colaboração Gestapo-NKVD, deportações em massa na União Soviética e experiências médicas no Gulag.",
+      "genres": [
+        "Documentário",
+        "Guerra",
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "Jon Strickland",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4kFOfYP35XjrnT98RpjtJcc4Qb.jpg"
+        },
+        {
+          "name": "Vladimir Lenin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3gPPlnU48vZcLC1Poo5vSL6j5gJ.jpg"
+        },
+        {
+          "name": "Alfred Rosenberg",
+          "photo_url": null
+        },
+        {
+          "name": "Adolf Hitler",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n6f81IUSes1a8jTzUIF7rJ5zZnP.jpg"
+        },
+        {
+          "name": "Joseph Goebbels",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qdvjL4rLbrumPxUwL1VGX8GYP1R.jpg"
+        },
+        {
+          "name": "Hermann Göring",
+          "photo_url": "https://image.tmdb.org/t/p/w185/srlxYR4WbfBH4KpoBptWSRduqTO.jpg"
+        },
+        {
+          "name": "George Bernard Shaw",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fBFXY9ZUUToA5VUM8yXNqiOPw5O.jpg"
+        },
+        {
+          "name": "Михаил Горбачёв",
+          "photo_url": "https://image.tmdb.org/t/p/w185/37FZ24AVeHff5v4rwHqPQec1L1B.jpg"
+        },
+        {
+          "name": "Joseph Stalin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lXOn6MhSwB3idCyZrM58ZiKreCH.jpg"
+        }
+      ],
+      "message_ids": [
+        7562,
+        7563
+      ],
+      "video_message_id": 7563
     },
     {
       "tmdb_id": 245706,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T04:56:19+00:00",
+  "generated_at": "2026-09-28T04:56:23+00:00",
   "channel": "-1004483833987",
-  "count": 3131,
-  "movie_count": 2817,
+  "count": 3132,
+  "movie_count": 2818,
   "series_count": 45,
   "episode_count": 314,
   "custom_count": 0,
@@ -9172,6 +9172,23 @@
         7292
       ],
       "video_message_id": 7292
+    },
+    {
+      "tmdb_id": 1251701,
+      "title": "A História Mais Triste do Mundo",
+      "original_title": "A História Mais Triste do Mundo",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5Ih9P7KCVkrUoaMqNNvVRBFUVxw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wkVYcpigEinpOrRELD8ojca4xdG.jpg",
+      "overview": "Marco, de 10 anos, vendido pelos pais a um circo, enfrenta o abandono e sucessivas mudanças até seguir para a cidade grande, onde transforma a dor em crescimento, em uma história capaz de emocionar crianças e adultos.",
+      "genres": [
+        "Drama"
+      ],
+      "cast": [],
+      "message_ids": [
+        7547
+      ],
+      "video_message_id": 7547
     },
     {
       "tmdb_id": 520900,

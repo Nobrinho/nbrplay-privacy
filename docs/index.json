@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:15:58+00:00",
+  "generated_at": "2026-09-28T05:16:02+00:00",
   "channel": "-1004483833987",
-  "count": 3177,
+  "count": 3178,
   "movie_count": 2847,
   "series_count": 47,
-  "episode_count": 330,
+  "episode_count": 331,
   "custom_count": 0,
   "movies": [
     {
@@ -196646,6 +196646,37 @@
                 7609
               ],
               "video_message_id": 7609
+            },
+            {
+              "number": 3,
+              "tmdb_id": 3063349,
+              "title": "Parte 3: Dias 17-22",
+              "air_date": "2021-11-27",
+              "overview": "Com o novo álbum quase pronto e após desistirem do especial para a TV, os Beatles devem decidir se mantêm os planos e se apresentam ao vivo pela primeira vez em três anos. A banda e a equipe tentam encontrar um lugar conveniente para o show.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/doxaRloiVxawjpVufN1k9QCBzsj.jpg",
+              "cast": [
+                {
+                  "name": "John Lennon",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/iawyLGZKTr7eD8XWhNGjM8Cb95x.jpg"
+                },
+                {
+                  "name": "Paul McCartney",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/sCPsv9ueP5UR6BkMSmRDlwbra6S.jpg"
+                },
+                {
+                  "name": "George Harrison",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zwUO2gnKBnSrKOB9hnhI9GdOX6e.jpg"
+                },
+                {
+                  "name": "Ringo Starr",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7fSrrdl90BYdR3dtOnNkosOw0kw.jpg"
+                }
+              ],
+              "message_ids": [
+                7610,
+                7611
+              ],
+              "video_message_id": 7611
             }
           ]
         }

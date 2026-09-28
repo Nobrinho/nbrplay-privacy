@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:10:10+00:00",
+  "generated_at": "2026-09-28T05:10:14+00:00",
   "channel": "-1004483833987",
-  "count": 3170,
-  "movie_count": 2845,
+  "count": 3171,
+  "movie_count": 2846,
   "series_count": 45,
   "episode_count": 325,
   "custom_count": 0,
@@ -49049,6 +49049,73 @@
         4598
       ],
       "video_message_id": 4598
+    },
+    {
+      "tmdb_id": 1217392,
+      "title": "Curry com Cianeto",
+      "original_title": "Curry & Cyanide: The Jolly Joseph Case",
+      "year": "2023",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hg62sAnuT2yzuA7MWqAktJSsAeZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/j6jTAXID9G6pcRbW3qCgCmXzl7s.jpg",
+      "overview": "O caso da vida real de Jolly Joseph, uma senhora suspeita de planejar o envenenamento por cianeto de seis membros da família ao longo de mais de dez anos, incluindo seu filho de dois anos.",
+      "genres": [
+        "Documentário",
+        "Crime"
+      ],
+      "cast": [
+        {
+          "name": "Jolly Joseph",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wUveufXuWje3zhplRzSVzaSVBk1.jpg"
+        },
+        {
+          "name": "Renji Wilson",
+          "photo_url": null
+        },
+        {
+          "name": "Remo Roy",
+          "photo_url": null
+        },
+        {
+          "name": "Rojo Thomas",
+          "photo_url": null
+        },
+        {
+          "name": "M. S. Mathew",
+          "photo_url": null
+        },
+        {
+          "name": "K. G. Simon",
+          "photo_url": null
+        },
+        {
+          "name": "Aloor",
+          "photo_url": null
+        },
+        {
+          "name": "Nikhila Henry",
+          "photo_url": null
+        },
+        {
+          "name": "Ayisha",
+          "photo_url": null
+        },
+        {
+          "name": "C. S. Chandrika",
+          "photo_url": null
+        },
+        {
+          "name": "Bava",
+          "photo_url": null
+        },
+        {
+          "name": "V. V. Pillay",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7601
+      ],
+      "video_message_id": 7601
     },
     {
       "tmdb_id": 9377,

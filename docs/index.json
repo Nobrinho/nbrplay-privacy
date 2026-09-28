@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:09:36+00:00",
+  "generated_at": "2026-09-28T05:10:10+00:00",
   "channel": "-1004483833987",
-  "count": 3169,
-  "movie_count": 2844,
+  "count": 3170,
+  "movie_count": 2845,
   "series_count": 45,
   "episode_count": 325,
   "custom_count": 0,
@@ -48364,6 +48364,72 @@
         7285
       ],
       "video_message_id": 7285
+    },
+    {
+      "tmdb_id": 26564,
+      "title": "Crumb",
+      "original_title": "Crumb",
+      "year": "1995",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9ocTHdBCJdwJ65Tubg3lYlfMxEY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1mlfORlfu2PtZnlEB3gMKqJy7Qp.jpg",
+      "overview": "Documentário que retrata a genialidade e o espírito transgressor do cartunista Robert Crumb, papa do movimento underground dos anos 70, nos Estados Unidos. Engraçado e ao mesmo tempo perturbador, o filme percorre seis anos da vida de Crumb e da sua família.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Robert Crumb",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5KI5OZKVEa6TLkGeN0xITOLhWN3.jpg"
+        },
+        {
+          "name": "Aline Kominsky",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1LBMQ4SdekuIO6u38u2wW7rkqxz.jpg"
+        },
+        {
+          "name": "Charles Crumb",
+          "photo_url": null
+        },
+        {
+          "name": "Maxon Crumb",
+          "photo_url": null
+        },
+        {
+          "name": "Robert Hughes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aQgqMJUsSS2iYXZihrWnYDHCori.jpg"
+        },
+        {
+          "name": "Martin Müller",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zgQPv1YORasIkibJA8ZCcnOpPqE.jpg"
+        },
+        {
+          "name": "Spain Rodriguez",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zlTLV2s1fPP3AdC6rQ3FpFG4mYc.jpg"
+        },
+        {
+          "name": "Don Donahue",
+          "photo_url": null
+        },
+        {
+          "name": "Dana Morgan",
+          "photo_url": null
+        },
+        {
+          "name": "Trina Robbins",
+          "photo_url": null
+        },
+        {
+          "name": "Bill Griffith",
+          "photo_url": "https://image.tmdb.org/t/p/w185/brhpkXHUelgZ7dCiFvWoRfSWU26.jpg"
+        },
+        {
+          "name": "Deirdre English",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7600
+      ],
+      "video_message_id": 7600
     },
     {
       "tmdb_id": 625450,

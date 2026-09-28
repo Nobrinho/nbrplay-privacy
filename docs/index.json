@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:09:25+00:00",
+  "generated_at": "2026-09-28T05:09:36+00:00",
   "channel": "-1004483833987",
-  "count": 3168,
-  "movie_count": 2843,
+  "count": 3169,
+  "movie_count": 2844,
   "series_count": 45,
   "episode_count": 325,
   "custom_count": 0,
@@ -105412,6 +105412,75 @@
         3385
       ],
       "video_message_id": 3385
+    },
+    {
+      "tmdb_id": 132681,
+      "title": "Noel: Poeta da Vila",
+      "original_title": "Noel: Poeta da Vila",
+      "year": "2007",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xNLFMQ8pwP9upA1YZyR9RpzEK0H.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rtMpZfbfaa0ApGMl6TNuX3MVSbz.jpg",
+      "overview": "A história da vida de Noel Rosa, desde a sua juventude como estudante de Medicina e amigo de operários, favelados e prostitutas até o encontro casual com Ismael Silva e o desafio que o transformou num dos grandes compositores da música brasileira.",
+      "genres": [
+        "Drama",
+        "Música",
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "Rafael Raposo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5hMJU74NbcoGwdlEpnfi5etDHvL.jpg"
+        },
+        {
+          "name": "Camila Pitanga",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cKk8eEt55ytMdc6vEgDWWHgKdkZ.jpg"
+        },
+        {
+          "name": "Flávio Bauraqui",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kqTAOpegEqpssNhrlSYgrFJGX5Y.jpg"
+        },
+        {
+          "name": "Wilson das Neves",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xh9LEBIdkDDx9I9MYEiaAzrFkS2.jpg"
+        },
+        {
+          "name": "Jonathan Haagensen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cha3GxI1MfbCjc973iUNKUvopQF.jpg"
+        },
+        {
+          "name": "Carol Bezerra",
+          "photo_url": null
+        },
+        {
+          "name": "Mario Broder",
+          "photo_url": null
+        },
+        {
+          "name": "Pedro Miranda",
+          "photo_url": null
+        },
+        {
+          "name": "Cristiano Gualda",
+          "photo_url": null
+        },
+        {
+          "name": "Eduardo Galotti",
+          "photo_url": null
+        },
+        {
+          "name": "Rodrigo Amim",
+          "photo_url": null
+        },
+        {
+          "name": "Milton Filho",
+          "photo_url": "https://image.tmdb.org/t/p/w185/o4L8m6cWm8QIsDtNiELu8NS24GI.jpg"
+        }
+      ],
+      "message_ids": [
+        7598,
+        7599
+      ],
+      "video_message_id": 7599
     },
     {
       "tmdb_id": 899112,

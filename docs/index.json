@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:11:27+00:00",
+  "generated_at": "2026-09-28T05:11:31+00:00",
   "channel": "-1004483833987",
-  "count": 3172,
-  "movie_count": 2846,
+  "count": 3173,
+  "movie_count": 2847,
   "series_count": 45,
   "episode_count": 326,
   "custom_count": 0,
@@ -87492,6 +87492,66 @@
         1216
       ],
       "video_message_id": 1216
+    },
+    {
+      "tmdb_id": 11314,
+      "title": "Koyaanisqatsi: Uma Vida Fora de Equilíbrio",
+      "original_title": "Koyaanisqatsi",
+      "year": "1983",
+      "poster_url": "https://image.tmdb.org/t/p/w500/khkByvoCh3LpeLcTxT54sYw4mDs.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/84E96lyR81OvUjCimcrfuzn9er5.jpg",
+      "overview": "Koyaanisqatsi - Uma Vida Fora de Equilíbrio. As relações entre os seres humanos, a natureza, o tempo e a tecnologia. Cidade, campo, paisagem, rotina, pessoas, construções, destruição. Um documentário sem atores e sem diálogos, composto por uma impressionante coleção de imagens e uma marcante trilha sonora.",
+      "genres": [
+        "Documentário",
+        "Música"
+      ],
+      "cast": [
+        {
+          "name": "Ed Asner",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AeVizz1AfAB2TbsfyzgBvqeSR3G.jpg"
+        },
+        {
+          "name": "Pat Benatar",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vncKVvTd34cxtl5ULcR8c1e7HTa.jpg"
+        },
+        {
+          "name": "Johnny Carson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sSltRe7S82Zw29lMRGLeEoL2PUu.jpg"
+        },
+        {
+          "name": "Dick Cavett",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7g5J47vQY2k4GzGhlJr6KdYm04P.jpg"
+        },
+        {
+          "name": "Marilyn Chambers",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ilY4leBaqMiMAhDjaOsa8GkS4I7.jpg"
+        },
+        {
+          "name": "Sammy Davis Jr.",
+          "photo_url": "https://image.tmdb.org/t/p/w185/b6UVWbUBAR280fSC85FgyPSmxHe.jpg"
+        },
+        {
+          "name": "Lou Dobbs",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qszdPzP4UUB65IM6Yd0SBBxhmsK.jpg"
+        },
+        {
+          "name": "Linda Ellerbee",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uJHGsEy42CnM7AqPelaABNRdAkF.jpg"
+        },
+        {
+          "name": "Peter Sellers",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sCVIv2DGoC9U16anTjLwMxKBPZ.jpg"
+        },
+        {
+          "name": "Thomas Dolby",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nfvJX96gEa9FMY5EmKxVHiooZwI.jpg"
+        }
+      ],
+      "message_ids": [
+        7603,
+        7604
+      ],
+      "video_message_id": 7604
     },
     {
       "tmdb_id": 287903,

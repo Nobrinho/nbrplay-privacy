@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T04:54:05+00:00",
+  "generated_at": "2026-09-28T04:54:09+00:00",
   "channel": "-1004483833987",
-  "count": 3116,
+  "count": 3117,
   "movie_count": 2813,
   "series_count": 43,
-  "episode_count": 303,
+  "episode_count": 304,
   "custom_count": 0,
   "movies": [
     {
@@ -189245,7 +189245,7 @@
       "title": "Michael Jackson: O Veredito",
       "original_title": "Michael Jackson: The Verdict",
       "poster_url": "https://image.tmdb.org/t/p/w500/5PBXN5Z9BCQaxT8QrLX3f8CSjxS.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5SBxEjoWiaYBNNnrttSABPamJQF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gxvL0cBzwkkwFfJe2Iq8CDhW1hr.jpg",
       "genres": [
         "Documentário"
       ],
@@ -189253,6 +189253,57 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 7294415,
+              "title": "Episódio 1",
+              "air_date": "2026-06-03",
+              "overview": "Neverland, 2003. Um documentário chocante desencadeia uma grande crise para Michael Jackson e seu círculo íntimo, gerando escrutínio e graves acusações.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/gxvL0cBzwkkwFfJe2Iq8CDhW1hr.jpg",
+              "cast": [
+                {
+                  "name": "Michael Jackson",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7n395uswvEXjVLk7784q8yxugvx.jpg"
+                },
+                {
+                  "name": "Martin Bashir",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/wKOGmi3xYgXMxMpbAiCfhtSdOdu.jpg"
+                },
+                {
+                  "name": "Ron Zonen",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/AiJ7e0HLVNgRyTPKwPMsAIPHyI8.jpg"
+                },
+                {
+                  "name": "Brian Oxman",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/8FMuRRzmEY1jDwOpc3FnaCu5BpE.jpg"
+                },
+                {
+                  "name": "Diane Dimond",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/o651e1orSdyTTxVfDRgbMj9h3qm.jpg"
+                },
+                {
+                  "name": "J. Randy Taraborrelli",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xbyoS6GdqWEi5bpfaqIre4M31HJ.jpg"
+                },
+                {
+                  "name": "Raymone Bain",
+                  "photo_url": null
+                },
+                {
+                  "name": "Louise Palanker",
+                  "photo_url": null
+                },
+                {
+                  "name": "Stacy Brown",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7522,
+                7523
+              ],
+              "video_message_id": 7523
+            },
             {
               "number": 2,
               "tmdb_id": 7294419,

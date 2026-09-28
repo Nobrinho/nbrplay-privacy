@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T23:27:52+00:00",
+  "generated_at": "2026-09-28T00:27:58+00:00",
   "channel": "-1004483833987",
-  "count": 3112,
+  "count": 3113,
   "movie_count": 2812,
-  "series_count": 42,
-  "episode_count": 300,
+  "series_count": 43,
+  "episode_count": 301,
   "custom_count": 0,
   "movies": [
     {
@@ -185944,6 +185944,36 @@
                 7362
               ],
               "video_message_id": 7362
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 214089,
+      "title": "Brasil: A Última Cruzada",
+      "original_title": "Brasil: A Última Cruzada",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wmTysh5rn3W91RG0DFWLwZIx15b.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gDIVBS4QHhrz3juB8NWijgmEqwP.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 3,
+              "tmdb_id": 4045454,
+              "title": "A Guilhotina da Igualdade",
+              "air_date": "2022-09-07",
+              "overview": "Capítulo 03",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/gDIVBS4QHhrz3juB8NWijgmEqwP.jpg",
+              "cast": [],
+              "message_ids": [
+                7508
+              ],
+              "video_message_id": 7508
             }
           ]
         }

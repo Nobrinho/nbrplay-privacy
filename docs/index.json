@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T04:58:38+00:00",
+  "generated_at": "2026-09-28T04:58:54+00:00",
   "channel": "-1004483833987",
-  "count": 3137,
-  "movie_count": 2823,
+  "count": 3138,
+  "movie_count": 2824,
   "series_count": 45,
   "episode_count": 314,
   "custom_count": 0,
@@ -93607,6 +93607,73 @@
         6346
       ],
       "video_message_id": 6346
+    },
+    {
+      "tmdb_id": 1644098,
+      "title": "Mamonas: Eu Te Ai Lóve Iú",
+      "original_title": "Mamonas: Eu Te Ai Lóve Iú",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zOd4ITtAdwe0PkqMOOFiGho1IO2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pbX94iWkD3GG4SMewrwbOhiVnfQ.jpg",
+      "overview": "A trajetória de uma das bandas mais animadas e um dos fenômenos mais divertidos da música brasileira ganha um documentário. \"Mamonas: Eu Te Ai Love Iú\" conta a história da formação do Mamonas Assassinas que, com um único disco, bateu recorde e fez uma das maiores vendagens da indústria fonográfica brasileira. Por meio de imagens e depoimentos de familiares e figuras relevantes para a vida dos cinco integrantes, conhecemos de perto o caminho que levou esses jovens de Guarulhos a formarem um conjunto que marcou uma geração.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Dinho",
+          "photo_url": "https://image.tmdb.org/t/p/w185/a978UZpyXKsF12ZIksJCvChPTVI.jpg"
+        },
+        {
+          "name": "Julio Rasec",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hSEOOhuNfFJroy51wdpJUaQm4C3.jpg"
+        },
+        {
+          "name": "Bento Hinoto",
+          "photo_url": "https://image.tmdb.org/t/p/w185/Iv37WqiqkFCu9NZSpxxGhA9ywX.jpg"
+        },
+        {
+          "name": "Samuel Reoli",
+          "photo_url": "https://image.tmdb.org/t/p/w185/h1daZggwhournaOvQ7S9ynv9jtA.jpg"
+        },
+        {
+          "name": "Sérgio Reoli",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mCLxL3EMrxWB1a9v14hX8ypZRjc.jpg"
+        },
+        {
+          "name": "Valéria Zoppello",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zrGPPfwFhVgTkzzDIDYD60rHrAV.jpg"
+        },
+        {
+          "name": "Hildebrando Alves",
+          "photo_url": null
+        },
+        {
+          "name": "Célia Ramos",
+          "photo_url": null
+        },
+        {
+          "name": "Grace Kellen Alves",
+          "photo_url": null
+        },
+        {
+          "name": "Ito Reoli",
+          "photo_url": null
+        },
+        {
+          "name": "Sueli Reoli",
+          "photo_url": null
+        },
+        {
+          "name": "Ana Paula Rasec",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7555,
+        7556
+      ],
+      "video_message_id": 7556
     },
     {
       "tmdb_id": 438446,

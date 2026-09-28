@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:04:12+00:00",
+  "generated_at": "2026-09-28T05:05:25+00:00",
   "channel": "-1004483833987",
-  "count": 3151,
-  "movie_count": 2837,
+  "count": 3152,
+  "movie_count": 2838,
   "series_count": 45,
   "episode_count": 314,
   "custom_count": 0,
@@ -35731,6 +35731,65 @@
         1737
       ],
       "video_message_id": 1737
+    },
+    {
+      "tmdb_id": 67885,
+      "title": "Bobby Fischer Against the World",
+      "original_title": "Bobby Fischer Against the World",
+      "year": "2011",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nWuo6jWdvqLX0zZ9zmOdQObDCHD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/isSO9bWaaPQFGNuDQThcM6aDHTm.jpg",
+      "overview": "The first documentary feature to explore the tragic and bizarre life of the late chess master Bobby Fischer.",
+      "genres": [
+        "Documentário",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Bobby Fischer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8uSbvBJB7yDQ7ui8aPjRZcEQ6OD.jpg"
+        },
+        {
+          "name": "Henry Kissinger",
+          "photo_url": "https://image.tmdb.org/t/p/w185/91UzhTU4tZUFNloNdn0lakKFdbH.jpg"
+        },
+        {
+          "name": "Harry Benson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/l2YVXooK3bElTpQMQCS0xe9Dy9I.jpg"
+        },
+        {
+          "name": "Гарри Каспаров",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vOE9BQVsU6kYQjK2zRdexDNLZBH.jpg"
+        },
+        {
+          "name": "Judit Polgár",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uTRhkISkM29jh0LPsNWEiSCsgUy.jpg"
+        },
+        {
+          "name": "Larry Evans",
+          "photo_url": null
+        },
+        {
+          "name": "Asa Hoffmann",
+          "photo_url": null
+        },
+        {
+          "name": "Михаил Таль",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4xN7SKw4Esf5ap3JlcOfxy5WQU6.jpg"
+        },
+        {
+          "name": "Анатолий Карпов",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fIvsfOBFN54OvaSsOhSPR0OriSY.jpg"
+        },
+        {
+          "name": "Борис Спасский",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7575
+      ],
+      "video_message_id": 7575
     },
     {
       "tmdb_id": 636279,

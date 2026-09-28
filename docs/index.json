@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:09:00+00:00",
+  "generated_at": "2026-09-28T05:09:25+00:00",
   "channel": "-1004483833987",
-  "count": 3167,
-  "movie_count": 2842,
+  "count": 3168,
+  "movie_count": 2843,
   "series_count": 45,
   "episode_count": 325,
   "custom_count": 0,
@@ -114740,6 +114740,29 @@
         5615
       ],
       "video_message_id": 5615
+    },
+    {
+      "tmdb_id": 179188,
+      "title": "O Gato da Floresta",
+      "original_title": "Jungle Cat",
+      "year": "1960",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gXOT7xkwQ3U78QSJmI6zx5CLTmh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8iwGwlMX8lN9Mbdol6cSYwV38Bq.jpg",
+      "overview": "Esse documentário apresenta a vida de uma onça-pintada (ou jaguar) na selva da América do Sul.\r Um grupo de três fotógrafos passou mais de dois anos no Brasil juntando todas as imagens usadas no filme. Por causa da úmidade e do calor na região, uma parte do filme foi arruinada antes que fosse enviada ao estúdio.",
+      "genres": [
+        "Documentário",
+        "Família"
+      ],
+      "cast": [
+        {
+          "name": "Winston Hibler",
+          "photo_url": "https://image.tmdb.org/t/p/w185/f6LAlCVRPLYejk0S6RhJNoVs5EX.jpg"
+        }
+      ],
+      "message_ids": [
+        7597
+      ],
+      "video_message_id": 7597
     },
     {
       "tmdb_id": 232516,

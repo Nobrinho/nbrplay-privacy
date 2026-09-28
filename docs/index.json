@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:07:37+00:00",
+  "generated_at": "2026-09-28T05:08:03+00:00",
   "channel": "-1004483833987",
-  "count": 3160,
+  "count": 3161,
   "movie_count": 2841,
   "series_count": 45,
-  "episode_count": 319,
+  "episode_count": 320,
   "custom_count": 0,
   "movies": [
     {
@@ -191211,6 +191211,19 @@
                 6921
               ],
               "video_message_id": 6921
+            },
+            {
+              "number": 7,
+              "tmdb_id": 2911514,
+              "title": "As Fitas",
+              "air_date": "2021-06-03",
+              "overview": "O resultado do julgamento de 1998 trouxe surpresa. A repercussão foi colossal. Como poderia um júri inocentar as \"bruxas de Guaratuba\"?",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/mLtWidWzmIsS8O5O47KWG7UvBe5.jpg",
+              "cast": [],
+              "message_ids": [
+                7587
+              ],
+              "video_message_id": 7587
             },
             {
               "number": 9,

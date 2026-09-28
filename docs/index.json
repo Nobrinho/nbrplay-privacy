@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:03:09+00:00",
+  "generated_at": "2026-09-28T05:04:12+00:00",
   "channel": "-1004483833987",
-  "count": 3150,
-  "movie_count": 2836,
+  "count": 3151,
+  "movie_count": 2837,
   "series_count": 45,
   "episode_count": 314,
   "custom_count": 0,
@@ -102161,6 +102161,69 @@
         5836
       ],
       "video_message_id": 5836
+    },
+    {
+      "tmdb_id": 368835,
+      "title": "Murder Rap: Inside the Biggie and Tupac Murders",
+      "original_title": "Murder Rap: Inside the Biggie and Tupac Murders",
+      "year": "2015",
+      "poster_url": "https://image.tmdb.org/t/p/w500/z9aPwXx6lWKb5y5U3ZRFSUcecL4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fSR9YZbuWAYlkUUFzy8NaQu6yuE.jpg",
+      "overview": "Two of the most notorious unsolved cases in the history of American crime – the murders of renowned rap stars Tupac Shakur and Biggie Smalls – have been the subject of exhaustive investigations, relentless speculation, and a web of conspiracy theories and dark secrets. Now, for the first time, the true story behind these sensational cases is laid bare in \"Murder Rap: Inside the Biggie and Tupac Murders\". Using information sourced from hundreds of police case files, taped confessions never shown before, and interviews with the lead detective and witnesses, this is the riveting account of the task force that finally exposed the shocking truth behind the deaths of these two rap music icons.",
+      "genres": [
+        "Música",
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Tupac Shakur",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gWWXv7zo40ZiLHjoh7z76ap1qA1.jpg"
+        },
+        {
+          "name": "The Notorious B.I.G.",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3hmz48Vevx6Q3FwxBmNkNKPeLkx.jpg"
+        },
+        {
+          "name": "Xavien T. Bailey",
+          "photo_url": null
+        },
+        {
+          "name": "I. Elijah Baughman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/htom8S48a5vPIxBjoNyIAfrRzkN.jpg"
+        },
+        {
+          "name": "Anthony D. Bell",
+          "photo_url": null
+        },
+        {
+          "name": "Will Dunbar",
+          "photo_url": null
+        },
+        {
+          "name": "Vonn Harris",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ptBQCxMxIHu7xedmxFRGtXhGxss.jpg"
+        },
+        {
+          "name": "Cathy Scott",
+          "photo_url": null
+        },
+        {
+          "name": "Greg Kading",
+          "photo_url": null
+        },
+        {
+          "name": "Imari Williams",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qbz13nNK9Owz1kt52XWK7y9Xu3q.jpg"
+        },
+        {
+          "name": "Reggie Wright Jr",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7574
+      ],
+      "video_message_id": 7574
     },
     {
       "tmdb_id": 937949,

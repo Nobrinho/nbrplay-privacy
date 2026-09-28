@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:02:15+00:00",
+  "generated_at": "2026-09-28T05:02:19+00:00",
   "channel": "-1004483833987",
-  "count": 3146,
-  "movie_count": 2832,
+  "count": 3147,
+  "movie_count": 2833,
   "series_count": 45,
   "episode_count": 314,
   "custom_count": 0,
@@ -162506,6 +162506,73 @@
         4852
       ],
       "video_message_id": 4852
+    },
+    {
+      "tmdb_id": 526019,
+      "title": "Sócias em Guerra",
+      "original_title": "Like a Boss",
+      "year": "2020",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xW2X68aFZKFzBylgVHXNn5bD8Eo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cH0AXST2dsHcD62qTbS4Cte6Wjb.jpg",
+      "overview": "Mia e Mel, duas amigas inseparáveis, são felizes administrando a própria empresa de cosméticos até que uma malvada magnata da beleza conspira para roubá-las. Esse maléfico plano separa as amigas, mas Mia e Mel descobrem que a única maneira de virarem o jogo e reaverem a empresa é trabalhando juntas. O ramo da beleza está prestes a ficar feio.",
+      "genres": [
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Tiffany Haddish",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pvAYqQD4LXavzDkBqCrC4IgVBur.jpg"
+        },
+        {
+          "name": "Rose Byrne",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
+        },
+        {
+          "name": "Salma Hayek Pinault",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3j8MpAjyopkAc8mbNiDeXyqBmcS.jpg"
+        },
+        {
+          "name": "Karan Soni",
+          "photo_url": "https://image.tmdb.org/t/p/w185/t3eNrzRKy3wTVCUiEp002UXbjxX.jpg"
+        },
+        {
+          "name": "Jacob Latimore",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8bdhpFXGJpXYsOB6Jn8o85VJItz.jpg"
+        },
+        {
+          "name": "Billy Porter",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3BrMhoTURtBpbPZjNxYILmxfqJP.jpg"
+        },
+        {
+          "name": "Jimmy O. Yang",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1QfCVmdNo4AqBdN54kc9DTBx84X.jpg"
+        },
+        {
+          "name": "Ryan Hansen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n4d1DiK3KyrQNN3G2QKt4Tos53Q.jpg"
+        },
+        {
+          "name": "Jennifer Coolidge",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hcpbV0dY4ZJxmZi1WcAWe8euqV2.jpg"
+        },
+        {
+          "name": "Jessica St. Clair",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lKIgq19oEx5ashQFF3QRYwMx0wz.jpg"
+        },
+        {
+          "name": "Natasha Rothwell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/x5KdL3QoS4YuozVpfuPsu3MLwwf.jpg"
+        },
+        {
+          "name": "Ari Graynor",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7qJNAda6uPPwIruMBmQ0u2PCkp9.jpg"
+        }
+      ],
+      "message_ids": [
+        7568,
+        7569
+      ],
+      "video_message_id": 7569
     },
     {
       "tmdb_id": 502166,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:02:26+00:00",
+  "generated_at": "2026-09-28T05:03:00+00:00",
   "channel": "-1004483833987",
-  "count": 3148,
-  "movie_count": 2834,
+  "count": 3149,
+  "movie_count": 2835,
   "series_count": 45,
   "episode_count": 314,
   "custom_count": 0,
@@ -39466,6 +39466,61 @@
         1641
       ],
       "video_message_id": 1641
+    },
+    {
+      "tmdb_id": 1564346,
+      "title": "Caso Eloá: Refém Ao Vivo",
+      "original_title": "Caso Eloá: Refém Ao Vivo",
+      "year": "2025",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iiXW7L30x4U89VEyTRmxkIM0lrN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/190eSIqQgXLg9gbr9EjulBV7rR6.jpg",
+      "overview": "Em 2008, um homem manteve sua ex-namorada adolescente em cativeiro — até descobrir que o Brasil todo parou para assistir ao caso, televisionado em tempo real.",
+      "genres": [
+        "Documentário",
+        "Crime"
+      ],
+      "cast": [
+        {
+          "name": "Bianca Sousa",
+          "photo_url": null
+        },
+        {
+          "name": "Everson Alexandre",
+          "photo_url": null
+        },
+        {
+          "name": "Maria Jaqueline",
+          "photo_url": null
+        },
+        {
+          "name": "Pery Maia",
+          "photo_url": null
+        },
+        {
+          "name": "Caio del Rossi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5msBsJItK1Z1nLIXlyn99LS2cXN.jpg"
+        },
+        {
+          "name": "Caio Cesar Laranjeira",
+          "photo_url": null
+        },
+        {
+          "name": "Felipe Souza Ferreira",
+          "photo_url": null
+        },
+        {
+          "name": "Amanda Celi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4IbOGsCCEASWCVcH8bGTrAxxIFs.jpg"
+        },
+        {
+          "name": "Leandro Destácio",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7571
+      ],
+      "video_message_id": 7571
     },
     {
       "tmdb_id": 12208,

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:16:02+00:00",
+  "generated_at": "2026-09-28T05:16:08+00:00",
   "channel": "-1004483833987",
-  "count": 3178,
+  "count": 3180,
   "movie_count": 2847,
-  "series_count": 47,
-  "episode_count": 331,
+  "series_count": 48,
+  "episode_count": 333,
   "custom_count": 0,
   "movies": [
     {
@@ -191208,6 +191208,149 @@
                 7357
               ],
               "video_message_id": 7357
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 153519,
+      "title": "Neymar: O Caos Perfeito",
+      "original_title": "Neymar: O Caos Perfeito",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aMKNSwbkuCE3VoT3BfwVjQgrdmX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rZ2HT6azUHGSqVGD9IMzvfAaSs3.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 3394530,
+              "title": "Juninho",
+              "air_date": "2022-01-25",
+              "overview": "Da origem humilde à fama mundial, o craque Neymar teve uma ascensão meteórica. Mas as críticas não dão trégua.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/rZ2HT6azUHGSqVGD9IMzvfAaSs3.jpg",
+              "cast": [
+                {
+                  "name": "Neymar",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/rSRCt66IreMqjr6IqaaCcOs4G30.jpg"
+                },
+                {
+                  "name": "Lionel Messi",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/gyum5zHlEsvg3DlXgeNjhayUlNo.jpg"
+                },
+                {
+                  "name": "Kylian Mbappé",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dd4I6meFnEJbcsTbUV6uMOWqiNE.jpg"
+                },
+                {
+                  "name": "Thiago Silva",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xkRDD5cSptpCLnGrFAo1ss8KoCf.jpg"
+                },
+                {
+                  "name": "Dani Alves",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7DyQkyHqROjlaZXeOpokklO1xGH.jpg"
+                },
+                {
+                  "name": "David Beckham",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/9MOY95jds58WtvEwUTYZgXlTVr0.jpg"
+                },
+                {
+                  "name": "Marconi De Morais",
+                  "photo_url": null
+                },
+                {
+                  "name": "Marquinhos",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/rLpuqJqbgh5bEJlvuDd0D4HOFMS.jpg"
+                },
+                {
+                  "name": "Luis Suárez",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/nBU7MyFGOHI0PZr8dVkjcYRMH0d.jpg"
+                },
+                {
+                  "name": "Ángel Di María",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3SEndmkIw0Q6o7kdSTfujQKSwyn.jpg"
+                },
+                {
+                  "name": "Keylor Navas",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/1JDj4jeIp18cXcFEvDKNpw7PmIp.jpg"
+                },
+                {
+                  "name": "Najila Trindade",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7614,
+                7615
+              ],
+              "video_message_id": 7615
+            },
+            {
+              "number": 3,
+              "tmdb_id": 3394536,
+              "title": "O Pai tá on",
+              "air_date": "2022-01-25",
+              "overview": "A tensão é cada vez maior com o PSG. Neymar decide dar um tempo, redescobrir o amor pelo esporte e fazer a diferença na vida de muitas pessoas em sua cidade natal.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/zK2PVDmSSJasXTz1DRolRjftpas.jpg",
+              "cast": [
+                {
+                  "name": "Neymar",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/rSRCt66IreMqjr6IqaaCcOs4G30.jpg"
+                },
+                {
+                  "name": "Lionel Messi",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/gyum5zHlEsvg3DlXgeNjhayUlNo.jpg"
+                },
+                {
+                  "name": "Kylian Mbappé",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dd4I6meFnEJbcsTbUV6uMOWqiNE.jpg"
+                },
+                {
+                  "name": "Thiago Silva",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xkRDD5cSptpCLnGrFAo1ss8KoCf.jpg"
+                },
+                {
+                  "name": "Dani Alves",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7DyQkyHqROjlaZXeOpokklO1xGH.jpg"
+                },
+                {
+                  "name": "David Beckham",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/9MOY95jds58WtvEwUTYZgXlTVr0.jpg"
+                },
+                {
+                  "name": "Marconi De Morais",
+                  "photo_url": null
+                },
+                {
+                  "name": "Marquinhos",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/rLpuqJqbgh5bEJlvuDd0D4HOFMS.jpg"
+                },
+                {
+                  "name": "Luis Suárez",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/nBU7MyFGOHI0PZr8dVkjcYRMH0d.jpg"
+                },
+                {
+                  "name": "Ángel Di María",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3SEndmkIw0Q6o7kdSTfujQKSwyn.jpg"
+                },
+                {
+                  "name": "Keylor Navas",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/1JDj4jeIp18cXcFEvDKNpw7PmIp.jpg"
+                },
+                {
+                  "name": "Najila Trindade",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7612,
+                7613
+              ],
+              "video_message_id": 7613
             }
           ]
         }

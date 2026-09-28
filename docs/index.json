@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:00:52+00:00",
+  "generated_at": "2026-09-28T05:01:51+00:00",
   "channel": "-1004483833987",
-  "count": 3142,
-  "movie_count": 2828,
+  "count": 3143,
+  "movie_count": 2829,
   "series_count": 45,
   "episode_count": 314,
   "custom_count": 0,
@@ -164955,6 +164955,28 @@
         7548
       ],
       "video_message_id": 7548
+    },
+    {
+      "tmdb_id": 490118,
+      "title": "The Vietnam War: Personal Reflections",
+      "original_title": "The Vietnam War: Personal Reflections",
+      "year": "2017",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5VrLhAkLSAaBMRf6akmWvn5XyrN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/q3Kn9yVwt0OCcNShuiGWp0wIXHQ.jpg",
+      "overview": "More than a dozen Vietnam War veterans from the central Illinois area recount their tours of duty including ground and air combat, the fighting environment, their living conditions, coping with the loss of friends and health issues including the effects of Agent Orange. They also reflect on the reception they received upon returning home and their opinions of the war.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "H. Wayne Wilson",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7564
+      ],
+      "video_message_id": 7564
     },
     {
       "tmdb_id": 1203329,

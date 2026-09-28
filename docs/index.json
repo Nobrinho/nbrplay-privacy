@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T04:54:09+00:00",
+  "generated_at": "2026-09-28T04:54:15+00:00",
   "channel": "-1004483833987",
-  "count": 3117,
+  "count": 3119,
   "movie_count": 2813,
   "series_count": 43,
-  "episode_count": 304,
+  "episode_count": 306,
   "custom_count": 0,
   "movies": [
     {
@@ -185763,7 +185763,7 @@
       "title": "Brasil 70: A Saga do Tri",
       "original_title": "Brasil 70: A Saga do Tri",
       "poster_url": "https://image.tmdb.org/t/p/w500/AbacRmw60119iQEiDf0dfseVDuk.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/m5T3IPiHElaiN0utaYNLDeX1svC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/euUDbI6gEbZGiBs273m3ZElrlVL.jpg",
       "genres": [
         "Drama"
       ],
@@ -185771,6 +185771,69 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 6268109,
+              "title": "Pelé, jogai por nós",
+              "air_date": "2026-05-29",
+              "overview": "Depois de uma temporada desgastante em 1966, Pelé não quer voltar a jogar pelo Brasil. Mas o incentivo do técnico João Saldanha pode ajudá-lo a mudar de ideia.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/euUDbI6gEbZGiBs273m3ZElrlVL.jpg",
+              "cast": [
+                {
+                  "name": "Lucas Agrícola",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qsqUdI0Un1OqBQYBizY8TrApQcC.jpg"
+                },
+                {
+                  "name": "Rodrigo Santoro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/d3MaF9SPHDn2PMYHuqdnO0Csik6.jpg"
+                },
+                {
+                  "name": "Bruno Mazzeo",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/putx30jjKXNV4URnlOl92Cu32Nv.jpg"
+                },
+                {
+                  "name": "Marcelo Adnet",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hCaB1q6CypBdQH1A7xuSehTfUdx.jpg"
+                },
+                {
+                  "name": "Ravel Andrade",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7s2SqObJ6f1rE1dfcrm9dwJdU4T.jpg"
+                },
+                {
+                  "name": "Hugo Haddad",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/d4GjXdG6b98Ceb5Bt9tLxpO7mWV.jpg"
+                },
+                {
+                  "name": "Maicon Rodrigues",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/oxyDj6chZA2NepR7r8efW2OWPy7.jpg"
+                },
+                {
+                  "name": "Daniel Blanco",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/pMQaQRTSfppd0XgzxBA4GrOX4RE.jpg"
+                },
+                {
+                  "name": "Fillipe Soutto",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/uvqiZbABuOJkb925WHE5yiA4vWv.jpg"
+                },
+                {
+                  "name": "Gui Ferraz",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ht3QjnNM5RH2rbUQd28UAErjk71.jpg"
+                },
+                {
+                  "name": "Caio Cabral",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3LrTmGhV73Hobez5egXjfLShqT7.jpg"
+                },
+                {
+                  "name": "Lucas Sá",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7526,
+                7527
+              ],
+              "video_message_id": 7527
+            },
             {
               "number": 2,
               "tmdb_id": 6984941,
@@ -185896,6 +185959,69 @@
                 7367
               ],
               "video_message_id": 7367
+            },
+            {
+              "number": 4,
+              "tmdb_id": 6984943,
+              "title": "O fantasma do Maracanazo",
+              "air_date": "2026-05-29",
+              "overview": "Sonhando com a final, os jogadores são assombrados pelas memórias da derrota histórica para o Uruguai no Maracanã, em 1950.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/hSvhxQgSXuI519jfjHalEITKT4I.jpg",
+              "cast": [
+                {
+                  "name": "Lucas Agrícola",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qsqUdI0Un1OqBQYBizY8TrApQcC.jpg"
+                },
+                {
+                  "name": "Rodrigo Santoro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/d3MaF9SPHDn2PMYHuqdnO0Csik6.jpg"
+                },
+                {
+                  "name": "Bruno Mazzeo",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/putx30jjKXNV4URnlOl92Cu32Nv.jpg"
+                },
+                {
+                  "name": "Marcelo Adnet",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hCaB1q6CypBdQH1A7xuSehTfUdx.jpg"
+                },
+                {
+                  "name": "Ravel Andrade",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7s2SqObJ6f1rE1dfcrm9dwJdU4T.jpg"
+                },
+                {
+                  "name": "Hugo Haddad",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/d4GjXdG6b98Ceb5Bt9tLxpO7mWV.jpg"
+                },
+                {
+                  "name": "Maicon Rodrigues",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/oxyDj6chZA2NepR7r8efW2OWPy7.jpg"
+                },
+                {
+                  "name": "Daniel Blanco",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/pMQaQRTSfppd0XgzxBA4GrOX4RE.jpg"
+                },
+                {
+                  "name": "Fillipe Soutto",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/uvqiZbABuOJkb925WHE5yiA4vWv.jpg"
+                },
+                {
+                  "name": "Gui Ferraz",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ht3QjnNM5RH2rbUQd28UAErjk71.jpg"
+                },
+                {
+                  "name": "Caio Cabral",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3LrTmGhV73Hobez5egXjfLShqT7.jpg"
+                },
+                {
+                  "name": "Lucas Sá",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7524,
+                7525
+              ],
+              "video_message_id": 7525
             },
             {
               "number": 5,

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:08:29+00:00",
+  "generated_at": "2026-09-28T05:08:33+00:00",
   "channel": "-1004483833987",
-  "count": 3165,
+  "count": 3166,
   "movie_count": 2841,
   "series_count": 45,
-  "episode_count": 324,
+  "episode_count": 325,
   "custom_count": 0,
   "movies": [
     {
@@ -191356,7 +191356,7 @@
       "title": "O Rei da TV",
       "original_title": "O Rei da TV",
       "poster_url": "https://image.tmdb.org/t/p/w500/6Wo3lnnZnKMBEAN8wk5IQL3icn6.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/AkcV5l1O6AWs4tqckiRFdbYgtBX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dIpDlI5uZIOHKeTPv3KQ6uK51ta.jpg",
       "genres": [
         "Drama"
       ],
@@ -191364,6 +191364,69 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 2920627,
+              "title": "A Geléia é Minha",
+              "air_date": "2022-10-19",
+              "overview": "Durante um programa ao vivo, Silvio Santos perde a voz, para o desespero de sua equipe no SBT. Ele é aconselhado a chamar às pressas o jovem e popular Gugu Liberato para substituí-lo e manter os anunciantes do dia, mas reluta em aceitar essa ideia.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/dIpDlI5uZIOHKeTPv3KQ6uK51ta.jpg",
+              "cast": [
+                {
+                  "name": "José Rubens Chachá",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/1CvvDlkKL3W6jnuSr4OK6TJTp9K.jpg"
+                },
+                {
+                  "name": "Mariano Mattos Martins",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/4TGZFyNAVDx0jagnVHXWlqwjlfT.jpg"
+                },
+                {
+                  "name": "Leona Cavalli",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/b1wi0Lkcf2UjlbWz9arhFwBKaff.jpg"
+                },
+                {
+                  "name": "Larissa Nunes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3zVdzi7SvNJbYH3mfEjm9YxkqNN.jpg"
+                },
+                {
+                  "name": "André Abujamra",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/kq1B1dlAMtCXmgWoGirxq8j618l.jpg"
+                },
+                {
+                  "name": "Ary França",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/62znkp6UdQ3QUP4vNwdq5iDcGa2.jpg"
+                },
+                {
+                  "name": "Bárbara Maia",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/nFT9UqMQv3Aq0sVyKnC9VCUb58r.jpg"
+                },
+                {
+                  "name": "Cacá Carvalho",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/rzFR40zHYjqIjcn4atC1TrjXKfj.jpg"
+                },
+                {
+                  "name": "Cássia Damasceno",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/yg0qMZIIToFU7fjLbhQytQwg7SG.jpg"
+                },
+                {
+                  "name": "Celso Frateschi",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/8KeMVMGSedsHQGkTftvt8y5W7RW.jpg"
+                },
+                {
+                  "name": "Cláudio Márcio",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/4W8P1IiZRCFGzRR2fV0XPaIXnQx.jpg"
+                },
+                {
+                  "name": "Elisa Romero",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7594,
+                7595
+              ],
+              "video_message_id": 7595
+            },
             {
               "number": 2,
               "tmdb_id": 3825152,

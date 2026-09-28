@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:05:25+00:00",
+  "generated_at": "2026-09-28T05:05:47+00:00",
   "channel": "-1004483833987",
-  "count": 3152,
-  "movie_count": 2838,
+  "count": 3154,
+  "movie_count": 2840,
   "series_count": 45,
   "episode_count": 314,
   "custom_count": 0,
@@ -118426,6 +118426,21 @@
       "video_message_id": 3724
     },
     {
+      "tmdb_id": 245902,
+      "title": "O Lado Sombrio da TV Infantil — S01E03 — O Segredo Mais Sombrio",
+      "original_title": null,
+      "year": "2024",
+      "poster_url": null,
+      "backdrop_url": null,
+      "overview": null,
+      "genres": [],
+      "cast": [],
+      "message_ids": [
+        7535
+      ],
+      "video_message_id": 7535
+    },
+    {
       "tmdb_id": 293670,
       "title": "O Lamento",
       "original_title": "곡성",
@@ -151182,6 +151197,25 @@
         3352
       ],
       "video_message_id": 3352
+    },
+    {
+      "tmdb_id": 316544,
+      "title": "Ronaldinho Gaúcho — S01E03 — Disseram que eu estava acabado?",
+      "original_title": "Whiz Quiz Kid",
+      "year": "2026",
+      "poster_url": null,
+      "backdrop_url": null,
+      "overview": "A Famous Studios cartoon.",
+      "genres": [
+        "Animação",
+        "Comédia"
+      ],
+      "cast": [],
+      "message_ids": [
+        7529,
+        7530
+      ],
+      "video_message_id": 7530
     },
     {
       "tmdb_id": 1646341,

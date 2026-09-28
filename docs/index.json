@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T04:57:24+00:00",
+  "generated_at": "2026-09-28T04:57:28+00:00",
   "channel": "-1004483833987",
-  "count": 3134,
-  "movie_count": 2820,
+  "count": 3135,
+  "movie_count": 2821,
   "series_count": 45,
   "episode_count": 314,
   "custom_count": 0,
@@ -135853,6 +135853,76 @@
         4386
       ],
       "video_message_id": 4386
+    },
+    {
+      "tmdb_id": 282069,
+      "title": "Parasyte: Parte 1",
+      "original_title": "寄生獣",
+      "year": "2014",
+      "poster_url": "https://image.tmdb.org/t/p/w500/r9TmGx2sLDaQ5kzmk0tXhTi1AjM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/at9UA6p81CHBHNPbnIBgXzKQycl.jpg",
+      "overview": "A história se passa em um mundo em que seres extraterrestres chamados parasitas invadem a Terra. Eles se apoderam dos humanos entrando pelas cavidades corporais, com a finalidade de controlar o corpo da vítima. A história se desenrola quando um extraterrestre chamado Migi falha em se apoderar do corpo de Shinichi Izumi, fazendo com que os dois sejam obrigados a conviver juntos.",
+      "genres": [
+        "Ficção científica",
+        "Terror",
+        "Ação",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Shota Sometani",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sEEfyEfEbd9TQB9gFlvDTQJov76.jpg"
+        },
+        {
+          "name": "阿部サダヲ",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1kafRXtKloIamrHhgsoSfhsbIp9.jpg"
+        },
+        {
+          "name": "深津絵里",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xlSYQwDHZaXRFVh29JfRlu4EedP.jpg"
+        },
+        {
+          "name": "Ai Hashimoto",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2sTNnkzF5e6dogfHEsnD1aU36J4.jpg"
+        },
+        {
+          "name": "北村一輝",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8wbssNyn2yLASfRLj22dk4G5zVN.jpg"
+        },
+        {
+          "name": "東出昌大",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6YOBIQ22Y7ZCkuk50QRotvUAl7v.jpg"
+        },
+        {
+          "name": "浅野忠信",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3CBpfGRcPq1jEeYr51TiOiNbZzT.jpg"
+        },
+        {
+          "name": "Miko Yoki",
+          "photo_url": null
+        },
+        {
+          "name": "國村隼",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zC0GbuXQGPur7i8AkdPUWedmDKz.jpg"
+        },
+        {
+          "name": "新井浩文",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8nG16y3euYjEB9ZfZP2ixx7DpXy.jpg"
+        },
+        {
+          "name": "ピエール瀧",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nIgFcU0smYH7FdzUt96d685uU1h.jpg"
+        },
+        {
+          "name": "池内万作",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hEAhYQm02GKyBVfzj8P8c6Fgwig.jpg"
+        }
+      ],
+      "message_ids": [
+        7551,
+        7552
+      ],
+      "video_message_id": 7552
     },
     {
       "tmdb_id": 9876,

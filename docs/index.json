@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:03:00+00:00",
+  "generated_at": "2026-09-28T05:03:09+00:00",
   "channel": "-1004483833987",
-  "count": 3149,
-  "movie_count": 2835,
+  "count": 3150,
+  "movie_count": 2836,
   "series_count": 45,
   "episode_count": 314,
   "custom_count": 0,
@@ -39521,6 +39521,57 @@
         7571
       ],
       "video_message_id": 7571
+    },
+    {
+      "tmdb_id": 242161,
+      "title": "Casseta & Planeta: A Taça do Mundo é Nossa!",
+      "original_title": "Casseta & Planeta: A Taça do Mundo é Nossa!",
+      "year": "2003",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fRZ7dqvQCOiHvMruI7dYPomd7X4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zlPOuDvXl8J4EAA3owsQQMa3eqJ.jpg",
+      "overview": "No dia da final da Copa de 70, o revolucionário Wladimir Illitch Stalin Tse Tung Guevara – ou apenas Frederico Eugênio filho da zelosa Dona Julieta –, o vegetariano Denílson e o cantor e compositor Peixoto Carlos se envolverem em uma confusão em uma churrascaria e acabam sendo acusados de terrorismo. Perseguidos, eles fundam o temido e obscuro Partido Anarco Nacionalista Animalista Carlos, o PANAC, e tramam uma ação que mobilizará o país: roubar a taça Jules Rimet, recém-conquistada no México. Quem vai recuperar a taça?",
+      "genres": [
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Beto Silva",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pomez5qrCQ5SL8l4wgsZJ6TjHc2.jpg"
+        },
+        {
+          "name": "Bussunda",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lrY7RyF6YUl8ajS9BQOFZVcYLpk.jpg"
+        },
+        {
+          "name": "Cláudio Manoel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n1Vbpj1gpZdpZG5pPBPNPW9B4Cn.jpg"
+        },
+        {
+          "name": "Hélio de la Peña",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lk5hekSNsLrOvC7GvJSZSylennC.jpg"
+        },
+        {
+          "name": "Hubert",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uV6ByVij0nuGvcxIQVhXIPTJ0UD.jpg"
+        },
+        {
+          "name": "Marcelo Madureira",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jQwoTRx71Y1AFnWgfvBDlW9d1lX.jpg"
+        },
+        {
+          "name": "Deborah Secco",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vPgTNrcNhBy4nUtCVyjHPNEdman.jpg"
+        },
+        {
+          "name": "Maria Paula",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qRXJTNhwLIAIhKjrUm2n5rIkfVV.jpg"
+        }
+      ],
+      "message_ids": [
+        7572,
+        7573
+      ],
+      "video_message_id": 7573
     },
     {
       "tmdb_id": 12208,

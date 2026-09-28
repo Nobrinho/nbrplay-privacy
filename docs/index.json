@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T00:27:58+00:00",
+  "generated_at": "2026-09-28T00:28:02+00:00",
   "channel": "-1004483833987",
-  "count": 3113,
+  "count": 3114,
   "movie_count": 2812,
   "series_count": 43,
-  "episode_count": 301,
+  "episode_count": 302,
   "custom_count": 0,
   "movies": [
     {
@@ -185962,6 +185962,19 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 2,
+              "tmdb_id": 4045453,
+              "title": "A Vila Rica",
+              "air_date": "2022-09-06",
+              "overview": "Capítulo 02",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/gDIVBS4QHhrz3juB8NWijgmEqwP.jpg",
+              "cast": [],
+              "message_ids": [
+                7509
+              ],
+              "video_message_id": 7509
+            },
             {
               "number": 3,
               "tmdb_id": 4045454,

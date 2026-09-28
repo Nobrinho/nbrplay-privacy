@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T04:57:28+00:00",
+  "generated_at": "2026-09-28T04:58:19+00:00",
   "channel": "-1004483833987",
-  "count": 3135,
-  "movie_count": 2821,
+  "count": 3136,
+  "movie_count": 2822,
   "series_count": 45,
   "episode_count": 314,
   "custom_count": 0,
@@ -67082,6 +67082,48 @@
         1392
       ],
       "video_message_id": 1392
+    },
+    {
+      "tmdb_id": 612654,
+      "title": "Fungos Fantásticos",
+      "original_title": "Fantastic Fungi",
+      "year": "2019",
+      "poster_url": "https://image.tmdb.org/t/p/w500/focJ6anCd8x0S4jVSL8MbIe58oh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bGJ7t4JX99ejbfVmNL1ZZvsBvkb.jpg",
+      "overview": "Conheça o mágico mundo dos fungos e seu poder de curar, sustentar e contribuir para a vida na Terra.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Brie Larson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iqZ5uKJWbwSITCK4CqdlUHZTnXD.jpg"
+        },
+        {
+          "name": "Paul Stamets",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2oiOW1MhNSczDbXJniQiKsDIdj1.jpg"
+        },
+        {
+          "name": "Michael Pollan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rumIWmiYXEs9uPkTQXhPrUClvKT.jpg"
+        },
+        {
+          "name": "Roland Griffiths",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rNP50UqRniTZwMDORAGyfSv1Hva.jpg"
+        },
+        {
+          "name": "Andrew Weil",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7NPweF6LoGAZRw2v6mvVGbvZh1F.jpg"
+        },
+        {
+          "name": "Mary P. Cosmiano",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7553
+      ],
+      "video_message_id": 7553
     },
     {
       "tmdb_id": 786892,

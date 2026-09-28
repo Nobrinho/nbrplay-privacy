@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T05:11:31+00:00",
+  "generated_at": "2026-09-28T05:14:17+00:00",
   "channel": "-1004483833987",
-  "count": 3173,
+  "count": 3174,
   "movie_count": 2847,
-  "series_count": 45,
-  "episode_count": 326,
+  "series_count": 46,
+  "episode_count": 327,
   "custom_count": 0,
   "movies": [
     {
@@ -192435,6 +192435,65 @@
                 6957
               ],
               "video_message_id": 6957
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 284080,
+      "title": "Os Meninos do Brasil",
+      "original_title": "The Boys from Brazil",
+      "poster_url": null,
+      "backdrop_url": null,
+      "genres": [
+        "Drama"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 2,
+              "tmdb_id": 7282084,
+              "title": "Episódio 2",
+              "air_date": null,
+              "overview": null,
+              "backdrop_url": null,
+              "cast": [
+                {
+                  "name": "Jeremy Strong",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/jcMhXWICSi4QjQttJVhFSiKVvpF.jpg"
+                },
+                {
+                  "name": "August Diehl",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/tZfdH3EXLr5OmXBtxV1zT8eYbpT.jpg"
+                },
+                {
+                  "name": "Daniel Brühl",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3YlmTfiy5qZXkrdKGjaM1uMjGKP.jpg"
+                },
+                {
+                  "name": "Gillian Anderson",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3Ny8ZYahb33vpqNEPNCE2IOXPew.jpg"
+                },
+                {
+                  "name": "שירה האס",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/eZRs79ZMoctjDk0SbPhzMNcs34a.jpg"
+                },
+                {
+                  "name": "Lizzy Caplan",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/cHs9pPpjcEMpWrGmrAYAn0QOE78.jpg"
+                },
+                {
+                  "name": "Paul Ben-Victor",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/l7aHF2lKW6VLLFOvMIsVfkCDl1z.jpg"
+                }
+              ],
+              "message_ids": [
+                7605
+              ],
+              "video_message_id": 7605
             }
           ]
         }

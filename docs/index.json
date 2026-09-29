@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-29T03:21:32+00:00",
+  "generated_at": "2026-09-29T04:03:08+00:00",
   "channel": "-1004483833987",
   "count": 3137,
   "movie_count": 2802,
@@ -193451,11 +193451,298 @@
       "title": "Spartacus",
       "original_title": "Spartacus",
       "poster_url": "https://image.tmdb.org/t/p/w500/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/eb4fWyoQfwxB1bzoeQuyZV3Nuyj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8pKB3BooOAWmyMGpRChnlQkULkv.jpg",
       "genres": [
         "Drama"
       ],
       "seasons": [
+        {
+          "number": 0,
+          "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 908646,
+              "title": "Transgressões do Passado",
+              "air_date": "2011-01-21",
+              "overview": "Quando o jovem Batiatus é encarregado de administrar a escola de gladiadores de seu pai, ele usa seu melhor lutador para conquistar favores do nobre nos bastidores.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/8pKB3BooOAWmyMGpRChnlQkULkv.jpg",
+              "cast": [
+                {
+                  "name": "John Hannah",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/8GzJhaZrChZpv84SU4vAsvsR3cl.jpg"
+                },
+                {
+                  "name": "Dustin Clare",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3F2pmjmi7CnUELSq613ifLekYx1.jpg"
+                },
+                {
+                  "name": "Jaime Murray",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/viqfbECKPLI8nRO6sya8YFu8yc2.jpg"
+                },
+                {
+                  "name": "Marisa Ramirez",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dE0Sx1J7V0FYviow3x554A0Aufh.jpg"
+                },
+                {
+                  "name": "Stephen Lovatt",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hN24wBIZ1BmuedLi69bKjFHUERD.jpg"
+                },
+                {
+                  "name": "Hanna Mangan Lawrence",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/v1KvC9H5xXy25DIiQwxBAEgrZfs.jpg"
+                },
+                {
+                  "name": "Brett Tucker",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/6IUQyy2pA8PRXX1MEx088JH6pcu.jpg"
+                },
+                {
+                  "name": "Siaosi Fonua",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/clN9rj8iJd5l8EJymqINM59uGQd.jpg"
+                }
+              ],
+              "message_ids": [
+                7103,
+                7104
+              ],
+              "video_message_id": 7104
+            },
+            {
+              "number": 2,
+              "tmdb_id": 908647,
+              "title": "Missio",
+              "air_date": "2011-01-28",
+              "overview": "Batiatus escala Lucretia, Gaia e um grupo de gladiadores para seu plano. Oenomaus quer recuperar seu título de melhor gladiador.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/9DT7mRCIIZ9jzkyLCSPhckupwwg.jpg",
+              "cast": [
+                {
+                  "name": "John Hannah",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/8GzJhaZrChZpv84SU4vAsvsR3cl.jpg"
+                },
+                {
+                  "name": "Dustin Clare",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3F2pmjmi7CnUELSq613ifLekYx1.jpg"
+                },
+                {
+                  "name": "Jaime Murray",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/viqfbECKPLI8nRO6sya8YFu8yc2.jpg"
+                },
+                {
+                  "name": "Marisa Ramirez",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dE0Sx1J7V0FYviow3x554A0Aufh.jpg"
+                },
+                {
+                  "name": "Stephen Lovatt",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hN24wBIZ1BmuedLi69bKjFHUERD.jpg"
+                },
+                {
+                  "name": "Hanna Mangan Lawrence",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/v1KvC9H5xXy25DIiQwxBAEgrZfs.jpg"
+                },
+                {
+                  "name": "Brett Tucker",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/6IUQyy2pA8PRXX1MEx088JH6pcu.jpg"
+                },
+                {
+                  "name": "Siaosi Fonua",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/clN9rj8iJd5l8EJymqINM59uGQd.jpg"
+                }
+              ],
+              "message_ids": [
+                7105,
+                7106
+              ],
+              "video_message_id": 7106
+            },
+            {
+              "number": 3,
+              "tmdb_id": 908648,
+              "title": "Paterfamilias",
+              "air_date": "2011-02-04",
+              "overview": "O manipulador Batiatus é surpreendido pelo retorno de seu pai, que ameaça sua ascensão social.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/8rry04OMtrGje9b7pit7PuFKFdl.jpg",
+              "cast": [
+                {
+                  "name": "John Hannah",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/8GzJhaZrChZpv84SU4vAsvsR3cl.jpg"
+                },
+                {
+                  "name": "Dustin Clare",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3F2pmjmi7CnUELSq613ifLekYx1.jpg"
+                },
+                {
+                  "name": "Jaime Murray",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/viqfbECKPLI8nRO6sya8YFu8yc2.jpg"
+                },
+                {
+                  "name": "Marisa Ramirez",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dE0Sx1J7V0FYviow3x554A0Aufh.jpg"
+                },
+                {
+                  "name": "Stephen Lovatt",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hN24wBIZ1BmuedLi69bKjFHUERD.jpg"
+                },
+                {
+                  "name": "Hanna Mangan Lawrence",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/v1KvC9H5xXy25DIiQwxBAEgrZfs.jpg"
+                },
+                {
+                  "name": "Brett Tucker",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/6IUQyy2pA8PRXX1MEx088JH6pcu.jpg"
+                },
+                {
+                  "name": "Siaosi Fonua",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/clN9rj8iJd5l8EJymqINM59uGQd.jpg"
+                }
+              ],
+              "message_ids": [
+                7107,
+                7108
+              ],
+              "video_message_id": 7108
+            },
+            {
+              "number": 4,
+              "tmdb_id": 908649,
+              "title": "Atrás da Máscara",
+              "air_date": "2011-02-11",
+              "overview": "A casa de Batiatus se encontra em uma disputa por poder entre os jovens e os velhos Batiatus. Lucretia hesita, mas acaba concordando com o plano arriscado de seu marido.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/gzp7E1A9tWQ9Mi6qJX7bROlPugC.jpg",
+              "cast": [
+                {
+                  "name": "John Hannah",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/8GzJhaZrChZpv84SU4vAsvsR3cl.jpg"
+                },
+                {
+                  "name": "Dustin Clare",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3F2pmjmi7CnUELSq613ifLekYx1.jpg"
+                },
+                {
+                  "name": "Jaime Murray",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/viqfbECKPLI8nRO6sya8YFu8yc2.jpg"
+                },
+                {
+                  "name": "Marisa Ramirez",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dE0Sx1J7V0FYviow3x554A0Aufh.jpg"
+                },
+                {
+                  "name": "Stephen Lovatt",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hN24wBIZ1BmuedLi69bKjFHUERD.jpg"
+                },
+                {
+                  "name": "Hanna Mangan Lawrence",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/v1KvC9H5xXy25DIiQwxBAEgrZfs.jpg"
+                },
+                {
+                  "name": "Brett Tucker",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/6IUQyy2pA8PRXX1MEx088JH6pcu.jpg"
+                },
+                {
+                  "name": "Siaosi Fonua",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/clN9rj8iJd5l8EJymqINM59uGQd.jpg"
+                }
+              ],
+              "message_ids": [
+                7109,
+                7110
+              ],
+              "video_message_id": 7110
+            },
+            {
+              "number": 5,
+              "tmdb_id": 908650,
+              "title": "O Acerto",
+              "air_date": "2011-02-18",
+              "overview": "O pai de Batiatus anuncia um torneio para avaliar seus gladiadores, atraindo Crixus para o jogo de poder da casa.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/gKrbJvm8gciEf7O1bZdizI0Ey89.jpg",
+              "cast": [
+                {
+                  "name": "John Hannah",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/8GzJhaZrChZpv84SU4vAsvsR3cl.jpg"
+                },
+                {
+                  "name": "Dustin Clare",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3F2pmjmi7CnUELSq613ifLekYx1.jpg"
+                },
+                {
+                  "name": "Jaime Murray",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/viqfbECKPLI8nRO6sya8YFu8yc2.jpg"
+                },
+                {
+                  "name": "Marisa Ramirez",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dE0Sx1J7V0FYviow3x554A0Aufh.jpg"
+                },
+                {
+                  "name": "Stephen Lovatt",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hN24wBIZ1BmuedLi69bKjFHUERD.jpg"
+                },
+                {
+                  "name": "Hanna Mangan Lawrence",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/v1KvC9H5xXy25DIiQwxBAEgrZfs.jpg"
+                },
+                {
+                  "name": "Brett Tucker",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/6IUQyy2pA8PRXX1MEx088JH6pcu.jpg"
+                },
+                {
+                  "name": "Siaosi Fonua",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/clN9rj8iJd5l8EJymqINM59uGQd.jpg"
+                }
+              ],
+              "message_ids": [
+                7111,
+                7112
+              ],
+              "video_message_id": 7112
+            },
+            {
+              "number": 6,
+              "tmdb_id": 908651,
+              "title": "O Amargo Final",
+              "air_date": "2011-02-25",
+              "overview": "Batiatus quer se vingar por tudo que lhe aconteceu, e a nova arena é inaugurada com a promessa de um espetáculo de combate e sangue.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/uh3mLKfyK4VQl0BBJR9ypC7r0vY.jpg",
+              "cast": [
+                {
+                  "name": "John Hannah",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/8GzJhaZrChZpv84SU4vAsvsR3cl.jpg"
+                },
+                {
+                  "name": "Dustin Clare",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3F2pmjmi7CnUELSq613ifLekYx1.jpg"
+                },
+                {
+                  "name": "Jaime Murray",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/viqfbECKPLI8nRO6sya8YFu8yc2.jpg"
+                },
+                {
+                  "name": "Marisa Ramirez",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dE0Sx1J7V0FYviow3x554A0Aufh.jpg"
+                },
+                {
+                  "name": "Stephen Lovatt",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hN24wBIZ1BmuedLi69bKjFHUERD.jpg"
+                },
+                {
+                  "name": "Hanna Mangan Lawrence",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/v1KvC9H5xXy25DIiQwxBAEgrZfs.jpg"
+                },
+                {
+                  "name": "Brett Tucker",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/6IUQyy2pA8PRXX1MEx088JH6pcu.jpg"
+                },
+                {
+                  "name": "Siaosi Fonua",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/clN9rj8iJd5l8EJymqINM59uGQd.jpg"
+                }
+              ],
+              "message_ids": [
+                7113,
+                7114
+              ],
+              "video_message_id": 7114
+            }
+          ]
+        },
         {
           "number": 1,
           "episodes": [
@@ -194029,10 +194316,10 @@
                 }
               ],
               "message_ids": [
-                7103,
-                7104
+                7115,
+                7116
               ],
-              "video_message_id": 7104
+              "video_message_id": 7116
             },
             {
               "number": 2,
@@ -194092,10 +194379,10 @@
                 }
               ],
               "message_ids": [
-                7105,
-                7106
+                7117,
+                7118
               ],
-              "video_message_id": 7106
+              "video_message_id": 7118
             },
             {
               "number": 3,
@@ -194155,10 +194442,10 @@
                 }
               ],
               "message_ids": [
-                7107,
-                7108
+                7119,
+                7120
               ],
-              "video_message_id": 7108
+              "video_message_id": 7120
             },
             {
               "number": 4,
@@ -194218,10 +194505,10 @@
                 }
               ],
               "message_ids": [
-                7109,
-                7110
+                7121,
+                7122
               ],
-              "video_message_id": 7110
+              "video_message_id": 7122
             },
             {
               "number": 5,
@@ -194281,10 +194568,10 @@
                 }
               ],
               "message_ids": [
-                7111,
-                7112
+                7123,
+                7124
               ],
-              "video_message_id": 7112
+              "video_message_id": 7124
             },
             {
               "number": 6,
@@ -194344,389 +194631,6 @@
                 }
               ],
               "message_ids": [
-                7113,
-                7114
-              ],
-              "video_message_id": 7114
-            }
-          ]
-        },
-        {
-          "number": 3,
-          "episodes": [
-            {
-              "number": 1,
-              "tmdb_id": 908636,
-              "title": "Inimigos de Roma",
-              "air_date": "2013-01-25",
-              "overview": "Spartacus continua expandindo seu exército, superando os esforços dos melhores comandantes romanos. Enquanto isso, o império é forçado a pedir ajuda a Crassus.",
-              "backdrop_url": "https://image.tmdb.org/t/p/w780/u1vgjUEftNHnYG1zvV6d0tlvHHw.jpg",
-              "cast": [
-                {
-                  "name": "Liam McIntyre",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/vTw11F1awNW8AlxInljEsK96cNB.jpg"
-                },
-                {
-                  "name": "Manu Bennett",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/vwcTCQoRqfOjGZA1TPCx9TWTNht.jpg"
-                },
-                {
-                  "name": "Dustin Clare",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/3F2pmjmi7CnUELSq613ifLekYx1.jpg"
-                },
-                {
-                  "name": "Cynthia Addai-Robinson",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/fgXXRWLRDprVH9Bf2et0zRLk7HQ.jpg"
-                },
-                {
-                  "name": "Jaime Murray",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/viqfbECKPLI8nRO6sya8YFu8yc2.jpg"
-                },
-                {
-                  "name": "Ellen Hollman",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/ebNqpUF7WFr4lhP6FhT9O1doc8q.jpg"
-                },
-                {
-                  "name": "Luna Rioumina",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/iWpgF5ENNE9LTfOINZvinsUygib.jpg"
-                },
-                {
-                  "name": "Marisa Ramirez",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/dE0Sx1J7V0FYviow3x554A0Aufh.jpg"
-                },
-                {
-                  "name": "Ditch Davey",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/jlkW2rN7XdXR1amQONwcqBcOpFJ.jpg"
-                },
-                {
-                  "name": "Barry Duffield",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/TFXTlHgCA5ALVCk2C5lltqkyQU.jpg"
-                },
-                {
-                  "name": "Pana Hema-Taylor",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/mwjF8ZM8AWhCajUNarysOnR9ViJ.jpg"
-                },
-                {
-                  "name": "Stephen Lovatt",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/hN24wBIZ1BmuedLi69bKjFHUERD.jpg"
-                }
-              ],
-              "message_ids": [
-                7115,
-                7116
-              ],
-              "video_message_id": 7116
-            },
-            {
-              "number": 2,
-              "tmdb_id": 908637,
-              "title": "Lobos no Portão",
-              "air_date": "2013-01-26",
-              "overview": "Spartacus lidera um ataque ousado para conseguir abrigo e comida para seus homens. Crassus cria um exército poderoso e recebe uma visita inesperada.",
-              "backdrop_url": "https://image.tmdb.org/t/p/w780/ykf33QEbbTQsbdoWMmM2UXyaqp1.jpg",
-              "cast": [
-                {
-                  "name": "Liam McIntyre",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/vTw11F1awNW8AlxInljEsK96cNB.jpg"
-                },
-                {
-                  "name": "Manu Bennett",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/vwcTCQoRqfOjGZA1TPCx9TWTNht.jpg"
-                },
-                {
-                  "name": "Dustin Clare",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/3F2pmjmi7CnUELSq613ifLekYx1.jpg"
-                },
-                {
-                  "name": "Cynthia Addai-Robinson",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/fgXXRWLRDprVH9Bf2et0zRLk7HQ.jpg"
-                },
-                {
-                  "name": "Jaime Murray",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/viqfbECKPLI8nRO6sya8YFu8yc2.jpg"
-                },
-                {
-                  "name": "Ellen Hollman",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/ebNqpUF7WFr4lhP6FhT9O1doc8q.jpg"
-                },
-                {
-                  "name": "Luna Rioumina",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/iWpgF5ENNE9LTfOINZvinsUygib.jpg"
-                },
-                {
-                  "name": "Marisa Ramirez",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/dE0Sx1J7V0FYviow3x554A0Aufh.jpg"
-                },
-                {
-                  "name": "Ditch Davey",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/jlkW2rN7XdXR1amQONwcqBcOpFJ.jpg"
-                },
-                {
-                  "name": "Barry Duffield",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/TFXTlHgCA5ALVCk2C5lltqkyQU.jpg"
-                },
-                {
-                  "name": "Pana Hema-Taylor",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/mwjF8ZM8AWhCajUNarysOnR9ViJ.jpg"
-                },
-                {
-                  "name": "Stephen Lovatt",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/hN24wBIZ1BmuedLi69bKjFHUERD.jpg"
-                }
-              ],
-              "message_ids": [
-                7117,
-                7118
-              ],
-              "video_message_id": 7118
-            },
-            {
-              "number": 3,
-              "tmdb_id": 908638,
-              "title": "Homens de Honra",
-              "air_date": "2013-02-08",
-              "overview": "Spartacus considera fazer um acordo com um grupo de saqueadores para garantir que seu povo não passe fome. Tiberius toma uma decisão fatídica.",
-              "backdrop_url": "https://image.tmdb.org/t/p/w780/cniAEdSRUkqRpp6wjX9OMuL0jIA.jpg",
-              "cast": [
-                {
-                  "name": "Liam McIntyre",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/vTw11F1awNW8AlxInljEsK96cNB.jpg"
-                },
-                {
-                  "name": "Manu Bennett",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/vwcTCQoRqfOjGZA1TPCx9TWTNht.jpg"
-                },
-                {
-                  "name": "Dustin Clare",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/3F2pmjmi7CnUELSq613ifLekYx1.jpg"
-                },
-                {
-                  "name": "Cynthia Addai-Robinson",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/fgXXRWLRDprVH9Bf2et0zRLk7HQ.jpg"
-                },
-                {
-                  "name": "Jaime Murray",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/viqfbECKPLI8nRO6sya8YFu8yc2.jpg"
-                },
-                {
-                  "name": "Ellen Hollman",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/ebNqpUF7WFr4lhP6FhT9O1doc8q.jpg"
-                },
-                {
-                  "name": "Luna Rioumina",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/iWpgF5ENNE9LTfOINZvinsUygib.jpg"
-                },
-                {
-                  "name": "Marisa Ramirez",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/dE0Sx1J7V0FYviow3x554A0Aufh.jpg"
-                },
-                {
-                  "name": "Ditch Davey",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/jlkW2rN7XdXR1amQONwcqBcOpFJ.jpg"
-                },
-                {
-                  "name": "Barry Duffield",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/TFXTlHgCA5ALVCk2C5lltqkyQU.jpg"
-                },
-                {
-                  "name": "Pana Hema-Taylor",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/mwjF8ZM8AWhCajUNarysOnR9ViJ.jpg"
-                },
-                {
-                  "name": "Stephen Lovatt",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/hN24wBIZ1BmuedLi69bKjFHUERD.jpg"
-                }
-              ],
-              "message_ids": [
-                7119,
-                7120
-              ],
-              "video_message_id": 7120
-            },
-            {
-              "number": 4,
-              "tmdb_id": 908639,
-              "title": "Dizimação",
-              "air_date": "2013-02-15",
-              "overview": "A possível presença de um espião romano gera tensão entre Spartacus e seus homens. Crassus traz de volta um castigo romano que havia sido abandonado.",
-              "backdrop_url": "https://image.tmdb.org/t/p/w780/7JcEodsnaLqqfP3bMsIQ6OaXj0i.jpg",
-              "cast": [
-                {
-                  "name": "Liam McIntyre",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/vTw11F1awNW8AlxInljEsK96cNB.jpg"
-                },
-                {
-                  "name": "Manu Bennett",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/vwcTCQoRqfOjGZA1TPCx9TWTNht.jpg"
-                },
-                {
-                  "name": "Dustin Clare",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/3F2pmjmi7CnUELSq613ifLekYx1.jpg"
-                },
-                {
-                  "name": "Cynthia Addai-Robinson",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/fgXXRWLRDprVH9Bf2et0zRLk7HQ.jpg"
-                },
-                {
-                  "name": "Jaime Murray",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/viqfbECKPLI8nRO6sya8YFu8yc2.jpg"
-                },
-                {
-                  "name": "Ellen Hollman",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/ebNqpUF7WFr4lhP6FhT9O1doc8q.jpg"
-                },
-                {
-                  "name": "Luna Rioumina",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/iWpgF5ENNE9LTfOINZvinsUygib.jpg"
-                },
-                {
-                  "name": "Marisa Ramirez",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/dE0Sx1J7V0FYviow3x554A0Aufh.jpg"
-                },
-                {
-                  "name": "Ditch Davey",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/jlkW2rN7XdXR1amQONwcqBcOpFJ.jpg"
-                },
-                {
-                  "name": "Barry Duffield",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/TFXTlHgCA5ALVCk2C5lltqkyQU.jpg"
-                },
-                {
-                  "name": "Pana Hema-Taylor",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/mwjF8ZM8AWhCajUNarysOnR9ViJ.jpg"
-                },
-                {
-                  "name": "Stephen Lovatt",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/hN24wBIZ1BmuedLi69bKjFHUERD.jpg"
-                }
-              ],
-              "message_ids": [
-                7121,
-                7122
-              ],
-              "video_message_id": 7122
-            },
-            {
-              "number": 5,
-              "tmdb_id": 908640,
-              "title": "Irmãos de Sangue",
-              "air_date": "2013-02-22",
-              "overview": "Spartacus coloca seu plano em ação para enfraquecer o exército de Crassus, mas uma traição pode colocar tudo a perder.",
-              "backdrop_url": "https://image.tmdb.org/t/p/w780/fFZdOc8TmwqRLGTvMcz0oyCWN3K.jpg",
-              "cast": [
-                {
-                  "name": "Liam McIntyre",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/vTw11F1awNW8AlxInljEsK96cNB.jpg"
-                },
-                {
-                  "name": "Manu Bennett",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/vwcTCQoRqfOjGZA1TPCx9TWTNht.jpg"
-                },
-                {
-                  "name": "Dustin Clare",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/3F2pmjmi7CnUELSq613ifLekYx1.jpg"
-                },
-                {
-                  "name": "Cynthia Addai-Robinson",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/fgXXRWLRDprVH9Bf2et0zRLk7HQ.jpg"
-                },
-                {
-                  "name": "Jaime Murray",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/viqfbECKPLI8nRO6sya8YFu8yc2.jpg"
-                },
-                {
-                  "name": "Ellen Hollman",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/ebNqpUF7WFr4lhP6FhT9O1doc8q.jpg"
-                },
-                {
-                  "name": "Luna Rioumina",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/iWpgF5ENNE9LTfOINZvinsUygib.jpg"
-                },
-                {
-                  "name": "Marisa Ramirez",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/dE0Sx1J7V0FYviow3x554A0Aufh.jpg"
-                },
-                {
-                  "name": "Ditch Davey",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/jlkW2rN7XdXR1amQONwcqBcOpFJ.jpg"
-                },
-                {
-                  "name": "Barry Duffield",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/TFXTlHgCA5ALVCk2C5lltqkyQU.jpg"
-                },
-                {
-                  "name": "Pana Hema-Taylor",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/mwjF8ZM8AWhCajUNarysOnR9ViJ.jpg"
-                },
-                {
-                  "name": "Stephen Lovatt",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/hN24wBIZ1BmuedLi69bKjFHUERD.jpg"
-                }
-              ],
-              "message_ids": [
-                7123,
-                7124
-              ],
-              "video_message_id": 7124
-            },
-            {
-              "number": 6,
-              "tmdb_id": 908641,
-              "title": "Despojos de Guerra",
-              "air_date": "2013-03-15",
-              "overview": "Enquanto Crassus lança um ataque sangrento contra a cidade ocupada pelos rebeldes, Gannicus fica preso atrás das linhas inimigas.",
-              "backdrop_url": "https://image.tmdb.org/t/p/w780/cGAzx99oGRP7wz6a1FDaTRrTfkj.jpg",
-              "cast": [
-                {
-                  "name": "Liam McIntyre",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/vTw11F1awNW8AlxInljEsK96cNB.jpg"
-                },
-                {
-                  "name": "Manu Bennett",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/vwcTCQoRqfOjGZA1TPCx9TWTNht.jpg"
-                },
-                {
-                  "name": "Dustin Clare",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/3F2pmjmi7CnUELSq613ifLekYx1.jpg"
-                },
-                {
-                  "name": "Cynthia Addai-Robinson",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/fgXXRWLRDprVH9Bf2et0zRLk7HQ.jpg"
-                },
-                {
-                  "name": "Jaime Murray",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/viqfbECKPLI8nRO6sya8YFu8yc2.jpg"
-                },
-                {
-                  "name": "Ellen Hollman",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/ebNqpUF7WFr4lhP6FhT9O1doc8q.jpg"
-                },
-                {
-                  "name": "Luna Rioumina",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/iWpgF5ENNE9LTfOINZvinsUygib.jpg"
-                },
-                {
-                  "name": "Marisa Ramirez",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/dE0Sx1J7V0FYviow3x554A0Aufh.jpg"
-                },
-                {
-                  "name": "Ditch Davey",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/jlkW2rN7XdXR1amQONwcqBcOpFJ.jpg"
-                },
-                {
-                  "name": "Barry Duffield",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/TFXTlHgCA5ALVCk2C5lltqkyQU.jpg"
-                },
-                {
-                  "name": "Pana Hema-Taylor",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/mwjF8ZM8AWhCajUNarysOnR9ViJ.jpg"
-                },
-                {
-                  "name": "Stephen Lovatt",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/hN24wBIZ1BmuedLi69bKjFHUERD.jpg"
-                }
-              ],
-              "message_ids": [
                 7125,
                 7126
               ],
@@ -194734,11 +194638,11 @@
             },
             {
               "number": 7,
-              "tmdb_id": 908642,
-              "title": "Mors Indecepta",
-              "air_date": "2013-03-22",
-              "overview": "Com seus homens cercados por um obstáculo intransponível, Spartacus e Crixus entram em conflito sobre a melhor maneira de escapar.",
-              "backdrop_url": "https://image.tmdb.org/t/p/w780/awWBTmaTBgwuaIhlNlcgRpQJ6QU.jpg",
+              "tmdb_id": 908628,
+              "title": "Sacramentum",
+              "air_date": "2012-03-09",
+              "overview": "Spartacus e seus rebeldes tentam expandir o exército libertando lutadores escravizados em guerras passadas.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/9wRMA9o9fFRwK79tepsTgiokhyg.jpg",
               "cast": [
                 {
                   "name": "Liam McIntyre",
@@ -194753,6 +194657,10 @@
                   "photo_url": "https://image.tmdb.org/t/p/w185/3F2pmjmi7CnUELSq613ifLekYx1.jpg"
                 },
                 {
+                  "name": "Lucy Lawless",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7fYfVk6jtdCWuJEo9pEqc6O2JkD.jpg"
+                },
+                {
                   "name": "Cynthia Addai-Robinson",
                   "photo_url": "https://image.tmdb.org/t/p/w185/fgXXRWLRDprVH9Bf2et0zRLk7HQ.jpg"
                 },
@@ -194765,16 +194673,8 @@
                   "photo_url": "https://image.tmdb.org/t/p/w185/ebNqpUF7WFr4lhP6FhT9O1doc8q.jpg"
                 },
                 {
-                  "name": "Luna Rioumina",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/iWpgF5ENNE9LTfOINZvinsUygib.jpg"
-                },
-                {
                   "name": "Marisa Ramirez",
                   "photo_url": "https://image.tmdb.org/t/p/w185/dE0Sx1J7V0FYviow3x554A0Aufh.jpg"
-                },
-                {
-                  "name": "Ditch Davey",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/jlkW2rN7XdXR1amQONwcqBcOpFJ.jpg"
                 },
                 {
                   "name": "Barry Duffield",
@@ -194787,6 +194687,10 @@
                 {
                   "name": "Stephen Lovatt",
                   "photo_url": "https://image.tmdb.org/t/p/w185/hN24wBIZ1BmuedLi69bKjFHUERD.jpg"
+                },
+                {
+                  "name": "Hanna Mangan Lawrence",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/v1KvC9H5xXy25DIiQwxBAEgrZfs.jpg"
                 }
               ],
               "message_ids": [
@@ -194797,11 +194701,11 @@
             },
             {
               "number": 8,
-              "tmdb_id": 908643,
-              "title": "Caminhos Separados",
-              "air_date": "2013-03-29",
-              "overview": "Spartacus e os rebeldes chegam a uma encruzilhada. Crassus persegue Spartacus incansavelmente, e o conflito entre Tiberius e Caesar se intensifica.",
-              "backdrop_url": "https://image.tmdb.org/t/p/w780/dKthPXMGfGXrBMAgsd0zuJwUJIO.jpg",
+              "tmdb_id": 908632,
+              "title": "Equilíbrio",
+              "air_date": "2012-03-16",
+              "overview": "Spartacus tem sua chance de vingança quando um romano proeminente é capturado, mas será que ele é capaz de sacrificar um bem maior para satisfazer seu desejo?",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/cRFYSgd79eaahTxUJp8I6mUl36i.jpg",
               "cast": [
                 {
                   "name": "Liam McIntyre",
@@ -194816,6 +194720,10 @@
                   "photo_url": "https://image.tmdb.org/t/p/w185/3F2pmjmi7CnUELSq613ifLekYx1.jpg"
                 },
                 {
+                  "name": "Lucy Lawless",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7fYfVk6jtdCWuJEo9pEqc6O2JkD.jpg"
+                },
+                {
                   "name": "Cynthia Addai-Robinson",
                   "photo_url": "https://image.tmdb.org/t/p/w185/fgXXRWLRDprVH9Bf2et0zRLk7HQ.jpg"
                 },
@@ -194828,16 +194736,8 @@
                   "photo_url": "https://image.tmdb.org/t/p/w185/ebNqpUF7WFr4lhP6FhT9O1doc8q.jpg"
                 },
                 {
-                  "name": "Luna Rioumina",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/iWpgF5ENNE9LTfOINZvinsUygib.jpg"
-                },
-                {
                   "name": "Marisa Ramirez",
                   "photo_url": "https://image.tmdb.org/t/p/w185/dE0Sx1J7V0FYviow3x554A0Aufh.jpg"
-                },
-                {
-                  "name": "Ditch Davey",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/jlkW2rN7XdXR1amQONwcqBcOpFJ.jpg"
                 },
                 {
                   "name": "Barry Duffield",
@@ -194850,6 +194750,10 @@
                 {
                   "name": "Stephen Lovatt",
                   "photo_url": "https://image.tmdb.org/t/p/w185/hN24wBIZ1BmuedLi69bKjFHUERD.jpg"
+                },
+                {
+                  "name": "Hanna Mangan Lawrence",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/v1KvC9H5xXy25DIiQwxBAEgrZfs.jpg"
                 }
               ],
               "message_ids": [
@@ -194860,11 +194764,11 @@
             },
             {
               "number": 9,
-              "tmdb_id": 908644,
-              "title": "Os Mortos e os que Irão Morrer",
-              "air_date": "2013-04-05",
-              "overview": "Crassus descobre que outro romano quer ficar com a glória de derrotar Spartacus, que tenta conseguir uma vantagem para usar contra os romanos.",
-              "backdrop_url": "https://image.tmdb.org/t/p/w780/d9zgukBnFYPA8l3ybI6hW3ql91d.jpg",
+              "tmdb_id": 908633,
+              "title": "Monstros",
+              "air_date": "2012-03-23",
+              "overview": "Spartacus precisa convencer seu povo de que todos devem se unir para enfrentar o ataque iminente do exército romano.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/zDAnf3cfNXnm8xOW5yCETGRy4gF.jpg",
               "cast": [
                 {
                   "name": "Liam McIntyre",
@@ -194879,6 +194783,10 @@
                   "photo_url": "https://image.tmdb.org/t/p/w185/3F2pmjmi7CnUELSq613ifLekYx1.jpg"
                 },
                 {
+                  "name": "Lucy Lawless",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7fYfVk6jtdCWuJEo9pEqc6O2JkD.jpg"
+                },
+                {
                   "name": "Cynthia Addai-Robinson",
                   "photo_url": "https://image.tmdb.org/t/p/w185/fgXXRWLRDprVH9Bf2et0zRLk7HQ.jpg"
                 },
@@ -194891,16 +194799,8 @@
                   "photo_url": "https://image.tmdb.org/t/p/w185/ebNqpUF7WFr4lhP6FhT9O1doc8q.jpg"
                 },
                 {
-                  "name": "Luna Rioumina",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/iWpgF5ENNE9LTfOINZvinsUygib.jpg"
-                },
-                {
                   "name": "Marisa Ramirez",
                   "photo_url": "https://image.tmdb.org/t/p/w185/dE0Sx1J7V0FYviow3x554A0Aufh.jpg"
-                },
-                {
-                  "name": "Ditch Davey",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/jlkW2rN7XdXR1amQONwcqBcOpFJ.jpg"
                 },
                 {
                   "name": "Barry Duffield",
@@ -194913,6 +194813,10 @@
                 {
                   "name": "Stephen Lovatt",
                   "photo_url": "https://image.tmdb.org/t/p/w185/hN24wBIZ1BmuedLi69bKjFHUERD.jpg"
+                },
+                {
+                  "name": "Hanna Mangan Lawrence",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/v1KvC9H5xXy25DIiQwxBAEgrZfs.jpg"
                 }
               ],
               "message_ids": [
@@ -194923,11 +194827,11 @@
             },
             {
               "number": 10,
-              "tmdb_id": 908645,
-              "title": "Vitória",
-              "air_date": "2013-04-12",
-              "overview": "Spartacus e seus rebeldes lutam mais uma vez por liberdade em uma batalha épica contra os romanos.",
-              "backdrop_url": "https://image.tmdb.org/t/p/w780/apFgewnTahXf6bVvYyr8Db8cu3M.jpg",
+              "tmdb_id": 908634,
+              "title": "A Ira dos Deuses",
+              "air_date": "2012-03-30",
+              "overview": "Devido à falta de suprimentos e à superioridade do exército romano, a rebelião é derrotada. Spartacus precisa reanimar o ânimo de seu povo.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/vQkHUJISed1zwhZwKGycn2qPk0x.jpg",
               "cast": [
                 {
                   "name": "Liam McIntyre",
@@ -194942,6 +194846,10 @@
                   "photo_url": "https://image.tmdb.org/t/p/w185/3F2pmjmi7CnUELSq613ifLekYx1.jpg"
                 },
                 {
+                  "name": "Lucy Lawless",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/7fYfVk6jtdCWuJEo9pEqc6O2JkD.jpg"
+                },
+                {
                   "name": "Cynthia Addai-Robinson",
                   "photo_url": "https://image.tmdb.org/t/p/w185/fgXXRWLRDprVH9Bf2et0zRLk7HQ.jpg"
                 },
@@ -194954,16 +194862,8 @@
                   "photo_url": "https://image.tmdb.org/t/p/w185/ebNqpUF7WFr4lhP6FhT9O1doc8q.jpg"
                 },
                 {
-                  "name": "Luna Rioumina",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/iWpgF5ENNE9LTfOINZvinsUygib.jpg"
-                },
-                {
                   "name": "Marisa Ramirez",
                   "photo_url": "https://image.tmdb.org/t/p/w185/dE0Sx1J7V0FYviow3x554A0Aufh.jpg"
-                },
-                {
-                  "name": "Ditch Davey",
-                  "photo_url": "https://image.tmdb.org/t/p/w185/jlkW2rN7XdXR1amQONwcqBcOpFJ.jpg"
                 },
                 {
                   "name": "Barry Duffield",
@@ -194976,6 +194876,10 @@
                 {
                   "name": "Stephen Lovatt",
                   "photo_url": "https://image.tmdb.org/t/p/w185/hN24wBIZ1BmuedLi69bKjFHUERD.jpg"
+                },
+                {
+                  "name": "Hanna Mangan Lawrence",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/v1KvC9H5xXy25DIiQwxBAEgrZfs.jpg"
                 }
               ],
               "message_ids": [

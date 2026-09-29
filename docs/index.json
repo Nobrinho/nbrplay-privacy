@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-29T04:55:20+00:00",
+  "generated_at": "2026-09-29T04:58:30+00:00",
   "channel": "-1004483833987",
-  "count": 3145,
-  "movie_count": 2799,
+  "count": 3144,
+  "movie_count": 2798,
   "series_count": 50,
   "episode_count": 346,
   "custom_count": 0,
@@ -88665,32 +88665,6 @@
         6013
       ],
       "video_message_id": 6013
-    },
-    {
-      "tmdb_id": 1744990,
-      "title": "Life According to Dan - Episode 1 : Moving Out",
-      "original_title": "Life According to Dan - Episode 1 : Moving Out",
-      "year": "2007",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rDwpit0G4IWZiZ0a6olVJwkAv4e.jpg",
-      "backdrop_url": null,
-      "overview": "Dan is faces some tough choices after moving out from his parents. With each decision he is given 3 options - hopefully he chooses correctly!",
-      "genres": [
-        "Comédia"
-      ],
-      "cast": [
-        {
-          "name": "Jake Wilding",
-          "photo_url": "https://image.tmdb.org/t/p/w185/8kXQg0RMJ7yQcqo5dFUrI4awEnz.jpg"
-        },
-        {
-          "name": "Kevin Woodhead",
-          "photo_url": "https://image.tmdb.org/t/p/w185/owxnkUEhTyaXq7jGmJXi6wSUfnC.jpg"
-        }
-      ],
-      "message_ids": [
-        7566
-      ],
-      "video_message_id": 7566
     },
     {
       "tmdb_id": 1225096,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-29T04:47:32+00:00",
+  "generated_at": "2026-09-29T04:48:12+00:00",
   "channel": "-1004483833987",
-  "count": 3147,
-  "movie_count": 2801,
+  "count": 3146,
+  "movie_count": 2800,
   "series_count": 50,
   "episode_count": 346,
   "custom_count": 0,
@@ -129422,74 +129422,6 @@
         6790
       ],
       "video_message_id": 6790
-    },
-    {
-      "tmdb_id": 373877,
-      "title": "One Piece: Episódio do Sabo",
-      "original_title": "ワンピース エピソード オブ サボ～3兄弟の絆 奇跡の再会と受け継がれる意志～",
-      "year": "2015",
-      "poster_url": "https://image.tmdb.org/t/p/w500/927XxgsFOyYLual9dpNVYJorhQj.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jzR5ZybOg22zpuOcOz5TxrJWXIc.jpg",
-      "overview": "Este especial mostrará a infância dos irmãos Luffy, Ace e Sabo, quando todos sonhavam em ser piratas. Além disso, descreverá como Sabo chegou de fato ao reino de Dressrosa (que não foi descrito no mangá nem na série de TV), e também o encontro com Luffy.",
-      "genres": [
-        "Ação",
-        "Animação"
-      ],
-      "cast": [
-        {
-          "name": "Mayumi Tanaka",
-          "photo_url": "https://image.tmdb.org/t/p/w185/by4t1tYtEXsfbFj9TvOjozBmQla.jpg"
-        },
-        {
-          "name": "Kazuya Nakai",
-          "photo_url": "https://image.tmdb.org/t/p/w185/cOHSa0FBrG3u9P6g8A56sInkvod.jpg"
-        },
-        {
-          "name": "Toru Furuya",
-          "photo_url": "https://image.tmdb.org/t/p/w185/2et31Lo8I0gRbyYFaOu3TBRby7U.jpg"
-        },
-        {
-          "name": "Daisuke Sakaguchi",
-          "photo_url": "https://image.tmdb.org/t/p/w185/cP9lnoYSCyIpSlUkZN4k6RoD7fF.jpg"
-        },
-        {
-          "name": "Akemi Okamura",
-          "photo_url": "https://image.tmdb.org/t/p/w185/qEwVfsrA23SCzRZMSlghw2sHctQ.jpg"
-        },
-        {
-          "name": "Hideyuki Tanaka",
-          "photo_url": "https://image.tmdb.org/t/p/w185/1D1PmELZexM6aod77gbh9GwvvGG.jpg"
-        },
-        {
-          "name": "Hiroaki Hirata",
-          "photo_url": "https://image.tmdb.org/t/p/w185/mMWEdlssJm3TVuXW4Wb7pQeX20Z.jpg"
-        },
-        {
-          "name": "Hiroshi Kamiya",
-          "photo_url": "https://image.tmdb.org/t/p/w185/5aAAOlQ2hW5EqEQOzk4UeroxcTN.jpg"
-        },
-        {
-          "name": "Ikue Otani",
-          "photo_url": "https://image.tmdb.org/t/p/w185/my8LBLQ4MsK4hRz1PAATIqtieaI.jpg"
-        },
-        {
-          "name": "沢木郁也",
-          "photo_url": "https://image.tmdb.org/t/p/w185/ojKICbvLx3GiQ8zzvZSKhUwoQlW.jpg"
-        },
-        {
-          "name": "竹内順子",
-          "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
-        },
-        {
-          "name": "Kappei Yamaguchi",
-          "photo_url": "https://image.tmdb.org/t/p/w185/mJyxKRZxLv9D7LH5KcNSkjSKYOB.jpg"
-        }
-      ],
-      "message_ids": [
-        7402,
-        7403
-      ],
-      "video_message_id": 7403
     },
     {
       "tmdb_id": 9316,

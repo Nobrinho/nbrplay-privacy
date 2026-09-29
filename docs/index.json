@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-29T04:24:59+00:00",
+  "generated_at": "2026-09-29T04:25:13+00:00",
   "channel": "-1004483833987",
-  "count": 3143,
+  "count": 3144,
   "movie_count": 2802,
   "series_count": 49,
-  "episode_count": 341,
+  "episode_count": 342,
   "custom_count": 0,
   "movies": [
     {
@@ -194893,6 +194893,68 @@
         {
           "number": 3,
           "episodes": [
+            {
+              "number": 3,
+              "tmdb_id": 908638,
+              "title": "Homens de Honra",
+              "air_date": "2013-02-08",
+              "overview": "Spartacus considera fazer um acordo com um grupo de saqueadores para garantir que seu povo não passe fome. Tiberius toma uma decisão fatídica.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/cniAEdSRUkqRpp6wjX9OMuL0jIA.jpg",
+              "cast": [
+                {
+                  "name": "Liam McIntyre",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/vTw11F1awNW8AlxInljEsK96cNB.jpg"
+                },
+                {
+                  "name": "Manu Bennett",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/vwcTCQoRqfOjGZA1TPCx9TWTNht.jpg"
+                },
+                {
+                  "name": "Dustin Clare",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/3F2pmjmi7CnUELSq613ifLekYx1.jpg"
+                },
+                {
+                  "name": "Cynthia Addai-Robinson",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/fgXXRWLRDprVH9Bf2et0zRLk7HQ.jpg"
+                },
+                {
+                  "name": "Jaime Murray",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/viqfbECKPLI8nRO6sya8YFu8yc2.jpg"
+                },
+                {
+                  "name": "Ellen Hollman",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ebNqpUF7WFr4lhP6FhT9O1doc8q.jpg"
+                },
+                {
+                  "name": "Luna Rioumina",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/iWpgF5ENNE9LTfOINZvinsUygib.jpg"
+                },
+                {
+                  "name": "Marisa Ramirez",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dE0Sx1J7V0FYviow3x554A0Aufh.jpg"
+                },
+                {
+                  "name": "Ditch Davey",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/jlkW2rN7XdXR1amQONwcqBcOpFJ.jpg"
+                },
+                {
+                  "name": "Barry Duffield",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/TFXTlHgCA5ALVCk2C5lltqkyQU.jpg"
+                },
+                {
+                  "name": "Pana Hema-Taylor",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/mwjF8ZM8AWhCajUNarysOnR9ViJ.jpg"
+                },
+                {
+                  "name": "Stephen Lovatt",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/hN24wBIZ1BmuedLi69bKjFHUERD.jpg"
+                }
+              ],
+              "message_ids": [
+                7516
+              ],
+              "video_message_id": 7516
+            },
             {
               "number": 5,
               "tmdb_id": 908640,

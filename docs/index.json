@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-29T04:39:44+00:00",
+  "generated_at": "2026-09-29T04:47:32+00:00",
   "channel": "-1004483833987",
-  "count": 3148,
-  "movie_count": 2802,
+  "count": 3147,
+  "movie_count": 2801,
   "series_count": 50,
   "episode_count": 346,
   "custom_count": 0,
@@ -129422,74 +129422,6 @@
         6790
       ],
       "video_message_id": 6790
-    },
-    {
-      "tmdb_id": 541867,
-      "title": "ONE PIECE: Episódio do East Blue",
-      "original_title": "ワンピース エピソードオブ東の海[イーストブルー] ~ルフィと4人の仲間の大冒険~",
-      "year": "2017",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3li3ego0kTrBMDAWZgWmh7nlUqo.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nZnIJ5L0whGJuYcWuQXmxVsLciu.jpg",
-      "overview": "Ao se preparam para finalmente entrar na Grand Line, os piratas do Chapéu de Palha refletem sobre as várias aventuras que os levaram até ali.",
-      "genres": [
-        "Ação",
-        "Animação",
-        "Aventura"
-      ],
-      "cast": [
-        {
-          "name": "Mayumi Tanaka",
-          "photo_url": "https://image.tmdb.org/t/p/w185/by4t1tYtEXsfbFj9TvOjozBmQla.jpg"
-        },
-        {
-          "name": "Kazuya Nakai",
-          "photo_url": "https://image.tmdb.org/t/p/w185/cOHSa0FBrG3u9P6g8A56sInkvod.jpg"
-        },
-        {
-          "name": "Akemi Okamura",
-          "photo_url": "https://image.tmdb.org/t/p/w185/qEwVfsrA23SCzRZMSlghw2sHctQ.jpg"
-        },
-        {
-          "name": "Kappei Yamaguchi",
-          "photo_url": "https://image.tmdb.org/t/p/w185/mJyxKRZxLv9D7LH5KcNSkjSKYOB.jpg"
-        },
-        {
-          "name": "Hiroaki Hirata",
-          "photo_url": "https://image.tmdb.org/t/p/w185/mMWEdlssJm3TVuXW4Wb7pQeX20Z.jpg"
-        },
-        {
-          "name": "Ikue Otani",
-          "photo_url": "https://image.tmdb.org/t/p/w185/my8LBLQ4MsK4hRz1PAATIqtieaI.jpg"
-        },
-        {
-          "name": "Yuriko Yamaguchi",
-          "photo_url": "https://image.tmdb.org/t/p/w185/14hV8oOMkZddPpvdpVSODRwVPgv.jpg"
-        },
-        {
-          "name": "Kazuki Yao",
-          "photo_url": "https://image.tmdb.org/t/p/w185/kjETB1FaDaGozGjdq4Hu1UjrQDf.jpg"
-        },
-        {
-          "name": "Cho",
-          "photo_url": "https://image.tmdb.org/t/p/w185/70OZtKOHEGvbuMQAbQ01cGxrUDO.jpg"
-        },
-        {
-          "name": "土井美加",
-          "photo_url": "https://image.tmdb.org/t/p/w185/h5ereBl1UqJC7qH0sLxHJqnJ6Ai.jpg"
-        },
-        {
-          "name": "池田秀一",
-          "photo_url": "https://image.tmdb.org/t/p/w185/p7uQYnI8AG1m4GmqnnXP8A2jbW8.jpg"
-        },
-        {
-          "name": "掛川裕彦",
-          "photo_url": "https://image.tmdb.org/t/p/w185/pxJkFvRC0risMx0NUdWf5CQFiiI.jpg"
-        }
-      ],
-      "message_ids": [
-        7570
-      ],
-      "video_message_id": 7570
     },
     {
       "tmdb_id": 373877,

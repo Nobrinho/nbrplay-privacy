@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-28T23:19:49+00:00",
+  "generated_at": "2026-09-29T02:21:27+00:00",
   "channel": "-1004483833987",
-  "count": 3135,
-  "movie_count": 2800,
+  "count": 3136,
+  "movie_count": 2801,
   "series_count": 49,
   "episode_count": 335,
   "custom_count": 0,
@@ -166616,6 +166616,76 @@
         3750
       ],
       "video_message_id": 3750
+    },
+    {
+      "tmdb_id": 1084244,
+      "title": "Toy Story 5",
+      "original_title": "Toy Story 5",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jTN1hdfP88Km63waezqIN1uUqT3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+      "overview": "O trabalho de Buzz, Woody, Jessie e do resto da gangue fica exponencialmente mais difícil quando eles enfrentam uma nova ameaça à diversão: a tecnologia.",
+      "genres": [
+        "Animação",
+        "Família",
+        "Comédia",
+        "Aventura"
+      ],
+      "cast": [
+        {
+          "name": "Joan Cusack",
+          "photo_url": "https://image.tmdb.org/t/p/w185/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
+        },
+        {
+          "name": "Tom Hanks",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+        },
+        {
+          "name": "Tim Allen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/k8XPNHBO459FaqkqqM4tfX5GMKk.jpg"
+        },
+        {
+          "name": "Conan O'Brien",
+          "photo_url": "https://image.tmdb.org/t/p/w185/deRbViPut0t80miscBpP2DhBJU5.jpg"
+        },
+        {
+          "name": "Scarlett Spears",
+          "photo_url": "https://image.tmdb.org/t/p/w185/h0loJ4v3wbUfUA6dxUYv7B6fET1.jpg"
+        },
+        {
+          "name": "Greta Lee",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6SydTis4XUcovlwIGskT59JowLX.jpg"
+        },
+        {
+          "name": "Shelby Rabara",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ouMiEKlhCj2LFKEQtI6fGRMDemF.jpg"
+        },
+        {
+          "name": "Mykal-Michelle Harris",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4TvVJYo8gEks8cegfNoZogXJgp2.jpg"
+        },
+        {
+          "name": "Craig Robinson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mTyTrOWUSOBJMOlDpnd4OYx7FlJ.jpg"
+        },
+        {
+          "name": "Jay Hernandez",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rh4pzTAJvy0i84HYV4xZxCXuXgV.jpg"
+        },
+        {
+          "name": "Lori Alan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cavATg4fX0zAl2MHwlt1IZei7EI.jpg"
+        },
+        {
+          "name": "Bonnie Hunt",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg"
+        }
+      ],
+      "message_ids": [
+        7619,
+        7620
+      ],
+      "video_message_id": 7620
     },
     {
       "tmdb_id": 862,

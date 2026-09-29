@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-29T02:21:27+00:00",
+  "generated_at": "2026-09-29T03:16:34+00:00",
   "channel": "-1004483833987",
-  "count": 3136,
-  "movie_count": 2801,
+  "count": 3137,
+  "movie_count": 2802,
   "series_count": 49,
   "episode_count": 335,
   "custom_count": 0,
@@ -96448,6 +96448,76 @@
         5051
       ],
       "video_message_id": 5051
+    },
+    {
+      "tmdb_id": 198277,
+      "title": "Mesmo Se Nada Der Certo",
+      "original_title": "Begin Again",
+      "year": "2014",
+      "poster_url": "https://image.tmdb.org/t/p/w500/g58iIunao1G9z8jISal0mkbucKN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xrSRmL6pXnRfu9vKwayILkNgLP.jpg",
+      "overview": "Uma cantora se muda para Nova Iorque, mas logo após chegar no local, seu namorado americano decide terminar o relacionamento. Em plena crise, ela começa a cantar em bares, até ser descoberta por um produtor de discos, certo de que ela pode se tornar uma estrela.",
+      "genres": [
+        "Comédia",
+        "Música",
+        "Romance",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Mark Ruffalo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+        },
+        {
+          "name": "Keira Knightley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/k69IOXdz8PAvaegAI8WYvQvyyUJ.jpg"
+        },
+        {
+          "name": "Adam Levine",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ucSpYIUJ0gKkHlPhQrHEs2HdFxZ.jpg"
+        },
+        {
+          "name": "Hailee Steinfeld",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qDInsG0cxWNxS1X4t59TBZ5S6x5.jpg"
+        },
+        {
+          "name": "Catherine Keener",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+        },
+        {
+          "name": "James Corden",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xGB0gfZ48M27gQjjL7inJIh1Pqj.jpg"
+        },
+        {
+          "name": "Yasiin Bey",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cu6pZ0ThtrT9Mo3l2cKk3UjYhmE.jpg"
+        },
+        {
+          "name": "Aya Cash",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xUqelq0tht436iAahA4oLupSbK0.jpg"
+        },
+        {
+          "name": "Maddie Corman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mgQSZLjFbkN2TpAaZ268IudMEBg.jpg"
+        },
+        {
+          "name": "Karen Pittman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uxJK6uJPL3tSODytazVKTWfAaSf.jpg"
+        },
+        {
+          "name": "Paul Romero",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pd2sHCgXhBKj4A1E208KJV9S9FJ.jpg"
+        },
+        {
+          "name": "Andrew Sellon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/k6YjOi9a9Vi4HLvHGVzknJjZh1t.jpg"
+        }
+      ],
+      "message_ids": [
+        7621,
+        7622
+      ],
+      "video_message_id": 7622
     },
     {
       "tmdb_id": 8619,

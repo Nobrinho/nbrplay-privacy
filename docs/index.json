@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-29T05:00:21+00:00",
+  "generated_at": "2026-09-29T05:18:40+00:00",
   "channel": "-1004483833987",
-  "count": 3143,
-  "movie_count": 2797,
+  "count": 3144,
+  "movie_count": 2798,
   "series_count": 50,
   "episode_count": 346,
   "custom_count": 0,
@@ -175702,6 +175702,75 @@
         3461
       ],
       "video_message_id": 3461
+    },
+    {
+      "tmdb_id": 1492640,
+      "title": "Unabomber",
+      "original_title": "UNABOMBER",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xVRIUBkQvapWRjYwCbPvb0NfH37.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+      "overview": "Este drama inspirado em uma história real mostra como Ted Kaczynski, um prodígio de Harvard, se transformou no infame Unabomber e foi caçado pelo FBI.",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "cast": [
+        {
+          "name": "Russell Crowe",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3IBZF0qCZMZ7zJYlgrH0sQzNZV.jpg"
+        },
+        {
+          "name": "Jacob Tremblay",
+          "photo_url": "https://image.tmdb.org/t/p/w185/h8CXDp86Y36CUENF4SXJq5ZRTsf.jpg"
+        },
+        {
+          "name": "Shailene Woodley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gL2NvHKW9wAH3qkZuJ76ULUiArB.jpg"
+        },
+        {
+          "name": "Annabelle Wallis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2ZmO2Zz9TcR0rmSJHOkivcu0heR.jpg"
+        },
+        {
+          "name": "Alexander Ludwig",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3KpzKT4iGhNivSISQMe6EwpAmCi.jpg"
+        },
+        {
+          "name": "Marc Menchaca",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fL0LmdBwau30M4AFPVJrpLRXXsU.jpg"
+        },
+        {
+          "name": "Steven Ogg",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dorBNAwR8qpB13pe0zd3OkFjqWR.jpg"
+        },
+        {
+          "name": "Mark Camacho",
+          "photo_url": null
+        },
+        {
+          "name": "David Webster",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gWQ9r3s8fAsmEs0hvKBSgZppWEQ.jpg"
+        },
+        {
+          "name": "Bruce Ramsay",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xvVbXMzHqZ0kMs77EScQ76S4gWH.jpg"
+        },
+        {
+          "name": "Michelle Leblanc",
+          "photo_url": null
+        },
+        {
+          "name": "Gus Halper",
+          "photo_url": "https://image.tmdb.org/t/p/w185/50KfZII4TVqgYngoAjPgdxhwESP.jpg"
+        }
+      ],
+      "message_ids": [
+        7625,
+        7626
+      ],
+      "video_message_id": 7626
     },
     {
       "tmdb_id": 335787,

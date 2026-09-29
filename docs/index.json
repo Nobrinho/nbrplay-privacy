@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-29T05:56:03+00:00",
+  "generated_at": "2026-09-29T05:58:50+00:00",
   "channel": "-1004483833987",
-  "count": 3145,
+  "count": 3146,
   "movie_count": 2796,
   "series_count": 51,
-  "episode_count": 349,
+  "episode_count": 350,
   "custom_count": 0,
   "movies": [
     {
@@ -190748,6 +190748,24 @@
                 7546
               ],
               "video_message_id": 7546
+            },
+            {
+              "number": 2,
+              "tmdb_id": 6982737,
+              "title": "O Mistério de Suzuki",
+              "air_date": "2026-02-23",
+              "overview": "Suzuki revela uma relação escondida com Anita, enquanto Cristine nega e reivindica seu papel. Documentos e arquivos expõem amor, poder e a disputa pela narrativa.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/6zDvD9WEQyeVn03VkmGUXhpV2zE.jpg",
+              "cast": [
+                {
+                  "name": "Camila Appel",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/bV4g3mw6tLJxFWO5NQ9xd3Unz3Z.jpg"
+                }
+              ],
+              "message_ids": [
+                7628
+              ],
+              "video_message_id": 7628
             },
             {
               "number": 3,

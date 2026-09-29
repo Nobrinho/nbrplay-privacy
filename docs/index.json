@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-29T04:48:12+00:00",
+  "generated_at": "2026-09-29T04:55:20+00:00",
   "channel": "-1004483833987",
-  "count": 3146,
-  "movie_count": 2800,
+  "count": 3145,
+  "movie_count": 2799,
   "series_count": 50,
   "episode_count": 346,
   "custom_count": 0,
@@ -156098,44 +156098,6 @@
         5173
       ],
       "video_message_id": 5173
-    },
-    {
-      "tmdb_id": 435299,
-      "title": "Silverlake Life: Epilogue",
-      "original_title": "Silverlake Life: Epilogue",
-      "year": "2003",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": "The continuing political significance of Silverlake Life is brought into clearer focus. Another friend of Tom Joslin and Mark Massi, Elaine Mayes recorded footage of Mark’s decline after Tom’s death, which is where the original version ends. It’s fitting that Mark’s own life, death, and the loss of his lover are here given the sort of attention afforded Tom’s experiences. It reminds us that AIDS is far from over.",
-      "genres": [
-        "Documentário"
-      ],
-      "cast": [
-        {
-          "name": "Mark Massi",
-          "photo_url": "https://image.tmdb.org/t/p/w185/dmwoNXdAGPSINmnX5EuXuorx4Ur.jpg"
-        },
-        {
-          "name": "Elaine Mayes",
-          "photo_url": "https://image.tmdb.org/t/p/w185/gehVllJvM7wOHClZX0XvDWyDixN.jpg"
-        },
-        {
-          "name": "Bo Huston",
-          "photo_url": "https://image.tmdb.org/t/p/w185/cyktEui5NyBJ5XpYQvwISHRW6Xb.jpg"
-        },
-        {
-          "name": "Peter Friedman",
-          "photo_url": "https://image.tmdb.org/t/p/w185/2fD0L1uEhEVsln8eTAdA1whCF7R.jpg"
-        },
-        {
-          "name": "Ronald O. Gillentine",
-          "photo_url": null
-        }
-      ],
-      "message_ids": [
-        7567
-      ],
-      "video_message_id": 7567
     },
     {
       "tmdb_id": 68730,

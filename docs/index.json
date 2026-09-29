@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-29T06:03:14+00:00",
+  "generated_at": "2026-09-29T06:07:14+00:00",
   "channel": "-1004483833987",
   "count": 3146,
-  "movie_count": 2796,
+  "movie_count": 2795,
   "series_count": 51,
-  "episode_count": 350,
+  "episode_count": 351,
   "custom_count": 0,
   "movies": [
     {
@@ -5134,76 +5134,6 @@
         5761
       ],
       "video_message_id": 5761
-    },
-    {
-      "tmdb_id": 615173,
-      "title": "A Bruxa - Parte 2: A Colisão",
-      "original_title": "마녀 2",
-      "year": "2022",
-      "poster_url": "https://image.tmdb.org/t/p/w500/en0le1j1jdDrAlxeVurp50Pihcm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/iryef4LKiPQkvhNJS1EtLlay3br.jpg",
-      "overview": "Uma garota acorda em um enorme laboratório secreto e por acidente, conhece uma garota que está tentando proteger sua casa de uma gangue. A garota misteriosa vence a gangue com seus poderes sobrenaturais, e a equipe do laboratório parte para encontrá-la.",
-      "genres": [
-        "Ação",
-        "Mistério",
-        "Thriller",
-        "Ficção científica"
-      ],
-      "cast": [
-        {
-          "name": "Shin Si-ah",
-          "photo_url": "https://image.tmdb.org/t/p/w185/qTYx9jnIhUtNJedYK4t6pkQBds5.jpg"
-        },
-        {
-          "name": "박은빈",
-          "photo_url": "https://image.tmdb.org/t/p/w185/2PqeVq0KV1pEUgeeSquk2ljfMR0.jpg"
-        },
-        {
-          "name": "서은수",
-          "photo_url": "https://image.tmdb.org/t/p/w185/gtCHxppgfgwHtYsnlKONN7Ayy0z.jpg"
-        },
-        {
-          "name": "진구",
-          "photo_url": "https://image.tmdb.org/t/p/w185/jL0bhHE8vIEomP1Zdz3a0ryXXgk.jpg"
-        },
-        {
-          "name": "성유빈",
-          "photo_url": "https://image.tmdb.org/t/p/w185/ahOn4CmgX4H2ururfsPaquyA1kM.jpg"
-        },
-        {
-          "name": "Justin Harvey",
-          "photo_url": "https://image.tmdb.org/t/p/w185/sB8FTFBs7xoiOCzbJM5X2vpi4Rr.jpg"
-        },
-        {
-          "name": "차순배",
-          "photo_url": "https://image.tmdb.org/t/p/w185/7oDDNlBZRUb9M7VxM5X1p1eXw4c.jpg"
-        },
-        {
-          "name": "조민수",
-          "photo_url": "https://image.tmdb.org/t/p/w185/1dC0ZRTWlvFEcDk4O6peI97zsVM.jpg"
-        },
-        {
-          "name": "Lee Jong-suk",
-          "photo_url": "https://image.tmdb.org/t/p/w185/eW73DbmKQrqb6xDC52oMbVehw6G.jpg"
-        },
-        {
-          "name": "Kim Da-mi",
-          "photo_url": "https://image.tmdb.org/t/p/w185/1biBc16BVz6bnkajnhdHUsE3j8p.jpg"
-        },
-        {
-          "name": "채서안",
-          "photo_url": "https://image.tmdb.org/t/p/w185/7YvErJJbG4TwI74c0e89x9l1gWJ.jpg"
-        },
-        {
-          "name": "채원빈",
-          "photo_url": "https://image.tmdb.org/t/p/w185/f3FqHQgS3tImIfDwjYbDpaQMcei.jpg"
-        }
-      ],
-      "message_ids": [
-        7549,
-        7550
-      ],
-      "video_message_id": 7550
     },
     {
       "tmdb_id": 2667,
@@ -189856,6 +189786,41 @@
                 7552
               ],
               "video_message_id": 7552
+            },
+            {
+              "number": 2,
+              "tmdb_id": 1906462,
+              "title": "Parte 2",
+              "air_date": "2019-09-20",
+              "overview": "Agora o foco são as relações que moldaram a vida de Bill, incluindo uma amizade de infância e o extraordinário vínculo com Paul Allen, cofundador da Microsoft.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/i6hOIr5KRr89LjEUSPx0N2k6opd.jpg",
+              "cast": [
+                {
+                  "name": "Bill Gates",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/eh5oNJmnfIJkqy3Ub8uRz9hHzQI.jpg"
+                },
+                {
+                  "name": "Melinda Gates",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/VkIUAHzm13MNgyOXHf1M0iY87r.jpg"
+                },
+                {
+                  "name": "Davin Orness",
+                  "photo_url": null
+                },
+                {
+                  "name": "Alex Bueermann",
+                  "photo_url": null
+                },
+                {
+                  "name": "Mohammed Albaaj",
+                  "photo_url": null
+                }
+              ],
+              "message_ids": [
+                7549,
+                7550
+              ],
+              "video_message_id": 7550
             }
           ]
         }

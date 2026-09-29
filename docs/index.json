@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-29T05:23:10+00:00",
+  "generated_at": "2026-09-29T05:48:08+00:00",
   "channel": "-1004483833987",
   "count": 3144,
-  "movie_count": 2797,
+  "movie_count": 2796,
   "series_count": 51,
-  "episode_count": 347,
+  "episode_count": 348,
   "custom_count": 0,
   "movies": [
     {
@@ -146820,75 +146820,6 @@
       "video_message_id": 6277
     },
     {
-      "tmdb_id": 274857,
-      "title": "Rei Arthur: A Lenda da Espada",
-      "original_title": "King Arthur: Legend of the Sword",
-      "year": "2017",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vVvc4XRnUMGBMAhtWVzHdySIJzm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/sVkjgKq8cwKm95LCyfrLldLbQIG.jpg",
-      "overview": "Arthur é um jovem das ruas que controla os becos de Londonium e desconhece sua predestinação até o momento em que entra em contato pela primeira vez com a Excalibur. Desafiado pela espada, ele precisa tomar difíceis decisões, enfrentar seus demônios e aprender a dominar o poder que possui para conseguir, enfim, unir seu povo e partir para a luta contra o tirano Vortigern, que destruiu sua família.",
-      "genres": [
-        "Ação",
-        "Drama",
-        "Fantasia"
-      ],
-      "cast": [
-        {
-          "name": "Charlie Hunnam",
-          "photo_url": "https://image.tmdb.org/t/p/w185/5WIDrnY25Ps2RYu0zIzHSVuSt5n.jpg"
-        },
-        {
-          "name": "Jude Law",
-          "photo_url": "https://image.tmdb.org/t/p/w185/6UadpSbfC39WMChAcdnNunzwDxv.jpg"
-        },
-        {
-          "name": "Astrid Bergès-Frisbey",
-          "photo_url": "https://image.tmdb.org/t/p/w185/2mcTwrg61M7beQv05YQFPLWADmc.jpg"
-        },
-        {
-          "name": "Djimon Hounsou",
-          "photo_url": "https://image.tmdb.org/t/p/w185/tpvtxxvCx2Mb5DV632hmuYlHoiY.jpg"
-        },
-        {
-          "name": "Eric Bana",
-          "photo_url": "https://image.tmdb.org/t/p/w185/l9yoDgw3YFC2gMD1HTo5djGOwSY.jpg"
-        },
-        {
-          "name": "Aidan Gillen",
-          "photo_url": "https://image.tmdb.org/t/p/w185/fWWRgyJEGjOPcx43CaFiUCWMBLo.jpg"
-        },
-        {
-          "name": "Freddie Fox",
-          "photo_url": "https://image.tmdb.org/t/p/w185/sEFssmnAWoXygusP8IE4URmhmd5.jpg"
-        },
-        {
-          "name": "Craig McGinlay",
-          "photo_url": "https://image.tmdb.org/t/p/w185/a2sZ18wv5nG4oag2DDQoqmq1xiX.jpg"
-        },
-        {
-          "name": "Tom Wu",
-          "photo_url": "https://image.tmdb.org/t/p/w185/qBQAerjLCCglXIyMURUj3hPpiCM.jpg"
-        },
-        {
-          "name": "Kingsley Ben-Adir",
-          "photo_url": "https://image.tmdb.org/t/p/w185/yCJNGOQKavWqOZSIEPKvQVlyAwA.jpg"
-        },
-        {
-          "name": "Neil Maskell",
-          "photo_url": "https://image.tmdb.org/t/p/w185/12dDCWSE8GXrhnzHuaEWxNJFfrN.jpg"
-        },
-        {
-          "name": "Annabelle Wallis",
-          "photo_url": "https://image.tmdb.org/t/p/w185/2ZmO2Zz9TcR0rmSJHOkivcu0heR.jpg"
-        }
-      ],
-      "message_ids": [
-        7544,
-        7545
-      ],
-      "video_message_id": 7545
-    },
-    {
       "tmdb_id": 2355,
       "title": "Reine Sobre Mim",
       "original_title": "Reign Over Me",
@@ -190817,6 +190748,25 @@
                 7546
               ],
               "video_message_id": 7546
+            },
+            {
+              "number": 3,
+              "tmdb_id": 6982738,
+              "title": "Arthur, O Herdeiro Oculto",
+              "air_date": "2026-02-23",
+              "overview": "Surge Arthur, filho de Suzuki, que busca ser reconhecido como filho socioafetivo de Anita. Sua chegada reabre conflitos e transforma a herança em debate sobre identidade.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/9Aj5HwmN5RsUfPSC1QzQmNPA6eH.jpg",
+              "cast": [
+                {
+                  "name": "Camila Appel",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/bV4g3mw6tLJxFWO5NQ9xd3Unz3Z.jpg"
+                }
+              ],
+              "message_ids": [
+                7544,
+                7545
+              ],
+              "video_message_id": 7545
             }
           ]
         }

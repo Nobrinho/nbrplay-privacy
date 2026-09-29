@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-29T05:48:08+00:00",
+  "generated_at": "2026-09-29T05:56:03+00:00",
   "channel": "-1004483833987",
-  "count": 3144,
+  "count": 3145,
   "movie_count": 2796,
   "series_count": 51,
-  "episode_count": 348,
+  "episode_count": 349,
   "custom_count": 0,
   "movies": [
     {
@@ -190767,6 +190767,24 @@
                 7545
               ],
               "video_message_id": 7545
+            },
+            {
+              "number": 5,
+              "tmdb_id": 6982740,
+              "title": "Guerra dos Tronos",
+              "air_date": "2026-02-23",
+              "overview": "Na batalha final, acusações e disputas judiciais decidem quem fala por Anita. Entre afeto, dinheiro e poder, nenhuma versão se impõe como verdade e a história segue longe do fim.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/fQZ548aeiNWh7AHlVdeUf1vlANw.jpg",
+              "cast": [
+                {
+                  "name": "Camila Appel",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/bV4g3mw6tLJxFWO5NQ9xd3Unz3Z.jpg"
+                }
+              ],
+              "message_ids": [
+                7627
+              ],
+              "video_message_id": 7627
             }
           ]
         }

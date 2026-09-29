@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-09-29T03:19:55+00:00",
+  "generated_at": "2026-09-29T03:21:32+00:00",
   "channel": "-1004483833987",
-  "count": 3138,
-  "movie_count": 2803,
+  "count": 3137,
+  "movie_count": 2802,
   "series_count": 49,
   "episode_count": 335,
   "custom_count": 0,
@@ -125610,74 +125610,6 @@
         1283
       ],
       "video_message_id": 1283
-    },
-    {
-      "tmdb_id": 27374,
-      "title": "O Segredo do Lago Mungo",
-      "original_title": "Lake Mungo",
-      "year": "2009",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nMjAKrirIIjpbX9jCSrRKZqLv6R.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5eaS62YjA5Z7WPcf4quyZa5VpeO.jpg",
-      "overview": "Alice Palmer morre acidentalmente num lago local. Depois do corpo ser reconhecido, os pais e o irmão começam a presenciar manifestações sobrenaturais em casa ou nas suas imediações. Começam a surgir várias fotografias e vídeos onde pode-se ver a silhueta da jovem. É iniciada então toda uma investigação paranormal que não só vai abalar a comunidade como vai desvendar o verdadeiro segredo por trás da morte de Alice.",
-      "genres": [
-        "Terror",
-        "Thriller"
-      ],
-      "cast": [
-        {
-          "name": "Rosie Traynor",
-          "photo_url": null
-        },
-        {
-          "name": "David Pledger",
-          "photo_url": null
-        },
-        {
-          "name": "Martin Sharpe",
-          "photo_url": "https://image.tmdb.org/t/p/w185/qWwMvXOt7SBMGAF423hjB6DXjQO.jpg"
-        },
-        {
-          "name": "Talia Zucker",
-          "photo_url": "https://image.tmdb.org/t/p/w185/5F0YrPSvUlY883Id8LftTCbiv0A.jpg"
-        },
-        {
-          "name": "Tania Lentini",
-          "photo_url": null
-        },
-        {
-          "name": "Cameron Strachan",
-          "photo_url": null
-        },
-        {
-          "name": "Judith Roberts",
-          "photo_url": null
-        },
-        {
-          "name": "Robin Cuming",
-          "photo_url": null
-        },
-        {
-          "name": "Marcus Costello",
-          "photo_url": null
-        },
-        {
-          "name": "Chloe Armstrong",
-          "photo_url": null
-        },
-        {
-          "name": "Carole Patullo",
-          "photo_url": null
-        },
-        {
-          "name": "John Dunn",
-          "photo_url": null
-        }
-      ],
-      "message_ids": [
-        7623,
-        7624
-      ],
-      "video_message_id": 7624
     },
     {
       "tmdb_id": 9907,

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-29T04:27:31+00:00",
+  "generated_at": "2026-09-29T04:38:02+00:00",
   "channel": "-1004483833987",
-  "count": 3147,
+  "count": 3148,
   "movie_count": 2802,
-  "series_count": 49,
-  "episode_count": 345,
+  "series_count": 50,
+  "episode_count": 346,
   "custom_count": 0,
   "movies": [
     {
@@ -190999,6 +190999,41 @@
                 6957
               ],
               "video_message_id": 6957
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314973,
+      "title": "O Testamento: O Segredo de Anita Harley",
+      "original_title": "O Testamento: O Segredo de Anita Harley",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bf6r91iS1Qj8myrOpMzJQH6Jz2t.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4Cp1E8DsB2RgRbHLMilNqnoGcN5.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 6981873,
+              "title": "Ausência de Anita",
+              "air_date": "2026-02-23",
+              "overview": "O coma de Anita Harley expõe uma disputa bilionária. Entre hospitais, tribunais e bastidores, versões se chocam enquanto sua história passa a ser contada por outros.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/4Cp1E8DsB2RgRbHLMilNqnoGcN5.jpg",
+              "cast": [
+                {
+                  "name": "Camila Appel",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/bV4g3mw6tLJxFWO5NQ9xd3Unz3Z.jpg"
+                }
+              ],
+              "message_ids": [
+                7546
+              ],
+              "video_message_id": 7546
             }
           ]
         }

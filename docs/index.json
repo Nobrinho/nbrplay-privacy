@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-10-01T22:46:00+00:00",
+  "generated_at": "2026-10-01T22:46:08+00:00",
   "channel": "-1004483833987",
-  "count": 3148,
+  "count": 3150,
   "movie_count": 2795,
   "series_count": 52,
-  "episode_count": 353,
+  "episode_count": 355,
   "custom_count": 0,
   "movies": [
     {
@@ -187699,6 +187699,132 @@
                 7634
               ],
               "video_message_id": 7634
+            },
+            {
+              "number": 3,
+              "tmdb_id": 6485986,
+              "title": "O Julgamento",
+              "air_date": "2026-08-20",
+              "overview": "Dra. Glória enfrenta os fantasmas de seu passado quando se vê obrigada a procurar uma vaga para uma vítima de atropelamento em um hospital público onde trabalhou.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/mC25swIeuTm52htf0ffJj2XJIp4.jpg",
+              "cast": [
+                {
+                  "name": "Yara de Novaes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/oA7HZEiBFUWrfjHj2uTTExklNm9.jpg"
+                },
+                {
+                  "name": "Emílio Dantas",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xCiS1H0D3ljgp64dWDoRcKTzlfq.jpg"
+                },
+                {
+                  "name": "Valentina Herszage",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/QGXJzVxqZPVnRv2RVFVC5RkoSJ.jpg"
+                },
+                {
+                  "name": "Heloísa Jorge",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/i556iRWHSF4bv0wAl36qYNrjdEN.jpg"
+                },
+                {
+                  "name": "Jaffar Bambirra",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qmfHh6irGSVwexuD9MQif0P0biR.jpg"
+                },
+                {
+                  "name": "Ana Hikari",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qEII0xgC0CZoxdvAb5iinEjnvMA.jpg"
+                },
+                {
+                  "name": "William Nascimento",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/wXrex1kLUW8DZmQ9UUndATI2sf9.jpg"
+                },
+                {
+                  "name": "Raquel Villar",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/2i7zDJHZD9SJPiUlYaDXwd5vFtE.jpg"
+                },
+                {
+                  "name": "Emílio de Mello",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/s1Q1hHGzHf5CV4J4CjGcosIyO1E.jpg"
+                },
+                {
+                  "name": "Fernanda Montenegro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/bja0rn1BjAnA5Z5VbEvL2apvMT5.jpg"
+                },
+                {
+                  "name": "Júlia Lemmertz",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/2HfOvUwortpjdejiUE60yCBObEr.jpg"
+                },
+                {
+                  "name": "Antônio Grassi",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/k0XOgdQKbwai9yYKmyFCxXHosId.jpg"
+                }
+              ],
+              "message_ids": [
+                7637,
+                7638
+              ],
+              "video_message_id": 7638
+            },
+            {
+              "number": 7,
+              "tmdb_id": 6515888,
+              "title": "A Culpa",
+              "air_date": "2026-08-27",
+              "overview": "Duda conta a história de seu passado e de seu perfil de conteúdo adulto para Átila e acaba tendo que atender o caso de uma prostituta espancada, uma antiga colega de trabalho.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/ci4dkQJO92Nw61nL62ith4uyj0A.jpg",
+              "cast": [
+                {
+                  "name": "Yara de Novaes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/oA7HZEiBFUWrfjHj2uTTExklNm9.jpg"
+                },
+                {
+                  "name": "Emílio Dantas",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xCiS1H0D3ljgp64dWDoRcKTzlfq.jpg"
+                },
+                {
+                  "name": "Valentina Herszage",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/QGXJzVxqZPVnRv2RVFVC5RkoSJ.jpg"
+                },
+                {
+                  "name": "Heloísa Jorge",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/i556iRWHSF4bv0wAl36qYNrjdEN.jpg"
+                },
+                {
+                  "name": "Jaffar Bambirra",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qmfHh6irGSVwexuD9MQif0P0biR.jpg"
+                },
+                {
+                  "name": "Ana Hikari",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qEII0xgC0CZoxdvAb5iinEjnvMA.jpg"
+                },
+                {
+                  "name": "William Nascimento",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/wXrex1kLUW8DZmQ9UUndATI2sf9.jpg"
+                },
+                {
+                  "name": "Raquel Villar",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/2i7zDJHZD9SJPiUlYaDXwd5vFtE.jpg"
+                },
+                {
+                  "name": "Emílio de Mello",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/s1Q1hHGzHf5CV4J4CjGcosIyO1E.jpg"
+                },
+                {
+                  "name": "Fernanda Montenegro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/bja0rn1BjAnA5Z5VbEvL2apvMT5.jpg"
+                },
+                {
+                  "name": "Júlia Lemmertz",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/2HfOvUwortpjdejiUE60yCBObEr.jpg"
+                },
+                {
+                  "name": "Antônio Grassi",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/k0XOgdQKbwai9yYKmyFCxXHosId.jpg"
+                }
+              ],
+              "message_ids": [
+                7635,
+                7636
+              ],
+              "video_message_id": 7636
             },
             {
               "number": 9,

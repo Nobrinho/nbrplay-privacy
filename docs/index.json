@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-09-29T06:07:14+00:00",
+  "generated_at": "2026-10-01T22:45:55+00:00",
   "channel": "-1004483833987",
-  "count": 3146,
+  "count": 3147,
   "movie_count": 2795,
-  "series_count": 51,
-  "episode_count": 351,
+  "series_count": 52,
+  "episode_count": 352,
   "custom_count": 0,
   "movies": [
     {
@@ -187618,6 +187618,87 @@
                 6784
               ],
               "video_message_id": 6784
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 295410,
+      "title": "Emergência 53",
+      "original_title": "Emergência 53",
+      "poster_url": "https://image.tmdb.org/t/p/w500/swUlmItWlhLrYRoxmT23vAqxODV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4N3gd1g10fZxTgHU9DeoGiMgpOJ.jpg",
+      "genres": [
+        "Drama",
+        "Action & Adventure"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 9,
+              "tmdb_id": 7648853,
+              "title": "A Canção",
+              "air_date": "2026-08-27",
+              "overview": "Ao atender o caso de um homem surtado que esfaqueia um noivo e toma a noiva de refém, Manu lembra da história de seu irmão, vítima de um sequestro, e da enfermeira que cuidou dele.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/4N3gd1g10fZxTgHU9DeoGiMgpOJ.jpg",
+              "cast": [
+                {
+                  "name": "Yara de Novaes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/oA7HZEiBFUWrfjHj2uTTExklNm9.jpg"
+                },
+                {
+                  "name": "Emílio Dantas",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xCiS1H0D3ljgp64dWDoRcKTzlfq.jpg"
+                },
+                {
+                  "name": "Valentina Herszage",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/QGXJzVxqZPVnRv2RVFVC5RkoSJ.jpg"
+                },
+                {
+                  "name": "Heloísa Jorge",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/i556iRWHSF4bv0wAl36qYNrjdEN.jpg"
+                },
+                {
+                  "name": "Jaffar Bambirra",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qmfHh6irGSVwexuD9MQif0P0biR.jpg"
+                },
+                {
+                  "name": "Ana Hikari",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qEII0xgC0CZoxdvAb5iinEjnvMA.jpg"
+                },
+                {
+                  "name": "William Nascimento",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/wXrex1kLUW8DZmQ9UUndATI2sf9.jpg"
+                },
+                {
+                  "name": "Raquel Villar",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/2i7zDJHZD9SJPiUlYaDXwd5vFtE.jpg"
+                },
+                {
+                  "name": "Emílio de Mello",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/s1Q1hHGzHf5CV4J4CjGcosIyO1E.jpg"
+                },
+                {
+                  "name": "Fernanda Montenegro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/bja0rn1BjAnA5Z5VbEvL2apvMT5.jpg"
+                },
+                {
+                  "name": "Júlia Lemmertz",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/2HfOvUwortpjdejiUE60yCBObEr.jpg"
+                },
+                {
+                  "name": "Antônio Grassi",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/k0XOgdQKbwai9yYKmyFCxXHosId.jpg"
+                }
+              ],
+              "message_ids": [
+                7631,
+                7632
+              ],
+              "video_message_id": 7632
             }
           ]
         }

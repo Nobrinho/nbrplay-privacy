@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-10-01T22:46:12+00:00",
+  "generated_at": "2026-10-01T22:46:18+00:00",
   "channel": "-1004483833987",
-  "count": 3151,
+  "count": 3154,
   "movie_count": 2795,
   "series_count": 52,
-  "episode_count": 356,
+  "episode_count": 359,
   "custom_count": 0,
   "movies": [
     {
@@ -187628,7 +187628,7 @@
       "title": "Emergência 53",
       "original_title": "Emergência 53",
       "poster_url": "https://image.tmdb.org/t/p/w500/swUlmItWlhLrYRoxmT23vAqxODV.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/7y9cb6ADGegPTZGR87BAWXaaVVc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cNvLTOEOBJ6IXukr9qDJeZUhDzm.jpg",
       "genres": [
         "Drama",
         "Action & Adventure"
@@ -187637,6 +187637,69 @@
         {
           "number": 1,
           "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 6360642,
+              "title": "A Novata",
+              "air_date": "2026-08-20",
+              "overview": "Manu, uma enfermeira novata, consegue estágio na Unidade 53, comandada pela Dra. Irene. Elas saem em um atendimento em uma comunidade, onde uma van colidiu com uma birosca.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/cNvLTOEOBJ6IXukr9qDJeZUhDzm.jpg",
+              "cast": [
+                {
+                  "name": "Yara de Novaes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/oA7HZEiBFUWrfjHj2uTTExklNm9.jpg"
+                },
+                {
+                  "name": "Emílio Dantas",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xCiS1H0D3ljgp64dWDoRcKTzlfq.jpg"
+                },
+                {
+                  "name": "Valentina Herszage",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/QGXJzVxqZPVnRv2RVFVC5RkoSJ.jpg"
+                },
+                {
+                  "name": "Heloísa Jorge",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/i556iRWHSF4bv0wAl36qYNrjdEN.jpg"
+                },
+                {
+                  "name": "Jaffar Bambirra",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qmfHh6irGSVwexuD9MQif0P0biR.jpg"
+                },
+                {
+                  "name": "Ana Hikari",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qEII0xgC0CZoxdvAb5iinEjnvMA.jpg"
+                },
+                {
+                  "name": "William Nascimento",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/wXrex1kLUW8DZmQ9UUndATI2sf9.jpg"
+                },
+                {
+                  "name": "Raquel Villar",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/2i7zDJHZD9SJPiUlYaDXwd5vFtE.jpg"
+                },
+                {
+                  "name": "Emílio de Mello",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/s1Q1hHGzHf5CV4J4CjGcosIyO1E.jpg"
+                },
+                {
+                  "name": "Fernanda Montenegro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/bja0rn1BjAnA5Z5VbEvL2apvMT5.jpg"
+                },
+                {
+                  "name": "Júlia Lemmertz",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/2HfOvUwortpjdejiUE60yCBObEr.jpg"
+                },
+                {
+                  "name": "Antônio Grassi",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/k0XOgdQKbwai9yYKmyFCxXHosId.jpg"
+                }
+              ],
+              "message_ids": [
+                7641,
+                7642
+              ],
+              "video_message_id": 7642
+            },
             {
               "number": 2,
               "tmdb_id": 6481939,
@@ -187762,6 +187825,132 @@
                 7638
               ],
               "video_message_id": 7638
+            },
+            {
+              "number": 5,
+              "tmdb_id": 6491083,
+              "title": "O Monstro",
+              "air_date": "2026-08-20",
+              "overview": "Atendendo a um caso de uma mulher espancada por seu marido, um militar ciumento, Átila enfrenta traumas do passado, quando era enfermeiro do exército em uma missão na floresta.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/uLXR7ejbqd0GnEfFjeVii1nTlsr.jpg",
+              "cast": [
+                {
+                  "name": "Yara de Novaes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/oA7HZEiBFUWrfjHj2uTTExklNm9.jpg"
+                },
+                {
+                  "name": "Emílio Dantas",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xCiS1H0D3ljgp64dWDoRcKTzlfq.jpg"
+                },
+                {
+                  "name": "Valentina Herszage",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/QGXJzVxqZPVnRv2RVFVC5RkoSJ.jpg"
+                },
+                {
+                  "name": "Heloísa Jorge",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/i556iRWHSF4bv0wAl36qYNrjdEN.jpg"
+                },
+                {
+                  "name": "Jaffar Bambirra",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qmfHh6irGSVwexuD9MQif0P0biR.jpg"
+                },
+                {
+                  "name": "Ana Hikari",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qEII0xgC0CZoxdvAb5iinEjnvMA.jpg"
+                },
+                {
+                  "name": "William Nascimento",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/wXrex1kLUW8DZmQ9UUndATI2sf9.jpg"
+                },
+                {
+                  "name": "Raquel Villar",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/2i7zDJHZD9SJPiUlYaDXwd5vFtE.jpg"
+                },
+                {
+                  "name": "Emílio de Mello",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/s1Q1hHGzHf5CV4J4CjGcosIyO1E.jpg"
+                },
+                {
+                  "name": "Fernanda Montenegro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/bja0rn1BjAnA5Z5VbEvL2apvMT5.jpg"
+                },
+                {
+                  "name": "Júlia Lemmertz",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/2HfOvUwortpjdejiUE60yCBObEr.jpg"
+                },
+                {
+                  "name": "Antônio Grassi",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/k0XOgdQKbwai9yYKmyFCxXHosId.jpg"
+                }
+              ],
+              "message_ids": [
+                7643,
+                7644
+              ],
+              "video_message_id": 7644
+            },
+            {
+              "number": 6,
+              "tmdb_id": 6505723,
+              "title": "O Louco",
+              "air_date": "2026-08-20",
+              "overview": "Dr. Pedro, um cirurgião bipolar, lembra de sua infância com sua mãe doente, ao atender um chamado de um garoto que encontra sua mãe desacordada em um apartamento.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/4g4RhlB1zlgk594sVtMUCfV5x7n.jpg",
+              "cast": [
+                {
+                  "name": "Yara de Novaes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/oA7HZEiBFUWrfjHj2uTTExklNm9.jpg"
+                },
+                {
+                  "name": "Emílio Dantas",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xCiS1H0D3ljgp64dWDoRcKTzlfq.jpg"
+                },
+                {
+                  "name": "Valentina Herszage",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/QGXJzVxqZPVnRv2RVFVC5RkoSJ.jpg"
+                },
+                {
+                  "name": "Heloísa Jorge",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/i556iRWHSF4bv0wAl36qYNrjdEN.jpg"
+                },
+                {
+                  "name": "Jaffar Bambirra",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qmfHh6irGSVwexuD9MQif0P0biR.jpg"
+                },
+                {
+                  "name": "Ana Hikari",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qEII0xgC0CZoxdvAb5iinEjnvMA.jpg"
+                },
+                {
+                  "name": "William Nascimento",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/wXrex1kLUW8DZmQ9UUndATI2sf9.jpg"
+                },
+                {
+                  "name": "Raquel Villar",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/2i7zDJHZD9SJPiUlYaDXwd5vFtE.jpg"
+                },
+                {
+                  "name": "Emílio de Mello",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/s1Q1hHGzHf5CV4J4CjGcosIyO1E.jpg"
+                },
+                {
+                  "name": "Fernanda Montenegro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/bja0rn1BjAnA5Z5VbEvL2apvMT5.jpg"
+                },
+                {
+                  "name": "Júlia Lemmertz",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/2HfOvUwortpjdejiUE60yCBObEr.jpg"
+                },
+                {
+                  "name": "Antônio Grassi",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/k0XOgdQKbwai9yYKmyFCxXHosId.jpg"
+                }
+              ],
+              "message_ids": [
+                7645,
+                7646
+              ],
+              "video_message_id": 7646
             },
             {
               "number": 7,

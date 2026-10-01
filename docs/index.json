@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-01T23:17:23+00:00",
+  "generated_at": "2026-10-01T23:28:40+00:00",
   "channel": "-1004483833987",
-  "count": 3155,
-  "movie_count": 2796,
+  "count": 3154,
+  "movie_count": 2795,
   "series_count": 52,
   "episode_count": 359,
   "custom_count": 0,
@@ -14137,69 +14137,6 @@
         6332
       ],
       "video_message_id": 6332
-    },
-    {
-      "tmdb_id": 295410,
-      "title": "A Promessa",
-      "original_title": "Obietnica",
-      "year": "2014",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xdYNtG3IlE7nMtZF3t4DkOAT5Ex.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/59hch4FsZgXLJpt2Qa1O2WMWevC.jpg",
-      "overview": "O mundo de Lila vira de cabeça para baixo quando a temperamental e enigmática adolescente descobre que seu namorado, Janek, beijou outra em uma festa. A jovem fica chocada com a notícia, pois o que sente pelo namorado é muito real, e ela confia nele mais do que tudo no mundo. Pouco antes do fim das aulas, Lila decide dar a Janek um ultimato macabro: ele tem 24 horas para fazer algo extremo que prove seu verdadeiro amor por ela. Caso não consiga, ele pode esquecê-la para sempre.",
-      "genres": [
-        "Drama"
-      ],
-      "cast": [
-        {
-          "name": "Eliza Rycembel",
-          "photo_url": "https://image.tmdb.org/t/p/w185/gADocFPKyc8PmGw8cuc9S3vmBhg.jpg"
-        },
-        {
-          "name": "Mateusz Więcławek",
-          "photo_url": "https://image.tmdb.org/t/p/w185/zhZeFgDuvxQGfCEcKvCzr9FJJqq.jpg"
-        },
-        {
-          "name": "Magdalena Popławska",
-          "photo_url": "https://image.tmdb.org/t/p/w185/f1bz0HdPPwZuQA73WoJkRzxASjf.jpg"
-        },
-        {
-          "name": "Dawid Ogrodnik",
-          "photo_url": "https://image.tmdb.org/t/p/w185/8knKNmMFjc7uqyXXkDEfVKYURqi.jpg"
-        },
-        {
-          "name": "Andrzej Chyra",
-          "photo_url": "https://image.tmdb.org/t/p/w185/md1w26RncjcM3KHTTDnYtgC1rme.jpg"
-        },
-        {
-          "name": "Małgorzata Klara",
-          "photo_url": "https://image.tmdb.org/t/p/w185/aOpwXHLkh2KrctgTX7cD7Cs1QN0.jpg"
-        },
-        {
-          "name": "Jowita Budnik",
-          "photo_url": "https://image.tmdb.org/t/p/w185/7ymC2EMPGDP4uw4AfTVHiFCafR3.jpg"
-        },
-        {
-          "name": "Bartłomiej Topa",
-          "photo_url": "https://image.tmdb.org/t/p/w185/92X5zMr0xZO6Y76LrjJWKLgnp5O.jpg"
-        },
-        {
-          "name": "Nikodem Rozbicki",
-          "photo_url": "https://image.tmdb.org/t/p/w185/cEgbAnDOfVo5HTgdhmzULcXkc2h.jpg"
-        },
-        {
-          "name": "Stine Stengade",
-          "photo_url": "https://image.tmdb.org/t/p/w185/pDfD4IwsYGYerUXVMdFtgcepSOL.jpg"
-        },
-        {
-          "name": "Andrzej Konopka",
-          "photo_url": "https://image.tmdb.org/t/p/w185/3QoIbqsBXj9Si1kuGOl0YCxM52v.jpg"
-        }
-      ],
-      "message_ids": [
-        7647,
-        7648
-      ],
-      "video_message_id": 7648
     },
     {
       "tmdb_id": 16608,

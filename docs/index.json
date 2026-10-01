@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-10-01T23:28:40+00:00",
+  "generated_at": "2026-10-01T23:29:06+00:00",
   "channel": "-1004483833987",
-  "count": 3154,
+  "count": 3155,
   "movie_count": 2795,
   "series_count": 52,
-  "episode_count": 359,
+  "episode_count": 360,
   "custom_count": 0,
   "movies": [
     {
@@ -188140,6 +188140,69 @@
                 7632
               ],
               "video_message_id": 7632
+            },
+            {
+              "number": 10,
+              "tmdb_id": 7648855,
+              "title": "Mal de Família",
+              "air_date": "2026-08-27",
+              "overview": "Em uma noite chuvosa, um desabamento de terra deixa o carro de uma família soterrado. Irene vai ter que reunir a equipe da Unidade 53 para salvar todas as vítimas desse acidente.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/4zpPL930RNp3cPRXfCM5o3h7KbK.jpg",
+              "cast": [
+                {
+                  "name": "Yara de Novaes",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/oA7HZEiBFUWrfjHj2uTTExklNm9.jpg"
+                },
+                {
+                  "name": "Emílio Dantas",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xCiS1H0D3ljgp64dWDoRcKTzlfq.jpg"
+                },
+                {
+                  "name": "Valentina Herszage",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/QGXJzVxqZPVnRv2RVFVC5RkoSJ.jpg"
+                },
+                {
+                  "name": "Heloísa Jorge",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/i556iRWHSF4bv0wAl36qYNrjdEN.jpg"
+                },
+                {
+                  "name": "Jaffar Bambirra",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qmfHh6irGSVwexuD9MQif0P0biR.jpg"
+                },
+                {
+                  "name": "Ana Hikari",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/qEII0xgC0CZoxdvAb5iinEjnvMA.jpg"
+                },
+                {
+                  "name": "William Nascimento",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/wXrex1kLUW8DZmQ9UUndATI2sf9.jpg"
+                },
+                {
+                  "name": "Raquel Villar",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/2i7zDJHZD9SJPiUlYaDXwd5vFtE.jpg"
+                },
+                {
+                  "name": "Emílio de Mello",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/s1Q1hHGzHf5CV4J4CjGcosIyO1E.jpg"
+                },
+                {
+                  "name": "Fernanda Montenegro",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/bja0rn1BjAnA5Z5VbEvL2apvMT5.jpg"
+                },
+                {
+                  "name": "Júlia Lemmertz",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/2HfOvUwortpjdejiUE60yCBObEr.jpg"
+                },
+                {
+                  "name": "Antônio Grassi",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/k0XOgdQKbwai9yYKmyFCxXHosId.jpg"
+                }
+              ],
+              "message_ids": [
+                7651,
+                7652
+              ],
+              "video_message_id": 7652
             }
           ]
         }

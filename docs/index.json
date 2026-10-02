@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-10-02T04:28:20+00:00",
+  "generated_at": "2026-10-02T04:28:48+00:00",
   "channel": "-1004483833987",
-  "count": 3174,
+  "count": 3175,
   "movie_count": 2806,
   "series_count": 54,
-  "episode_count": 368,
+  "episode_count": 369,
   "custom_count": 0,
   "movies": [
     {
@@ -190026,6 +190026,32 @@
                 7686
               ],
               "video_message_id": 7686
+            },
+            {
+              "number": 8,
+              "tmdb_id": 2832752,
+              "title": "A VERDADE",
+              "air_date": "2021-04-29",
+              "overview": "Mark precisa provar que ele se tornou o herói que sempre quis ser parando uma força imparável.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/ijDV8Z23iR5B2ftx0WggiXbfqGi.jpg",
+              "cast": [
+                {
+                  "name": "Steven Yeun",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
+                },
+                {
+                  "name": "Sandra Oh",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zU8vjebHxcP60ESEL5Ok68KWZvj.jpg"
+                },
+                {
+                  "name": "J.K. Simmons",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+                }
+              ],
+              "message_ids": [
+                7687
+              ],
+              "video_message_id": 7687
             }
           ]
         }

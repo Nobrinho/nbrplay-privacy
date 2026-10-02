@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-10-02T01:14:57+00:00",
+  "generated_at": "2026-10-02T01:37:41+00:00",
   "channel": "-1004483833987",
   "count": 3167,
-  "movie_count": 2805,
-  "series_count": 52,
-  "episode_count": 362,
+  "movie_count": 2804,
+  "series_count": 53,
+  "episode_count": 363,
   "custom_count": 0,
   "movies": [
     {
@@ -42720,23 +42720,6 @@
         7030
       ],
       "video_message_id": 7030
-    },
-    {
-      "tmdb_id": 887314,
-      "title": "Comizi d’amore ’80 - episodio 2",
-      "original_title": "Comizi d’amore ’80 - episodio 2",
-      "year": "1982",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": "Series inspired by Pier Paolo Pasolini’s Comizi d’amore. This time, Italian people are confronted with though questions about sex before marriage, extramarital affairs and homosexuality.",
-      "genres": [
-        "Documentário"
-      ],
-      "cast": [],
-      "message_ids": [
-        7404
-      ],
-      "video_message_id": 7404
     },
     {
       "tmdb_id": 1017633,
@@ -192116,6 +192099,37 @@
                 7627
               ],
               "video_message_id": 7627
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 328735,
+      "title": "Os Assassinatos de Idaho: Pesadelo Universitário",
+      "original_title": "The Idaho Murders: College Nightmare",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2Fjgxlv2ishFAaYYZLa6jccswbq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tD1scHVggGhnlcb14Jw3Ral3TGl.jpg",
+      "genres": [
+        "Documentário",
+        "Crime"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 2,
+              "tmdb_id": 7535441,
+              "title": "O invasor",
+              "air_date": "2026-07-29",
+              "overview": "Com a polícia analisando as provas e imagens das câmeras, o caso gera comoção nacional. Na ausência de respostas, os boatos correm soltos.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/tD1scHVggGhnlcb14Jw3Ral3TGl.jpg",
+              "cast": [],
+              "message_ids": [
+                7404
+              ],
+              "video_message_id": 7404
             }
           ]
         }

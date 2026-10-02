@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-02T01:02:21+00:00",
+  "generated_at": "2026-10-02T01:02:56+00:00",
   "channel": "-1004483833987",
-  "count": 3162,
-  "movie_count": 2801,
+  "count": 3163,
+  "movie_count": 2802,
   "series_count": 52,
   "episode_count": 361,
   "custom_count": 0,
@@ -41588,6 +41588,73 @@
         945
       ],
       "video_message_id": 945
+    },
+    {
+      "tmdb_id": 12400,
+      "title": "Cinturão Vermelho",
+      "original_title": "Redbelt",
+      "year": "2008",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qZf5ZO64vP5ldooMqRbG9N3x1ts.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xmFmlYj7tmUrkI3lztP6Zxh3u9G.jpg",
+      "overview": "Mike Terry (Chiwetel Ejiofor) é um professor de jiu-jitsu que evitou o circuito de premiação, preferindo cuidar de uma academia de defesa pessoal e seguir o código de um samurai. Ele e sua esposa Sondra (Alice Braga) lutam para manter o negócio em funcionamento, mesmo que renda o mínimo possível. Até que um acidente do lado de fora da academia, entre o oficial de folga Joe Collins (Max Martini) e a advogada Laura Black (Emilly Mortimer), provoca uma grande mudança na vida de Mike.",
+      "genres": [
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Chiwetel Ejiofor",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+        },
+        {
+          "name": "Tim Allen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/k8XPNHBO459FaqkqqM4tfX5GMKk.jpg"
+        },
+        {
+          "name": "Alice Braga",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d9JdgvUiqyWuGQLmozNfGZOpIBz.jpg"
+        },
+        {
+          "name": "Jose Pablo Cantillo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qtNesvN1bAQ779gJBt3LYDsm8f7.jpg"
+        },
+        {
+          "name": "Randy Couture",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pmdPaQBWufFVwVxJYofLcERZr1l.jpg"
+        },
+        {
+          "name": "Ricky Jay",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aIRux5DCFQn1lcZa1lclWBT3kgR.jpg"
+        },
+        {
+          "name": "Joe Mantegna",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4jzvAE6B1eoiZDUnDUuMazirCPP.jpg"
+        },
+        {
+          "name": "Max Martini",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gehOxb2cgNjcRnbAxaCUnFFJvAY.jpg"
+        },
+        {
+          "name": "Emily Mortimer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oZ4CZW2eW8lL2alD1mwZrFkfACI.jpg"
+        },
+        {
+          "name": "David Paymer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/owoOdDFgXpls1OFKwmQ104Nkl5.jpg"
+        },
+        {
+          "name": "Rebecca Pidgeon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/c8nJjBpB7zYtdnEY1GNPtUSophZ.jpg"
+        },
+        {
+          "name": "Rodrigo Santoro",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d3MaF9SPHDn2PMYHuqdnO0Csik6.jpg"
+        }
+      ],
+      "message_ids": [
+        7666,
+        7667
+      ],
+      "video_message_id": 7667
     },
     {
       "tmdb_id": 1413976,

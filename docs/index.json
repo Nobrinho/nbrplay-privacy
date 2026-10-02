@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-02T01:03:14+00:00",
+  "generated_at": "2026-10-02T01:04:00+00:00",
   "channel": "-1004483833987",
-  "count": 3165,
-  "movie_count": 2804,
+  "count": 3166,
+  "movie_count": 2805,
   "series_count": 52,
   "episode_count": 361,
   "custom_count": 0,
@@ -99165,6 +99165,77 @@
         510
       ],
       "video_message_id": 510
+    },
+    {
+      "tmdb_id": 1315772,
+      "title": "Minions & Monstros",
+      "original_title": "Minions & Monsters",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hTowtXrkCY7FJyoj4p91JckrJSE.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "overview": "Esta é a frenética, ridícula e totalmente verdadeira história de como os Minions conquistaram Hollywood, se tornaram estrelas de cinema, perderam tudo, libertaram monstros pelo mundo e, depois, se uniram para tentar salvar o planeta do caos que eles mesmos haviam acabado de criar.",
+      "genres": [
+        "Aventura",
+        "Animação",
+        "Comédia",
+        "Família",
+        "Fantasia"
+      ],
+      "cast": [
+        {
+          "name": "Pierre Coffin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eAA9uWRqHlm1LT3nZfXb7UuPfVb.jpg"
+        },
+        {
+          "name": "Trey Parker",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3tJe8t90lrcQzXj9cRcpW9wmj2c.jpg"
+        },
+        {
+          "name": "Christoph Waltz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jMvLGCVXLaBqjRLf5olyvEucZob.jpg"
+        },
+        {
+          "name": "Allison Janney",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kSaSnQ9xU8eVNL0mTppab95dZA8.jpg"
+        },
+        {
+          "name": "Jesse Eisenberg",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2ojZrkt5rdkUi857WSeCatxXdGS.jpg"
+        },
+        {
+          "name": "Jeff Bridges",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
+        },
+        {
+          "name": "Zoey Deutch",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cpKcORQx7QquIy1ZZvEy8LEVLr2.jpg"
+        },
+        {
+          "name": "Bobby Moynihan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
+        },
+        {
+          "name": "Phil LaMarr",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+        },
+        {
+          "name": "George Lucas",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mDLDvsx8PaZoEThkBdyaG1JxPdf.jpg"
+        },
+        {
+          "name": "Barbara Eve Harris",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1WcoqAQn7KN0MadAWA5xebyt9bd.jpg"
+        },
+        {
+          "name": "Eric Bauza",
+          "photo_url": "https://image.tmdb.org/t/p/w185/afOlsVPQxbtkom604MeCemjlwEV.jpg"
+        }
+      ],
+      "message_ids": [
+        7672,
+        7673
+      ],
+      "video_message_id": 7673
     },
     {
       "tmdb_id": 438148,

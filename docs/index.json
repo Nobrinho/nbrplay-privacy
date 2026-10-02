@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-02T01:03:08+00:00",
+  "generated_at": "2026-10-02T01:03:14+00:00",
   "channel": "-1004483833987",
-  "count": 3164,
-  "movie_count": 2803,
+  "count": 3165,
+  "movie_count": 2804,
   "series_count": 52,
   "episode_count": 361,
   "custom_count": 0,
@@ -65598,6 +65598,75 @@
         1263
       ],
       "video_message_id": 1263
+    },
+    {
+      "tmdb_id": 76758,
+      "title": "Flores do Oriente",
+      "original_title": "金陵十三釵",
+      "year": "2011",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6OBhpnPcL7kHX8KW8l5n603TNbC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ca0a79cbCGWJdan3SEBKkQBSwKi.jpg",
+      "overview": "Em 1937, Nanquim encontra-se na frente de batalha entre China e Japão. Enquanto o exército imperial japonês invade a capital da China, os habitantes desesperados procuram refúgio atrás dos muros de uma catedral ocidental. Ali, John Miller (Christian Bale), um americano preso no meio do caos da batalha e da ocupação que se segue abriga-se, seguido por um grupo de estudantes inocentes e quatorze prostitutas, igualmente determinadas a fugir dos horrores que ocorrem do lado de fora da catedral. Lutando para sobreviver à violência e perseguição do exército japonês, um ato de heroísmo acaba levando um grupo aparentemente discrepante, a arriscar suas vidas pelo bem de todos.",
+      "genres": [
+        "Drama",
+        "História",
+        "Guerra"
+      ],
+      "cast": [
+        {
+          "name": "Christian Bale",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+        },
+        {
+          "name": "倪妮",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vKDj4szquQSnp7TIJ6VSXUO6B0f.jpg"
+        },
+        {
+          "name": "张歆怡",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tCmbICMC5qlldY3oR07nqc42snW.jpg"
+        },
+        {
+          "name": "黄天元",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5vNMb1y88ol7yzqoS4FA9lEWmn4.jpg"
+        },
+        {
+          "name": "韩熙庭",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tRNoKZ4Ewh9DIaCu1xUqEVrdTa5.jpg"
+        },
+        {
+          "name": "张逗逗",
+          "photo_url": "https://image.tmdb.org/t/p/w185/me4Bqk4o7PhmsqVAkxpinqUCMOu.jpg"
+        },
+        {
+          "name": "佟大为",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rU2KjybHgkoeNeuLwoh5dYn6E2M.jpg"
+        },
+        {
+          "name": "曹可凡",
+          "photo_url": "https://image.tmdb.org/t/p/w185/k8E4gDTLOMjfUl7KssxXsdjH1bS.jpg"
+        },
+        {
+          "name": "渡部篤郎",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nhG7XVt3QfNgQQHnetBUJvfv79Q.jpg"
+        },
+        {
+          "name": "袁杨纯子",
+          "photo_url": "https://image.tmdb.org/t/p/w185/t4yUe3XFl4uXIw3OFoc73Wok4pQ.jpg"
+        },
+        {
+          "name": "孙佳",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eA7hRQ9B1tEJvL3isED9QL2fMPy.jpg"
+        },
+        {
+          "name": "李玥敏",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uiyqGHPbXXcjnDp6p0o7cG0N6xi.jpg"
+        }
+      ],
+      "message_ids": [
+        7670,
+        7671
+      ],
+      "video_message_id": 7671
     },
     {
       "tmdb_id": 84087,

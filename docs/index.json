@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-02T01:04:00+00:00",
+  "generated_at": "2026-10-02T01:07:21+00:00",
   "channel": "-1004483833987",
-  "count": 3166,
-  "movie_count": 2805,
+  "count": 3167,
+  "movie_count": 2806,
   "series_count": 52,
   "episode_count": 361,
   "custom_count": 0,
@@ -180333,6 +180333,75 @@
         6690
       ],
       "video_message_id": 6690
+    },
+    {
+      "tmdb_id": 818721,
+      "title": "Visões",
+      "original_title": "Visions",
+      "year": "2023",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ri54sRKimZO0HmzjKnyzUshGZDK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/t0WFxaoKHptUN6MUagdR5xZqf0X.jpg",
+      "overview": "Uma brilhante comandante, Estelle, tem uma vida perfeita com o marido Guillaume, um médico renomado. Mas algo está prestes a mudar quando Estelle reencontra Ana, um amor de 20 anos atrás.",
+      "genres": [
+        "Thriller",
+        "Mistério",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Diane Kruger",
+          "photo_url": "https://image.tmdb.org/t/p/w185/o5gVowcjVw4ThYi0L3883Y4X7kH.jpg"
+        },
+        {
+          "name": "Marta Nieto",
+          "photo_url": "https://image.tmdb.org/t/p/w185/59261r4l1nqgdnvRPmmCBa7y98M.jpg"
+        },
+        {
+          "name": "Mathieu Kassovitz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3FRBEdKKlxhvPWPt0jzgmSjeHwn.jpg"
+        },
+        {
+          "name": "Amira Casar",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lTvuFkDI67DA68mLEjF8Tvrza6E.jpg"
+        },
+        {
+          "name": "Aleksandra Yermak",
+          "photo_url": "https://image.tmdb.org/t/p/w185/q5u6PLb02ctwWHb5INPC7l34wbn.jpg"
+        },
+        {
+          "name": "Adrien Malvoisin",
+          "photo_url": null
+        },
+        {
+          "name": "Yun Lai",
+          "photo_url": "https://image.tmdb.org/t/p/w185/78gHELddtW2Gg8N2Nf8XtPIpbOT.jpg"
+        },
+        {
+          "name": "Grégory Fitoussi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2jK6RptdXhIzi4HWufj1p4oPlCw.jpg"
+        },
+        {
+          "name": "Élodie Navarre",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8QrnJmYiI1fh6vyqmKkRfOlS1vb.jpg"
+        },
+        {
+          "name": "Romain Fleury",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xPkfJH8t1Lc89vl39lc7IDM0Pka.jpg"
+        },
+        {
+          "name": "Paco Perez",
+          "photo_url": null
+        },
+        {
+          "name": "Nathalie Richard",
+          "photo_url": "https://image.tmdb.org/t/p/w185/299hXLV3NikHBGFm7J2iIO3c699.jpg"
+        }
+      ],
+      "message_ids": [
+        7674,
+        7675
+      ],
+      "video_message_id": 7675
     },
     {
       "tmdb_id": 354912,

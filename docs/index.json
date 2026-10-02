@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-02T01:00:45+00:00",
+  "generated_at": "2026-10-02T01:01:21+00:00",
   "channel": "-1004483833987",
-  "count": 3159,
-  "movie_count": 2798,
+  "count": 3160,
+  "movie_count": 2799,
   "series_count": 52,
   "episode_count": 361,
   "custom_count": 0,
@@ -23312,6 +23312,75 @@
         3479
       ],
       "video_message_id": 3479
+    },
+    {
+      "tmdb_id": 776047,
+      "title": "Angie: Garotas Perdidas",
+      "original_title": "Angie: Lost Girls",
+      "year": "2020",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wxFGebAxXTQBEyuepPB2MUm88JQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ebfFKkDgd7dey4Tky1Os2bLhmi8.jpg",
+      "overview": "Angie é uma adolescente que consegue escapar de uma rede de tráfico sexual, mas sente uma enorme dificuldade em se reconectar consigo mesmo e com sua família.",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime",
+        "Cinema TV"
+      ],
+      "cast": [
+        {
+          "name": "Olivia D'Abo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sQTqkjNyUSl25cIDr8xhjmO4DhA.jpg"
+        },
+        {
+          "name": "Randall Batinkoff",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tq4njPdsUNXjnIAnPetT6B423BW.jpg"
+        },
+        {
+          "name": "Jane Widdop",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wn9jiMFSUZVtlVYwmBFT7WuNcyx.jpg"
+        },
+        {
+          "name": "Dylan Sprayberry",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aQvC4qmW6z4mJj5Fxb5ar1MNsyD.jpg"
+        },
+        {
+          "name": "Anthony Montgomery",
+          "photo_url": "https://image.tmdb.org/t/p/w185/56nYKjXlm8lii2HvS3x5xePye8o.jpg"
+        },
+        {
+          "name": "Betzaida Landín",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6ZMhy5QxQAD6U0iRME5psZTO4Rb.jpg"
+        },
+        {
+          "name": "Cherie Jimenez",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dRJ36CZwN7Lcw8vDduKrNOCPZa.jpg"
+        },
+        {
+          "name": "MC Lyte",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pd75jVczctC2EsHghfeSyLpChqj.jpg"
+        },
+        {
+          "name": "Marty Dew",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fideJLyM4ToEZ0ro1OBXAo0VOWR.jpg"
+        },
+        {
+          "name": "Amin Joseph",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kTr5Lf7NUullsj0g1klTOScwzRp.jpg"
+        },
+        {
+          "name": "Lindsey Da Sylveira",
+          "photo_url": null
+        },
+        {
+          "name": "Sharmita Bhattacharya",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dCfCXkGhrMACbSeGk250bli6qDA.jpg"
+        }
+      ],
+      "message_ids": [
+        7661
+      ],
+      "video_message_id": 7661
     },
     {
       "tmdb_id": 259316,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-01T23:42:16+00:00",
+  "generated_at": "2026-10-02T01:00:21+00:00",
   "channel": "-1004483833987",
-  "count": 3156,
-  "movie_count": 2795,
+  "count": 3157,
+  "movie_count": 2796,
   "series_count": 52,
   "episode_count": 361,
   "custom_count": 0,
@@ -13605,6 +13605,59 @@
         402
       ],
       "video_message_id": 402
+    },
+    {
+      "tmdb_id": 823491,
+      "title": "A Origem do Medo",
+      "original_title": "Out of Darkness",
+      "year": "2024",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pvNt9jU7nxuWvotYkFqK1WZKioS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hGDNYyED9uJVtROtp2K7ukF0jTz.jpg",
+      "overview": "Há cerca de 45 mil anos, um grupo desesperado de humanos primitivos encontra uma nova terra para se estabelecer. Quando começam a perceber que algo monstruoso os está perseguindo, eles enfrentam um perigo terrível que nunca poderiam ter imaginado.",
+      "genres": [
+        "Aventura",
+        "Terror",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Safia Oakley-Green",
+          "photo_url": "https://image.tmdb.org/t/p/w185/k4JrjdSIfwWF1Qd5KHChDfnXpF2.jpg"
+        },
+        {
+          "name": "Kit Young",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6wL0uEnRJsY67NCAj5KpmGkgr2A.jpg"
+        },
+        {
+          "name": "Chuku Modu",
+          "photo_url": "https://image.tmdb.org/t/p/w185/taoknxCAJcuzn71YKbCqc4hsYyR.jpg"
+        },
+        {
+          "name": "Iola Evans",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kMv8I64RhMFfM1dB64G57td90DA.jpg"
+        },
+        {
+          "name": "Arno Luening",
+          "photo_url": "https://image.tmdb.org/t/p/w185/73bMnBsZ23IsrEzOmJcI2UvxnOl.jpg"
+        },
+        {
+          "name": "Luna Mwezi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iRtPItdhExFnxKgmeuotDRerxY0.jpg"
+        },
+        {
+          "name": "Rosebud Melarkey",
+          "photo_url": null
+        },
+        {
+          "name": "Tyrell Mhlanga",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7655,
+        7656
+      ],
+      "video_message_id": 7656
     },
     {
       "tmdb_id": 73,

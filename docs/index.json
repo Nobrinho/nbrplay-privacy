@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-02T01:02:56+00:00",
+  "generated_at": "2026-10-02T01:03:08+00:00",
   "channel": "-1004483833987",
-  "count": 3163,
-  "movie_count": 2802,
+  "count": 3164,
+  "movie_count": 2803,
   "series_count": 52,
   "episode_count": 361,
   "custom_count": 0,
@@ -7328,6 +7328,76 @@
         6252
       ],
       "video_message_id": 6252
+    },
+    {
+      "tmdb_id": 382748,
+      "title": "A Extraordinária Garota Chamada Estrela",
+      "original_title": "Stargirl",
+      "year": "2020",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zYvD1TZfGF2RHe1078MULl78nsV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hX3kteYoGqvoPpSlqg6nryFL6xR.jpg",
+      "overview": "Leo Borlock, é um estudante mediano da Mica High School. Ele tira notas decentes, é membro da banda marcial da escola e sempre se contentou a voar abaixo do radar. Mas tudo isso muda quando ele conhece Estrela Caraway, uma aluna nova confiante e colorida com uma predileção pelo ukulele, que se destaca da multidão. Ela é doce, enxerga magia nas coisas comuns e toca a vida de todos com os gestos mais simples. Suas excentricidades e personalidade contagiante encantam Leo e o corpo estudantil, e ela rapidamente deixa de ser ignorada e ridicularizada para ser aceita e aclamada, e o inverso outra vez, colocando Leo em uma montanha-russa de emoções.",
+      "genres": [
+        "Comédia",
+        "Drama",
+        "Romance",
+        "Família"
+      ],
+      "cast": [
+        {
+          "name": "Grace VanderWaal",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4v2uM7UXbAlYydrdf0rsaCrfP8x.jpg"
+        },
+        {
+          "name": "Graham Verchere",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hrbWtaERuDQsBQVArA3nJhPO8dC.jpg"
+        },
+        {
+          "name": "Karan Brar",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iaFqMqxRvT36cr8gSd3ivLBIo2S.jpg"
+        },
+        {
+          "name": "Maximiliano Hernández",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yZYUmF4t7Wu3CWjAcSANvTlSop9.jpg"
+        },
+        {
+          "name": "Darby Stanchfield",
+          "photo_url": "https://image.tmdb.org/t/p/w185/toyuuYQtwaEYlOxLFMxf2YoIjXG.jpg"
+        },
+        {
+          "name": "Giancarlo Esposito",
+          "photo_url": "https://image.tmdb.org/t/p/w185/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"
+        },
+        {
+          "name": "Collin Blackford",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uiQVx5UbN3yFALKJepmMPysUjjA.jpg"
+        },
+        {
+          "name": "Annacheska Brown",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4oMR9Mi1tiw86Gy8bGofX8mkWZO.jpg"
+        },
+        {
+          "name": "Shelby Simmons",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kyqbM3toDhGtTqp9ezYKvYV4XPM.jpg"
+        },
+        {
+          "name": "Allison Wentworth",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yaV5TH0Tgq2ZqopH6iolJK60rPh.jpg"
+        },
+        {
+          "name": "Juliocesar Chavez",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bxu2Uv1WsU1iO0MTxttXHUc3w3Y.jpg"
+        },
+        {
+          "name": "Artemis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nRtzQDo126237f2OEFeRl38mUW5.jpg"
+        }
+      ],
+      "message_ids": [
+        7668,
+        7669
+      ],
+      "video_message_id": 7669
     },
     {
       "tmdb_id": 254024,

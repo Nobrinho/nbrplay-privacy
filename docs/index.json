@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-02T01:01:21+00:00",
+  "generated_at": "2026-10-02T01:01:32+00:00",
   "channel": "-1004483833987",
-  "count": 3160,
-  "movie_count": 2799,
+  "count": 3161,
+  "movie_count": 2800,
   "series_count": 52,
   "episode_count": 361,
   "custom_count": 0,
@@ -169558,6 +169558,77 @@
         3650
       ],
       "video_message_id": 3650
+    },
+    {
+      "tmdb_id": 21481,
+      "title": "Twitches: As Bruxinhas Gêmeas",
+      "original_title": "Twitches",
+      "year": "2005",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gh38WKlXn3GX3ujh8gxsGvCC4iV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/biWonOe1GrPEMqvXhr7FbLox6xt.jpg",
+      "overview": "Duas jovens bruxinhas são separadas uma da outra ao nascerem e adotadas por famílias diferentes. As irmãs gêmeas se reencontram no dia em que completam 21 anos e descobrem que seus misteriosos poderes mágicos ficam ainda mais fortes quando estão juntas. O que elas não sabem é que elas têm que usar estes poderes para lutar contra as forças do mal e salvar o lugar onde nasceram, onde vive sua mãe verdadeira.",
+      "genres": [
+        "Comédia",
+        "Drama",
+        "Família",
+        "Fantasia",
+        "Cinema TV"
+      ],
+      "cast": [
+        {
+          "name": "Tia Mowry",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2p0l5uyURd1D4Iy3k8A81yc8lXJ.jpg"
+        },
+        {
+          "name": "Tamera Mowry-Housley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1DCF3kbfKioof8ilbbK9Y16a6jE.jpg"
+        },
+        {
+          "name": "Kristen Wilson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ld2W1mIvaS0yAd3pHW2wyeacg8v.jpg"
+        },
+        {
+          "name": "Patrick Fabian",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bbsYGlnvGUTTExcabKL1OIhcKyZ.jpg"
+        },
+        {
+          "name": "Pat Kelly",
+          "photo_url": "https://image.tmdb.org/t/p/w185/apk2nshE6wqHtoesTRaL0AalyWs.jpg"
+        },
+        {
+          "name": "Jennifer Robertson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/poEzn35CILuG3dtCRrTocU2TC2d.jpg"
+        },
+        {
+          "name": "Jessica Greco",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vvdI4a0qk0OjvEsPwHlnqsLUrFU.jpg"
+        },
+        {
+          "name": "Jackie Rosenbaum",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rBME7c4K2KflRKp5Vpl8EJXK1k5.jpg"
+        },
+        {
+          "name": "Arnold Pinnock",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7AET3sstZdRgoWlqgXdBcE935HE.jpg"
+        },
+        {
+          "name": "Karen Holness",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mKyNgWJMLA3dKRNHyAU0qaZWSRY.jpg"
+        },
+        {
+          "name": "Jessica Feliz",
+          "photo_url": null
+        },
+        {
+          "name": "David Ingram",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dNdlqWiGfcp0vsvLiLx2Li87t3k.jpg"
+        }
+      ],
+      "message_ids": [
+        7662,
+        7663
+      ],
+      "video_message_id": 7663
     },
     {
       "tmdb_id": 9408,

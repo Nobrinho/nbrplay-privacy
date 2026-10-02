@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-10-02T02:50:22+00:00",
+  "generated_at": "2026-10-02T02:53:01+00:00",
   "channel": "-1004483833987",
-  "count": 3169,
+  "count": 3170,
   "movie_count": 2804,
   "series_count": 54,
-  "episode_count": 365,
+  "episode_count": 366,
   "custom_count": 0,
   "movies": [
     {
@@ -189908,6 +189908,33 @@
                 7679
               ],
               "video_message_id": 7679
+            },
+            {
+              "number": 3,
+              "tmdb_id": 2670397,
+              "title": "QUEM VOCÊ CHAMOU DE FEIA?",
+              "air_date": "2021-03-25",
+              "overview": "Mark fura um encontro para estudar para salvar o Monte Rushmore de um cientista maluco. Já Robô precisa suar para montar uma nova equipe de super-heróis.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/h6rJcoDs7tFjLT79RRM3q2ImAuQ.jpg",
+              "cast": [
+                {
+                  "name": "Steven Yeun",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
+                },
+                {
+                  "name": "Sandra Oh",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zU8vjebHxcP60ESEL5Ok68KWZvj.jpg"
+                },
+                {
+                  "name": "J.K. Simmons",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+                }
+              ],
+              "message_ids": [
+                7680,
+                7681
+              ],
+              "video_message_id": 7681
             }
           ]
         }

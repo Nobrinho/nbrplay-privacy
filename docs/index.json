@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-02T01:00:41+00:00",
+  "generated_at": "2026-10-02T01:00:45+00:00",
   "channel": "-1004483833987",
-  "count": 3158,
-  "movie_count": 2797,
+  "count": 3159,
+  "movie_count": 2798,
   "series_count": 52,
   "episode_count": 361,
   "custom_count": 0,
@@ -153645,6 +153645,75 @@
         3940
       ],
       "video_message_id": 3940
+    },
+    {
+      "tmdb_id": 567189,
+      "title": "Sem Remorso",
+      "original_title": "Tom Clancy's Without Remorse",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uHEZ4ZMziIjlAgCTQAEh9ROvtj0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fPGeS6jgdLovQAKunNHX8l0avCy.jpg",
+      "overview": "Um fuzileiro naval de elite descobre uma conspiração internacional enquanto busca justiça pelo assassinato de sua esposa grávida.",
+      "genres": [
+        "Ação",
+        "Thriller",
+        "Guerra"
+      ],
+      "cast": [
+        {
+          "name": "Michael B. Jordan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sMBpav8cK7t7Nk0yf4tuNOqNUyW.jpg"
+        },
+        {
+          "name": "Jamie Bell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg"
+        },
+        {
+          "name": "Guy Pearce",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
+        },
+        {
+          "name": "Jodie Turner-Smith",
+          "photo_url": "https://image.tmdb.org/t/p/w185/801hOIFSiYfakVDkX0U3vEAHAMt.jpg"
+        },
+        {
+          "name": "Lauren London",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vfUJtwfux3nwEGWIbrC20LyH8fn.jpg"
+        },
+        {
+          "name": "Brett Gelman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ub2IuMWFNQGYghHTPq0lpmn2Ue0.jpg"
+        },
+        {
+          "name": "Jacob Scipio",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gcZSJy9LZ8DUDP480Q2K1OhL1Ct.jpg"
+        },
+        {
+          "name": "Jack Kesy",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lQ8nUYK6InbCFk2TWNnXjjvG9IY.jpg"
+        },
+        {
+          "name": "Colman Domingo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/t0cgfvtA7Thxnrtj5baRi656zlc.jpg"
+        },
+        {
+          "name": "Todd Lasance",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dEkGdehSdAZJbGnBn0QKFeLB5Su.jpg"
+        },
+        {
+          "name": "Cam Gigandet",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kdSVRqCR0p8KZTvVkRccBLoim7L.jpg"
+        },
+        {
+          "name": "Luke Mitchell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gwG06fukGZ5BT7YoRQc0GT0CJeM.jpg"
+        }
+      ],
+      "message_ids": [
+        7659,
+        7660
+      ],
+      "video_message_id": 7660
     },
     {
       "tmdb_id": 238615,

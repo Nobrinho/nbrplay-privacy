@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-02T01:00:21+00:00",
+  "generated_at": "2026-10-02T01:00:41+00:00",
   "channel": "-1004483833987",
-  "count": 3157,
-  "movie_count": 2796,
+  "count": 3158,
+  "movie_count": 2797,
   "series_count": 52,
   "episode_count": 361,
   "custom_count": 0,
@@ -171469,6 +171469,74 @@
         728
       ],
       "video_message_id": 728
+    },
+    {
+      "tmdb_id": 15189,
+      "title": "Um Hotel Bom pra Cachorro",
+      "original_title": "Hotel for Dogs",
+      "year": "2009",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yuwIVcVpTp6GtJ1YZOy1HEMcfMz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hovfur18TPFABZIuJYvgjLpln8V.jpg",
+      "overview": "O humor está à solta neste sucesso de bilheteria que \"vai fazer todo mundo pedir mais.\" Quando Andi e Bruce precisam de algum lugar para esconder seu cachorro, Friday, eles transformam um hotel abandonado em um lugar onde nenhum animal perdido é rejeitado. Repleto de adoráveis cães, um grupo de garotos espertos e objetos engenhosos, esta comovente aventura vai fazer todo mundo pensar: quem deixou os cachorros entrarem?",
+      "genres": [
+        "Comédia",
+        "Família"
+      ],
+      "cast": [
+        {
+          "name": "Emma Roberts",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rUK616pPe8VGvAK0qmKOEbA3iIx.jpg"
+        },
+        {
+          "name": "Jake T. Austin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tRqrikX123Z01WRKwAEmURcSV7V.jpg"
+        },
+        {
+          "name": "Don Cheadle",
+          "photo_url": "https://image.tmdb.org/t/p/w185/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
+        },
+        {
+          "name": "Johnny Simmons",
+          "photo_url": "https://image.tmdb.org/t/p/w185/51LZiAAI3ZW4vabNOQnd3weYgUm.jpg"
+        },
+        {
+          "name": "Kyla Pratt",
+          "photo_url": "https://image.tmdb.org/t/p/w185/y02hmYVndLlJbOYkNDu3Ksdsiib.jpg"
+        },
+        {
+          "name": "Troy Gentile",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lC2BtCSI5lcaJribUjTRXg1cCuW.jpg"
+        },
+        {
+          "name": "Lisa Kudrow",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ziatnwJRiBJIcc8jlk6xoClhfOy.jpg"
+        },
+        {
+          "name": "Kevin Dillon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wfBEjFfkJt1dORR0mKPu89qCcJK.jpg"
+        },
+        {
+          "name": "Ajay Naidu",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tOvD8yveJ4Aq10LICADK3wS3dwE.jpg"
+        },
+        {
+          "name": "Eric Edelstein",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d1ng4kzNijFQ8DSQWeU5P6XDgmA.jpg"
+        },
+        {
+          "name": "Robinne Lee",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eU2woLB9nUMiqeKHfML05EV54Ec.jpg"
+        },
+        {
+          "name": "Yvette Nicole Brown",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7cJowCcDPnyXqHJ46GgSNHomUGo.jpg"
+        }
+      ],
+      "message_ids": [
+        7657,
+        7658
+      ],
+      "video_message_id": 7658
     },
     {
       "tmdb_id": 501907,

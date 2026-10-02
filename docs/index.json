@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-10-02T01:37:41+00:00",
+  "generated_at": "2026-10-02T02:48:51+00:00",
   "channel": "-1004483833987",
-  "count": 3167,
+  "count": 3168,
   "movie_count": 2804,
-  "series_count": 53,
-  "episode_count": 363,
+  "series_count": 54,
+  "episode_count": 364,
   "custom_count": 0,
   "movies": [
     {
@@ -189834,6 +189834,53 @@
                 6986
               ],
               "video_message_id": 6986
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 95557,
+      "title": "INVENCÍVEL",
+      "original_title": "INVINCIBLE",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qhb7RWU9ad9a5m3HbeRRXzjaMXf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7S9RDiSixGe2miORi1fakQwZhjS.jpg",
+      "genres": [
+        "Animação",
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 1987867,
+              "title": "JÁ ESTAVA NA HORA",
+              "air_date": "2021-03-25",
+              "overview": "O sonho de Mark Grayson se torna realidade após herdar os superpoderes de seu pai. Mas ser um herói é muito mais do que apenas escolher um nome ou um traje.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/7S9RDiSixGe2miORi1fakQwZhjS.jpg",
+              "cast": [
+                {
+                  "name": "Steven Yeun",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
+                },
+                {
+                  "name": "Sandra Oh",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zU8vjebHxcP60ESEL5Ok68KWZvj.jpg"
+                },
+                {
+                  "name": "J.K. Simmons",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+                }
+              ],
+              "message_ids": [
+                7676,
+                7677
+              ],
+              "video_message_id": 7677
             }
           ]
         }

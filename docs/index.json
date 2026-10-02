@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-02T02:54:42+00:00",
+  "generated_at": "2026-10-02T03:35:51+00:00",
   "channel": "-1004483833987",
-  "count": 3171,
-  "movie_count": 2804,
+  "count": 3172,
+  "movie_count": 2805,
   "series_count": 54,
   "episode_count": 367,
   "custom_count": 0,
@@ -7466,6 +7466,21 @@
         5438
       ],
       "video_message_id": 5438
+    },
+    {
+      "tmdb_id": 1652717,
+      "title": "A Face Oculta de Varginha: Poder, Dinheiro e Rituais.",
+      "original_title": "A Face Oculta de Varginha: Poder, Dinheiro e Rituais.",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jhemlyhhwpEYRgnWqSPRXXFVWxL.jpg",
+      "backdrop_url": null,
+      "overview": "O filme apresenta diferentes visões sobre o caso — ufológica, religiosa e ocultista. Além dos relatos de aparições e da possível captura de criaturas, ele sugere que mortes de animais, movimentação militar e testemunhos estranhos poderiam estar ligados a rituais, forças ocultas ou interesses políticos.  No fim, o documentário trata o episódio como um mistério complexo, onde ETs, ocultismo e manipulação de informações podem estar misturados, sem dar uma conclusão definitiva.  Se quiser, também posso te contar quais partes do documentário são fatos históricos confirmados e quais são mais teoria/conspiração — essa história de Varginha tem muita coisa misturada.",
+      "genres": [],
+      "cast": [],
+      "message_ids": [
+        7684
+      ],
+      "video_message_id": 7684
     },
     {
       "tmdb_id": 972482,

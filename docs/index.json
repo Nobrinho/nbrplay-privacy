@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-02T01:01:32+00:00",
+  "generated_at": "2026-10-02T01:02:21+00:00",
   "channel": "-1004483833987",
-  "count": 3161,
-  "movie_count": 2800,
+  "count": 3162,
+  "movie_count": 2801,
   "series_count": 52,
   "episode_count": 361,
   "custom_count": 0,
@@ -109013,6 +109013,76 @@
         1232
       ],
       "video_message_id": 1232
+    },
+    {
+      "tmdb_id": 10731,
+      "title": "O Cliente",
+      "original_title": "The Client",
+      "year": "1994",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qs2Bacljc1ihbB2gpjsWK3EKshd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ncU6X4hosU9srxqC0hGxajZvAyD.jpg",
+      "overview": "Um menino corre risco de vida depois de acidentalmente descobrir informação vital sobre a morte de um político. Ele conta apenas com a ajuda de uma advogada que tenta protegê-lo da máfia e do FBI.",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime",
+        "Mistério"
+      ],
+      "cast": [
+        {
+          "name": "Brad Renfro",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oOtzyE9wkbBV58ZxyYsGzyPxoSw.jpg"
+        },
+        {
+          "name": "Susan Sarandon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jR6l2EfvvGA8qCzZ7MB5FT9ZLkq.jpg"
+        },
+        {
+          "name": "Tommy Lee Jones",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
+        },
+        {
+          "name": "Mary-Louise Parker",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1ohhrIZ4OMlLx9DvHjPhQJAIP0F.jpg"
+        },
+        {
+          "name": "Anthony LaPaglia",
+          "photo_url": "https://image.tmdb.org/t/p/w185/31fRY01Dq2ebkx09FjuG5g3QW9G.jpg"
+        },
+        {
+          "name": "Bradley Whitford",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oeDv2qZWTxELLaNtOIoeG72leNY.jpg"
+        },
+        {
+          "name": "Will Patton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1V4DbU1mfEim4oaA5bvJywDAKwB.jpg"
+        },
+        {
+          "name": "Anthony Edwards",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rP88gP87pa3je6Viem3081tESIV.jpg"
+        },
+        {
+          "name": "J.T. Walsh",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mBa1UnbbKryNtQKT3VOnzER1HiQ.jpg"
+        },
+        {
+          "name": "Anthony Heald",
+          "photo_url": "https://image.tmdb.org/t/p/w185/e0E6Z1Y0debr4mAHgj0HO7MYyXG.jpg"
+        },
+        {
+          "name": "Kim Coates",
+          "photo_url": "https://image.tmdb.org/t/p/w185/brhVd2vTTBJNpM2ZrOFc6SnXCAd.jpg"
+        },
+        {
+          "name": "Kimberly Scott",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nt6Pu18aULdQ0CNzdvNtBa2FIxX.jpg"
+        }
+      ],
+      "message_ids": [
+        7664,
+        7665
+      ],
+      "video_message_id": 7665
     },
     {
       "tmdb_id": 9550,

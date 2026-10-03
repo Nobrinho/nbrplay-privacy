@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-03T02:54:49+00:00",
+  "generated_at": "2026-10-03T03:05:00+00:00",
   "channel": "-1004483833987",
-  "count": 3181,
-  "movie_count": 2812,
+  "count": 3182,
+  "movie_count": 2813,
   "series_count": 54,
   "episode_count": 369,
   "custom_count": 0,
@@ -28597,6 +28597,76 @@
         5799
       ],
       "video_message_id": 5799
+    },
+    {
+      "tmdb_id": 98566,
+      "title": "As Tartarugas Ninja",
+      "original_title": "Teenage Mutant Ninja Turtles",
+      "year": "2014",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wlWJNUYTgnatBsPDfe5HZUS7lJF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eezsbzYPbYKjjh6E1XHDBNlLynh.jpg",
+      "overview": "Afetados por uma substância radioativa, um grupo de tartarugas cresce anormalmente, ganha força e conhecimento. Vivendo nos esgotos de Manhattan, quatro jovens tartarugas, treinadas na arte de kung-fu, Leonardo, Rafael, Michelangelo e Donatello, junto com seu sensei, Mestre Splinter, tem que enfrentar o mal que habita cidade.",
+      "genres": [
+        "Ficção científica",
+        "Ação",
+        "Aventura",
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Pete Ploszek",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9ZFxQLUQzfMNEHVqYjwK346vaCK.jpg"
+        },
+        {
+          "name": "Alan Ritchson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+        },
+        {
+          "name": "Jeremy Howard",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tkZNfmlNkiH7UZxYDaDqO9z1TuV.jpg"
+        },
+        {
+          "name": "Noel Fisher",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rBD5Iwt9WITaUKGk1oxSPLjjpm2.jpg"
+        },
+        {
+          "name": "Megan Fox",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9khvk5svs81TLqIGlI3ZJqYtqaY.jpg"
+        },
+        {
+          "name": "Will Arnett",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cXupYqk2ERP13XBkw816skYdVDO.jpg"
+        },
+        {
+          "name": "William Fichtner",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wWtJOoaNAwPparpzMNuRBjvxwEf.jpg"
+        },
+        {
+          "name": "Danny Woodburn",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wmxPxtUWPr7Vux9nsYpFPRGDlWM.jpg"
+        },
+        {
+          "name": "Johnny Knoxville",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7XDKsHsLC4uNYaGsuWG1tQXWRnu.jpg"
+        },
+        {
+          "name": "Tony Shalhoub",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1zfBSuAmOr1xXjNg4WzFWPm5B0Z.jpg"
+        },
+        {
+          "name": "Tohoru Masamune",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7rNjiFzY8KAf4kiZBJK1nBWOz8G.jpg"
+        },
+        {
+          "name": "Whoopi Goldberg",
+          "photo_url": "https://image.tmdb.org/t/p/w185/78LZMMzNUJVfLI1MObxejScwZz5.jpg"
+        }
+      ],
+      "message_ids": [
+        7700,
+        7701
+      ],
+      "video_message_id": 7701
     },
     {
       "tmdb_id": 1852,

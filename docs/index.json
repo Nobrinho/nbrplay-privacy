@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-02T04:28:48+00:00",
+  "generated_at": "2026-10-03T00:34:09+00:00",
   "channel": "-1004483833987",
   "count": 3175,
   "movie_count": 2806,
@@ -2842,15 +2842,68 @@
       "video_message_id": 6417
     },
     {
-      "tmdb_id": 477544,
-      "title": "1917 Val Duchesse",
-      "original_title": "1917 Val Duchesse",
-      "year": "1917",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": "Belgian WW1 documentary.",
-      "genres": [],
-      "cast": [],
+      "tmdb_id": 530915,
+      "title": "1917",
+      "original_title": "1917",
+      "year": "2019",
+      "poster_url": "https://image.tmdb.org/t/p/w500/m6VVgmwNdOWvLo8nlheLPQU5wr7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
+      "overview": "Os cabos Schofield e Blake são jovens soldados britânicos durante a Primeira Guerra Mundial. Quando eles são encarregados de uma missão aparentemente impossível, os dois precisam atravessar território inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalhão.",
+      "genres": [
+        "Guerra",
+        "Drama",
+        "História"
+      ],
+      "cast": [
+        {
+          "name": "George MacKay",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wnDAg1CyCbBCklQAZ9I1dj5X6QY.jpg"
+        },
+        {
+          "name": "Dean-Charles Chapman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xIVxI2ECxxN5J2XNkHPjRax0IHc.jpg"
+        },
+        {
+          "name": "Mark Strong",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3cNmatYsoifytg7TfQhI1EHow3v.jpg"
+        },
+        {
+          "name": "Andrew Scott",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4F8XpjyQCvtuu21WFm5d8RF5Rl.jpg"
+        },
+        {
+          "name": "Richard Madden",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9QQFfVZ6PLe3WVmOL56wGNOnbGL.jpg"
+        },
+        {
+          "name": "Claire Duburcq",
+          "photo_url": "https://image.tmdb.org/t/p/w185/smfMUWSYOpLs7JOg5zCdcwI2vrB.jpg"
+        },
+        {
+          "name": "Colin Firth",
+          "photo_url": "https://image.tmdb.org/t/p/w185/z6wxnkqSTnzO1tcBui0ss7ehdm9.jpg"
+        },
+        {
+          "name": "Benedict Cumberbatch",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+        },
+        {
+          "name": "Daniel Mays",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2qmA5mXnhA7Nelu2BTbJTvzq35u.jpg"
+        },
+        {
+          "name": "Adrian Scarborough",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4YTIIoKDECRRaceheSJ6zw8ELZf.jpg"
+        },
+        {
+          "name": "Chris Walley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qASA1oFOwEvL7epg0HZkPE4SRwc.jpg"
+        },
+        {
+          "name": "Nabhaan Rizwan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ljDpNmRnx9Mxe6DZbOMVZlGVXAN.jpg"
+        }
+      ],
       "message_ids": [
         4698
       ],

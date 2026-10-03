@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-03T02:46:48+00:00",
+  "generated_at": "2026-10-03T02:49:05+00:00",
   "channel": "-1004483833987",
-  "count": 3179,
-  "movie_count": 2810,
+  "count": 3180,
+  "movie_count": 2811,
   "series_count": 54,
   "episode_count": 369,
   "custom_count": 0,
@@ -182640,6 +182640,77 @@
         5128
       ],
       "video_message_id": 5128
+    },
+    {
+      "tmdb_id": 404368,
+      "title": "WiFi Ralph: Quebrando a Internet",
+      "original_title": "Ralph Breaks the Internet",
+      "year": "2018",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uZCR7Vt3gTpj8hCNybFcNThFYTA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qDQEQbgP3v7B9IYLAUcYexNrVYP.jpg",
+      "overview": "Ralph, o mais famoso vilão dos videogames, e Vanellope, sua companheira atrapalhada, iniciam mais uma arriscada aventura. Após a gloriosa vitória no Fliperama Litwak, a dupla viaja para a world wide web, no universo expansivo e desconhecido da internet. Dessa vez, a missão é achar uma peça reserva para salvar o videogame Corrida Doce, de Vanellope. Para isso, eles contam com a ajuda dos \"cidadãos da Internet\" e de Yess, a alma por trás do \"Buzzztube\", um famoso website que dita tendências.",
+      "genres": [
+        "Animação",
+        "Comédia",
+        "Aventura",
+        "Ficção científica",
+        "Família"
+      ],
+      "cast": [
+        {
+          "name": "John C. Reilly",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg"
+        },
+        {
+          "name": "Sarah Silverman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/g5G711XyVokJm2RoItpkaHa8mkQ.jpg"
+        },
+        {
+          "name": "Gal Gadot",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AbXKtWQwuDiwhoQLh34VRglwuBE.jpg"
+        },
+        {
+          "name": "Taraji P. Henson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jUU2X9mDwJaAniEmJOfvImBS9qb.jpg"
+        },
+        {
+          "name": "Jack McBrayer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cbr26xDPEiOuYQxggtCPbu5xhDU.jpg"
+        },
+        {
+          "name": "Timothy Simons",
+          "photo_url": "https://image.tmdb.org/t/p/w185/upav8HyWsF6ksAkvogEhR9sBlNN.jpg"
+        },
+        {
+          "name": "Phil Johnston",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vJyBKru0qi8YKiTPSxaZj08mkOS.jpg"
+        },
+        {
+          "name": "Mandy Moore",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2n0rqUGojRNEHrmtPeCEptHREEY.jpg"
+        },
+        {
+          "name": "Anika Noni Rose",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d7aLtuNXBqVtqNnZl8wXsFV4ML5.jpg"
+        },
+        {
+          "name": "Irene Bedard",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9q6ad1uihRROKM8FWv2Asb8sj5j.jpg"
+        },
+        {
+          "name": "Kristen Bell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rP74dJXl7EjinGM0shQtUOlH5s2.jpg"
+        },
+        {
+          "name": "Ali Wong",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vpVDlzPIIzgwdO23MbbwvfmPtXQ.jpg"
+        }
+      ],
+      "message_ids": [
+        7696,
+        7697
+      ],
+      "video_message_id": 7697
     },
     {
       "tmdb_id": 355020,

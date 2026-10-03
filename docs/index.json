@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-03T02:28:02+00:00",
+  "generated_at": "2026-10-03T02:46:48+00:00",
   "channel": "-1004483833987",
-  "count": 3178,
-  "movie_count": 2809,
+  "count": 3179,
+  "movie_count": 2810,
   "series_count": 54,
   "episode_count": 369,
   "custom_count": 0,
@@ -169987,6 +169987,76 @@
         6344
       ],
       "video_message_id": 6344
+    },
+    {
+      "tmdb_id": 662745,
+      "title": "Turma da Mônica: Lições",
+      "original_title": "Turma da Mônica: Lições",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gzaLnQ2CctXaHqatSlRbSVp8Bh4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sPgQg5DK8GL6uCcUw9s8PuE2Y80.jpg",
+      "overview": "Na sequência de Turma da Mônica: Laços, acompanhamos Mônica, Cebolinha, Magali e Cascão lidando com as consequências de um erro cometido na escola. Ao mesmo tempo, eles enfrentam transformações da passagem da infância para a adolescência, e estão prestes a descobrir o valor da amizade.",
+      "genres": [
+        "Família",
+        "Comédia",
+        "Drama",
+        "Aventura"
+      ],
+      "cast": [
+        {
+          "name": "Giulia Benite",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jyQK0gnTPzJkKP1CqOAYFx3K0ir.jpg"
+        },
+        {
+          "name": "Kevin Vechiatto",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ySFtPtgPVnIc0W0RYcYxjfXkxMr.jpg"
+        },
+        {
+          "name": "Laura Rauseo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wu2fRkFkkolcFLNyl1X9XN0Nkap.jpg"
+        },
+        {
+          "name": "Gabriel Moreira",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eqp4s2UWVJ3saJiL5k9IBkoDRCP.jpg"
+        },
+        {
+          "name": "Emilly Nayara",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wao5SvA3IQAFhMuwbKySdeSUufT.jpg"
+        },
+        {
+          "name": "Laís Villela",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4WeGwF3W42DfOzgqAT5XaUnGOwA.jpg"
+        },
+        {
+          "name": "Vinícius Higo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lghLHxUlVwSXWEpM2y25AbO4kQh.jpg"
+        },
+        {
+          "name": "Lucas Infante",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zkj5vtExfeMZGtoRiHoYOcvT6zx.jpg"
+        },
+        {
+          "name": "Monica Iozzi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5a0EE3UBYRglXSNRX29fK3LlqlG.jpg"
+        },
+        {
+          "name": "Luiz Pacini",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pKgueXBW55XIJKLG9w8l76uZ0qN.jpg"
+        },
+        {
+          "name": "Fafá Rennó",
+          "photo_url": "https://image.tmdb.org/t/p/w185/twEyRN7mOyFVGNPPcDJhEqE2sQU.jpg"
+        },
+        {
+          "name": "Paulo Vilhena",
+          "photo_url": "https://image.tmdb.org/t/p/w185/63HDymsBuMAOUip9rQDIIwophDB.jpg"
+        }
+      ],
+      "message_ids": [
+        7694,
+        7695
+      ],
+      "video_message_id": 7695
     },
     {
       "tmdb_id": 664,

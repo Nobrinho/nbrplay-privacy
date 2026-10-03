@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-03T02:49:05+00:00",
+  "generated_at": "2026-10-03T02:54:49+00:00",
   "channel": "-1004483833987",
-  "count": 3180,
-  "movie_count": 2811,
+  "count": 3181,
+  "movie_count": 2812,
   "series_count": 54,
   "episode_count": 369,
   "custom_count": 0,
@@ -52895,6 +52895,76 @@
         6361
       ],
       "video_message_id": 6361
+    },
+    {
+      "tmdb_id": 82690,
+      "title": "Detona Ralph",
+      "original_title": "Wreck-It Ralph",
+      "year": "2012",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9OGpoSaGGwbWSFQVFaVGakLyaoK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3IFRjBDwtk0DlIsDfJ2zEzLjUBi.jpg",
+      "overview": "Ralph está cansado de ser desprezado no seu próprio jogo de fliperama. Para ganhar a atenção do herói Felix e todos os outros personagens, o vilão tem um plano e sai em busca de uma medalha, com a intenção de provar o seu valor.",
+      "genres": [
+        "Família",
+        "Animação",
+        "Comédia",
+        "Aventura"
+      ],
+      "cast": [
+        {
+          "name": "John C. Reilly",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg"
+        },
+        {
+          "name": "Sarah Silverman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/g5G711XyVokJm2RoItpkaHa8mkQ.jpg"
+        },
+        {
+          "name": "Jack McBrayer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cbr26xDPEiOuYQxggtCPbu5xhDU.jpg"
+        },
+        {
+          "name": "Jane Lynch",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nye6D17ZfCHQzr9faYZYyz1CPsZ.jpg"
+        },
+        {
+          "name": "Alan Tudyk",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg"
+        },
+        {
+          "name": "Rich Moore",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oIAmkZf9LuJuMqR8zSchoD3FJT8.jpg"
+        },
+        {
+          "name": "Raymond S. Persi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/37HnYfTAHhtAmWdl4NlVAOR7vCW.jpg"
+        },
+        {
+          "name": "Mindy Kaling",
+          "photo_url": "https://image.tmdb.org/t/p/w185/m4veWEp9TEDallTZRobb7MLkd9K.jpg"
+        },
+        {
+          "name": "Jamie Elman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4Hk6F52hG8cHpHXn8dGctCEU80i.jpg"
+        },
+        {
+          "name": "Adam Carolla",
+          "photo_url": "https://image.tmdb.org/t/p/w185/47k9w6HRLnGeU0gVtMeTPJs3ief.jpg"
+        },
+        {
+          "name": "Horatio Sanz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ckz64bpwFOhF1tMu1klDk5AT9Ck.jpg"
+        },
+        {
+          "name": "Katie Lowes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5IqYIFfcZu7V4wrbzZKVtpkmuSw.jpg"
+        }
+      ],
+      "message_ids": [
+        7698,
+        7699
+      ],
+      "video_message_id": 7699
     },
     {
       "tmdb_id": 1636918,

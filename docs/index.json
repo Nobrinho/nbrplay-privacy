@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-03T03:05:00+00:00",
+  "generated_at": "2026-10-03T03:18:36+00:00",
   "channel": "-1004483833987",
-  "count": 3182,
-  "movie_count": 2813,
+  "count": 3183,
+  "movie_count": 2814,
   "series_count": 54,
   "episode_count": 369,
   "custom_count": 0,
@@ -156553,6 +156553,77 @@
         3399
       ],
       "video_message_id": 3399
+    },
+    {
+      "tmdb_id": 10192,
+      "title": "Shrek Para Sempre",
+      "original_title": "Shrek Forever After",
+      "year": "2010",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iFXVU0ni6YWgQNSPkoGO1Tk5L3g.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uzzTystB8lL0mRDII5Sfs5HxgkI.jpg",
+      "overview": "Shrek faz um pacto com Rumpelstiltskin para sentir-se como um ogro de verdade novamente, mas ele é enganado e enviado para uma versão distorcida de Tão, Tão Distante - onde Rumpelstiltskin é rei, ogros são caçados, e ele e Fiona nunca se encontraram - ele decide restaurar o seu mundo e recuperar seu verdadeiro amor.",
+      "genres": [
+        "Comédia",
+        "Aventura",
+        "Fantasia",
+        "Animação",
+        "Família"
+      ],
+      "cast": [
+        {
+          "name": "Mike Myers",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg"
+        },
+        {
+          "name": "Eddie Murphy",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
+        },
+        {
+          "name": "Cameron Diaz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tIWUyvmJayu8gtbrzCWC0L3H8kH.jpg"
+        },
+        {
+          "name": "Antonio Banderas",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n8YlGookYzgD3cmpMP45BYRNIoh.jpg"
+        },
+        {
+          "name": "Walt Dohrn",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tGWQRNz8T5VNPZgNU2LafpNt2Jn.jpg"
+        },
+        {
+          "name": "Julie Andrews",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yQ0J92DMiLtQYoytLJ6CuBkdeN0.jpg"
+        },
+        {
+          "name": "John Cleese",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nQpBf77cStmR35V0XOinm2zZMWG.jpg"
+        },
+        {
+          "name": "Jon Hamm",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+        },
+        {
+          "name": "Jane Lynch",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nye6D17ZfCHQzr9faYZYyz1CPsZ.jpg"
+        },
+        {
+          "name": "Craig Robinson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mTyTrOWUSOBJMOlDpnd4OYx7FlJ.jpg"
+        },
+        {
+          "name": "Lake Bell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sITVdq39jtR1l3VohWYDyxorx1v.jpg"
+        },
+        {
+          "name": "Kathy Griffin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/khhZT54SfcKIZuPwTH55CB1I0Gf.jpg"
+        }
+      ],
+      "message_ids": [
+        7702,
+        7703
+      ],
+      "video_message_id": 7703
     },
     {
       "tmdb_id": 273481,

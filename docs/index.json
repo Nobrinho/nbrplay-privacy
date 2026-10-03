@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-03T00:36:12+00:00",
+  "generated_at": "2026-10-03T01:32:18+00:00",
   "channel": "-1004483833987",
-  "count": 3175,
-  "movie_count": 2806,
+  "count": 3176,
+  "movie_count": 2807,
   "series_count": 54,
   "episode_count": 369,
   "custom_count": 0,
@@ -12427,6 +12427,77 @@
         5526
       ],
       "video_message_id": 5526
+    },
+    {
+      "tmdb_id": 487670,
+      "title": "A Morte do Superman",
+      "original_title": "The Death of Superman",
+      "year": "2019",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ecPlsaYUnBfFt01cTqhpPFtcxem.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dSD9aSZtgFthuMQ78GD1QOQf54V.jpg",
+      "overview": "Um monstro gigantesco batizado de Doomsday surge do mundo subterrâneo para começar uma destruição em massa na cidade de Metropolis. A Liga da Justiça precisa intervir imediatamente, mas parece que só os poderes do Superman são compatíveis com o do terrível monstro. Em uma luta mortal, o destino do super-herói torna-se incerto.",
+      "genres": [
+        "Ficção científica",
+        "Animação",
+        "Ação",
+        "Drama",
+        "Aventura"
+      ],
+      "cast": [
+        {
+          "name": "Jerry O'Connell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/siMZhO5SIUc6K5sTKyVJRXmkoiG.jpg"
+        },
+        {
+          "name": "Rebecca Romijn",
+          "photo_url": "https://image.tmdb.org/t/p/w185/doqFBHNbNhoLF9RX9SYPqwu1mvd.jpg"
+        },
+        {
+          "name": "Rainn Wilson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yRTElSeC3q9nBqBuleI6OODlDMS.jpg"
+        },
+        {
+          "name": "Rosario Dawson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/siTzOI810a0K46wv1TORXMw5N7J.jpg"
+        },
+        {
+          "name": "Nathan Fillion",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aW6vCxkUZtwb6iH2Wf88Uq0XNVv.jpg"
+        },
+        {
+          "name": "Christopher Gorham",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dKFXHJ3KBJaeQ50udMdBEC0VFvI.jpg"
+        },
+        {
+          "name": "Matt Lanter",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2ms8DR9n4wh9ZU6lIuqsE58LPT9.jpg"
+        },
+        {
+          "name": "Shemar Moore",
+          "photo_url": "https://image.tmdb.org/t/p/w185/epkv0UiwrPfCK3c0sHemSMi2jeh.jpg"
+        },
+        {
+          "name": "Nyambi Nyambi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rCrbs5tcl45901Bc48AM7SDdRcx.jpg"
+        },
+        {
+          "name": "Jason O'Mara",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9Cs9PD5pwUkFQPLmpp5e6wkFQoY.jpg"
+        },
+        {
+          "name": "Jonathan Adams",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mkgyl2MciZ14wsYi6zedyj6hnR8.jpg"
+        },
+        {
+          "name": "Rocky Carroll",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pqjqmRChGqhDXXY7Etka3bmOatN.jpg"
+        }
+      ],
+      "message_ids": [
+        7688,
+        7689
+      ],
+      "video_message_id": 7689
     },
     {
       "tmdb_id": 504172,

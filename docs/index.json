@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-03T01:32:18+00:00",
+  "generated_at": "2026-10-03T01:32:58+00:00",
   "channel": "-1004483833987",
-  "count": 3176,
-  "movie_count": 2807,
+  "count": 3177,
+  "movie_count": 2808,
   "series_count": 54,
   "episode_count": 369,
   "custom_count": 0,
@@ -134218,6 +134218,75 @@
         452
       ],
       "video_message_id": 452
+    },
+    {
+      "tmdb_id": 35,
+      "title": "Os Simpsons: O Filme",
+      "original_title": "The Simpsons Movie",
+      "year": "2007",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vTutCMTUTRw8PQAxn21X8hCxVnp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8ln5VUVk7gnNGIb2VNgw8nICDVt.jpg",
+      "overview": "Homer deve salvar o mundo de uma catástrofe que ele mesmo criou. Tudo começa com Homer, seu novo porco de estimação, e um silo cheio de excrementos, uma combinação que desencadeia um desastre como Springfield nunca experimentou.",
+      "genres": [
+        "Animação",
+        "Comédia",
+        "Família"
+      ],
+      "cast": [
+        {
+          "name": "Dan Castellaneta",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg"
+        },
+        {
+          "name": "Julie Kavner",
+          "photo_url": "https://image.tmdb.org/t/p/w185/87kSPYlWcHvqOVEkhdqxysiAf6w.jpg"
+        },
+        {
+          "name": "Nancy Cartwright",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kJQEz3NAwHGdb2sQzAnBf1RmMV4.jpg"
+        },
+        {
+          "name": "Yeardley Smith",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg"
+        },
+        {
+          "name": "Hank Azaria",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
+        },
+        {
+          "name": "Harry Shearer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wZpovXxQQqP7kxXPy2yj6QMbM55.jpg"
+        },
+        {
+          "name": "Pamela Hayden",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mPMtuVB6AEulRhlfn69y5RvgmNT.jpg"
+        },
+        {
+          "name": "Tress MacNeille",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+        },
+        {
+          "name": "Albert Brooks",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8iDSGu5l93N7benjf6b3AysBore.jpg"
+        },
+        {
+          "name": "Karl Wiedergott",
+          "photo_url": "https://image.tmdb.org/t/p/w185/r5alSYfltRGa6m8eUT1CuGur2YE.jpg"
+        },
+        {
+          "name": "Marcia Wallace",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bDCnZlPdUOyeQN0ewvoEjadBr9V.jpg"
+        },
+        {
+          "name": "Russi Taylor",
+          "photo_url": "https://image.tmdb.org/t/p/w185/r79GVF7LyBExJP7cRMob8QQZ6IU.jpg"
+        }
+      ],
+      "message_ids": [
+        7690,
+        7691
+      ],
+      "video_message_id": 7691
     },
     {
       "tmdb_id": 1278,

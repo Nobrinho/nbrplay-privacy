@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-04T03:22:22+00:00",
+  "generated_at": "2026-10-04T03:25:24+00:00",
   "channel": "-1004483833987",
-  "count": 3186,
-  "movie_count": 2817,
+  "count": 3187,
+  "movie_count": 2818,
   "series_count": 54,
   "episode_count": 369,
   "custom_count": 0,
@@ -184346,6 +184346,74 @@
         3887
       ],
       "video_message_id": 3887
+    },
+    {
+      "tmdb_id": 1408207,
+      "title": "Zero D.C.: O Nascimento de Cristo",
+      "original_title": "Zero A.D.: The Birth of Christ",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jBZE7KhEp81vcbIaG1D6TmTZSXT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mH4RXqdkpOzdV3730HDfssPUQvb.jpg",
+      "overview": "Um rei consumido pelo medo recebe uma profecia sobre o nascimento de uma criança que ameaça seu reinado. Determinado a impedir o cumprimento dessa promessa divina, ele ordena a morte do menino. Mas uma mãe, guiada pela fé, protege seu filho e aceita o plano de Deus. Em meio à perseguição, uma batalha espiritual se desenrola pela salvação da humanidade. Esta é a origem de uma fé que mudará o mundo para sempre.",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Deva Cassel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3yUHEp7BIqfqMtGGSi8XZqDHr30.jpg"
+        },
+        {
+          "name": "Jamie Ward",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pQU2FMStrAkV7Eh3NxwgUs2ApQ9.jpg"
+        },
+        {
+          "name": "Jim Caviezel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3dwavYsGYA6zzzipfdLIHbudIZW.jpg"
+        },
+        {
+          "name": "Sam Worthington",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+        },
+        {
+          "name": "Ben Mendelsohn",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pA9mu9D2IolVA0v2Yo0tJm6uUyI.jpg"
+        },
+        {
+          "name": "Gael García Bernal",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7uEO29wtdyY9bjt2JN43gVpE6vt.jpg"
+        },
+        {
+          "name": "James Oliver Wheatley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9h2uhnNzfQZEPKkFR0vDNGZnurU.jpg"
+        },
+        {
+          "name": "Yahya Mahayni",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kC4BC6BI3eR1Cn73tatConv28l.jpg"
+        },
+        {
+          "name": "Marco Khan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mZhRtwJinLGh7a6R0qcwK7sBeEs.jpg"
+        },
+        {
+          "name": "Valentina Kamenova",
+          "photo_url": null
+        },
+        {
+          "name": "Akin Gazi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/c0syqzuQ8cD56VcnLhbew8cS3EX.jpg"
+        },
+        {
+          "name": "Luca  Riemma",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2FeDDk1LWCBtIsqVkRCCpJB23pp.jpg"
+        }
+      ],
+      "message_ids": [
+        7710,
+        7711
+      ],
+      "video_message_id": 7711
     },
     {
       "tmdb_id": 1949,

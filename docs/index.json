@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-10-04T03:25:24+00:00",
+  "generated_at": "2026-10-04T03:39:59+00:00",
   "channel": "-1004483833987",
-  "count": 3187,
+  "count": 3188,
   "movie_count": 2818,
   "series_count": 54,
-  "episode_count": 369,
+  "episode_count": 370,
   "custom_count": 0,
   "movies": [
     {
@@ -190895,6 +190895,33 @@
                 7683
               ],
               "video_message_id": 7683
+            },
+            {
+              "number": 5,
+              "tmdb_id": 2832743,
+              "title": "ESSA DOEU DE VERDADE",
+              "air_date": "2021-04-08",
+              "overview": "Confiante com suas novas habilidades, Mark alia-se a um vilão local para derrubar um senhor do crime, ao mesmo tempo que tenta manter os estudos em dia e um novo relacionamento.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/1v9aBIzrSwCVzp8SlNBpVqR4K4N.jpg",
+              "cast": [
+                {
+                  "name": "Steven Yeun",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
+                },
+                {
+                  "name": "Sandra Oh",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/zU8vjebHxcP60ESEL5Ok68KWZvj.jpg"
+                },
+                {
+                  "name": "J.K. Simmons",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+                }
+              ],
+              "message_ids": [
+                7712,
+                7713
+              ],
+              "video_message_id": 7713
             },
             {
               "number": 7,

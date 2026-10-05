@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-05T19:18:35+00:00",
+  "generated_at": "2026-10-05T19:18:48+00:00",
   "channel": "-1004483833987",
-  "count": 3195,
-  "movie_count": 2824,
+  "count": 3196,
+  "movie_count": 2825,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -73199,6 +73199,75 @@
         5641
       ],
       "video_message_id": 5641
+    },
+    {
+      "tmdb_id": 516700,
+      "title": "Gundala: A Ascensão de um Herói",
+      "original_title": "Gundala",
+      "year": "2019",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6P8SA9p3AXw1C5byhJ85SBfTIgE.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ai7xP2p2zYxLFmcLQJaDkEBgY7E.jpg",
+      "overview": "Sancaka vive nas ruas desde que seus pais o deixaram. Vivendo uma vida difícil, Sancaka sobrevive pensando em sua própria segurança. Quando a condição da cidade piora e a injustiça se espalha por todo o país, Sancaka deve decidir se ele continua a viver para cuidar de si mesmo ou se elevar para se tornar seu herói oprimido.",
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Ficção científica"
+      ],
+      "cast": [
+        {
+          "name": "Abimana Aryasatya",
+          "photo_url": "https://image.tmdb.org/t/p/w185/b4ncXBTGaiPS6cof11vKeh3DuFj.jpg"
+        },
+        {
+          "name": "Tara Basro",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d9asO9KVxwNoT1Fhhvuo7GKimBJ.jpg"
+        },
+        {
+          "name": "Bront Palarae",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mk7v78F2QPV1jmwjjo19PONugkR.jpg"
+        },
+        {
+          "name": "Ario Bayu",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7O8EMwVCLpR8mhmavPaOaKvXtoK.jpg"
+        },
+        {
+          "name": "Muzakki Ramdhan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/v4rSgXl2nQftb1K7ZoflFSaywKT.jpg"
+        },
+        {
+          "name": "Faris Fadjar Munggaran",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hv57k0RaeoWHMldatdvofQryJDn.jpg"
+        },
+        {
+          "name": "Rio Dewanto",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mkukGDtAAsdMUxV8gJI6KW8tQnE.jpg"
+        },
+        {
+          "name": "Marissa Anita",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2eUwwFlaRTkB7YEOoT4QCFumjCl.jpg"
+        },
+        {
+          "name": "Lukman Sardi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pMZiVVu8k5MzGteRgpNVzMybxLm.jpg"
+        },
+        {
+          "name": "Cecep Arif Rahman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n5V0iZrpuim3jUd9BH0e9vIuq5g.jpg"
+        },
+        {
+          "name": "Ari Tulang",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iOAtb1J1v7dincYsP0D55pSIFix.jpg"
+        },
+        {
+          "name": "Aming Sugandhi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jw7OQBuTAhgA2dc6udULxFivEqE.jpg"
+        }
+      ],
+      "message_ids": [
+        7801,
+        7802
+      ],
+      "video_message_id": 7802
     },
     {
       "tmdb_id": 12177,

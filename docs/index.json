@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-05T16:10:31+00:00",
+  "generated_at": "2026-10-05T19:08:47+00:00",
   "channel": "-1004483833987",
-  "count": 3187,
-  "movie_count": 2816,
+  "count": 3188,
+  "movie_count": 2817,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -114775,6 +114775,77 @@
         5877
       ],
       "video_message_id": 5877
+    },
+    {
+      "tmdb_id": 10386,
+      "title": "O Gigante de Ferro",
+      "original_title": "The Iron Giant",
+      "year": "1999",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qxPusltlonoWMUD5ClEZfdGW0pt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ni5cXCrrGzoiIEoIwOzGiIwMZlH.jpg",
+      "overview": "Em 1957, um robô alienígena gigante aterrissa perto da pequena cidade de Rockwell, Maine (EUA). Hogarth, um garoto de nove anos que estava explorando a área, encontra o robô e os dois ficam amigos. Mas um agente do governo completamente obcecado surge com o objetivo de destruir o extraterrestre a qualquer custo.",
+      "genres": [
+        "Animação",
+        "Drama",
+        "Família",
+        "Ficção científica",
+        "Aventura"
+      ],
+      "cast": [
+        {
+          "name": "Jennifer Aniston",
+          "photo_url": "https://image.tmdb.org/t/p/w185/PBSCmHDFdCMBhjx0EbXpTw4Z94.jpg"
+        },
+        {
+          "name": "Harry Connick Jr.",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cMagjJsa0nSZzEueihV721dgxNn.jpg"
+        },
+        {
+          "name": "Vin Diesel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tEoUF0RJqHnskmBOJiDEQhyN7Ok.jpg"
+        },
+        {
+          "name": "James Gammon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ar7am7PST1c91LYPYnrmJJxc9zH.jpg"
+        },
+        {
+          "name": "Cloris Leachman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/o8pnV9urjuHZDAR2u4UjPy2CR1u.jpg"
+        },
+        {
+          "name": "Christopher McDonald",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gK1XhbfD9Xd8s3VXRPpgDCluyZp.jpg"
+        },
+        {
+          "name": "John Mahoney",
+          "photo_url": "https://image.tmdb.org/t/p/w185/paVSw7Brdp6MKa2j4UPukA0KHs3.jpg"
+        },
+        {
+          "name": "Eli Marienthal",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lrIygexYKs1bhcIjbHtyCejRaAe.jpg"
+        },
+        {
+          "name": "M. Emmet Walsh",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fVWvBxvwyk4aTA9vKZOV9qHRNNk.jpg"
+        },
+        {
+          "name": "Jack Angel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5MsVwIULYJotUSbDs61uSJff7ei.jpg"
+        },
+        {
+          "name": "Bob Bergen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/soDD1xiV3zVQWOJzVdJwfgIqzfe.jpg"
+        },
+        {
+          "name": "Mary Kay Bergman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/heTLLKqi4g7QqFa2JtOfoOGNpWh.jpg"
+        }
+      ],
+      "message_ids": [
+        7786,
+        7787
+      ],
+      "video_message_id": 7787
     },
     {
       "tmdb_id": 923632,

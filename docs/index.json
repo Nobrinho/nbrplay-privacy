@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-05T19:10:28+00:00",
+  "generated_at": "2026-10-05T19:11:29+00:00",
   "channel": "-1004483833987",
-  "count": 3189,
-  "movie_count": 2818,
+  "count": 3190,
+  "movie_count": 2819,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -82667,6 +82667,74 @@
         6258
       ],
       "video_message_id": 6258
+    },
+    {
+      "tmdb_id": 1118595,
+      "title": "Jester: A Morte Sorri",
+      "original_title": "The Jester",
+      "year": "2023",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xMvd6QBbXFsRG1LHoEVJafWj6Xj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sLdlUypLzpQiJvO2dmqx5J7rigP.jpg",
+      "overview": "Depois da recente morte de seu pai, duas irmãs separadas se encontram sendo perseguidas por um ser maligno conhecido como \"O Jester\". A entidade maligna começa a atormentar os habitantes de uma pequena cidade na noite de Halloween.",
+      "genres": [
+        "Terror",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Michael Sheffield",
+          "photo_url": "https://image.tmdb.org/t/p/w185/746gVMQooBk3oXYME0zP0BTEF6j.jpg"
+        },
+        {
+          "name": "Matt Servitto",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3wxehP1Dp81D1pXSk8riU2oCLkG.jpg"
+        },
+        {
+          "name": "Lelia Symington",
+          "photo_url": "https://image.tmdb.org/t/p/w185/efAic1tirW5oTmKRSnRrEnu11S3.jpg"
+        },
+        {
+          "name": "Delaney White",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vgMjdZiBGJMGub3IdH6wyfZN67y.jpg"
+        },
+        {
+          "name": "Ken Arnold",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wAiycOeNumYaMOACONfeGvDaoCp.jpg"
+        },
+        {
+          "name": "Mary Jane Pentony",
+          "photo_url": null
+        },
+        {
+          "name": "Sam Lukowski",
+          "photo_url": null
+        },
+        {
+          "name": "Lena Janes",
+          "photo_url": null
+        },
+        {
+          "name": "Gabriel Morgan",
+          "photo_url": null
+        },
+        {
+          "name": "Mia Rae Roberts",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7EZiJWWxBfmrQq0UF8oTe5iHBSh.jpg"
+        },
+        {
+          "name": "Jesse L. Green",
+          "photo_url": null
+        },
+        {
+          "name": "Judson Grubby",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7789,
+        7790
+      ],
+      "video_message_id": 7790
     },
     {
       "tmdb_id": 115782,

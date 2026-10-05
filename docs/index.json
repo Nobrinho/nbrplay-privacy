@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-05T19:08:47+00:00",
+  "generated_at": "2026-10-05T19:10:28+00:00",
   "channel": "-1004483833987",
-  "count": 3188,
-  "movie_count": 2817,
+  "count": 3189,
+  "movie_count": 2818,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -40794,6 +40794,74 @@
         803
       ],
       "video_message_id": 803
+    },
+    {
+      "tmdb_id": 121945,
+      "title": "CHiPs '99",
+      "original_title": "CHiPs '99",
+      "year": "1998",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hBOi843wqvqjoau6DCNZDrLtHD5.jpg",
+      "backdrop_url": null,
+      "overview": "Ponch has returned to the police force, and is determined to help his friend Jon investigating various car thefts.",
+      "genres": [
+        "Ação",
+        "Crime",
+        "Cinema TV"
+      ],
+      "cast": [
+        {
+          "name": "Larry Wilcox",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n0EcfbjAPhwIaBjoKVIo24IY22V.jpg"
+        },
+        {
+          "name": "Erik Estrada",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tz6WeBwL435g8xoXrteQLejGe7n.jpg"
+        },
+        {
+          "name": "Robert Pine",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xZM1qLqmRprnZYXa8Ugsmo00zL9.jpg"
+        },
+        {
+          "name": "Paul Korver",
+          "photo_url": null
+        },
+        {
+          "name": "David Ramsey",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bZWO7WfBYI8iojTFozzqN2X3RWL.jpg"
+        },
+        {
+          "name": "Judith Sheindlin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/f9VKrPeOiWOGPhTqMnmJBPHaoz5.jpg"
+        },
+        {
+          "name": "Jerry Bishop",
+          "photo_url": null
+        },
+        {
+          "name": "Jonathan Baker",
+          "photo_url": null
+        },
+        {
+          "name": "Joe Basile",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1HxJCnVfcxeD3NXGEEqTdwjYrcG.jpg"
+        },
+        {
+          "name": "John Bebita",
+          "photo_url": null
+        },
+        {
+          "name": "Stephen J. Cannell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n3WFoVFMYkzzR5K4IFHHxIspvFd.jpg"
+        },
+        {
+          "name": "Johnnie Cochran",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8xLsc0xNocdWXL19XNdeY8fisSb.jpg"
+        }
+      ],
+      "message_ids": [
+        7788
+      ],
+      "video_message_id": 7788
     },
     {
       "tmdb_id": 232454,

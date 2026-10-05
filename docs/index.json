@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-05T12:59:03+00:00",
+  "generated_at": "2026-10-05T14:26:23+00:00",
   "channel": "-1004483833987",
-  "count": 3191,
-  "movie_count": 2820,
+  "count": 3190,
+  "movie_count": 2819,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -135936,23 +135936,6 @@
         6762
       ],
       "video_message_id": 6762
-    },
-    {
-      "tmdb_id": 686375,
-      "title": "Pandemia",
-      "original_title": "Pandemia",
-      "year": "2014",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": "Neste documentário o HISTORY apresenta o especial Pandemia, que investiga se os virus podem ser o grande carrasco da humanidade.",
-      "genres": [
-        "Documentário"
-      ],
-      "cast": [],
-      "message_ids": [
-        7271
-      ],
-      "video_message_id": 7271
     },
     {
       "tmdb_id": 10147,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-05T15:07:20+00:00",
+  "generated_at": "2026-10-05T15:08:30+00:00",
   "channel": "-1004483833987",
-  "count": 3187,
-  "movie_count": 2816,
+  "count": 3186,
+  "movie_count": 2815,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -185555,23 +185555,6 @@
         6872
       ],
       "video_message_id": 6872
-    },
-    {
-      "tmdb_id": 1274391,
-      "title": "Лида.doc",
-      "original_title": "Лида.doc",
-      "year": "2020",
-      "poster_url": null,
-      "backdrop_url": null,
-      "overview": "A few days from the life of Lida Moniava and her foundation, the children's hospice \"House with a lighthouse\". About how they are looking for families for terminally ill orphans, so that they can live at home, and not in a boarding school. About how the New Year is arranged for a child in early December — because otherwise he will not have time to celebrate it. About how Lida is looking for sponsors for the foundation, gives several interviews a day, goes to court, where a case of drug trafficking in a hospice is being heard. This film is about Lida and about a 12—year-old palliative care boy, whom Lida took into care. About how they set up his stroller, receive an award at the Moscow City Hall and listen to music at the conservatory.",
-      "genres": [
-        "Documentário"
-      ],
-      "cast": [],
-      "message_ids": [
-        6786
-      ],
-      "video_message_id": 6786
     },
     {
       "tmdb_id": 1316092,

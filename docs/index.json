@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-05T19:11:29+00:00",
+  "generated_at": "2026-10-05T19:12:53+00:00",
   "channel": "-1004483833987",
-  "count": 3190,
-  "movie_count": 2819,
+  "count": 3191,
+  "movie_count": 2820,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -160163,6 +160163,78 @@
         3379
       ],
       "video_message_id": 3379
+    },
+    {
+      "tmdb_id": 10336,
+      "title": "Spawn: O Soldado do Inferno",
+      "original_title": "Spawn",
+      "year": "1997",
+      "poster_url": "https://image.tmdb.org/t/p/w500/653tt7EeQZ2LqLMeiGApxkdsKB2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cSR1BXlqaKXhexFQQU4NJdI3KDy.jpg",
+      "overview": "O assassino do governor Al Simmons é morto depois de ser traído por seu chefe, Jason Wynn. Ao chegar no inferno, Simmons recebe uma oferta para retornar à Terra se ele estiver disposto a liderar um exército do mal. Ele aceita e é reencarnado como um Hellspawn, uma versão horrivelmente distorcida de sua antiga personalidade. No entanto, Spawn serve como uma força do bem para o desespero de capanga do Diabo, um palhaço mau.",
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Fantasia",
+        "Terror",
+        "Ficção científica",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Michael Jai White",
+          "photo_url": "https://image.tmdb.org/t/p/w185/YPoHYuzR37wFpPpwEXZYQlhLln.jpg"
+        },
+        {
+          "name": "Martin Sheen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/m2Y3Q0uyuW6htrn2W9UWCWMkpZu.jpg"
+        },
+        {
+          "name": "John Leguizamo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+        },
+        {
+          "name": "Theresa Randle",
+          "photo_url": "https://image.tmdb.org/t/p/w185/myBU9qG6wXHJfYF9cl07rvQmhUB.jpg"
+        },
+        {
+          "name": "Nicol Williamson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hCGo3mIwSIE9VDOALwEfZUN7BGw.jpg"
+        },
+        {
+          "name": "D. B. Sweeney",
+          "photo_url": "https://image.tmdb.org/t/p/w185/enY28APVRWfyHjGAkh6VCkYCWOA.jpg"
+        },
+        {
+          "name": "Melinda Clarke",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xFNeQGhBvqz4eo3QcvnqXtPsAIO.jpg"
+        },
+        {
+          "name": "Miko Hughes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6oBM2RVDryymOi966ZkCNEDEsws.jpg"
+        },
+        {
+          "name": "Sydni Beaudoin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/t1pYYxS7KbXOjYIA2V0eCzKQktk.jpg"
+        },
+        {
+          "name": "Michael Papajohn",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hdTJBfIXfvRdlD1p8y6rra207UP.jpg"
+        },
+        {
+          "name": "Frank Welker",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+        },
+        {
+          "name": "Tony Haney",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7791,
+        7792
+      ],
+      "video_message_id": 7792
     },
     {
       "tmdb_id": 7459,

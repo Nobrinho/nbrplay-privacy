@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-05T15:08:30+00:00",
+  "generated_at": "2026-10-05T16:10:31+00:00",
   "channel": "-1004483833987",
-  "count": 3186,
-  "movie_count": 2815,
+  "count": 3187,
+  "movie_count": 2816,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -63318,6 +63318,90 @@
         5247
       ],
       "video_message_id": 5247
+    },
+    {
+      "tmdb_id": 911430,
+      "title": "F1: O Filme",
+      "original_title": "F1",
+      "year": "2025",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fMcY5hpVZQ0cLKHvFM1mo6GrAr0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
+      "overview": "Sonny Hayes, a lenda do automobilismo, é persuadido a deixar a aposentadoria para liderar uma equipe de Fórmula 1 em dificuldades—e ser mentor de um jovem piloto famoso—enquanto busca mais uma oportunidade de glória.",
+      "genres": [
+        "Ação",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Brad Pitt",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+        },
+        {
+          "name": "Damson Idris",
+          "photo_url": "https://image.tmdb.org/t/p/w185/y0dcRs4GF6Xx23OxDr1ytc8thlL.jpg"
+        },
+        {
+          "name": "Javier Bardem",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zfRID0jx8DKBluPGU9xtk9sZWUt.jpg"
+        },
+        {
+          "name": "Kerry Condon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bLP627Ar30kSqy5ZIYVJioCprOH.jpg"
+        },
+        {
+          "name": "Tobias Menzies",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hGhAw2obMEOu1K0ed9b3jds9thf.jpg"
+        },
+        {
+          "name": "Kim Bodnia",
+          "photo_url": "https://image.tmdb.org/t/p/w185/koWU6vb82cuCDLeYE1erqnQ39cW.jpg"
+        },
+        {
+          "name": "Sarah Niles",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ySelhnmCCX9VnlPvceO9c5XOelK.jpg"
+        },
+        {
+          "name": "Will Merrick",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3IVuzHqE8FIBV679o4VGrZInpsE.jpg"
+        },
+        {
+          "name": "Joseph Balderrama",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8BwRFsXzWD25dPih6IePcRD3EjT.jpg"
+        },
+        {
+          "name": "Abdul Salis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2gDH3kNzUr4IUZLbCiYR9OCTjGa.jpg"
+        },
+        {
+          "name": "Callie Cooke",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kAKeZuL0ILQCtjIWniCnqmwpvNx.jpg"
+        },
+        {
+          "name": "Samson Kayo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jyGT8cgl6MEANOpRKoHgXaC1yp6.jpg"
+        }
+      ],
+      "message_ids": [
+        7780,
+        7781,
+        7779,
+        7778,
+        7777,
+        7776,
+        7775,
+        7774,
+        7773,
+        7772,
+        7771,
+        7770,
+        7769,
+        7768,
+        7767,
+        7766,
+        7765
+      ],
+      "video_message_id": 7781,
+      "parts": 16
     },
     {
       "tmdb_id": 465669,

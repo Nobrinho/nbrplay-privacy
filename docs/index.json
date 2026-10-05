@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-05T12:20:11+00:00",
+  "generated_at": "2026-10-05T12:59:03+00:00",
   "channel": "-1004483833987",
-  "count": 3190,
-  "movie_count": 2819,
+  "count": 3191,
+  "movie_count": 2820,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -3335,6 +3335,37 @@
         1053
       ],
       "video_message_id": 1053
+    },
+    {
+      "tmdb_id": 1595223,
+      "title": "2DIE4: 24 Horas no Limite",
+      "original_title": "2DIE4: 24 Horas no Limite",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wYUZviDJDrx8jWQTua1eOmQyPAC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/halXNVLNMQOjpdMYLcUocr0rTzm.jpg",
+      "overview": "O primeiro filme brasileiro lançado em IMAX, conduz o público por um ponto de vista inédito: a própria mente do piloto brasileiro durante a prova de resistência mais famosa do automobilismo, considerada a mais antiga e exigente da história.",
+      "genres": [
+        "Ação",
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Felipe Nasr",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zBzONzwlw9zVFG1JPbVS9fm8i8O.jpg"
+        },
+        {
+          "name": "Mathieu Jaminet",
+          "photo_url": "https://image.tmdb.org/t/p/w185/91XCdoleaJwzH8jKQf5UihwcHpa.jpg"
+        },
+        {
+          "name": "Nick Tandy",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gztZYowiWy08JjEb1QovtkTD8sS.jpg"
+        }
+      ],
+      "message_ids": [
+        7764
+      ],
+      "video_message_id": 7764
     },
     {
       "tmdb_id": 4513,

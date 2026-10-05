@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-05T14:26:23+00:00",
+  "generated_at": "2026-10-05T14:28:54+00:00",
   "channel": "-1004483833987",
-  "count": 3190,
-  "movie_count": 2819,
+  "count": 3189,
+  "movie_count": 2818,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -4528,75 +4528,6 @@
         1281
       ],
       "video_message_id": 1281
-    },
-    {
-      "tmdb_id": 24756,
-      "title": "A Arte da Guerra 3",
-      "original_title": "The Art of War III: Retribution",
-      "year": "2009",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cEbTK13mM2aaPqjvqU1sIGxL73i.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3zpBLdHTpcXttDOcGpQOJuFN1LZ.jpg",
-      "overview": "Quando a diplomacia internacional se mostra ineficaz, medidas extremas precisam ser tomadas. No mais novo episódio de Arte da Guerra, o Agente Neil Shaw, interpretado por Treach, também conhecido com \"Naughty By Nature\", está atuando incógnito em uma missão para deter terroristas norte-coreanos que tentam obter uma bomba nuclear. Mas, quando o acordo não dá certo, Shaw é atraído para um fogo cruzado na tentativa de salvar uma bela negociadora (Sung Hi Lee, modelo da Playboy) ... e acaba acusado de assassinato. Sendo agora um homem procurado e tendo a seu lado apenas seu parceiro novato e a misteriosa negociadora, Shaw terá que depender de suas incríveis habilidades nas artes marciais e do seu código de guerreiro para lutar contra as ruas da Coreia e encontrar os terroristas antes que eles detonem a bomba numa conferência de paz das Nações Unidas. Isto é guerra, e há uma arte para tal.",
-      "genres": [
-        "Ação",
-        "Aventura",
-        "Thriller"
-      ],
-      "cast": [
-        {
-          "name": "Treach",
-          "photo_url": "https://image.tmdb.org/t/p/w185/iRMfIuyuJqmOwXfJZjuIuNVXmDo.jpg"
-        },
-        {
-          "name": "Warren Derosa",
-          "photo_url": "https://image.tmdb.org/t/p/w185/eIMSleFm9fyyKfKgoB7pVzK04Ij.jpg"
-        },
-        {
-          "name": "Sung-Hi Lee",
-          "photo_url": "https://image.tmdb.org/t/p/w185/dT7OOZ4ODMbhHowiWAgYAROIz07.jpg"
-        },
-        {
-          "name": "Janet Carroll",
-          "photo_url": "https://image.tmdb.org/t/p/w185/2HSNIB1kHTlxxQzWySjY0vRH0Me.jpg"
-        },
-        {
-          "name": "Leo Lee",
-          "photo_url": "https://image.tmdb.org/t/p/w185/av9FrOPmE3gFEyNnNJWK82h70xp.jpg"
-        },
-        {
-          "name": "Charles Rahi Chun",
-          "photo_url": "https://image.tmdb.org/t/p/w185/bZI7VhpWzPJ0h7KtofthvDVORqd.jpg"
-        },
-        {
-          "name": "Brian Fitzpatrick",
-          "photo_url": "https://image.tmdb.org/t/p/w185/2vSurXx5jEkoYGegmbkJX6JSeWo.jpg"
-        },
-        {
-          "name": "Jack Conley",
-          "photo_url": "https://image.tmdb.org/t/p/w185/78bceHx2BdTJLhhomIbpQKm15TR.jpg"
-        },
-        {
-          "name": "David Basila",
-          "photo_url": "https://image.tmdb.org/t/p/w185/nnwcHWqm5mMxzFTqEmi5oJgYJ5t.jpg"
-        },
-        {
-          "name": "John P. Gulino",
-          "photo_url": "https://image.tmdb.org/t/p/w185/t4h6LfTZuNT4Fj6vAa3mFfPAoqY.jpg"
-        },
-        {
-          "name": "Lovake Heyer",
-          "photo_url": "https://image.tmdb.org/t/p/w185/ybg6Rl2lsYwaBNYpENRULpKErv5.jpg"
-        },
-        {
-          "name": "Brett A. Jones",
-          "photo_url": "https://image.tmdb.org/t/p/w185/uTPgjOckqfnK5ldXma0me7oEgTF.jpg"
-        }
-      ],
-      "message_ids": [
-        7560,
-        7561
-      ],
-      "video_message_id": 7561
     },
     {
       "tmdb_id": 50183,

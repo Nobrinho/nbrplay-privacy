@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-05T19:18:23+00:00",
+  "generated_at": "2026-10-05T19:18:35+00:00",
   "channel": "-1004483833987",
-  "count": 3194,
-  "movie_count": 2823,
+  "count": 3195,
+  "movie_count": 2824,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -150444,6 +150444,75 @@
         6499
       ],
       "video_message_id": 6499
+    },
+    {
+      "tmdb_id": 8367,
+      "title": "Robin Hood: O Príncipe dos Ladrões",
+      "original_title": "Robin Hood: Prince of Thieves",
+      "year": "1991",
+      "poster_url": "https://image.tmdb.org/t/p/w500/e7iNpwTsxKGnKHdxPVWghD0Av7j.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kuLk79GQq8WQb8fZxc6MtvIhPaC.jpg",
+      "overview": "Após voltar de uma Cruzada, Robin de Locksley, um jovem cavaleiro, descobre que seu pai, Lorde de Locksley, foi morto pelos seguidores do xerife de Nottingham, que por sua vez é partidário do Príncipe João, que fará de tudo pra que Ricardo Coração de Leão não volte ao poder. Robin é visado pelos usurpadores e foge, mas sempre acompanhado por Azeem, um mouro que lhe deve a vida. Eles vão parar na Floresta de Sherwood, onde são atacados por camponeses que, para sobreviver, atacam os asseclas do xerife. Logo Robin e Azeem se unem ao bando e planejam trazer Ricardo de volta ao poder. Em meio à sua luta, Robin é ajudado por Marian, uma bela donzela por quem se apaixona.",
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Kevin Costner",
+          "photo_url": "https://image.tmdb.org/t/p/w185/608blZipRDZkDpzp8VItB64qMaT.jpg"
+        },
+        {
+          "name": "Morgan Freeman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+        },
+        {
+          "name": "Mary Elizabeth Mastrantonio",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vbZ1E557K5oj34xLHR5ErO8wPCi.jpg"
+        },
+        {
+          "name": "Christian Slater",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6ww3uweEEXMlvtNjTlgBHxLErPF.jpg"
+        },
+        {
+          "name": "Alan Rickman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
+        },
+        {
+          "name": "Geraldine McEwan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d6QPB4D5SubBnl10y0PcZjnJDav.jpg"
+        },
+        {
+          "name": "Michael McShane",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xGd7WMiumvnsGttbBXVRsrhos7X.jpg"
+        },
+        {
+          "name": "Brian Blessed",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3mLIr94V5IOA5ndY6GyqKKcyrX6.jpg"
+        },
+        {
+          "name": "Michael Wincott",
+          "photo_url": "https://image.tmdb.org/t/p/w185/z6FtWACKaIivi0khxM6vEHoUH0.jpg"
+        },
+        {
+          "name": "Nick Brimble",
+          "photo_url": "https://image.tmdb.org/t/p/w185/s16EmdFkTYFctD0LzPL1rSqSli4.jpg"
+        },
+        {
+          "name": "Soo Drouet",
+          "photo_url": null
+        },
+        {
+          "name": "Daniel Newman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oLdRXDSN98EIwj7k0wgyAwmpHcW.jpg"
+        }
+      ],
+      "message_ids": [
+        7799,
+        7800
+      ],
+      "video_message_id": 7800
     },
     {
       "tmdb_id": 1184918,

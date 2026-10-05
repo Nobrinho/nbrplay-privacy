@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-05T19:18:48+00:00",
+  "generated_at": "2026-10-05T19:18:53+00:00",
   "channel": "-1004483833987",
-  "count": 3196,
-  "movie_count": 2825,
+  "count": 3197,
+  "movie_count": 2826,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -171584,6 +171584,77 @@
         1222
       ],
       "video_message_id": 1222
+    },
+    {
+      "tmdb_id": 113094,
+      "title": "Ultraman Tiga - A Odisséia Final",
+      "original_title": "ウルトラマンティガ THE FINAL ODYSSEY",
+      "year": "2000",
+      "poster_url": "https://image.tmdb.org/t/p/w500/papDk5x8wmkamSpEm70Ssc6SqQG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/e2Mkm8eK9IyRSwaDCg6eaeQnr9M.jpg",
+      "overview": "No lugar da grande batalha final entre Ultraman e o Senhor das Trevas, surge uma misteriosa ilha. Três gigantes de pedra despertam, iniciando assim uma onda de destruição.  O Esquadrão GUTS entra em alerta máximo para resgatar sua capitã que está no meio do caos, enquanto o oficial Daigo precisa recuperar a luz de Ultraman Tiga para enfrentar a escuridão que se aproxima e salvar sua amada, além de toda humanidade!",
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Família",
+        "Fantasia",
+        "Ficção científica"
+      ],
+      "cast": [
+        {
+          "name": "長野博",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sPPPdfkq9lFk4mxpTDtdMW88jea.jpg"
+        },
+        {
+          "name": "吉本多香美",
+          "photo_url": "https://image.tmdb.org/t/p/w185/q86rSKDz2vlSFrPy2kMM8Rqrfgi.jpg"
+        },
+        {
+          "name": "高樹澪",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7iNxu1ciUWbBcP5ri3gtnh4tFSJ.jpg"
+        },
+        {
+          "name": "影丸茂樹",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1h1gidFJtzfUd144lEZXOwohahK.jpg"
+        },
+        {
+          "name": "大滝明利",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cLc4gATgzrAorJejnnBd45esL7z.jpg"
+        },
+        {
+          "name": "増田由紀夫",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jftT5pt3WGWXAfapTItGr0GUvMX.jpg"
+        },
+        {
+          "name": "古屋暢一",
+          "photo_url": "https://image.tmdb.org/t/p/w185/do1rqR41RYXOk5e85hm3NBltusH.jpg"
+        },
+        {
+          "name": "川地民夫",
+          "photo_url": "https://image.tmdb.org/t/p/w185/t7hD7HwcPtMsLrWajXTD6J7fyDg.jpg"
+        },
+        {
+          "name": "Take Uketa",
+          "photo_url": null
+        },
+        {
+          "name": "岡部健",
+          "photo_url": null
+        },
+        {
+          "name": "芳本美代子",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jei7hXljXux67TEBIyI828S0dVW.jpg"
+        },
+        {
+          "name": "松田優",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iOWnzlKEFROWB061emMafs8j1I8.jpg"
+        }
+      ],
+      "message_ids": [
+        7803,
+        7804
+      ],
+      "video_message_id": 7804
     },
     {
       "tmdb_id": 9920,

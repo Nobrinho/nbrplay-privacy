@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-05T19:12:53+00:00",
+  "generated_at": "2026-10-05T19:13:58+00:00",
   "channel": "-1004483833987",
-  "count": 3191,
-  "movie_count": 2820,
+  "count": 3192,
+  "movie_count": 2821,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -84765,6 +84765,75 @@
         4130
       ],
       "video_message_id": 4130
+    },
+    {
+      "tmdb_id": 810693,
+      "title": "Jujutsu Kaisen 0: O Filme",
+      "original_title": "劇場版 呪術廻戦 0",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2ndvx03fmREMxEgaZ1vWt756TOQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rcEDPOOOUTLFxLLQJggfLffbofe.jpg",
+      "overview": "Quando Yuta Okkotsu era pequeno, sua amiga Rika Orimoto morreu num acidente de trânsito, bem na sua frente. Ela se tornou uma aparição, assombrando o jovem e atormentando a sua vida, até o dia em que Satoru Gojo, um feiticeiro Jujutsu, o convida para se matricular no Colégio Jujutsu. Junto com seus novos colegas de sala: Maki Zen'in, Toge Inumaki e Panda, Yuta encontra a coragem para perseverar. Enquanto isso, Suguru Geto, um vil manipulador de maldições que foi expulso do colégio por massacrar inocentes, põe em prática seu plano: lançar mil maldições em Shinjuku e em Kyoto e exterminar todos os não-feiticeiros, criando um paraíso para feiticeiros Jujutsu. Será que Yuta será capaz de impedir Geto? E o que acontecerá quando ele se livrar da maldição da Rika?",
+      "genres": [
+        "Animação",
+        "Ação",
+        "Fantasia"
+      ],
+      "cast": [
+        {
+          "name": "緒方恵美",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eNdfMUyZgG5P4TNIZpbTAu8gBs9.jpg"
+        },
+        {
+          "name": "Kana Hanazawa",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9UTBlNRopSOKyoWnCm74tyHOfR1.jpg"
+        },
+        {
+          "name": "Yuichi Nakamura",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wb8behVKjBHX9XXrEydvNINCYwH.jpg"
+        },
+        {
+          "name": "Takahiro Sakurai",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
+        },
+        {
+          "name": "Mikako Komatsu",
+          "photo_url": "https://image.tmdb.org/t/p/w185/13tQEZ1tLdOmi7oGoRJ4xep1ODQ.jpg"
+        },
+        {
+          "name": "Koki Uchiyama",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sllSm3iZZWVLTBrDZQRtWrZUfEj.jpg"
+        },
+        {
+          "name": "Tomokazu Seki",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jGQC9KkfNMh2wBgizw81GLX2KN2.jpg"
+        },
+        {
+          "name": "岩田光央",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xCAsuzc5OBQZWhG5WSZIyhBZ7xj.jpg"
+        },
+        {
+          "name": "Takaya Kuroda",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7UH1DDjoF7x4b9pOT4bLF9ew8Uq.jpg"
+        },
+        {
+          "name": "Risae Matsuda",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7bUMIZ3S1Wc73d5wgNCyiLYUhyU.jpg"
+        },
+        {
+          "name": "Satsumi Matsuda",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2t35t5W2hyBD0eQGCpJcG4m4zHh.jpg"
+        },
+        {
+          "name": "Shizuka Ito",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n47YvFPlJzl8HnsoDBtM8SUqG8q.jpg"
+        }
+      ],
+      "message_ids": [
+        7793,
+        7794
+      ],
+      "video_message_id": 7794
     },
     {
       "tmdb_id": 54342,

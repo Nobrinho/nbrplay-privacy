@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-06T01:21:11+00:00",
+  "generated_at": "2026-10-06T01:21:15+00:00",
   "channel": "-1004483833987",
-  "count": 3202,
-  "movie_count": 2831,
+  "count": 3203,
+  "movie_count": 2832,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -113339,6 +113339,75 @@
         3546
       ],
       "video_message_id": 3546
+    },
+    {
+      "tmdb_id": 1930,
+      "title": "O Espetacular Homem-Aranha",
+      "original_title": "The Amazing Spider-Man",
+      "year": "2012",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gxSsFBCFuDhVQMCuIDoZcmHOqlY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/HVcza6tJtWFrLriuh3Ano4Vt46.jpg",
+      "overview": "Peter Parker está tentando saber mais sobre sua origem. Ele encontra uma pasta que pertenceu ao seu pai e quer descobrir por que seus pais desapareceram. Sua busca o leva a Oscorp e ao dr. Curt Connors, que tem como alterego o letal Lagarto.",
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Ficção científica"
+      ],
+      "cast": [
+        {
+          "name": "Andrew Garfield",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
+        },
+        {
+          "name": "Emma Stone",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+        },
+        {
+          "name": "Rhys Ifans",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg"
+        },
+        {
+          "name": "Denis Leary",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tAOziVWQBnrW9eR442M6g9SQkmA.jpg"
+        },
+        {
+          "name": "Martin Sheen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/m2Y3Q0uyuW6htrn2W9UWCWMkpZu.jpg"
+        },
+        {
+          "name": "Sally Field",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iMeq1j9Xwvaf6PbTJ0FQz69fpuA.jpg"
+        },
+        {
+          "name": "Irrfan Khan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qkA9PpWJRw3rNjVkWfNZdwLvRZx.jpg"
+        },
+        {
+          "name": "Campbell Scott",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1kj769jco2U73xasSEu0TyX9I5w.jpg"
+        },
+        {
+          "name": "Embeth Davidtz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nwsdu9lOsKJ5v9RwOCc7kAiuxSO.jpg"
+        },
+        {
+          "name": "Chris Zylka",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8ctswPqjqNpDPxW792xnHEZnWwA.jpg"
+        },
+        {
+          "name": "Max Charles",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wVnQgfJ1M7gfJhRSFrAfKZwxNip.jpg"
+        },
+        {
+          "name": "C. Thomas Howell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/739YbFWpAYyo9neHvBGThgmT4YH.jpg"
+        }
+      ],
+      "message_ids": [
+        7829,
+        7830
+      ],
+      "video_message_id": 7830
     },
     {
       "tmdb_id": 102382,

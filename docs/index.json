@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-05T19:18:53+00:00",
+  "generated_at": "2026-10-06T01:19:32+00:00",
   "channel": "-1004483833987",
-  "count": 3197,
-  "movie_count": 2826,
+  "count": 3204,
+  "movie_count": 2833,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -56141,6 +56141,77 @@
       "video_message_id": 6248
     },
     {
+      "tmdb_id": 503314,
+      "title": "Dragon Ball Super: Broly",
+      "original_title": "ドラゴンボール超 ブロリー",
+      "year": "2018",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tuay76gZt7kOIb806hTzIktsQDT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6OTRuxpwUUGbmCX3MKP25dOmo59.jpg",
+      "overview": "A Terra está em paz depois do fim do Torneio do Poder. Goku não quer nada além de treinar, já que agora compreende quantas pessoas fortes existem nos universos que ele ainda não conheceu. Então, um dia, um Saiyajin desconhecido chamado Broly aparece diante de Goku e Vegeta. Como é possível que um Saiyajin esteja na Terra quando ele deveria ter sido destruído junto com o Planeta Vegeta? De volta do inferno mais uma vez, Freeza também aparece e os três Saiyajins que tiveram caminhos completamente diferentes se encontram em um intenso conflito.",
+      "genres": [
+        "Ação",
+        "Ficção científica",
+        "Animação"
+      ],
+      "cast": [
+        {
+          "name": "Masako Nozawa",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg"
+        },
+        {
+          "name": "久川綾",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5asVy8H7VSDQKVdURubT0QHjsld.jpg"
+        },
+        {
+          "name": "Ryo Horikawa",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vZ69WQJfR5D2xow5FkddduRjq6c.jpg"
+        },
+        {
+          "name": "Toshio Furukawa",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zZjO0NxIbEhYW3507gXVnvWeRkG.jpg"
+        },
+        {
+          "name": "草尾毅",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gDiYLUdl9zXXJmhE0bAuB1Jm3FJ.jpg"
+        },
+        {
+          "name": "中尾隆聖",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fsxlwNIWj7taqpXRYETmXFk0x1P.jpg"
+        },
+        {
+          "name": "Koichi Yamadera",
+          "photo_url": "https://image.tmdb.org/t/p/w185/biov5jENp2XYfehkcdnRvi796Wi.jpg"
+        },
+        {
+          "name": "Masakazu Morita",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
+        },
+        {
+          "name": "大友龍三郎",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fk3ebYlTjILTXkzJNvOi3SRUNb6.jpg"
+        },
+        {
+          "name": "Katsuhisa Houki",
+          "photo_url": "https://image.tmdb.org/t/p/w185/stuUwLrSOmQhOmNpO4kCrlu3ALF.jpg"
+        },
+        {
+          "name": "渡辺菜生子",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg"
+        },
+        {
+          "name": "Banjo Ginga",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qiXnKaZheMiVyA1U2mX9tPdNA3T.jpg"
+        }
+      ],
+      "message_ids": [
+        7813,
+        7814,
+        7812
+      ],
+      "video_message_id": 7814,
+      "parts": 2
+    },
+    {
       "tmdb_id": 610150,
       "title": "Dragon Ball Super: Super Hero",
       "original_title": "ドラゴンボール超 スーパーヒーロー",
@@ -56485,6 +56556,75 @@
         4390
       ],
       "video_message_id": 4390
+    },
+    {
+      "tmdb_id": 568994,
+      "title": "Driveways - Uma Amizade Inesperada",
+      "original_title": "Driveways",
+      "year": "2020",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c5u8upKRX1vLbYeSQF4PwP1YHuI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xEcdiZOjjaihkmCxKRQcjeSxv26.jpg",
+      "overview": "Cody chega junto com sua mãe na casa de sua tia falecida. Enquanto sua mãe está ocupada limpando a casa de sua falecida irmã, Cody tem que passar o tempo sozinho. O garoto introvertido não consegue se relacionar muito bem com as crianças vizinhas, mas ele logo forma um elo incomum com o veterano rabugento de 83 anos, Del, da casa ao lado, uma amizade que toca em todos os aspectos da vida em sua leviandade casual.",
+      "genres": [
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Hong Chau",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yGEw6uiSUBo838HkiCARs4BR40y.jpg"
+        },
+        {
+          "name": "Lucas Jaye",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rsKYeAKWnMarkIt7gzTjxXGItRN.jpg"
+        },
+        {
+          "name": "Brian Dennehy",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cg7CwS1vMJXCzZ0FUm4RbrjAJ2t.jpg"
+        },
+        {
+          "name": "Christine Ebersole",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bSFrS3JtDwnzbw877Iqwf8tEmF.jpg"
+        },
+        {
+          "name": "Jerry Adler",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8HZi9sk98qH5IroTc1vyyo2AZ3C.jpg"
+        },
+        {
+          "name": "Robyn Payne",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5uP9R3P89tiW3cDO9KIFnGCdR5N.jpg"
+        },
+        {
+          "name": "Jeter Rivera",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oSyfqNTWSBxAkUckWEKiGLJ63fX.jpg"
+        },
+        {
+          "name": "Sophia DiStefano",
+          "photo_url": "https://image.tmdb.org/t/p/w185/b3wDvGGyiMKAM4UlsRSkSqCgRBj.jpg"
+        },
+        {
+          "name": "Jack Caleb",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vu26Wf5KkNKnR3GpXYCwQHhdXpa.jpg"
+        },
+        {
+          "name": "James DiGiacomo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ccOfkxOPzWVcbDjlrob75yC0RM6.jpg"
+        },
+        {
+          "name": "Bill Buell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8T8pAu23bHye22XLodDrCDxSWuv.jpg"
+        },
+        {
+          "name": "Stan Carp",
+          "photo_url": "https://image.tmdb.org/t/p/w185/abzdzu7CV3ZbkbslU60zsIrXSf5.jpg"
+        }
+      ],
+      "message_ids": [
+        7816,
+        7817,
+        7815
+      ],
+      "video_message_id": 7817,
+      "parts": 2
     },
     {
       "tmdb_id": 580175,
@@ -61913,6 +62053,78 @@
         6311
       ],
       "video_message_id": 6311
+    },
+    {
+      "tmdb_id": 69335,
+      "title": "Estômago",
+      "original_title": "Estômago",
+      "year": "2008",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bxb7UoxJPnjBd3HMwyeqcQLTr0H.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3Os2EXMHcV9EkO0PWNIvT4phksL.jpg",
+      "overview": "Raimundo Nonato vem do Nordeste para São Paulo atrás de melhores oportunidades na vida. O que salva o rapaz de ser mais um mendigo ou sem-teto na grande capital é um dom quase mágico para cozinhar, que é descoberto por acaso pelo dono de um botequim. A história, em paralelo, mostra Raimundo na prisão, o que nos leva a crer que seu sucesso como cozinheiro lhe rendeu algum problema sério.",
+      "genres": [
+        "Drama",
+        "Comédia",
+        "Mistério",
+        "Crime"
+      ],
+      "cast": [
+        {
+          "name": "João Miguel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wjj9wAQ8ISsf4Jb5LE9tezOfuch.jpg"
+        },
+        {
+          "name": "Fabiula Nascimento",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1ZQwrmoX1tU3T5rEg0BC9kYlT1H.jpg"
+        },
+        {
+          "name": "Babu Santana",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uEOL1Q3pNMZmzYF3nJcIcgeGAtV.jpg"
+        },
+        {
+          "name": "Carlo Briani",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jFYweXtg0QUo8vZDU45MZ3arMyg.jpg"
+        },
+        {
+          "name": "Zeca Cenovicz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/94VpNuOKnBswkeKFd3UWWDjYrIg.jpg"
+        },
+        {
+          "name": "Marco Zenni",
+          "photo_url": null
+        },
+        {
+          "name": "Marcel Szymanski",
+          "photo_url": null
+        },
+        {
+          "name": "Sidy Correa",
+          "photo_url": null
+        },
+        {
+          "name": "Alexander Sil",
+          "photo_url": null
+        },
+        {
+          "name": "Rodrigo Ferrarini",
+          "photo_url": null
+        },
+        {
+          "name": "Tino Viana",
+          "photo_url": null
+        },
+        {
+          "name": "Helder Silva",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7822,
+        7823,
+        7821
+      ],
+      "video_message_id": 7823,
+      "parts": 2
     },
     {
       "tmdb_id": 1259102,
@@ -82872,6 +83084,75 @@
         6866
       ],
       "video_message_id": 6866
+    },
+    {
+      "tmdb_id": 1243460,
+      "title": "Joe e a Viagem de Carro",
+      "original_title": "Joe's College Road Trip",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vwqQbN0gCOUerdoglA96VEtYzUg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dbr3eceKuGnKc9v5GaVTVtegZNK.jpg",
+      "overview": "Para mostrar o mundo real ao neto mimado que está prestes a entrar na faculdade, Joe, o irmão desbocado de Madea, leva o adolescente para uma viagem muito louca pelos EUA.",
+      "genres": [
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Tyler Perry",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8KU0OizemVLrERXt5HJIa0PAkIN.jpg"
+        },
+        {
+          "name": "Jermaine Harris",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cglG5hOKRJWVd9f41ihxnaqp7fY.jpg"
+        },
+        {
+          "name": "Amber Reign Smith",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3YMyankl95BdQe183GZohfdloAL.jpg"
+        },
+        {
+          "name": "Bethany Anne Lind",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d0FjeKbWYhbTzFSimCnC9K1Maza.jpg"
+        },
+        {
+          "name": "Jeremy Gimenez",
+          "photo_url": "https://image.tmdb.org/t/p/w185/o599alnl49u8NNYzE7WZfdKDiaD.jpg"
+        },
+        {
+          "name": "Millie Jackson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qtyd5p1Ml2QRXCDVCw2ayIQ1GpQ.jpg"
+        },
+        {
+          "name": "Wil Deusner",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uIo2SXuel3aeVRq6NX3AivuWCo5.jpg"
+        },
+        {
+          "name": "Patricia Williams",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sQ1VJzwcoog5ePZWMSXKzUBWTlg.jpg"
+        },
+        {
+          "name": "Deetta West",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eup8kRxSRRfo14r2sfDPJXkch2s.jpg"
+        },
+        {
+          "name": "Shawn Alexander Thompson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iFkEg38hL9We4PqCQiAC1mhKkG2.jpg"
+        },
+        {
+          "name": "Ben Swilley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3WOpECeFb6Fno3U9UDJm4M6C5lx.jpg"
+        },
+        {
+          "name": "Brian D. Cohen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/y4bxKR30HkFog8Ud9nbcJmzWgsH.jpg"
+        }
+      ],
+      "message_ids": [
+        7810,
+        7811,
+        7809
+      ],
+      "video_message_id": 7811,
+      "parts": 2
     },
     {
       "tmdb_id": 333339,
@@ -128346,6 +128627,75 @@
       "video_message_id": 5679
     },
     {
+      "tmdb_id": 1325678,
+      "title": "O Tesouro de Sarah",
+      "original_title": "Sarah's Oil",
+      "year": "2025",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vHIPqxm9qYMbXWkhSoFiGLraFvD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/43vbVQDJlY7VoY3VPo8MipicxXk.jpg",
+      "overview": "Uma jovem afro-americana, nascida no início do século XX, acredita que há petróleo em suas terras, e a intuição se confirma. Mas, quando chegam exploradores sem escrúpulos, ela precisa recorrer à sua família e a perfuradores independentes para manter o controle das terras.",
+      "genres": [
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Naya Desir-Johnson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7X1Q3RWt213kRRA0oPgEvrq8Zsj.jpg"
+        },
+        {
+          "name": "Sonequa Martin-Green",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xhxKESzX3R47VXLIN3lCHYHHaY7.jpg"
+        },
+        {
+          "name": "Zachary Levi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1W8L3kEMMPF9umT3ZGaNIiCYKfZ.jpg"
+        },
+        {
+          "name": "Garret Dillahunt",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7wHWTkIhre0j9L9CY2t5VVwg630.jpg"
+        },
+        {
+          "name": "Bridget Regan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ri1kEBkWa9ShTYbV2iJAFa0V4VU.jpg"
+        },
+        {
+          "name": "Kenric Green",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nAzs32lxuA6WgRg5XZI3ramUkTi.jpg"
+        },
+        {
+          "name": "Adyan Copes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qL5eGbOgcGokmiQqxr9iSgv117F.jpg"
+        },
+        {
+          "name": "Stelio Savante",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8c7Zzo91E4Jy8yWIgtwGvgdN4Si.jpg"
+        },
+        {
+          "name": "Mel Rodriguez",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wwvthcEDo6WHOHumcoh1tT1IaoB.jpg"
+        },
+        {
+          "name": "Jonathan Lipnicki",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sCFCCqFNm5Xyl2eyhzoHH1L8zxF.jpg"
+        },
+        {
+          "name": "Marco Fuller",
+          "photo_url": null
+        },
+        {
+          "name": "Kevin Downes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nrCeOB2G2AmZrvMqWUHzKGAiqv4.jpg"
+        }
+      ],
+      "message_ids": [
+        7819,
+        7820,
+        7818
+      ],
+      "video_message_id": 7820,
+      "parts": 2
+    },
+    {
       "tmdb_id": 40740,
       "title": "O Tira do Futuro II",
       "original_title": "Trancers II",
@@ -142956,6 +143306,76 @@
         3265
       ],
       "video_message_id": 3265
+    },
+    {
+      "tmdb_id": 2759,
+      "title": "Priscilla, a Rainha do Deserto",
+      "original_title": "The Adventures of Priscilla, Queen of the Desert",
+      "year": "1994",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4owxaljayRzWiXecgcN1PHfU6Ry.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/q1PuySDtRiKSgxAZjpIbFvvLOus.jpg",
+      "overview": "Anthony concorda em levar seu show para a estrada. Ele convida os travestis Adam e Bernadette para acompanhá-lo. Os três viajam pelo deserto australiano em um ônibus todo colorido, chamado Priscilla, fazendo shows para plateias entusiasmadas e homofóbicos. Porém, quando os amigos de Anthony descobrem a verdade da viagem, problemas acontecem.",
+      "genres": [
+        "Drama",
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Hugo Weaving",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+        },
+        {
+          "name": "Guy Pearce",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
+        },
+        {
+          "name": "Terence Stamp",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ept9urkuhPbGndVXkERw39R9oid.jpg"
+        },
+        {
+          "name": "Bill Hunter",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gvrRsTfx47KupgRwTKp0gqryHPe.jpg"
+        },
+        {
+          "name": "Sarah Chadwick",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gvt8ckWJsSsDjr7Uf6MqMQVajIr.jpg"
+        },
+        {
+          "name": "June Marie Bennett",
+          "photo_url": null
+        },
+        {
+          "name": "Rebel Penfold-Russell",
+          "photo_url": null
+        },
+        {
+          "name": "John Casey",
+          "photo_url": null
+        },
+        {
+          "name": "Murray Davies",
+          "photo_url": null
+        },
+        {
+          "name": "Frank Cornelius",
+          "photo_url": null
+        },
+        {
+          "name": "Bob Boyce",
+          "photo_url": null
+        },
+        {
+          "name": "Leighton Picken",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7807,
+        7808,
+        7806
+      ],
+      "video_message_id": 7808,
+      "parts": 2
     },
     {
       "tmdb_id": 15697,
@@ -183683,6 +184103,77 @@
         6113
       ],
       "video_message_id": 6113
+    },
+    {
+      "tmdb_id": 244786,
+      "title": "Whiplash: Em Busca da Perfeição",
+      "original_title": "Whiplash",
+      "year": "2014",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2msJb27jMeuA101ox4MuTQK4mDa.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fRGxZuo7jJUWQsVg9PREb98Aclp.jpg",
+      "overview": "Andrew sonha em ser o melhor baterista de sua geração. Ele chama a atenção do impiedoso mestre do jazz Terence Fletcher, que ultrapassa os limites e transforma seu sonho em uma obsessão, colocando em risco a saúde física e mental do jovem músico.",
+      "genres": [
+        "Drama",
+        "Música",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Miles Teller",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kDf3sW3USjEBDQ3Ua7lbwOfwty6.jpg"
+        },
+        {
+          "name": "J.K. Simmons",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+        },
+        {
+          "name": "Paul Reiser",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rGryzG00uSk8LsidacSBXVgo3iv.jpg"
+        },
+        {
+          "name": "Melissa Benoist",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1F0fCPNhb5W0WyFe8Tszfbx1DEp.jpg"
+        },
+        {
+          "name": "Austin Stowell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/At09XQpVXnChgedNsxu4ceR5W9i.jpg"
+        },
+        {
+          "name": "Nate Lang",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6TC0gKxJIttIhXLnCttANV9gd1G.jpg"
+        },
+        {
+          "name": "Chris Mulkey",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kpJid21QcIBGvwP0Bddvw0p8wEl.jpg"
+        },
+        {
+          "name": "Damon Gupton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cGLo2i8ghhq5wVkKDlAw3o4Pa36.jpg"
+        },
+        {
+          "name": "Suanne Spoke",
+          "photo_url": "https://image.tmdb.org/t/p/w185/c3eHskplBRwuORgUWSwnsi6KZpV.jpg"
+        },
+        {
+          "name": "Max Kasch",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7BvCZldRpYB4UxJv5IxNSMSYgoe.jpg"
+        },
+        {
+          "name": "Charlie Ian",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5ondXm5m2LoC7sdXhTziNAmuDfw.jpg"
+        },
+        {
+          "name": "Jayson Blair",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zUMEMibklFznVD2kkpbNTs63UVX.jpg"
+        }
+      ],
+      "message_ids": [
+        7825,
+        7826,
+        7824
+      ],
+      "video_message_id": 7826,
+      "parts": 2
     },
     {
       "tmdb_id": 402431,

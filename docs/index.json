@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-06T01:21:36+00:00",
+  "generated_at": "2026-10-06T01:21:42+00:00",
   "channel": "-1004483833987",
-  "count": 3204,
-  "movie_count": 2833,
+  "count": 3205,
+  "movie_count": 2834,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -77084,6 +77084,75 @@
         7832
       ],
       "video_message_id": 7832
+    },
+    {
+      "tmdb_id": 429617,
+      "title": "Homem-Aranha: Longe de Casa",
+      "original_title": "Spider-Man: Far From Home",
+      "year": "2019",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wqBW5ltBJu0gs26yCc8shQQV82d.jpg",
+      "overview": "Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury. Convocado para mais uma missão heroica, ele precisa enfrentar vários vilões que surgem em cidades-símbolo do continente, como Londres, Paris e Veneza, e também a aparição do enigmático Mysterio.",
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Ficção científica"
+      ],
+      "cast": [
+        {
+          "name": "Tom Holland",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+        },
+        {
+          "name": "Jake Gyllenhaal",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ct2Gh2sJSxd4yaMrSsqSt1HpIC3.jpg"
+        },
+        {
+          "name": "Samuel L. Jackson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+        },
+        {
+          "name": "Marisa Tomei",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5NCCKQooVCQD36R6JL3a1hOeBVn.jpg"
+        },
+        {
+          "name": "Jon Favreau",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+        },
+        {
+          "name": "Zendaya",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
+        },
+        {
+          "name": "Jacob Batalon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+        },
+        {
+          "name": "Tony Revolori",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg"
+        },
+        {
+          "name": "Angourie Rice",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iHZzyhvIYW9CSsMSLnxm9FsJohL.jpg"
+        },
+        {
+          "name": "Remy Hii",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nCXWaFzPNgkr5cwoHkmkqIsQsXJ.jpg"
+        },
+        {
+          "name": "Martin Starr",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cxGxr0S1jnvOpOHyZDYXrg2GHju.jpg"
+        },
+        {
+          "name": "JB Smoove",
+          "photo_url": "https://image.tmdb.org/t/p/w185/x3bMhniW5Ncz4hEswcnGWefx4h.jpg"
+        }
+      ],
+      "message_ids": [
+        7833,
+        7834
+      ],
+      "video_message_id": 7834
     },
     {
       "tmdb_id": 324857,

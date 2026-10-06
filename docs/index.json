@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-06T01:20:20+00:00",
+  "generated_at": "2026-10-06T01:20:33+00:00",
   "channel": "-1004483833987",
-  "count": 3203,
-  "movie_count": 2832,
+  "count": 3201,
+  "movie_count": 2830,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -56556,75 +56556,6 @@
         4390
       ],
       "video_message_id": 4390
-    },
-    {
-      "tmdb_id": 568994,
-      "title": "Driveways - Uma Amizade Inesperada",
-      "original_title": "Driveways",
-      "year": "2020",
-      "poster_url": "https://image.tmdb.org/t/p/w500/c5u8upKRX1vLbYeSQF4PwP1YHuI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/xEcdiZOjjaihkmCxKRQcjeSxv26.jpg",
-      "overview": "Cody chega junto com sua mãe na casa de sua tia falecida. Enquanto sua mãe está ocupada limpando a casa de sua falecida irmã, Cody tem que passar o tempo sozinho. O garoto introvertido não consegue se relacionar muito bem com as crianças vizinhas, mas ele logo forma um elo incomum com o veterano rabugento de 83 anos, Del, da casa ao lado, uma amizade que toca em todos os aspectos da vida em sua leviandade casual.",
-      "genres": [
-        "Drama"
-      ],
-      "cast": [
-        {
-          "name": "Hong Chau",
-          "photo_url": "https://image.tmdb.org/t/p/w185/yGEw6uiSUBo838HkiCARs4BR40y.jpg"
-        },
-        {
-          "name": "Lucas Jaye",
-          "photo_url": "https://image.tmdb.org/t/p/w185/rsKYeAKWnMarkIt7gzTjxXGItRN.jpg"
-        },
-        {
-          "name": "Brian Dennehy",
-          "photo_url": "https://image.tmdb.org/t/p/w185/cg7CwS1vMJXCzZ0FUm4RbrjAJ2t.jpg"
-        },
-        {
-          "name": "Christine Ebersole",
-          "photo_url": "https://image.tmdb.org/t/p/w185/bSFrS3JtDwnzbw877Iqwf8tEmF.jpg"
-        },
-        {
-          "name": "Jerry Adler",
-          "photo_url": "https://image.tmdb.org/t/p/w185/8HZi9sk98qH5IroTc1vyyo2AZ3C.jpg"
-        },
-        {
-          "name": "Robyn Payne",
-          "photo_url": "https://image.tmdb.org/t/p/w185/5uP9R3P89tiW3cDO9KIFnGCdR5N.jpg"
-        },
-        {
-          "name": "Jeter Rivera",
-          "photo_url": "https://image.tmdb.org/t/p/w185/oSyfqNTWSBxAkUckWEKiGLJ63fX.jpg"
-        },
-        {
-          "name": "Sophia DiStefano",
-          "photo_url": "https://image.tmdb.org/t/p/w185/b3wDvGGyiMKAM4UlsRSkSqCgRBj.jpg"
-        },
-        {
-          "name": "Jack Caleb",
-          "photo_url": "https://image.tmdb.org/t/p/w185/vu26Wf5KkNKnR3GpXYCwQHhdXpa.jpg"
-        },
-        {
-          "name": "James DiGiacomo",
-          "photo_url": "https://image.tmdb.org/t/p/w185/ccOfkxOPzWVcbDjlrob75yC0RM6.jpg"
-        },
-        {
-          "name": "Bill Buell",
-          "photo_url": "https://image.tmdb.org/t/p/w185/8T8pAu23bHye22XLodDrCDxSWuv.jpg"
-        },
-        {
-          "name": "Stan Carp",
-          "photo_url": "https://image.tmdb.org/t/p/w185/abzdzu7CV3ZbkbslU60zsIrXSf5.jpg"
-        }
-      ],
-      "message_ids": [
-        7816,
-        7817,
-        7815
-      ],
-      "video_message_id": 7817,
-      "parts": 2
     },
     {
       "tmdb_id": 580175,
@@ -143235,76 +143166,6 @@
         3265
       ],
       "video_message_id": 3265
-    },
-    {
-      "tmdb_id": 2759,
-      "title": "Priscilla, a Rainha do Deserto",
-      "original_title": "The Adventures of Priscilla, Queen of the Desert",
-      "year": "1994",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4owxaljayRzWiXecgcN1PHfU6Ry.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/q1PuySDtRiKSgxAZjpIbFvvLOus.jpg",
-      "overview": "Anthony concorda em levar seu show para a estrada. Ele convida os travestis Adam e Bernadette para acompanhá-lo. Os três viajam pelo deserto australiano em um ônibus todo colorido, chamado Priscilla, fazendo shows para plateias entusiasmadas e homofóbicos. Porém, quando os amigos de Anthony descobrem a verdade da viagem, problemas acontecem.",
-      "genres": [
-        "Drama",
-        "Comédia"
-      ],
-      "cast": [
-        {
-          "name": "Hugo Weaving",
-          "photo_url": "https://image.tmdb.org/t/p/w185/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
-        },
-        {
-          "name": "Guy Pearce",
-          "photo_url": "https://image.tmdb.org/t/p/w185/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
-        },
-        {
-          "name": "Terence Stamp",
-          "photo_url": "https://image.tmdb.org/t/p/w185/ept9urkuhPbGndVXkERw39R9oid.jpg"
-        },
-        {
-          "name": "Bill Hunter",
-          "photo_url": "https://image.tmdb.org/t/p/w185/gvrRsTfx47KupgRwTKp0gqryHPe.jpg"
-        },
-        {
-          "name": "Sarah Chadwick",
-          "photo_url": "https://image.tmdb.org/t/p/w185/gvt8ckWJsSsDjr7Uf6MqMQVajIr.jpg"
-        },
-        {
-          "name": "June Marie Bennett",
-          "photo_url": null
-        },
-        {
-          "name": "Rebel Penfold-Russell",
-          "photo_url": null
-        },
-        {
-          "name": "John Casey",
-          "photo_url": null
-        },
-        {
-          "name": "Murray Davies",
-          "photo_url": null
-        },
-        {
-          "name": "Frank Cornelius",
-          "photo_url": null
-        },
-        {
-          "name": "Bob Boyce",
-          "photo_url": null
-        },
-        {
-          "name": "Leighton Picken",
-          "photo_url": null
-        }
-      ],
-      "message_ids": [
-        7807,
-        7808,
-        7806
-      ],
-      "video_message_id": 7808,
-      "parts": 2
     },
     {
       "tmdb_id": 15697,

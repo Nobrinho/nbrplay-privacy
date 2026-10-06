@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-06T01:21:42+00:00",
+  "generated_at": "2026-10-06T01:22:14+00:00",
   "channel": "-1004483833987",
-  "count": 3205,
-  "movie_count": 2834,
+  "count": 3206,
+  "movie_count": 2835,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -77223,6 +77223,75 @@
         5784
       ],
       "video_message_id": 5784
+    },
+    {
+      "tmdb_id": 634649,
+      "title": "Homem-Aranha: Sem Volta Para Casa",
+      "original_title": "Spider-Man: No Way Home",
+      "year": "2021",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xaKydnMw6wR1MBAjS5seGPVusbs.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+      "overview": "Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha...",
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Ficção científica"
+      ],
+      "cast": [
+        {
+          "name": "Tom Holland",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+        },
+        {
+          "name": "Zendaya",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
+        },
+        {
+          "name": "Benedict Cumberbatch",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+        },
+        {
+          "name": "Jacob Batalon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+        },
+        {
+          "name": "Jon Favreau",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+        },
+        {
+          "name": "Jamie Foxx",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zD8Nsy4Xrghp7WunwpCj5JKBPeU.jpg"
+        },
+        {
+          "name": "Willem Dafoe",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+        },
+        {
+          "name": "Alfred Molina",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+        },
+        {
+          "name": "Benedict Wong",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg"
+        },
+        {
+          "name": "Tony Revolori",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg"
+        },
+        {
+          "name": "Marisa Tomei",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5NCCKQooVCQD36R6JL3a1hOeBVn.jpg"
+        },
+        {
+          "name": "Andrew Garfield",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
+        }
+      ],
+      "message_ids": [
+        7835,
+        7836
+      ],
+      "video_message_id": 7836
     },
     {
       "tmdb_id": 11978,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-06T01:22:14+00:00",
+  "generated_at": "2026-10-06T01:23:56+00:00",
   "channel": "-1004483833987",
-  "count": 3206,
-  "movie_count": 2835,
+  "count": 3207,
+  "movie_count": 2836,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -77292,6 +77292,75 @@
         7836
       ],
       "video_message_id": 7836
+    },
+    {
+      "tmdb_id": 969681,
+      "title": "Homem-Aranha: Um Novo Dia",
+      "original_title": "Spider-Man: Brand New Day",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3CuR3pJ1a3WjPmGAmPbh9xjjpTu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "overview": "É um novo dia para Peter Parker. Combatendo o crime em tempo integral como Homem-Aranha em um mundo que não se lembra mais dele e lidando com a pressão de ver seus antigos amigos seguirem em frente sem sua presença, Peter passa por uma mudança que talvez nem ele tenha o poder de controlar. Mas essa transformação também pode ser a única coisa capaz de deter uma surpreendente nova ameaça à cidade e às pessoas que ele ama: um poderoso vilão que ninguém sequer consegue enxergar.",
+      "genres": [
+        "Ficção científica",
+        "Ação",
+        "Aventura"
+      ],
+      "cast": [
+        {
+          "name": "Tom Holland",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+        },
+        {
+          "name": "Zendaya",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
+        },
+        {
+          "name": "Mark Ruffalo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+        },
+        {
+          "name": "Jon Bernthal",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bjcglF1IpDcZNs1HwFxakGpzBo6.jpg"
+        },
+        {
+          "name": "Jacob Batalon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+        },
+        {
+          "name": "Sadie Sink",
+          "photo_url": "https://image.tmdb.org/t/p/w185/92FddzBfK50XOUbtwjqHPraoGHy.jpg"
+        },
+        {
+          "name": "Florence Pugh",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2URrZb95t3kY6pLroKny3Enmabp.jpg"
+        },
+        {
+          "name": "Liza Colón-Zayas",
+          "photo_url": "https://image.tmdb.org/t/p/w185/q2gHcef0wckji0AS8ZEO6cYx065.jpg"
+        },
+        {
+          "name": "Tramell Tillman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bEA15zMnkcXlRroYjKrFUWiiK7y.jpg"
+        },
+        {
+          "name": "Marisa Tomei",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5NCCKQooVCQD36R6JL3a1hOeBVn.jpg"
+        },
+        {
+          "name": "Naomi Watts",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7ysvff7ZhW388SIh2YjQ0XIryOn.jpg"
+        },
+        {
+          "name": "Michael Mando",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gvM2wG66bjEpiirdeQdyG9EzUfv.jpg"
+        }
+      ],
+      "message_ids": [
+        7837,
+        7838
+      ],
+      "video_message_id": 7838
     },
     {
       "tmdb_id": 11978,

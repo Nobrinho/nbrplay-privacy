@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-06T03:38:22+00:00",
+  "generated_at": "2026-10-06T04:21:25+00:00",
   "channel": "-1004483833987",
-  "count": 3212,
-  "movie_count": 2841,
+  "count": 3213,
+  "movie_count": 2842,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -3593,6 +3593,77 @@
         7060
       ],
       "video_message_id": 7060
+    },
+    {
+      "tmdb_id": 937249,
+      "title": "57 Segundos",
+      "original_title": "57 Seconds",
+      "year": "2023",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kRLNtJ0dWUHhNt20NijeWhnLJ5E.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wcEGMvOzCPjPABa4jbTDF2UOx53.jpg",
+      "overview": "Quando um blogueiro de tecnologia consegue uma entrevista com um guru da tecnologia e interrompe um ataque contra ele, ele encontra um anel misterioso que o leva de volta 57 segundos no passado.",
+      "genres": [
+        "Thriller",
+        "Ficção científica",
+        "Ação"
+      ],
+      "cast": [
+        {
+          "name": "Josh Hutcherson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/f0eosZ1Fx0VBUyspq8K2f8sUSBn.jpg"
+        },
+        {
+          "name": "Morgan Freeman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+        },
+        {
+          "name": "Lovie Simone",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8O709kbtGUtffT2eypPpzYZemYR.jpg"
+        },
+        {
+          "name": "Greg Germann",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cRLbrKwasOiBj68pORvrZTPHRfB.jpg"
+        },
+        {
+          "name": "Bevin Bru",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pWhwtggClHRmUu215Q921qKUCUP.jpg"
+        },
+        {
+          "name": "Sammi Rotibi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nHuy33iDXGUpFCZEZev7IkKLJz6.jpg"
+        },
+        {
+          "name": "Mark Jacobson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2WFGwOSk59pLcI65TrDau1Y9SEm.jpg"
+        },
+        {
+          "name": "Griff Furst",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kC7MQMSMockWSHpIkAFJp4LwPI8.jpg"
+        },
+        {
+          "name": "D.A. Obahor",
+          "photo_url": "https://image.tmdb.org/t/p/w185/s1XAb6fyRTjOZAvsNrkvgzLe2fy.jpg"
+        },
+        {
+          "name": "Jeff Chase",
+          "photo_url": "https://image.tmdb.org/t/p/w185/Ahj74X5BioIUDRhdWD8i43j0pXM.jpg"
+        },
+        {
+          "name": "Aaron Jay Rome",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mnWBhyMLnYeEa7xSOmCAXYWXH0t.jpg"
+        },
+        {
+          "name": "Marcus Brown",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n3Ai2w6GwGeR27CQBlPEFpfKD8C.jpg"
+        }
+      ],
+      "message_ids": [
+        7862,
+        7863,
+        7861
+      ],
+      "video_message_id": 7863,
+      "parts": 2
     },
     {
       "tmdb_id": 700391,

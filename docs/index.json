@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-06T01:23:56+00:00",
+  "generated_at": "2026-10-06T02:51:34+00:00",
   "channel": "-1004483833987",
-  "count": 3207,
-  "movie_count": 2836,
+  "count": 3208,
+  "movie_count": 2837,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -182063,6 +182063,86 @@
         5402
       ],
       "video_message_id": 5402
+    },
+    {
+      "tmdb_id": 299536,
+      "title": "Vingadores: Guerra Infinita",
+      "original_title": "Avengers: Infinity War",
+      "year": "2018",
+      "poster_url": "https://image.tmdb.org/t/p/w500/A4kvp7vY1BDLrrQIagRCffLKj1t.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+      "overview": "Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.",
+      "genres": [
+        "Aventura",
+        "Ação",
+        "Ficção científica"
+      ],
+      "cast": [
+        {
+          "name": "Robert Downey Jr.",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+        },
+        {
+          "name": "Chris Evans",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+        },
+        {
+          "name": "Chris Hemsworth",
+          "photo_url": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+        },
+        {
+          "name": "Josh Brolin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+        },
+        {
+          "name": "Mark Ruffalo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+        },
+        {
+          "name": "Scarlett Johansson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tgxYh3jMs5bY2Ub4d2dcp9iaz1R.jpg"
+        },
+        {
+          "name": "Don Cheadle",
+          "photo_url": "https://image.tmdb.org/t/p/w185/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
+        },
+        {
+          "name": "Benedict Cumberbatch",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+        },
+        {
+          "name": "Tom Holland",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+        },
+        {
+          "name": "Chadwick Boseman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nL16SKfyP1b7Hk6LsuWiqMfbdb8.jpg"
+        },
+        {
+          "name": "Zoe Saldaña",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+        },
+        {
+          "name": "Karen Gillan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qYx8CflXVq48nGKX1IJsDrAj0sT.jpg"
+        }
+      ],
+      "message_ids": [
+        7849,
+        7850,
+        7848,
+        7847,
+        7846,
+        7845,
+        7844,
+        7843,
+        7842,
+        7841,
+        7840,
+        7839
+      ],
+      "video_message_id": 7850,
+      "parts": 11
     },
     {
       "tmdb_id": 618162,

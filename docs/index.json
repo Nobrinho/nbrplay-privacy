@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-06T03:06:06+00:00",
+  "generated_at": "2026-10-06T03:38:22+00:00",
   "channel": "-1004483833987",
-  "count": 3211,
-  "movie_count": 2840,
+  "count": 3212,
+  "movie_count": 2841,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -156534,6 +156534,74 @@
         6205
       ],
       "video_message_id": 6205
+    },
+    {
+      "tmdb_id": 239678,
+      "title": "Sete Dias Sem Fim",
+      "original_title": "This Is Where I Leave You",
+      "year": "2014",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qDxWCy3bpDcxskGNCWWstSawRzB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/njK3bfEYuqwjs8YTkpaDtkoTmVr.jpg",
+      "overview": "Os membros de uma família judia nunca seguiram realmente as tradições religiosas, mas, quando o pai morre, os quatro filhos, que não se encontravam há décadas, aceitam fazer a cerimônia do Shivah juntos. Passando uma semana inteira dentro da casa da infância junto da mãe fofoqueira e vários cônjugues, problemas familiares vêm à tona.",
+      "genres": [
+        "Drama",
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Jason Bateman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8e6mt0vGjPo6eW52gqRuXy5YnfN.jpg"
+        },
+        {
+          "name": "Tina Fey",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yPTAi1iucXf85UpiFPtyiTSM6do.jpg"
+        },
+        {
+          "name": "Jane Fonda",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5Yb3nmRWXXZAxNhfhEuOMdfyVNN.jpg"
+        },
+        {
+          "name": "Adam Driver",
+          "photo_url": "https://image.tmdb.org/t/p/w185/b5w381C8Z33D1iF30KT4k8tJNsk.jpg"
+        },
+        {
+          "name": "Rose Byrne",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
+        },
+        {
+          "name": "Corey Stoll",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2eMxKecTZBiS60gPUVWcimYgGDp.jpg"
+        },
+        {
+          "name": "Kathryn Hahn",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg"
+        },
+        {
+          "name": "Connie Britton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lxfHf4tTx5NukbemcJjmgqqFAiV.jpg"
+        },
+        {
+          "name": "Timothy Olyphant",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7pHmRHE2wBNC9cBgNIRCBqFLoyZ.jpg"
+        },
+        {
+          "name": "Abigail Spencer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uf96FDHVoFMwoiP5He4SPLCmwri.jpg"
+        },
+        {
+          "name": "Dax Shepard",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aaUGRjfghjgysn5grVdm8kyYN4V.jpg"
+        },
+        {
+          "name": "Ben Schwartz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hWEQe66jXUAGVhbU5dy8s0IrrAQ.jpg"
+        }
+      ],
+      "message_ids": [
+        7859,
+        7860
+      ],
+      "video_message_id": 7860
     },
     {
       "tmdb_id": 966,

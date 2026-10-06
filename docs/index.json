@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-06T04:21:25+00:00",
+  "generated_at": "2026-10-06T05:01:22+00:00",
   "channel": "-1004483833987",
-  "count": 3213,
-  "movie_count": 2842,
+  "count": 3214,
+  "movie_count": 2843,
   "series_count": 54,
   "episode_count": 371,
   "custom_count": 0,
@@ -107404,6 +107404,77 @@
         578
       ],
       "video_message_id": 578
+    },
+    {
+      "tmdb_id": 1504358,
+      "title": "Não Deseje Boa Sorte",
+      "original_title": "Don't Say Good Luck",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/l6cwkNbPIOdjvFwm7XZTI2EZhZu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
+      "overview": "Sophie Birenbaum está pronta para brilhar no musical da escola. Mas a situação complica quando ela precisa enfrentar mais drama dentro de casa do que em cima do palco.",
+      "genres": [
+        "Comédia",
+        "Música",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Sunny Sandler",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bZqheNbKINcFeVJUtkeBVKeQK8h.jpg"
+        },
+        {
+          "name": "Melanie Lynskey",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kzrWI1sTgnA0H7TCIKzDOUtOW4n.jpg"
+        },
+        {
+          "name": "Max Greenfield",
+          "photo_url": "https://image.tmdb.org/t/p/w185/79w2mSZT8JwYv5ZwjJMDYQbzptE.jpg"
+        },
+        {
+          "name": "Stephanie Beatriz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7gNPOlsVIdg7QQOv1gRfHjv1Sdb.jpg"
+        },
+        {
+          "name": "Bebe Neuwirth",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yFOdER8Fc07DU6U3kq2PRcbvDR.jpg"
+        },
+        {
+          "name": "Steve Buscemi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+        },
+        {
+          "name": "Matan Friedman",
+          "photo_url": null
+        },
+        {
+          "name": "Eitan Friedman",
+          "photo_url": null
+        },
+        {
+          "name": "Scarlett Estevez",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eGZsZRPJ0aUBGaght37a3pQXEjs.jpg"
+        },
+        {
+          "name": "Emma McNulty",
+          "photo_url": null
+        },
+        {
+          "name": "Jack Champion",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7qgRRgap16cVI85WsBdzFLOzYiP.jpg"
+        },
+        {
+          "name": "Elyse Bell",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7865,
+        7866,
+        7864
+      ],
+      "video_message_id": 7866,
+      "parts": 2
     },
     {
       "tmdb_id": 1015261,

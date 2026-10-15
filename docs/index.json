@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-10-15T03:15:47+00:00",
+  "generated_at": "2026-10-15T23:01:13+00:00",
   "channel": "-1004483833987",
-  "count": 3214,
+  "count": 3216,
   "movie_count": 2843,
-  "series_count": 54,
-  "episode_count": 371,
+  "series_count": 55,
+  "episode_count": 373,
   "custom_count": 0,
   "movies": [
     {
@@ -200749,6 +200749,72 @@
                 6974
               ],
               "video_message_id": 6974
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1622,
+      "title": "Sobrenatural",
+      "original_title": "Supernatural",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iSeqdxMYlRhWoJpRcRTZknygVfl.jpg",
+      "logo_url": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+      "genres": [
+        "Drama",
+        "Mistério",
+        "Sci-Fi & Fantasy"
+      ],
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "tmdb_id": 163114,
+              "title": "Piloto",
+              "air_date": "2005-09-13",
+              "overview": "Treinados para caçar seres sobrenaturais, Sam e Dean Winchester unem forças quando o pai some misteriosamente durante a busca pelo demônio que matou a mãe deles, há 22 anos.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/iSeqdxMYlRhWoJpRcRTZknygVfl.jpg",
+              "logo_url": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+              "cast": [
+                {
+                  "name": "Jared Padalecki",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+                },
+                {
+                  "name": "Jensen Ackles",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+                }
+              ],
+              "message_ids": [
+                7867
+              ],
+              "video_message_id": 7867
+            },
+            {
+              "number": 2,
+              "tmdb_id": 162346,
+              "title": "Wendigo",
+              "air_date": "2005-09-20",
+              "overview": "Sam e Dean seguem as coordenadas que aparecem no diário de seu pai e terminam no meio dos bosques do Colorado, onde investigam a desaparecimento de vários campistas.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/9SsuC4koeryryoUNgnQYAwkKGAV.jpg",
+              "logo_url": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+              "cast": [
+                {
+                  "name": "Jared Padalecki",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+                },
+                {
+                  "name": "Jensen Ackles",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+                }
+              ],
+              "message_ids": [
+                7868
+              ],
+              "video_message_id": 7868
             }
           ]
         }

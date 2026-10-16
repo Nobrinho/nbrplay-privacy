@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-10-15T23:19:06+00:00",
+  "generated_at": "2026-10-16T00:00:02+00:00",
   "channel": "-1004483833987",
-  "count": 3214,
+  "count": 3233,
   "movie_count": 2843,
   "series_count": 54,
-  "episode_count": 371,
+  "episode_count": 390,
   "custom_count": 0,
   "movies": [
     {
@@ -200691,6 +200691,444 @@
                 7869
               ],
               "video_message_id": 7869
+            },
+            {
+              "number": 4,
+              "tmdb_id": 162355,
+              "title": "O Viajante Fantasma",
+              "air_date": "2005-10-04",
+              "overview": "No voo TransNational 2485, um homem possuído pelo espírito do Viajante Fantasma faz com que o avião caia, deixando somente cinco sobreviventes. Sam e Dean precisam exorcizar o espírito nocivo antes que ele ataque os sobreviventes.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/49dxvbn8V3f4g8aSBLxo6zQYxg9.jpg",
+              "logo_url": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+              "cast": [
+                {
+                  "name": "Jared Padalecki",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+                },
+                {
+                  "name": "Jensen Ackles",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+                }
+              ],
+              "message_ids": [
+                7870,
+                7871
+              ],
+              "video_message_id": 7871
+            },
+            {
+              "number": 5,
+              "tmdb_id": 162356,
+              "title": "Bloody Mary",
+              "air_date": "2005-10-11",
+              "overview": "No subúrbio de Nebraska, jovens brincam de repetir ‘Bloody Mary’ três vezes no espelho. Sabendo que o espírito pode viajar através dos reflexos, Sam e Dean tentam destruí-la.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/jUZ8ni4qGRV2cOcZpjLnlC4luyj.jpg",
+              "logo_url": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+              "cast": [
+                {
+                  "name": "Jared Padalecki",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+                },
+                {
+                  "name": "Jensen Ackles",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+                }
+              ],
+              "message_ids": [
+                7872
+              ],
+              "video_message_id": 7872
+            },
+            {
+              "number": 6,
+              "tmdb_id": 162365,
+              "title": "Pele",
+              "air_date": "2005-10-18",
+              "overview": "Zach é acusado de assassinato. Sam se oferece para ajudar. Rebecca diz que seu irmão não pode ter cometido o assassinato, pois estavam juntos.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/fyCKr3B3nJejxnKsp2cOk5aOjZG.jpg",
+              "logo_url": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+              "cast": [
+                {
+                  "name": "Jared Padalecki",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+                },
+                {
+                  "name": "Jensen Ackles",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+                }
+              ],
+              "message_ids": [
+                7873
+              ],
+              "video_message_id": 7873
+            },
+            {
+              "number": 7,
+              "tmdb_id": 162369,
+              "title": "Homem Gancho",
+              "air_date": "2005-10-25",
+              "overview": "Em uma cidade universitária, Sam e Dean encontram um espírito vingativo que mata suas vítimas com um gancho. Eles correm contra o tempo para destruir os ossos do Homem Gancho.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/iBMkAHb3PaMmTCaorSAKJVoIsio.jpg",
+              "logo_url": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+              "cast": [
+                {
+                  "name": "Jared Padalecki",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+                },
+                {
+                  "name": "Jensen Ackles",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+                }
+              ],
+              "message_ids": [
+                7874
+              ],
+              "video_message_id": 7874
+            },
+            {
+              "number": 8,
+              "tmdb_id": 162370,
+              "title": "Insetos",
+              "air_date": "2005-11-08",
+              "overview": "Dean e Sam chegam em uma cidade para investigar a notícia de uma morte misteriosa, e vão a casa do agente imobiliário, que está dando um churrasco.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/2Li4EY0ccNPyCwKmPBQ4NavS8fe.jpg",
+              "logo_url": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+              "cast": [
+                {
+                  "name": "Jared Padalecki",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+                },
+                {
+                  "name": "Jensen Ackles",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+                }
+              ],
+              "message_ids": [
+                7875
+              ],
+              "video_message_id": 7875
+            },
+            {
+              "number": 9,
+              "tmdb_id": 162385,
+              "title": "Volta Ao Lar",
+              "air_date": "2005-11-15",
+              "overview": "Sam tem pesadelos com sua antiga casa e os irmãos decidem voltar para o Kansas e investigar. Eles descobrem que uma família mudou-se para lá, e é com a mulher que Sam está sonhando.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/jeOq4SZVtEK1wgwZvmGApvT76xC.jpg",
+              "logo_url": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+              "cast": [
+                {
+                  "name": "Jared Padalecki",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+                },
+                {
+                  "name": "Jensen Ackles",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+                }
+              ],
+              "message_ids": [
+                7876
+              ],
+              "video_message_id": 7876
+            },
+            {
+              "number": 10,
+              "tmdb_id": 162588,
+              "title": "Asilo",
+              "air_date": "2005-11-22",
+              "overview": "Quando Sam e Dean investigam um misterioso asilo, uma força do mal faz com que Sam perca sua sanidade e se transforme no irmão.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/nKtUaiCz9K6kh0PQlb22VvfyrdH.jpg",
+              "logo_url": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+              "cast": [
+                {
+                  "name": "Jared Padalecki",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+                },
+                {
+                  "name": "Jensen Ackles",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+                }
+              ],
+              "message_ids": [
+                7877
+              ],
+              "video_message_id": 7877
+            },
+            {
+              "number": 11,
+              "tmdb_id": 162589,
+              "title": "Espantalho",
+              "air_date": "2006-01-10",
+              "overview": "O pai de Sam e Dean pede que os meninos vão a uma pequena cidade onde os moradores sacrificam casais a um deus pagão, que se manifesta através de um espantalho.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/oolec0MS18b2PhBlT3BGiKsXCQs.jpg",
+              "logo_url": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+              "cast": [
+                {
+                  "name": "Jared Padalecki",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+                },
+                {
+                  "name": "Jensen Ackles",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+                }
+              ],
+              "message_ids": [
+                7878
+              ],
+              "video_message_id": 7878
+            },
+            {
+              "number": 12,
+              "tmdb_id": 162386,
+              "title": "Fé",
+              "air_date": "2006-01-17",
+              "overview": "Dean é eletrocutado ao lutar com um demônio, e Sam consegue a ajuda de um pregador para curar o coração do irmão. No entanto, eles descobrem que o líder recebe ajuda sobrenatural.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/FwKYN4eAgBdtNXw3gMANIlglL6.jpg",
+              "logo_url": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+              "cast": [
+                {
+                  "name": "Jared Padalecki",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+                },
+                {
+                  "name": "Jensen Ackles",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+                }
+              ],
+              "message_ids": [
+                7879
+              ],
+              "video_message_id": 7879
+            },
+            {
+              "number": 13,
+              "tmdb_id": 162591,
+              "title": "Rota 666",
+              "air_date": "2006-01-31",
+              "overview": "Dean é contatado por seu primeiro amor, Cassie. Ela pede que ele investigue o caso de um caminhão sem motorista que vem assassinando homens negros no Mississippi.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/nVP1dEu0xSw4fV5jwlizE0dCXTP.jpg",
+              "logo_url": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+              "cast": [
+                {
+                  "name": "Jared Padalecki",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+                },
+                {
+                  "name": "Jensen Ackles",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+                }
+              ],
+              "message_ids": [
+                7880
+              ],
+              "video_message_id": 7880
+            },
+            {
+              "number": 14,
+              "tmdb_id": 162399,
+              "title": "Pesadelo",
+              "air_date": "2006-02-07",
+              "overview": "Sam é levado, por um sonho que teve, a investigar uma morte que parece estar ligado a um menino com poderes sobrenaturais.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/8oh7cOoBqZDSVgJOH3K8euALHzj.jpg",
+              "logo_url": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+              "cast": [
+                {
+                  "name": "Jared Padalecki",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+                },
+                {
+                  "name": "Jensen Ackles",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+                }
+              ],
+              "message_ids": [
+                7881
+              ],
+              "video_message_id": 7881
+            },
+            {
+              "number": 15,
+              "tmdb_id": 162598,
+              "title": "A Família Bender",
+              "air_date": "2006-02-14",
+              "overview": "Dean procura Sam e acaba sendo sequestrado por uma estranha família que seqüestra humanos e distribui pedaços dos corpos como troféu.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/fA9X8nyIxNFqMGfCRsHWv8de0wh.jpg",
+              "logo_url": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+              "cast": [
+                {
+                  "name": "Jared Padalecki",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+                },
+                {
+                  "name": "Jensen Ackles",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+                }
+              ],
+              "message_ids": [
+                7882
+              ],
+              "video_message_id": 7882
+            },
+            {
+              "number": 16,
+              "tmdb_id": 162401,
+              "title": "Sombra",
+              "air_date": "2006-02-28",
+              "overview": "Sam tem um encontro com Meg, que, na verdade, está usando os irmãos para tentar matar o pai.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/7bXHOxR6IRvUDiUJ4brZaugihMl.jpg",
+              "logo_url": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+              "cast": [
+                {
+                  "name": "Jared Padalecki",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+                },
+                {
+                  "name": "Jensen Ackles",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+                }
+              ],
+              "message_ids": [
+                7883
+              ],
+              "video_message_id": 7883
+            },
+            {
+              "number": 17,
+              "tmdb_id": 162400,
+              "title": "Casa do Inferno",
+              "air_date": "2006-03-30",
+              "overview": "Sam e Dean investigam uma casa assombrada pelo fantasma de um homem que matou suas filhas em 1930. Eles descobrem que um site dedicado à lenda pode estar conjurando o espírito.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/5UDwyjNnus6MMCBEn5ZMCVKYMP6.jpg",
+              "logo_url": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+              "cast": [
+                {
+                  "name": "Jared Padalecki",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+                },
+                {
+                  "name": "Jensen Ackles",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+                }
+              ],
+              "message_ids": [
+                7884
+              ],
+              "video_message_id": 7884
+            },
+            {
+              "number": 18,
+              "tmdb_id": 162392,
+              "title": "Alguma Coisa Maligna",
+              "air_date": "2006-04-06",
+              "overview": "Sam e Dean combatem uma Shtriga, uma bruxa que entra em quartos de crianças e suga suas vidas. Dean volta à infância quando lembra que encontrou Shtriga anos antes.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/hj8SJmZUFKKn0AHfeiy4BuidO2w.jpg",
+              "logo_url": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+              "cast": [
+                {
+                  "name": "Jared Padalecki",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+                },
+                {
+                  "name": "Jensen Ackles",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+                }
+              ],
+              "message_ids": [
+                7885
+              ],
+              "video_message_id": 7885
+            },
+            {
+              "number": 19,
+              "tmdb_id": 162394,
+              "title": "Procedência",
+              "air_date": "2006-04-13",
+              "overview": "Os irmãos Winchester têm a missão de combater um perigoso espírito em um porta-retrato, que traz má sorte e morte a quem o compra.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/1LLOdZUxTP47Vb9Ye2sqo31cRv9.jpg",
+              "logo_url": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+              "cast": [
+                {
+                  "name": "Jared Padalecki",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+                },
+                {
+                  "name": "Jensen Ackles",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+                }
+              ],
+              "message_ids": [
+                7886
+              ],
+              "video_message_id": 7886
+            },
+            {
+              "number": 20,
+              "tmdb_id": 162390,
+              "title": "O Sangue do Morto",
+              "air_date": "2006-04-20",
+              "overview": "Para conseguir uma arma mágica, capaz de destruir o demônio que matou sua mãe, Sam e Dean precisam se unir ao pai e enfrentar vampiros.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/fm2weYzFs2PFYlMyldjo0hSAS6k.jpg",
+              "logo_url": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+              "cast": [
+                {
+                  "name": "Jared Padalecki",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+                },
+                {
+                  "name": "Jensen Ackles",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+                }
+              ],
+              "message_ids": [
+                7887
+              ],
+              "video_message_id": 7887
+            },
+            {
+              "number": 21,
+              "tmdb_id": 162592,
+              "title": "Salvação",
+              "air_date": "2006-04-27",
+              "overview": "Sam tem uma visão de uma família sendo atacada da mesma maneira que sua mãe. Com o pai e o irmão, ele vai atrás do demônio, planejando usar a arma recentemente adquirida.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/x5XDZhKseFBfvOfJ7SL8C2td0yL.jpg",
+              "logo_url": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+              "cast": [
+                {
+                  "name": "Jared Padalecki",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+                },
+                {
+                  "name": "Jensen Ackles",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+                }
+              ],
+              "message_ids": [
+                7888
+              ],
+              "video_message_id": 7888
+            },
+            {
+              "number": 22,
+              "tmdb_id": 162398,
+              "title": "Armadilha do Diabo",
+              "air_date": "2006-05-04",
+              "overview": "Para salvar seu pai das garras de Meg, Sam e Dean procuram a ajuda de um velho amigo da família, Bobby. Juntos, eles exorcizam o demônio do corpo de Meg em busca de pistas.",
+              "backdrop_url": "https://image.tmdb.org/t/p/w780/zFTdWTX0D2orgTPkPz0ITymiZ8A.jpg",
+              "logo_url": "/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
+              "cast": [
+                {
+                  "name": "Jared Padalecki",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+                },
+                {
+                  "name": "Jensen Ackles",
+                  "photo_url": "https://image.tmdb.org/t/p/w185/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+                }
+              ],
+              "message_ids": [
+                7889
+              ],
+              "video_message_id": 7889
             }
           ]
         }

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-28T21:43:33+00:00",
+  "generated_at": "2026-10-28T21:44:24+00:00",
   "channel": "-1004483833987",
-  "count": 3248,
-  "movie_count": 2858,
+  "count": 3249,
+  "movie_count": 2859,
   "series_count": 54,
   "episode_count": 390,
   "custom_count": 0,
@@ -131554,6 +131554,76 @@
         735
       ],
       "video_message_id": 735
+    },
+    {
+      "tmdb_id": 1477712,
+      "title": "O Sorveteiro",
+      "original_title": "Ice Cream Man",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8bUXuKrdYQFMdx7ogoN0f5cm8iq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3DV7c9FoogMORFGUFDbTcCtzxOr.jpg",
+      "logo_url": "/7iVt2nSpxHQNMnzVl3ggIVsTlHI.png",
+      "overview": "Um sorveteiro misterioso distribui um doce amaldiçoado que transforma crianças em assassinas, sedentas por sangue e sem piedade com os adultos. Enquanto o massacre toma conta das ruas, três jovens que escaparam por pouco da maldição correm contra o tempo para descobrir a origem desse homem e impedir que a matança se espalhe, antes que não sobre ninguém vivo.",
+      "genres": [
+        "Terror",
+        "Comédia",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Ari Millen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/x2hFdgnrJ1er0VpteRcqTr8aWTT.jpg"
+        },
+        {
+          "name": "Charlie Zeltzer",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ytbrQ4R1iiRD3I0qdAddVfgooD7.jpg"
+        },
+        {
+          "name": "Shiloh O’Reilly",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ogT1ycS4CoOassN1GeCaS7qVcgO.jpg"
+        },
+        {
+          "name": "Kiori Mirza Waldman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yfEe5f4kT411DH2NNx1VU3gDQZV.jpg"
+        },
+        {
+          "name": "Sarah Abbott",
+          "photo_url": "https://image.tmdb.org/t/p/w185/riLNrHSQNFL2jgT3IRhIYOiBCXG.jpg"
+        },
+        {
+          "name": "Benjamin Byron Davis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5WHDh9l9Ylsbf5ZKt3nQ4FRweUi.jpg"
+        },
+        {
+          "name": "Karen Cliche",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fVXdJyDRVDo7C5tTHauDm9zDvi9.jpg"
+        },
+        {
+          "name": "Dylan Hawco",
+          "photo_url": "https://image.tmdb.org/t/p/w185/scuhT7GDRFIXP2Iw7Yz2Mplq7oW.jpg"
+        },
+        {
+          "name": "Eli Roth",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qQTkpxzh1FlBGL1HD5hzdUMxv49.jpg"
+        },
+        {
+          "name": "Lorenzo Antonucci",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rUPpfC8HwWdwB8NNP1m1zLPIhlH.jpg"
+        },
+        {
+          "name": "Luke Dietz",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3JsnxWS7wIsdplyDLtzr2PS6sgM.jpg"
+        },
+        {
+          "name": "Eli Massillon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/px6dbImEiHQrDQdmrg5NvHqg2DF.jpg"
+        }
+      ],
+      "message_ids": [
+        7918,
+        7919
+      ],
+      "video_message_id": 7919
     },
     {
       "tmdb_id": 74308,

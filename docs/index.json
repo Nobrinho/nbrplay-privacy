@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-28T21:35:50+00:00",
+  "generated_at": "2026-10-28T21:37:25+00:00",
   "channel": "-1004483833987",
-  "count": 3241,
-  "movie_count": 2851,
+  "count": 3242,
+  "movie_count": 2852,
   "series_count": 54,
   "episode_count": 390,
   "custom_count": 0,
@@ -112220,6 +112220,67 @@
         5625
       ],
       "video_message_id": 5625
+    },
+    {
+      "tmdb_id": 680615,
+      "title": "O Cemitério das Almas Perdidas",
+      "original_title": "O Cemitério das Almas Perdidas",
+      "year": "2020",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ziXXbtWaPuEE50kxT34exku7dyH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cx54jXfCKqaZfHFAyeTv9D1O0hu.jpg",
+      "logo_url": null,
+      "overview": "Corrompido pelo poder do livro negro de Cipriano, um jesuíta e seus seguidores iniciam um reinado de terror no Brasil colonial, até serem amaldiçoados a viver eternamente presos sob os túmulos de um cemitério. Agora, séculos depois, eles estão prontos para se libertar e espalhar sua maldade em todo o mundo.",
+      "genres": [
+        "Fantasia",
+        "Terror"
+      ],
+      "cast": [
+        {
+          "name": "Renato Chocair",
+          "photo_url": "https://image.tmdb.org/t/p/w185/izUbaqVfBRwuS5ZXuXBaEwLxRbW.jpg"
+        },
+        {
+          "name": "Allana Lopes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hptutEgQkouEV8Xl9a4C78WB9PD.jpg"
+        },
+        {
+          "name": "Diego Garcias",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fMsqy79ct30yChTmN7qioVyqkLD.jpg"
+        },
+        {
+          "name": "Caio Macedo",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7yutwzLAhLjLohVJ13fh4NmJGXE.jpg"
+        },
+        {
+          "name": "Clarissa Pinheiro",
+          "photo_url": "https://image.tmdb.org/t/p/w185/didPtKsD3Pg7YmDsNxHT8DPGqGz.jpg"
+        },
+        {
+          "name": "Markus Konká",
+          "photo_url": "https://image.tmdb.org/t/p/w185/f8do1BvZK3BkdCKjPQFFgeOB03h.jpg"
+        },
+        {
+          "name": "Carol Aragão",
+          "photo_url": "https://image.tmdb.org/t/p/w185/l9AVXrI1g78wjdLb5nFiIkHVRsW.jpg"
+        },
+        {
+          "name": "Roberto Rowntree",
+          "photo_url": null
+        },
+        {
+          "name": "Thelma Lopes",
+          "photo_url": null
+        },
+        {
+          "name": "Francisco Gaspar",
+          "photo_url": "https://image.tmdb.org/t/p/w185/luV5mH5wMtx4I0mcMwanaiAzXm5.jpg"
+        }
+      ],
+      "message_ids": [
+        7906,
+        7907
+      ],
+      "video_message_id": 7907
     },
     {
       "tmdb_id": 334517,

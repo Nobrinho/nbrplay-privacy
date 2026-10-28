@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-16T00:01:10+00:00",
+  "generated_at": "2026-10-28T21:29:15+00:00",
   "channel": "-1004483833987",
-  "count": 3233,
-  "movie_count": 2843,
+  "count": 3234,
+  "movie_count": 2844,
   "series_count": 54,
   "episode_count": 390,
   "custom_count": 0,
@@ -162542,6 +162542,75 @@
         6356
       ],
       "video_message_id": 6356
+    },
+    {
+      "tmdb_id": 614479,
+      "title": "Sobrenatural: A Porta Vermelha",
+      "original_title": "Insidious: The Red Door",
+      "year": "2023",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6lp4uDxLqLEw1CzW1SUOYJ3zdKD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/i2GVEvltEu3BXn5crBSxgKuTaca.jpg",
+      "logo_url": "/nalnEcLeyORGFa2QMolvPumGAYA.png",
+      "overview": "Josh Lambert segue para o leste para deixar seu filho, Dalton, na faculdade. Mas demônios reprimidos do passado voltam repentinamente para assombrar os dois.",
+      "genres": [
+        "Terror",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Ty Simpkins",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8FyJcMFmPdCSfz2Zc5ZcAKrIorj.jpg"
+        },
+        {
+          "name": "Patrick Wilson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
+        },
+        {
+          "name": "Sinclair Daniel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xwozf5a01naJlGo8Arsp7oudhkl.jpg"
+        },
+        {
+          "name": "Hiam Abbass",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2cz9mO3qhUQeGdVHzWkS2Pwx94l.jpg"
+        },
+        {
+          "name": "Andrew Astor",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aCCCImK8mThTIWgF3d67V4gEt8p.jpg"
+        },
+        {
+          "name": "David Call",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lcfAlaiVRjpmb5OXtrso0eH8br.jpg"
+        },
+        {
+          "name": "Steve Coulter",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ng01ren9pCYPIsIwRqC1xHzD5IG.jpg"
+        },
+        {
+          "name": "Peter Dager",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iYo3oUqaWcrQizMFPyWJtlW8xrT.jpg"
+        },
+        {
+          "name": "Rose Byrne",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
+        },
+        {
+          "name": "Lin Shaye",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aL87Za52elH81zMiXQn5C7AXAeg.jpg"
+        },
+        {
+          "name": "Juliana Davies",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zqMiuHWScYXCgD7SV9UcFx0NvyM.jpg"
+        },
+        {
+          "name": "Joseph Bishara",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jkFmkZcd16cEX2yGFNNAsNJyN5U.jpg"
+        }
+      ],
+      "message_ids": [
+        7890,
+        7891
+      ],
+      "video_message_id": 7891
     },
     {
       "tmdb_id": 406563,

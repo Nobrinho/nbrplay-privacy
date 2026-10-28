@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-28T21:52:45+00:00",
+  "generated_at": "2026-10-28T21:52:50+00:00",
   "channel": "-1004483833987",
-  "count": 3253,
-  "movie_count": 2863,
+  "count": 3254,
+  "movie_count": 2864,
   "series_count": 54,
   "episode_count": 390,
   "custom_count": 0,
@@ -62487,6 +62487,34 @@
         933
       ],
       "video_message_id": 933
+    },
+    {
+      "tmdb_id": 1766669,
+      "title": "Entre Lobos 2026 - Só o Crime Está Seguro",
+      "original_title": "Entre Lobos 2026 - Só o Crime Está Seguro",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/d59YTehq7GGD62KKEZvEHAVSXNk.jpg",
+      "backdrop_url": null,
+      "logo_url": "/m5hAhBicTdkfZThyK1BCMGG2zfB.png",
+      "overview": "Entenda como o Brasil se tornou um dos países mais inseguros do mundo. Que conjunto de leis, omissões e escolhas erradas fez o cidadão viver acuado enquanto o crime avança livre? Percorremos o país de Norte a Sul e ouvimos mais de 50 especialistas para montar o retrato falado da violência nacional.",
+      "genres": [
+        "Documentário",
+        "Crime"
+      ],
+      "cast": [
+        {
+          "name": "Guilherme Derrite",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fuF9tNl4NIFaWCtgvWYp240AnHx.jpg"
+        },
+        {
+          "name": "João Henrique Martins",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7927
+      ],
+      "video_message_id": 7927
     },
     {
       "tmdb_id": 950396,

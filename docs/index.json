@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-28T21:37:25+00:00",
+  "generated_at": "2026-10-28T21:37:50+00:00",
   "channel": "-1004483833987",
-  "count": 3242,
-  "movie_count": 2852,
+  "count": 3243,
+  "movie_count": 2853,
   "series_count": 54,
   "episode_count": 390,
   "custom_count": 0,
@@ -7081,6 +7081,76 @@
         6635
       ],
       "video_message_id": 6635
+    },
+    {
+      "tmdb_id": 9676,
+      "title": "A Dália Negra",
+      "original_title": "The Black Dahlia",
+      "year": "2006",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lM09kkf1cdM3nIHz8L14eqg2wQM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kkNO9F5siCFpCAiXnq2t68Kl8go.jpg",
+      "logo_url": "/zcNq5pOoHHyC2WL8XsHkxMVA3ta.png",
+      "overview": "Um jovem policial e sua equipe descobre corpos de mulheres dilaceradas na cidade, parecidos com o caso da Dália Negra, de 1947. Um serial Killer parece ter copiado o massacre brutal de Betty Short, aspirante à estrela de Hollywood dos anos 1940. Suas investigações o levaram a um assustador covil de morte e tortura, todas partes de uma terrível fantasia que o assassino está tentado trazer a vida.",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "cast": [
+        {
+          "name": "Josh Hartnett",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5eMo8D7h1XrSu6ZN4UXhPcS6YNG.jpg"
+        },
+        {
+          "name": "Scarlett Johansson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tgxYh3jMs5bY2Ub4d2dcp9iaz1R.jpg"
+        },
+        {
+          "name": "Aaron Eckhart",
+          "photo_url": "https://image.tmdb.org/t/p/w185/u5JjnRMr9zKEVvOP7k3F6gdcwT6.jpg"
+        },
+        {
+          "name": "Hilary Swank",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uin6aAehUGpPCiJCaSjZG8B7M7d.jpg"
+        },
+        {
+          "name": "Mia Kirshner",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7fSYUVxf84JdZ2aRJ9Lm28Ls6IK.jpg"
+        },
+        {
+          "name": "Mike Starr",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hJGhV91dSUiFJ8GwGDTEEri79LX.jpg"
+        },
+        {
+          "name": "Fiona Shaw",
+          "photo_url": "https://image.tmdb.org/t/p/w185/8X7fZybxtwh2nTvYk6kjRYo9RIY.jpg"
+        },
+        {
+          "name": "Patrick Fischler",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vVj7GjHL9hOilbKwViXZpnUlbcQ.jpg"
+        },
+        {
+          "name": "James Otis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dojO9qpwE9waKmtxNFmm8d0TjHq.jpg"
+        },
+        {
+          "name": "John Kavanagh",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wG5dUlNS4b7eUof6m32MaVFWdla.jpg"
+        },
+        {
+          "name": "Troy Evans",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hRdsLKr430COdIIyeHY3QAdg45e.jpg"
+        },
+        {
+          "name": "Anthony Russell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/emIV91RLmsj6hjdeqN00mt0iNoy.jpg"
+        }
+      ],
+      "message_ids": [
+        7908,
+        7909
+      ],
+      "video_message_id": 7909
     },
     {
       "tmdb_id": 1368166,

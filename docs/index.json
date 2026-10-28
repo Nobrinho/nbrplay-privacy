@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-28T21:38:32+00:00",
+  "generated_at": "2026-10-28T21:42:43+00:00",
   "channel": "-1004483833987",
-  "count": 3246,
-  "movie_count": 2856,
+  "count": 3247,
+  "movie_count": 2857,
   "series_count": 54,
   "episode_count": 390,
   "custom_count": 0,
@@ -10493,6 +10493,74 @@
         6639
       ],
       "video_message_id": 6639
+    },
+    {
+      "tmdb_id": 955179,
+      "title": "A Indústria do Vício",
+      "original_title": "Junction",
+      "year": "2024",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jytXj7LMo5JHZqhDeUy1o0xrJKr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vqnoR3bgylktvIgax14Uej3WRV3.jpg",
+      "logo_url": "/nP2pIAWqYg19dPOqj62ilR1VDCo.png",
+      "overview": "A atual epidemia de opioides é contada a partir da perspectiva de três pessoas: Um empresário, um paciente e uma médica.",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Bryan Greenberg",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qRv8XPsqxCmR70oAmNbU5iUIkUo.jpg"
+        },
+        {
+          "name": "Ashley Madekwe",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cmmtRqxW6r1EO7kMUxt92MxyWx7.jpg"
+        },
+        {
+          "name": "Jamie Chung",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5PWv7tbNtCR5PS7R14Geb71X6py.jpg"
+        },
+        {
+          "name": "Sophia Bush",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dm4s2L4bChDZFIpjV01ELeNl05W.jpg"
+        },
+        {
+          "name": "Griffin Dunne",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oZeAznfOHgK1Kvy9TknkQhag1Um.jpg"
+        },
+        {
+          "name": "Ryan Eggold",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6YZfGMzcugWwMquOIzGlsgx4wYN.jpg"
+        },
+        {
+          "name": "Dash Mihok",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jnruNUJv57nNtO66SR3oJ5tQuM5.jpg"
+        },
+        {
+          "name": "Dascha Polanco",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bIIjxz1EKZEtHeGjju82FkObyl2.jpg"
+        },
+        {
+          "name": "Yara Martinez",
+          "photo_url": "https://image.tmdb.org/t/p/w185/h7FcuyLMJ96EMqzcyjzrS5cYg34.jpg"
+        },
+        {
+          "name": "Josh Peck",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qoapD8slSdb550o1JEoepv1SvT0.jpg"
+        },
+        {
+          "name": "Eddie Kaye Thomas",
+          "photo_url": "https://image.tmdb.org/t/p/w185/k8f8MK8KSOyLozl9pQGaSpYMbpM.jpg"
+        },
+        {
+          "name": "Michaela Conlin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5Qv7KNTMDbdO7m5p1wIic5kVKr8.jpg"
+        }
+      ],
+      "message_ids": [
+        7916
+      ],
+      "video_message_id": 7916
     },
     {
       "tmdb_id": 13346,

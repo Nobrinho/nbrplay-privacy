@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-28T21:48:10+00:00",
+  "generated_at": "2026-10-28T21:52:45+00:00",
   "channel": "-1004483833987",
-  "count": 3252,
-  "movie_count": 2862,
+  "count": 3253,
+  "movie_count": 2863,
   "series_count": 54,
   "episode_count": 390,
   "custom_count": 0,
@@ -169817,6 +169817,29 @@
         5902
       ],
       "video_message_id": 5902
+    },
+    {
+      "tmdb_id": 379216,
+      "title": "The Devil's Triangle",
+      "original_title": "The Devil's Triangle",
+      "year": "1974",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rAxDRWcKWwrrxmXmuc04pdlxREA.jpg",
+      "backdrop_url": null,
+      "logo_url": null,
+      "overview": "A documentary exploring the mysteries of the Bermuda Triangle, an area of the ocean between Bermuda, Miami and Cuba into which many boats and planes have mysteriously disappeared over the years.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Vincent Price",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7JIv7U5kwveryP7hrPYgHlKea4d.jpg"
+        }
+      ],
+      "message_ids": [
+        7926
+      ],
+      "video_message_id": 7926
     },
     {
       "tmdb_id": 777443,

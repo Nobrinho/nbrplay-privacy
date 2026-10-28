@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-28T21:33:22+00:00",
+  "generated_at": "2026-10-28T21:33:30+00:00",
   "channel": "-1004483833987",
-  "count": 3236,
-  "movie_count": 2846,
+  "count": 3237,
+  "movie_count": 2847,
   "series_count": 54,
   "episode_count": 390,
   "custom_count": 0,
@@ -10049,6 +10049,74 @@
         4880
       ],
       "video_message_id": 4880
+    },
+    {
+      "tmdb_id": 7553,
+      "title": "A Hora do Rango",
+      "original_title": "Waiting...",
+      "year": "2005",
+      "poster_url": "https://image.tmdb.org/t/p/w500/x6vTdWJwa5Se5LnyB7EZ9B0MHp3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jaegX6b1InnSSUAagdr0NE2ABBS.jpg",
+      "logo_url": "/u8M9tKQPeO9weGoSGuV1r7EI8am.png",
+      "overview": "O filme conta a história de jovens frustrados que trabalham em um restaurante. Quando um deles resolve mudar de vida e largar o emprego, acaba motivando os outros a largarem o tédio que é trabalhar naquele local. Nesse momento, o gerente não consegue lidar com tamanha baderna.",
+      "genres": [
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Ryan Reynolds",
+          "photo_url": "https://image.tmdb.org/t/p/w185/trzgptffGvAlAT6MEu01fz47cLW.jpg"
+        },
+        {
+          "name": "Anna Faris",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tptTb0BQwCpKWETNqzkZzzf5qSZ.jpg"
+        },
+        {
+          "name": "Justin Long",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7TGXeHw4o86IBm6xknQotpludXK.jpg"
+        },
+        {
+          "name": "David Koechner",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fpTTe1ow3EdfRJ8PZgBJmpeghMS.jpg"
+        },
+        {
+          "name": "Luis Guzmán",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+        },
+        {
+          "name": "Chi McBride",
+          "photo_url": "https://image.tmdb.org/t/p/w185/cesCeJZ5gSywA9lTYReB5uhkfek.jpg"
+        },
+        {
+          "name": "John Francis Daley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rKZL3e8gI2tQD6Kv0QojXK5sG4u.jpg"
+        },
+        {
+          "name": "Kaitlin Doubleday",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rM62XI8aBUcyCT19i9bpNxSjjgd.jpg"
+        },
+        {
+          "name": "Rob Benedict",
+          "photo_url": "https://image.tmdb.org/t/p/w185/h5QhbmA7GzmpJIonxr2sPaKbg2G.jpg"
+        },
+        {
+          "name": "Alanna Ubach",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ffyBAEoW3bDgVJQV3GaHsZ9x29W.jpg"
+        },
+        {
+          "name": "Vanessa Lengies",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yqnNHJsTQGVlkSN5phh9QShoXTm.jpg"
+        },
+        {
+          "name": "Max Kasch",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7BvCZldRpYB4UxJv5IxNSMSYgoe.jpg"
+        }
+      ],
+      "message_ids": [
+        7896,
+        7897
+      ],
+      "video_message_id": 7897
     },
     {
       "tmdb_id": 2109,

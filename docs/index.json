@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-28T21:34:27+00:00",
+  "generated_at": "2026-10-28T21:35:39+00:00",
   "channel": "-1004483833987",
-  "count": 3239,
-  "movie_count": 2849,
+  "count": 3240,
+  "movie_count": 2850,
   "series_count": 54,
   "episode_count": 390,
   "custom_count": 0,
@@ -30392,6 +30392,64 @@
         5786
       ],
       "video_message_id": 5786
+    },
+    {
+      "tmdb_id": 24206,
+      "title": "Atirador de Elite",
+      "original_title": "Silent Trigger",
+      "year": "1996",
+      "poster_url": "https://image.tmdb.org/t/p/w500/j6FEq9yYNDp7pAPQCG2yl5qTY3U.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2BpitM8sHyvcEXckBSwxQkQ5peZ.jpg",
+      "logo_url": "/9rYo8uXBgeVn3B0yK38kkDTQ3Pm.png",
+      "overview": "Matt Sorenson (Lundgren) é um Ex-militar e atirador de elite. Foi contratado por uma misteriosa organização para eliminar objetos humanos em qualquer lugar do mundo. Ele tenta elucidar a brutal morte de seu irmão mais novo, Michael, e para isto precisa se infiltrar em algo desconhecido para ele: a prática do sadomasoquismo. Sua obsessão em descobrir a identidade do assassino o fará se deparar com vários homens que foram mortos em situação muito parecida",
+      "genres": [
+        "Drama",
+        "Ação",
+        "Thriller"
+      ],
+      "cast": [
+        {
+          "name": "Dolph Lundgren",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fB1tOws6Gav0xE8LYlELEb82hJt.jpg"
+        },
+        {
+          "name": "Gina Bellman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gOLuBCy4gZH3os2S8O2MKM7Vrho.jpg"
+        },
+        {
+          "name": "Conrad Dunn",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wPEkKKkaDtR8mxJMn1s1FGbgsBD.jpg"
+        },
+        {
+          "name": "Christopher Heyerdahl",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pTPZa3TFIkxRbqM5adXYE51a99s.jpg"
+        },
+        {
+          "name": "Emma Stevens",
+          "photo_url": null
+        },
+        {
+          "name": "Alexandria Haber",
+          "photo_url": null
+        },
+        {
+          "name": "Erin Simms",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tuw8nUHwS9jx7fqcY08Ounge7BF.jpg"
+        },
+        {
+          "name": "Tim Post",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kk45jSIOmAw63x5mGpr7md4Itpb.jpg"
+        },
+        {
+          "name": "Larry Day",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zMQdq90V0lVWrcKYUZUzlacLEyX.jpg"
+        }
+      ],
+      "message_ids": [
+        7902,
+        7903
+      ],
+      "video_message_id": 7903
     },
     {
       "tmdb_id": 23827,

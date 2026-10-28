@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-28T21:31:14+00:00",
+  "generated_at": "2026-10-28T21:33:22+00:00",
   "channel": "-1004483833987",
-  "count": 3235,
-  "movie_count": 2845,
+  "count": 3236,
+  "movie_count": 2846,
   "series_count": 54,
   "episode_count": 390,
   "custom_count": 0,
@@ -50736,6 +50736,76 @@
         3370
       ],
       "video_message_id": 3370
+    },
+    {
+      "tmdb_id": 581,
+      "title": "Dança com Lobos",
+      "original_title": "Dances with Wolves",
+      "year": "1990",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uWsXlrzsHKCwI2fPrrpW0QFwjMZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ywWva4trKw7f3wtbz81Fe3FnrtC.jpg",
+      "logo_url": "/plKWQ37dRYaBPMBhhxAtDf8YStz.png",
+      "overview": "Durante a Guerra Civil, um jovem soldado pratica uma ato ousado, é considerado herói e vai servir por sua escolha em um lugar com forte predominância do povo Sioux. Com o tempo, ele assimila os costumes dos nativos, acontecendo uma aculturação às avessas.",
+      "genres": [
+        "Aventura",
+        "Drama",
+        "Faroeste"
+      ],
+      "cast": [
+        {
+          "name": "Kevin Costner",
+          "photo_url": "https://image.tmdb.org/t/p/w185/608blZipRDZkDpzp8VItB64qMaT.jpg"
+        },
+        {
+          "name": "Mary McDonnell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qqdaaFLEPXbB8thVJJkYJ4WoAuj.jpg"
+        },
+        {
+          "name": "Graham Greene",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ui1x4vGTiI9eANYM9BZ6R4oushJ.jpg"
+        },
+        {
+          "name": "Rodney A. Grant",
+          "photo_url": "https://image.tmdb.org/t/p/w185/44J0nk3dWoGbCXIgHi9lftmiUHR.jpg"
+        },
+        {
+          "name": "Floyd 'Red Crow' Westerman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mtlDkkqentn5wyJcVOOEq8UXKk9.jpg"
+        },
+        {
+          "name": "Tantoo Cardinal",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rxhjfygJlPwztf36iRI7UDn5dr7.jpg"
+        },
+        {
+          "name": "Robert Pastorelli",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ds12780uuJrpSabogQBqc7mveSQ.jpg"
+        },
+        {
+          "name": "Charles Rocket",
+          "photo_url": "https://image.tmdb.org/t/p/w185/g2HeXDVqtGhYKBqeV4cFaZ7RbVV.jpg"
+        },
+        {
+          "name": "Maury Chaykin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/Aqmsu1UHo40Md4RlLGfotSt8Lrr.jpg"
+        },
+        {
+          "name": "Jimmy Herman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/aFEJ8KceyDhtarKEhazH7cWJyDA.jpg"
+        },
+        {
+          "name": "Nathan Lee Chasing Horse",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nNBWRw6BUEb3FNI5uJLvjStM9Be.jpg"
+        },
+        {
+          "name": "Michael Spears",
+          "photo_url": "https://image.tmdb.org/t/p/w185/g9gkvBMGjGpDxqbtAbHuRfAeNdr.jpg"
+        }
+      ],
+      "message_ids": [
+        7894,
+        7895
+      ],
+      "video_message_id": 7895
     },
     {
       "tmdb_id": 489939,

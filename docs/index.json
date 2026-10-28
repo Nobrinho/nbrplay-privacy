@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-28T21:34:11+00:00",
+  "generated_at": "2026-10-28T21:34:27+00:00",
   "channel": "-1004483833987",
-  "count": 3238,
-  "movie_count": 2848,
+  "count": 3239,
+  "movie_count": 2849,
   "series_count": 54,
   "episode_count": 390,
   "custom_count": 0,
@@ -51294,6 +51294,46 @@
         3554
       ],
       "video_message_id": 3554
+    },
+    {
+      "tmdb_id": 373801,
+      "title": "De Volta Para O Presente",
+      "original_title": "Back to the Present: The Special",
+      "year": "2015",
+      "poster_url": "https://image.tmdb.org/t/p/w500/41A2syHG6khv7Ij0xmw5OzyRhmQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tVqweHgSOd6CBbqSxQp2NgRp6wz.jpg",
+      "logo_url": null,
+      "overview": "De Volta para o Futuro, de Steven Spielberg, foi um grande sucesso de bilheteria em 1985, que acabou levando a duas sequências.  Em 1989, em De Volta para o Futuro Parte II, Michael J. Fox, também conhecido como Marty McFly e Christopher Lloyd, também conhecido como Doc Brown, viajam para o futuro até 21 de outubro de 2015.  Na época, as invenções malucas do filme pareciam longe de ser alcançáveis, mas mal sabíamos que estariam tão perto da realidade.  O elenco e os cineastas analisam a franquia cult e discutem carros autônomos, pranchas flutuantes, TVs de tela plana, imagens projetadas e realidade virtual.  Na encruzilhada do entretenimento, cultura pop e ciência, Back to the Future ainda ressoa com as gerações que cresceram assistindo a esses filmes cult.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Christopher Lloyd",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+        },
+        {
+          "name": "Michael J. Fox",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
+        },
+        {
+          "name": "Bob Gale",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wZLj3qLrieFQzt49i981lMVijPm.jpg"
+        },
+        {
+          "name": "Claudia Wells",
+          "photo_url": "https://image.tmdb.org/t/p/w185/2VOsPvoV2vmEUd1O2KjW3kcN8JD.jpg"
+        },
+        {
+          "name": "Robert Zemeckis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg"
+        }
+      ],
+      "message_ids": [
+        7900,
+        7901
+      ],
+      "video_message_id": 7901
     },
     {
       "tmdb_id": 993710,

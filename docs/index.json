@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-28T21:33:30+00:00",
+  "generated_at": "2026-10-28T21:34:11+00:00",
   "channel": "-1004483833987",
-  "count": 3237,
-  "movie_count": 2847,
+  "count": 3238,
+  "movie_count": 2848,
   "series_count": 54,
   "episode_count": 390,
   "custom_count": 0,
@@ -57834,6 +57834,75 @@
         5085
       ],
       "video_message_id": 5085
+    },
+    {
+      "tmdb_id": 635910,
+      "title": "Drácula: A Última Viagem do Deméter",
+      "original_title": "The Last Voyage of the Demeter",
+      "year": "2023",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bojgIXdqn5VbvO8EtQVsLXrepSb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dKC5qWi6S8SKkSzrP6LxTk0cb98.jpg",
+      "logo_url": "/jxBVHJ0AyTvNFKxj7qdyM0Faqnj.png",
+      "overview": "A tripulação do navio mercante Demeter tenta sobreviver à viagem oceânica de Carpathia a Londres enquanto são perseguidos todas as noites por uma presença impiedosa a bordo do navio.",
+      "genres": [
+        "Terror",
+        "Fantasia"
+      ],
+      "cast": [
+        {
+          "name": "Corey Hawkins",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wRt0Bc0chN5BSjvYzmg2evgqNzp.jpg"
+        },
+        {
+          "name": "Aisling Franciosi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/g6qewxM4EEg02HUTLUw9KGkLdNj.jpg"
+        },
+        {
+          "name": "David Dastmalchian",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eLafwcpL64CqzwjjSgKpO7Rv4ae.jpg"
+        },
+        {
+          "name": "Javier Botet",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nuVbt1oreUUPPR0MhKKL7y6i9Dt.jpg"
+        },
+        {
+          "name": "Liam Cunningham",
+          "photo_url": "https://image.tmdb.org/t/p/w185/y27shwpEYGq4vhdEajcmqucuq9x.jpg"
+        },
+        {
+          "name": "Chris Walley",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qASA1oFOwEvL7epg0HZkPE4SRwc.jpg"
+        },
+        {
+          "name": "Jon Jon Briones",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rMLbpS7OgWcrDMKcJxrfk54Lm56.jpg"
+        },
+        {
+          "name": "Stefan Kapičić",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6qHO7ckiyjLNOmW0v5RZj1MpLBj.jpg"
+        },
+        {
+          "name": "Martin Furulund",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6zGIHDbSMCITEmpmXi3JX5171Gh.jpg"
+        },
+        {
+          "name": "Nikolai Nikolaeff",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nNXhasub1J9IikQx53oKgnyEBYH.jpg"
+        },
+        {
+          "name": "Woody Norman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jQlx4bAGAmQfvzEuXw6A9cEmb95.jpg"
+        },
+        {
+          "name": "Graham Turner",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        7898,
+        7899
+      ],
+      "video_message_id": 7899
     },
     {
       "tmdb_id": 248934,

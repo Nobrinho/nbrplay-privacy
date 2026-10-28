@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-28T21:46:41+00:00",
+  "generated_at": "2026-10-28T21:47:06+00:00",
   "channel": "-1004483833987",
-  "count": 3250,
-  "movie_count": 2860,
+  "count": 3251,
+  "movie_count": 2861,
   "series_count": 54,
   "episode_count": 390,
   "custom_count": 0,
@@ -180321,6 +180321,76 @@
         4180
       ],
       "video_message_id": 4180
+    },
+    {
+      "tmdb_id": 788,
+      "title": "Uma Babá Quase Perfeita",
+      "original_title": "Mrs. Doubtfire",
+      "year": "1993",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zrZsqBnGl1zd7T8zxB3OiBOJWcj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xAWx1UGc6LEMpao5FaNxgTNljay.jpg",
+      "logo_url": "/a9mMHyq9Gxhwia4OOKzujrhOGIZ.png",
+      "overview": "Daniel Hillard está passando por uma fase complicada, acaba de se separar de Miranda e perdeu o seu emprego. Impedido pela ex-esposa de passar mais tempo com os filhos, ele tem uma idéia inusitada para recuperar a relação com as crianças. Daniel veste-se como uma senhora idosa escocesa e tenta conseguir o cargo de babá no seu antigo lar.",
+      "genres": [
+        "Comédia",
+        "Drama",
+        "Família"
+      ],
+      "cast": [
+        {
+          "name": "Robin Williams",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lu0gIoH4Bi2CiuMc6WHF9ZIK4PS.jpg"
+        },
+        {
+          "name": "Sally Field",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iMeq1j9Xwvaf6PbTJ0FQz69fpuA.jpg"
+        },
+        {
+          "name": "Lisa Jakub",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6lgi7ietMAsarGhEvjWZFjDA3S2.jpg"
+        },
+        {
+          "name": "Matthew Lawrence",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gT55TawgeA4B1Q0SHsVj9RsK9rQ.jpg"
+        },
+        {
+          "name": "Mara Wilson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/305mjPnTI7ep8rDJ4i7H6XyvLqP.jpg"
+        },
+        {
+          "name": "Pierce Brosnan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg"
+        },
+        {
+          "name": "Robert Prosky",
+          "photo_url": "https://image.tmdb.org/t/p/w185/yV95RE8UGyN8rZYF9W4fOGaAV6U.jpg"
+        },
+        {
+          "name": "Anne Haney",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dMfz6ytevj1AAmvwVv0UAfgwo6O.jpg"
+        },
+        {
+          "name": "Harvey Fierstein",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4th4mr9iR23DdjFjVGhrtCnJRNq.jpg"
+        },
+        {
+          "name": "Scott Capurro",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lkkNhcapftYSM2tFR125eu1f9tF.jpg"
+        },
+        {
+          "name": "Polly Holliday",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tBbYjz3zkxIze3q1cJeN8ITDSPS.jpg"
+        },
+        {
+          "name": "Sydney Walker",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1cpTr6tdsJYsdxExkIyoukZuVKb.jpg"
+        }
+      ],
+      "message_ids": [
+        7922,
+        7923
+      ],
+      "video_message_id": 7923
     },
     {
       "tmdb_id": 1602705,

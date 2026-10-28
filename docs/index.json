@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-28T21:38:09+00:00",
+  "generated_at": "2026-10-28T21:38:27+00:00",
   "channel": "-1004483833987",
-  "count": 3244,
-  "movie_count": 2854,
+  "count": 3245,
+  "movie_count": 2855,
   "series_count": 54,
   "episode_count": 390,
   "custom_count": 0,
@@ -48276,6 +48276,77 @@
         1678
       ],
       "video_message_id": 1678
+    },
+    {
+      "tmdb_id": 161460,
+      "title": "Corruptos e Sanguinários",
+      "original_title": "You Can't Win 'Em All",
+      "year": "1970",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ffSgwjvw8cgPDOpAAWZNDjyklyi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9FJv6PD41Mfsu50AA6lto8aCYyE.jpg",
+      "logo_url": "/kpuXGoEHhYKTIVV4Czs0tGL5vVj.png",
+      "overview": "Dois ex-soldados do Exército dos EUA, Adam Dyer e Josh Corey, se juntam a um bando de mercenários turcos em 1922 que quais são contratados por Osman Bey, um governador local, para escoltar suas três filhas para Esmirna e também para proteger um carregamento de ouro que vai junto com elas . Ninguém sabe que Elci, um coronel local, planeja ficar com o ouro para si mesmo. Enquanto isso um general rebelde persegue todas as partes envolvidas.",
+      "genres": [
+        "Guerra",
+        "Aventura",
+        "Comédia",
+        "Ação"
+      ],
+      "cast": [
+        {
+          "name": "Tony Curtis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/6Pj1XkYdI5Wc40Jl0UxJk8PPwlY.jpg"
+        },
+        {
+          "name": "Charles Bronson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/w0C2Xa6PCQX83Iu2TxPjOCv8ufm.jpg"
+        },
+        {
+          "name": "Michèle Mercier",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bktgqSJAuD3MQoJl8fomncfWpef.jpg"
+        },
+        {
+          "name": "Patrick Magee",
+          "photo_url": "https://image.tmdb.org/t/p/w185/99xStF5zQy6qkDxLnIVaKD3urzI.jpg"
+        },
+        {
+          "name": "Fikret Hakan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1qiKRiMHUAkegucgF3B0IFgsSJR.jpg"
+        },
+        {
+          "name": "Grégoire Aslan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rbqF5csdmXsTMTAAdNkEx7IvuHU.jpg"
+        },
+        {
+          "name": "Leo Gordon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/d87PfczbNFTbiu3qktqORlxnkMW.jpg"
+        },
+        {
+          "name": "John Alderson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3FocJGetbAj9nsUuJqjNIqbZGzU.jpg"
+        },
+        {
+          "name": "Tony Bonner",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rCULDceBF4gIp05O139eZwRVLHS.jpg"
+        },
+        {
+          "name": "Horst Janson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hUIETgOLN9nxpgw47POzpJmk5Oa.jpg"
+        },
+        {
+          "name": "John Acheson",
+          "photo_url": null
+        },
+        {
+          "name": "Howard Goorney",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vvhxKuBn9IsaHvXr7Qe8fmdTB2R.jpg"
+        }
+      ],
+      "message_ids": [
+        7912,
+        7913
+      ],
+      "video_message_id": 7913
     },
     {
       "tmdb_id": 517096,

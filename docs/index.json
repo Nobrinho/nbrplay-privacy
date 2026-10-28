@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-28T21:44:24+00:00",
+  "generated_at": "2026-10-28T21:46:41+00:00",
   "channel": "-1004483833987",
-  "count": 3249,
-  "movie_count": 2859,
+  "count": 3250,
+  "movie_count": 2860,
   "series_count": 54,
   "episode_count": 390,
   "custom_count": 0,
@@ -10326,6 +10326,76 @@
         5012
       ],
       "video_message_id": 5012
+    },
+    {
+      "tmdb_id": 26932,
+      "title": "A Ilha do Dr Moreau",
+      "original_title": "The Island of Dr. Moreau",
+      "year": "1977",
+      "poster_url": "https://image.tmdb.org/t/p/w500/JGeUd5jtzgeKR9SqAD8FXbA3VS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/t4d80bW4Vn86EVIQW0eV2NjhFBh.jpg",
+      "logo_url": "/hKtFwOEoavHClhHr5DXphYrg21i.png",
+      "overview": "Um sobrevivente de naufrágio descobre uma ilha remota de propriedade de um cientista louco que está realizando experiências sinistras nos habitantes da ilha.",
+      "genres": [
+        "Ficção científica",
+        "Terror",
+        "Aventura"
+      ],
+      "cast": [
+        {
+          "name": "Burt Lancaster",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hQBgFAdk1BrSum7LN4B67m3gj0U.jpg"
+        },
+        {
+          "name": "Michael York",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ha9Nh8We778sUg8QyDE1IRATzDY.jpg"
+        },
+        {
+          "name": "Nigel Davenport",
+          "photo_url": "https://image.tmdb.org/t/p/w185/v7ebqfzimSOjRc1vFGgTCSP1P6a.jpg"
+        },
+        {
+          "name": "Barbara Carrera",
+          "photo_url": "https://image.tmdb.org/t/p/w185/q9XOgZ5wocNPbgotNctkczF8D54.jpg"
+        },
+        {
+          "name": "Richard Basehart",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rlk0wF1UbQH7DPGmkXKd1tMzDWo.jpg"
+        },
+        {
+          "name": "Nick Cravat",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bODGLcc1Jim10yaIQTZ4Lf8Y16h.jpg"
+        },
+        {
+          "name": "The Great John L.",
+          "photo_url": null
+        },
+        {
+          "name": "Bob Ozman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/b5gUjrcUEp3xyLtPzAJjjVXI5df.jpg"
+        },
+        {
+          "name": "Fumio Demura",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oux9JQALPLPTlGRdtoTfq44W8kK.jpg"
+        },
+        {
+          "name": "Gary Baxley",
+          "photo_url": null
+        },
+        {
+          "name": "John Gillespie",
+          "photo_url": null
+        },
+        {
+          "name": "David S. Cass Sr.",
+          "photo_url": "https://image.tmdb.org/t/p/w185/tSo4s2Hb2UficxzMqU26bJhwg7i.jpg"
+        }
+      ],
+      "message_ids": [
+        7920,
+        7921
+      ],
+      "video_message_id": 7921
     },
     {
       "tmdb_id": 186997,

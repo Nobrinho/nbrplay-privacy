@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-28T21:42:43+00:00",
+  "generated_at": "2026-10-28T21:43:33+00:00",
   "channel": "-1004483833987",
-  "count": 3247,
-  "movie_count": 2857,
+  "count": 3248,
+  "movie_count": 2858,
   "series_count": 54,
   "episode_count": 390,
   "custom_count": 0,
@@ -39863,6 +39863,29 @@
         7053
       ],
       "video_message_id": 7053
+    },
+    {
+      "tmdb_id": 1793755,
+      "title": "Carlos Lacerda - A Voz que Abalou o Brasil",
+      "original_title": "Carlos Lacerda - A Voz que Abalou o Brasil",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5dRbWAcoeGWLAmL5reK9cGHpP14.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4eGeZyuBJwJawewmf33RdZ9sST3.jpg",
+      "logo_url": "/bBUvFY3sV5sfPKYx2AlOyCvFisF.png",
+      "overview": "Jornalista, deputado, governador e um dos maiores oradores da história do país. Carlos Lacerda levou um tiro pelo que escrevia, enfrentou três governos com coragem e ficou conhecido como um político de resultados, mesmo nunca tendo alcançado a Presidência da República. Para contar essa história, reunimos documentos da época, arquivos raros e entrevistas com especialistas na sua trajetória.",
+      "genres": [
+        "Documentário"
+      ],
+      "cast": [
+        {
+          "name": "Renato Dias",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qxJ8F0Op4FmHRimS3ezNw8HUvS9.jpg"
+        }
+      ],
+      "message_ids": [
+        7917
+      ],
+      "video_message_id": 7917
     },
     {
       "tmdb_id": 133805,

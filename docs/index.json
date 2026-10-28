@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-28T21:37:50+00:00",
+  "generated_at": "2026-10-28T21:38:09+00:00",
   "channel": "-1004483833987",
-  "count": 3243,
-  "movie_count": 2853,
+  "count": 3244,
+  "movie_count": 2854,
   "series_count": 54,
   "episode_count": 390,
   "custom_count": 0,
@@ -186044,6 +186044,75 @@
         3879
       ],
       "video_message_id": 3879
+    },
+    {
+      "tmdb_id": 894169,
+      "title": "Vingança Fatal",
+      "original_title": "Vendetta",
+      "year": "2022",
+      "poster_url": "https://image.tmdb.org/t/p/w500/y33paUKgDhJrdsvNDiGjltYkWau.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/33qGtN2GpGEb94pn25PDPeWQZLk.jpg",
+      "logo_url": "/gfeEeznAEdDpz4lHKQs1KsuFREs.png",
+      "overview": "Quando sua filha é brutalmente assassinada e a justiça parece improvável, William Duncan toma a lei em suas próprias mãos, partindo em busca de vingança. Depois de matar o bandido que foi diretamente responsável por sua morte, ele se encontra no meio de uma guerra com o irmão desse bandido, Rory Fetter, e sua gangue, que estão igualmente empenhados em se vingar de seu membro assassinado.",
+      "genres": [
+        "Ação",
+        "Crime"
+      ],
+      "cast": [
+        {
+          "name": "Clive Standen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4wYmTI77N6giNkJp6DOfSAsishK.jpg"
+        },
+        {
+          "name": "Theo Rossi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/344QE41Jileu4OE41cmYgBxc5BF.jpg"
+        },
+        {
+          "name": "Thomas Jane",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9frnlc2zoDcoeqZALB6aeYSQddl.jpg"
+        },
+        {
+          "name": "Kurt Yue",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kPy0d5uUNiJJB18T55IdE01Ruru.jpg"
+        },
+        {
+          "name": "Bruce Willis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+        },
+        {
+          "name": "Mike Tyson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7eI1WK9985q8XiUgg3rDjOwa3MR.jpg"
+        },
+        {
+          "name": "Jackie Moore",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ed6xhBY6CRYjKTMKCYo422Hqt0E.jpg"
+        },
+        {
+          "name": "Lauren Buglioli",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uDj1rca3t3vJNvtRrtN7e9I1mkV.jpg"
+        },
+        {
+          "name": "Maddie Nichols",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jH8lLhaqgRK1uVV84UgUnZukIyP.jpg"
+        },
+        {
+          "name": "Cabot Basden",
+          "photo_url": null
+        },
+        {
+          "name": "Randy Gonzalez",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mfmChNafTCpvTyUOho9JYGsWy9A.jpg"
+        },
+        {
+          "name": "Maury Morgan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iQN6L5oYtPijceSvUgITjKt2JEi.jpg"
+        }
+      ],
+      "message_ids": [
+        7910,
+        7911
+      ],
+      "video_message_id": 7911
     },
     {
       "tmdb_id": 11099,

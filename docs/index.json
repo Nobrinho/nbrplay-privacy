@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-28T21:47:06+00:00",
+  "generated_at": "2026-10-28T21:48:10+00:00",
   "channel": "-1004483833987",
-  "count": 3251,
-  "movie_count": 2861,
+  "count": 3252,
+  "movie_count": 2862,
   "series_count": 54,
   "episode_count": 390,
   "custom_count": 0,
@@ -62921,6 +62921,77 @@
         6886
       ],
       "video_message_id": 6886
+    },
+    {
+      "tmdb_id": 1064307,
+      "title": "Espermagedom",
+      "original_title": "Spermageddon",
+      "year": "2024",
+      "poster_url": "https://image.tmdb.org/t/p/w500/t8Bwrn7Z4cACTl8kKIAteLk5kAh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/g0hBL9OnEuRs1hm3JypNS9eP8r4.jpg",
+      "logo_url": "/q7D8skZqNwpeB5eytFgsRs6Pfnz.png",
+      "overview": "Quando Lisa e Jean vão ter sua primeira transa, algo estranho acontece dentro do corpo do garoto: É o Espermagedom. A grande disputa onde os espermatozoides vão ter que lutar pela chance de fecundar o óvulo e gerar a vida. Em meio a muitos desafios, os espermatozoides Sêmerson e Semília vão descobrir seus caminhos pelo corpo feminino, encarar contraceptivos e enfrentar o vilão Gozama. Guiados pela sabedoria duvidosa do Professor eles farão de tudo pra chegar ao tão sonhado óvulo.",
+      "genres": [
+        "Animação",
+        "Aventura",
+        "Fantasia",
+        "Comédia"
+      ],
+      "cast": [
+        {
+          "name": "Christian Mikkelsen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fxE4TkpAgmxxE38plZsloNM6yfd.jpg"
+        },
+        {
+          "name": "Nasrin Khusrawi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kD6wHXQnYYiyfc8ksZdtRgmwQNB.jpg"
+        },
+        {
+          "name": "Aksel Hennie",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sceuNjVXtsHOS3cn0MsLfZRkAQx.jpg"
+        },
+        {
+          "name": "Mathilde Storm",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zn3R4uRFvck7cZKPfMrfPpIWFKB.jpg"
+        },
+        {
+          "name": "Christian Rubeck",
+          "photo_url": "https://image.tmdb.org/t/p/w185/gZ7f4zkmX8hluHkP6OCLpiofQNC.jpg"
+        },
+        {
+          "name": "Bjørn Sundquist",
+          "photo_url": "https://image.tmdb.org/t/p/w185/c4BQFatz6Tm84iGAEwibm53b3Gk.jpg"
+        },
+        {
+          "name": "John Brungot",
+          "photo_url": "https://image.tmdb.org/t/p/w185/etJW3FIzFKHIjXkTdFhXrICIYDB.jpg"
+        },
+        {
+          "name": "Gustav Nilsen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7GLyvwtlk5sUNjQ2nFMaHkr3GmY.jpg"
+        },
+        {
+          "name": "Silya Nymoen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/t4sTCBJkf6CyIWbomZq9yOkMEtO.jpg"
+        },
+        {
+          "name": "Jakob Schøyen Andersen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/crNzDh3rtP7OmoXPLOlTe755t0N.jpg"
+        },
+        {
+          "name": "Amir Asgharnejad",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mx2EZTAs24utRiNJIl4JXxZtUSp.jpg"
+        },
+        {
+          "name": "Ingrid Bolsø Berdal",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iv9RaskT1WronDXaTKh9mI5KNUn.jpg"
+        }
+      ],
+      "message_ids": [
+        7924,
+        7925
+      ],
+      "video_message_id": 7925
     },
     {
       "tmdb_id": 440918,

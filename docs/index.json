@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-28T21:29:15+00:00",
+  "generated_at": "2026-10-28T21:31:14+00:00",
   "channel": "-1004483833987",
-  "count": 3234,
-  "movie_count": 2844,
+  "count": 3235,
+  "movie_count": 2845,
   "series_count": 54,
   "episode_count": 390,
   "custom_count": 0,
@@ -14997,6 +14997,75 @@
         4438
       ],
       "video_message_id": 4438
+    },
+    {
+      "tmdb_id": 975902,
+      "title": "A Rainha Guerreira",
+      "original_title": "Boudica",
+      "year": "2023",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zXiqgwerUrAtIzVL9OyRcG90oTh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zhaMys3Ej1KK32zb5qEOZCi06IH.jpg",
+      "logo_url": "/rqcDKyNUnn04t1eSvHk3uSNPNm9.png",
+      "overview": "Boudica governa o povo Iceniano com seu marido, Prasutagus. O rei morre nas mãos de soldados romanos, deixando o reino de Boudica sem um herdeiro do sexo masculino, e os romanos se apoderam de suas terras e propriedades.",
+      "genres": [
+        "Ação",
+        "Guerra"
+      ],
+      "cast": [
+        {
+          "name": "Olga Kurylenko",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ei6eYUhQFw2AaV6U5fyPptBaPF0.jpg"
+        },
+        {
+          "name": "Peter Franzén",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zJ8JV2TefLQIT5DzMinl5eoK5YH.jpg"
+        },
+        {
+          "name": "Clive Standen",
+          "photo_url": "https://image.tmdb.org/t/p/w185/4wYmTI77N6giNkJp6DOfSAsishK.jpg"
+        },
+        {
+          "name": "Lucy Martin",
+          "photo_url": "https://image.tmdb.org/t/p/w185/qsvdRFGxJzSWAX9o66K7XOGVLLS.jpg"
+        },
+        {
+          "name": "Nick Moran",
+          "photo_url": "https://image.tmdb.org/t/p/w185/kfWebCAm72JBZLXcNbA2Myr950E.jpg"
+        },
+        {
+          "name": "James Faulkner",
+          "photo_url": "https://image.tmdb.org/t/p/w185/969qmhcUDkb0Ms8sduDXIymsqRe.jpg"
+        },
+        {
+          "name": "Rita Tushingham",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sEI6flS4X82MdzIBTwOXjVXuoFK.jpg"
+        },
+        {
+          "name": "Harry Kirton",
+          "photo_url": "https://image.tmdb.org/t/p/w185/thWIiFWuW98DdIf7TfcbKEoyS4D.jpg"
+        },
+        {
+          "name": "Andy Beckwith",
+          "photo_url": "https://image.tmdb.org/t/p/w185/9fL7P2yETzD74Yli7IEpP14RJlG.jpg"
+        },
+        {
+          "name": "Dominique Vandenberg",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jFcmt3Apx5QxRPvkrJRzJaHACAy.jpg"
+        },
+        {
+          "name": "Jon Wennington",
+          "photo_url": "https://image.tmdb.org/t/p/w185/byRz4RqpS6bcedpTjUyN8kgl33R.jpg"
+        },
+        {
+          "name": "Leo Gregory",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hntA25YHbPiNaq8Hcx7Fw07NQsu.jpg"
+        }
+      ],
+      "message_ids": [
+        7892,
+        7893
+      ],
+      "video_message_id": 7893
     },
     {
       "tmdb_id": 37799,

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-31T00:05:31+00:00",
+  "generated_at": "2026-10-31T00:06:35+00:00",
   "channel": "-1004483833987",
-  "count": 3256,
-  "movie_count": 2866,
+  "count": 3257,
+  "movie_count": 2867,
   "series_count": 54,
   "episode_count": 390,
   "custom_count": 0,
@@ -143412,6 +143412,69 @@
         1555
       ],
       "video_message_id": 1555
+    },
+    {
+      "tmdb_id": 23056,
+      "title": "Pinóquio 3000",
+      "original_title": "Pinocchio 3000",
+      "year": "2004",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iustE1p9QxTUk5r8RGFvOwsmF2S.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9viXmNTZczTzVQbQpImNr1hUsxO.jpg",
+      "logo_url": "/9Gp5SO87GQqyp74PwJB7NMxPqcN.png",
+      "overview": "Ano 3000. Em Scamboville, uma cidade governada pelo malvado Scamboli vive Gepeto, um inventor genial que criou algo muito especial: Pinóquio, um pequeno robot com muita personalidade e um sonho particular, tornar-se menino.\r Alegre, imaginativo e curioso ele é muito teimoso e inocente o que lhe vale por vezes entrar em grandes sarilhos. Mas como o pequeno robot é para Gepeto o filho que ele nunca teve, ele vai tentar protegê-lo a todo o custo de Scamboli que vê nele uma oportunidade para concretizar os seu planos malvados - transformar todos os meninos em robots!\r Com a ajuda dos seus inseparáveis amigos, Spencer, um pinguim muito divertido e Cyberina, uma fada muito especial, Pinóquio vai procurar tornar o seu sonho realidade. Será que vai conseguir?",
+      "genres": [
+        "Animação",
+        "Família",
+        "Fantasia",
+        "Ficção científica"
+      ],
+      "cast": [
+        {
+          "name": "Malcolm McDowell",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hL8ep4Hqj6izX7IlzE7Bbcfq62w.jpg"
+        },
+        {
+          "name": "Sonja Ball",
+          "photo_url": "https://image.tmdb.org/t/p/w185/wf60G9ych8Sbb4cAbXIv8iFuNIs.jpg"
+        },
+        {
+          "name": "Howard Ryshpan",
+          "photo_url": "https://image.tmdb.org/t/p/w185/103bjS1qYYE8NaEV97aPqcZMKLe.jpg"
+        },
+        {
+          "name": "Whoopi Goldberg",
+          "photo_url": "https://image.tmdb.org/t/p/w185/78LZMMzNUJVfLI1MObxejScwZz5.jpg"
+        },
+        {
+          "name": "Howie Mandel",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lX5HyGJ6X6aVPwirx5Tt9CJcMzA.jpg"
+        },
+        {
+          "name": "Bobby Edner",
+          "photo_url": "https://image.tmdb.org/t/p/w185/sqdW7UmiVeaJ2Jahzl8VlQ5I8Qm.jpg"
+        },
+        {
+          "name": "Barbara Tissier",
+          "photo_url": "https://image.tmdb.org/t/p/w185/oAhObnVhqsdJHO6vlMuW2a82Mwa.jpg"
+        },
+        {
+          "name": "Matt Holland",
+          "photo_url": "https://image.tmdb.org/t/p/w185/lKyB8ktsLcjnDN74Mk5VIG3MFSq.jpg"
+        },
+        {
+          "name": "Jack Daniel Wells",
+          "photo_url": null
+        },
+        {
+          "name": "Dawn Ford",
+          "photo_url": "https://image.tmdb.org/t/p/w185/f6MGyVIEUcCIbCVAy6MZH8NMnuC.jpg"
+        }
+      ],
+      "message_ids": [
+        7931,
+        7932
+      ],
+      "video_message_id": 7932
     },
     {
       "tmdb_id": 555604,

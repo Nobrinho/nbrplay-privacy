@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-10-28T23:56:03+00:00",
+  "generated_at": "2026-10-31T00:05:04+00:00",
   "channel": "-1004483833987",
-  "count": 3254,
-  "movie_count": 2864,
+  "count": 3255,
+  "movie_count": 2865,
   "series_count": 54,
   "episode_count": 390,
   "custom_count": 0,
@@ -122606,6 +122606,77 @@
         6788
       ],
       "video_message_id": 6788
+    },
+    {
+      "tmdb_id": 20287,
+      "title": "O Limite da Traição",
+      "original_title": "Extreme Prejudice",
+      "year": "1987",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7w4KO0a4atgzRHi2efg4jaw7mb7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/l48O8fatTpS1nccR2MtJnh4EqRb.jpg",
+      "logo_url": "/5s68P8IN2sBYYDc0hT1TAzJnbJw.png",
+      "overview": "Um policial do Texas e um traficante implacável: eles eram amigos de infância, agora são adversários.",
+      "genres": [
+        "Ação",
+        "Thriller",
+        "Crime",
+        "Drama",
+        "Faroeste"
+      ],
+      "cast": [
+        {
+          "name": "Nick Nolte",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+        },
+        {
+          "name": "Powers Boothe",
+          "photo_url": "https://image.tmdb.org/t/p/w185/xj3DBMqnEnyYfHEBcRHOxlpbQS4.jpg"
+        },
+        {
+          "name": "Michael Ironside",
+          "photo_url": "https://image.tmdb.org/t/p/w185/mzHmxtKcMJjDqWxKd67mKQJFW1B.jpg"
+        },
+        {
+          "name": "María Conchita Alonso",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zcDN921xNK0AznoA0TEbdbsPSn3.jpg"
+        },
+        {
+          "name": "Rip Torn",
+          "photo_url": "https://image.tmdb.org/t/p/w185/jP74MHyQl6R8mH7aZKHrrD2Qjj2.jpg"
+        },
+        {
+          "name": "Clancy Brown",
+          "photo_url": "https://image.tmdb.org/t/p/w185/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
+        },
+        {
+          "name": "William Forsythe",
+          "photo_url": "https://image.tmdb.org/t/p/w185/g9lvl6Gz8Tbx4Uxd4FwFxJKpduY.jpg"
+        },
+        {
+          "name": "Matt Mulhern",
+          "photo_url": "https://image.tmdb.org/t/p/w185/dtYWbp0VeAcU8pKRwciGJbleaWw.jpg"
+        },
+        {
+          "name": "Larry B. Scott",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5T6qtSbpDlI7GLOdd8eZKPtjhjj.jpg"
+        },
+        {
+          "name": "Dan Tullis Jr.",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iiFnrKJGb35pGoFdH65VW7RJqmW.jpg"
+        },
+        {
+          "name": "John Dennis Johnston",
+          "photo_url": "https://image.tmdb.org/t/p/w185/uHlBuOEeGm88Yzu6GCQgNReQJHo.jpg"
+        },
+        {
+          "name": "James Lashly",
+          "photo_url": "https://image.tmdb.org/t/p/w185/v3xrMhBpy5kAxJX4opc3CDzjCIj.jpg"
+        }
+      ],
+      "message_ids": [
+        7928
+      ],
+      "video_message_id": 7928
     },
     {
       "tmdb_id": 800198,

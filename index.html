@@ -5,97 +5,22 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Política de privacidade do NBR Play: quais dados o app trata, para quê, por quanto tempo e como exercer os seus direitos (LGPD).">
 <meta name="theme-color" content="#0B0D10">
-<title>Política de Privacidade — Nbr PLAY</title>
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<title>Política de Privacidade — NBR Play</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
-<style>
-:root {
-  color-scheme: dark;
-  --bg: #0B0D10; --surface: #12161B; --surface2: #161B21; --line: #222A33; --line2: #1F252D;
-  --text: #C9D1DB; --strong: #FFFFFF; --muted: #8B95A3; --soft: #A9B3C1; --nav: #B7C0CC;
-  --accent: #2BEE34; --accent-hover: #8AF58F; --on-accent: #061206;
-  --accent-bg: #0E1D10; --accent-line: #22502A; --accent-text: #B2CDB5;
-  --warn: #F5C46B; --warn-bg: #1E1A10; --warn-line: #4A3A16;
-  --sans: 'Plus Jakarta Sans', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
-  --mono: 'JetBrains Mono', ui-monospace, Consolas, monospace;
-}
-* { box-sizing: border-box; }
-html { scroll-behavior: smooth; }
-body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.7 var(--sans); -webkit-font-smoothing: antialiased; }
-a { color: var(--accent); }
-a:hover { color: var(--accent-hover); }
-strong { color: var(--strong); }
-img { max-width: 100%; }
-.container { max-width: 1120px; margin: 0 auto; padding: 0 24px; }
-@media (max-width: 600px) { .container { padding: 0 16px; } }
-
-/* Topo e rodapé */
-.site-header { border-bottom: 1px solid var(--line2); }
-.site-header .container { display: flex; align-items: center; justify-content: space-between; gap: 12px 24px; flex-wrap: wrap; padding-top: 16px; padding-bottom: 16px; }
-.brand { display: flex; align-items: center; gap: 12px; text-decoration: none; color: var(--strong); font-weight: 800; font-size: 18px; letter-spacing: -0.01em; }
-.brand:hover { color: var(--strong); }
-.brand img { width: 40px; height: 40px; object-fit: contain; }
-.site-nav { display: flex; gap: 6px 22px; flex-wrap: wrap; font-size: 15px; }
-.site-nav a { color: var(--nav); text-decoration: none; padding: 6px 0; }
-.site-nav a:hover { color: var(--strong); }
-.site-footer { border-top: 1px solid var(--line2); }
-.site-footer .container { display: flex; flex-wrap: wrap; gap: 12px 24px; justify-content: space-between; padding-top: 28px; padding-bottom: 28px; font-size: 14px; color: var(--muted); }
-.site-footer .links { display: flex; gap: 18px; flex-wrap: wrap; }
-
-/* Peças comuns */
-.eyebrow { align-self: flex-start; display: inline-block; font-size: 13px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); border: 1px solid var(--accent-line); background: var(--accent-bg); padding: 6px 12px; border-radius: 999px; line-height: 1.4; }
-.eyebrow.plain { border: 0; background: none; padding: 0; }
-.label { font-size: 13px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.08em; }
-.card { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 28px; }
-.card.accent { background: var(--accent-bg); border-color: var(--accent-line); color: var(--accent-text); }
-@media (max-width: 600px) { .card { padding: 20px; } }
-.btn { display: inline-flex; align-items: center; justify-content: center; gap: 10px; min-height: 48px; padding: 12px 22px; border-radius: 10px; font-weight: 700; font-size: 16px; text-decoration: none; border: 1px solid transparent; }
-.btn-primary { background: var(--accent); color: var(--on-accent); }
-.btn-primary:hover { background: var(--accent-hover); color: var(--on-accent); }
-.btn-ghost { color: #E6EAF0; border-color: #2A323C; font-weight: 600; }
-.btn-ghost:hover { border-color: var(--accent); color: var(--strong); }
-.code { font-family: var(--mono); color: var(--strong); background: #1A2028; padding: 2px 8px; border-radius: 6px; font-size: 0.92em; word-break: break-word; }
-.callout { margin: 0; font-size: 14px; line-height: 1.6; border-radius: 10px; padding: 12px 14px; border: 1px solid #262E38; background: var(--surface2); color: var(--soft); }
-.callout.warn { color: var(--warn); background: var(--warn-bg); border-color: var(--warn-line); }
-.callout.warn strong { color: var(--warn); }
-.icon-box { width: 40px; height: 40px; flex: none; border-radius: 10px; background: var(--accent-bg); border: 1px solid var(--accent-line); display: inline-flex; align-items: center; justify-content: center; color: var(--accent); }
-h1, h2, h3 { color: var(--strong); letter-spacing: -0.02em; }
-
-/* Política */
-.doc-hero { padding-top: 64px; padding-bottom: 40px; display: flex; flex-direction: column; gap: 14px; }
-.doc-hero h1 { margin: 0; font-size: clamp(34px, 6vw, 48px); line-height: 1.1; font-weight: 800; letter-spacing: -0.03em; }
-.doc-hero .date { margin: 0; font-size: 15px; color: var(--muted); }
-.doc-hero .lead { margin: 8px 0 0; font-size: 18px; line-height: 1.7; color: var(--soft); max-width: 760px; }
-.doc { display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start; padding-bottom: 72px; }
-.toc { flex: 1 1 220px; min-width: 0; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 20px; display: flex; flex-direction: column; gap: 4px; font-size: 14px; line-height: 1.5; }
-.toc .label { font-size: 12px; margin-bottom: 6px; }
-.toc a { color: var(--text); text-decoration: none; padding: 5px 0; }
-.toc a:hover { color: var(--accent); }
-@media (min-width: 900px) { .toc { position: sticky; top: 24px; max-height: calc(100vh - 48px); overflow-y: auto; } }
-.doc-body { flex: 999 1 560px; min-width: 0; display: flex; flex-direction: column; gap: 36px; }
-.doc-body section { display: flex; flex-direction: column; gap: 10px; scroll-margin-top: 16px; }
-.doc-body h2 { margin: 0; font-size: 24px; font-weight: 800; line-height: 1.3; }
-.doc-body h2 .num { font-family: var(--mono); font-size: 0.7em; color: var(--accent); margin-right: 10px; vertical-align: 2px; }
-.doc-body p { margin: 0; }
-.doc-body ul { margin: 0; padding-left: 22px; display: flex; flex-direction: column; gap: 10px; }
-.summary { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; }
-.summary .card { padding: 22px; display: flex; flex-direction: column; gap: 6px; }
-.summary .card b { color: var(--strong); font-size: 17px; }
-.summary .card span { color: var(--soft); font-size: 15px; line-height: 1.6; }
-.table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 14px; }
-.table-wrap table { width: 100%; border-collapse: collapse; font-size: 15px; line-height: 1.6; min-width: 520px; }
-.table-wrap th, .table-wrap td { text-align: left; vertical-align: top; padding: 14px 16px; }
-.table-wrap th { background: var(--surface); color: var(--strong); font-weight: 700; }
-.table-wrap td { border-top: 1px solid var(--line); }
-.doc-body .card.accent { padding: 28px; }
-@media (max-width: 600px) { .doc-hero { padding-top: 40px; } .doc-body .card.accent { padding: 20px; } }
-</style>
+<link rel="stylesheet" href="assets/site.css">
 </head>
 <body>
 <header class="site-header">
   <div class="container">
-    <a class="brand" href="./">Nbr <span style="color: var(--accent)">PLAY</span></a>
+    <a class="brand" href="./"><img src="logo.png" alt="" width="40" height="40">NBR Play</a>
+    <nav class="site-nav" aria-label="Páginas">
+      <a href="instalar/">Instalar o app</a>
+    </nav>
   </div>
 </header>
 
@@ -158,6 +83,7 @@ h1, h2, h3 { color: var(--strong); letter-spacing: -0.02em; }
           <li><strong>Conectar aparelhos</strong> (quando você usa a opção): nome do aparelho (tipo e modelo, por exemplo "TV · AFTKM"), data do vínculo e o código temporário de 6 caracteres.</li>
           <li><strong>Reportar problema</strong> (só quando você usa a opção em um vídeo): motivo escolhido, o texto que você escrever, título, ano, canal, identificação do vídeo, modelo do aparelho, versão do Android e versão do aplicativo.</li>
           <li><strong>Dados de uso e diagnóstico</strong> (para encontrar falhas e melhorar o aplicativo): abertura do aplicativo, vídeo aberto (identificação do vídeo), erros de reprodução (código do erro, decodificador e formato do vídeo), buscas que não tiveram resultado (o texto pesquisado) e reportes enviados, sempre com o modelo do aparelho e a versão do aplicativo.</li>
+          <li><strong>Pagamentos do NBR Play Premium</strong> (só se você assinar): plano escolhido, valor, situação do pagamento, número do pagamento no Mercado Pago, datas e a validade do Premium. O pagamento em si acontece no seu banco e no Mercado Pago: <strong>não recebemos nem guardamos</strong> seus dados bancários, CPF ou nome.</li>
           <li><strong>Dados técnicos de conexão</strong>: o endereço IP é usado no momento de cada acesso para segurança e para limitar abusos (limite de requisições por minuto). Ele não é associado ao seu perfil e fica apenas nos registros técnicos do provedor por poucos dias.</li>
         </ul>
         <p class="callout">Se o servidor estiver fora do ar, o reporte de problema pode ser enviado como mensagem privada, <strong>pela sua própria conta do Telegram</strong>, ao administrador do aplicativo. Nesse caso o administrador vê o seu perfil do Telegram. Nada é enviado sem a sua ação.</p>
@@ -170,6 +96,8 @@ h1, h2, h3 { color: var(--strong); letter-spacing: -0.02em; }
           <tbody>
             <tr><td>Sincronizar Minha lista, histórico e progresso; conectar aparelhos; receber reportes</td><td>Execução do serviço que você usa (inciso V)</td></tr>
             <tr><td>Diagnóstico de falhas, melhoria do aplicativo, segurança e prevenção de abuso</td><td>Legítimo interesse (inciso IX), com dados mínimos e sem identificar você</td></tr>
+            <tr><td>Cobrar e liberar o Premium</td><td>Execução do contrato de assinatura (inciso V)</td></tr>
+            <tr><td>Guardar os registros de pagamento</td><td>Cumprimento de obrigação legal e fiscal (inciso II)</td></tr>
           </tbody>
         </table></div>
         <p>Não usamos os dados para publicidade, não vendemos dados e não criamos perfis para fins comerciais.</p>
@@ -186,6 +114,7 @@ h1, h2, h3 { color: var(--strong); letter-spacing: -0.02em; }
             <tr><td>Códigos de "Conectar aparelhos"</td><td>Válidos por 10 minutos; apagados 1 dia depois de vencer</td></tr>
             <tr><td>Contadores de limite de requisições</td><td>Poucos minutos</td></tr>
             <tr><td>Reportes de problema</td><td>Até a análise; quando o identificador anônimo é apagado, o reporte perde o vínculo com ele</td></tr>
+            <tr><td>Registros de pagamento e validade do Premium</td><td>Pelo prazo exigido pela legislação fiscal (em geral, 5 anos); contas com Premium ativo não são apagadas por inatividade</td></tr>
           </tbody>
         </table></div>
       </section>
@@ -195,6 +124,7 @@ h1, h2, h3 { color: var(--strong); letter-spacing: -0.02em; }
         <p>Não compartilhamos dados com anunciantes. Usamos os seguintes serviços para o aplicativo funcionar:</p>
         <ul>
           <li><strong>Supabase</strong> (hospedagem do servidor e do banco de dados), com servidores nos <strong>Estados Unidos</strong>.</li>
+          <li><strong>Mercado Pago</strong> (processa o pagamento por Pix do Premium), sujeito à Política de Privacidade do próprio Mercado Pago.</li>
           <li><strong>Telegram</strong> (login e acesso aos canais), sujeito à Política de Privacidade e aos Termos do próprio Telegram.</li>
           <li><strong>GitHub</strong> (download do índice de filmes e das atualizações do aplicativo) e <strong>The Movie Database — TMDB</strong> (imagens de capas e elenco): recebem apenas o endereço IP no momento do download.</li>
           <li><strong>Google (gstatic.com) e Cloudflare (speed.cloudflare.com)</strong>: só quando você usa o Teste de conexão, para medir latência e velocidade; o resultado fica no aparelho.</li>
@@ -257,7 +187,7 @@ h1, h2, h3 { color: var(--strong); letter-spacing: -0.02em; }
 <footer class="site-footer">
   <div class="container">
     <span>NBR Play</span>
-    <span class="links"><a href="mailto:nbrplay@outlook.com">nbrplay@outlook.com</a></span>
+    <span class="links"><a href="instalar/">Instalar o app</a><a href="mailto:nbrplay@outlook.com">nbrplay@outlook.com</a></span>
   </div>
 </footer>
 </body>

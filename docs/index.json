@@ -1,13 +1,85 @@
 {
   "version": 2,
-  "generated_at": "2026-11-03T18:53:57+00:00",
+  "generated_at": "2026-11-03T18:58:23+00:00",
   "channel": "-1003819811669",
-  "count": 0,
-  "movie_count": 0,
+  "count": 1,
+  "movie_count": 1,
   "series_count": 0,
   "episode_count": 0,
   "custom_count": 0,
-  "movies": [],
+  "movies": [
+    {
+      "tmdb_id": 1423191,
+      "ntv_id": "m_1423191",
+      "imdb_id": "tt35538033",
+      "title": "Resident Evil",
+      "original_title": "Resident Evil",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gQ76UL64RQe3oHwiwHwODTC23g4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "logo_url": "/9ulobOWQViT7UQt2iYzb5tEVgm9.png",
+      "overview": "Bryan, um tranquilo entregador de órgãos, é enviado para uma entrega noturna no Hospital Geral de Raccoon City. No caminho por uma estrada montanhosa coberta de neve, ele acidentalmente atropela uma mulher desconhecida. Ela sobrevive, mas algo está muito errado. Ao tentar ajudar, Bryan se depara com um surto em larga escala envolvendo mutações horríveis com tentáculos e monstruosidades bioengenheiradas.",
+      "genres": [
+        "Terror",
+        "Ficção científica",
+        "Aventura"
+      ],
+      "cast": [
+        {
+          "name": "Austin Abrams",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nvbJNwyhIICUFcS4lhxj9mGvL5z.jpg"
+        },
+        {
+          "name": "Paul Walter Hauser",
+          "photo_url": "https://image.tmdb.org/t/p/w185/hXjjbYg1Ah8mFf5ZcaakyXzDKMx.jpg"
+        },
+        {
+          "name": "Kali Reis",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg"
+        },
+        {
+          "name": "Zach Cherry",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg"
+        },
+        {
+          "name": "Johnno Wilson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/eZtBoBE0F7Qb9ZyNpacMOQtmWnM.jpg"
+        },
+        {
+          "name": "Shaun W. Loeser",
+          "photo_url": "https://image.tmdb.org/t/p/w185/pMV7kzy7OHk4X93uRGbrdvuFgQB.jpg"
+        },
+        {
+          "name": "Zach Cregger",
+          "photo_url": "https://image.tmdb.org/t/p/w185/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg"
+        },
+        {
+          "name": "Emily Piggford",
+          "photo_url": "https://image.tmdb.org/t/p/w185/ruijvaNNXzGXqGphQXsoHts1Ovc.jpg"
+        },
+        {
+          "name": "Will Merrick",
+          "photo_url": "https://image.tmdb.org/t/p/w185/zqyH01TJ9WW6TaAULCG2ChSbNwI.jpg"
+        },
+        {
+          "name": "Zoé Bellas",
+          "photo_url": "https://image.tmdb.org/t/p/w185/3nw4EhStA4IcJQxz4Yevm25u5ov.jpg"
+        },
+        {
+          "name": "Chris Lew Kum Hoi",
+          "photo_url": "https://image.tmdb.org/t/p/w185/7kHYxjhnRErXDRNYaSRemLCx9J7.jpg"
+        },
+        {
+          "name": "Griffin Newman",
+          "photo_url": "https://image.tmdb.org/t/p/w185/vRnjx2UGdMhvFn5coYZJLKHVWbq.jpg"
+        }
+      ],
+      "message_ids": [
+        8
+      ],
+      "video_message_id": 8
+    }
+  ],
   "series": [],
   "custom": []
 }

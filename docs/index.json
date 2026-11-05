@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-11-05T14:03:40+00:00",
+  "generated_at": "2026-11-05T18:24:34+00:00",
   "channel": "-1003819811669",
-  "count": 3258,
-  "movie_count": 2868,
+  "count": 3259,
+  "movie_count": 2869,
   "series_count": 54,
   "episode_count": 390,
   "custom_count": 0,
@@ -62121,6 +62121,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/yyDGhBY8RYXyXYADeFq1BDxpLkl.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1YnZchmaGc8dchgRPDpR1KGrixA.jpg",
       "logo_url": "/5UnGFjE5DuflYaG7JbfJz205RBb.png",
+      "trailer_url": "https://www.youtube.com/watch?v=ne6p6MfLBxc",
       "overview": "Em um futuro próximo, um escritor solitário desenvolve um relacionamento improvável com um sistema operacional projetado para atender todas as suas necessidades.",
       "genres": [
         "Romance",
@@ -75775,6 +75776,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/2umU3r6V4V2gTmSnZJmH61nTorF.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uovH5k4BAEPqXqxgwVrTtqH169g.jpg",
       "logo_url": "/oAfsjop5NzamJuOojAo9DV61zic.png",
+      "trailer_url": "https://www.youtube.com/watch?v=QFxN2oDKk0E",
       "overview": "Membros da agência Monarch enfrentam monstros gigantescos, incluindo o poderoso Godzilla, que entra em choque com Mothra, Rodan e seu maior inimigo, King Ghidorah, o monstro de três cabeças. Essas antigas superespécies disputam a supremacia, deixando a própria existência da humanidade em risco.",
       "genres": [
         "Ficção científica",
@@ -85851,6 +85853,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/tWpB4lK4RFEQf0CHsVgDWZOmUbl.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ndi0PlHzSbV2pV2wUZFtS58Wk54.jpg",
       "logo_url": "/oztRXCuL2Dfc3iRIjtmrqRymLWY.png",
+      "trailer_url": "https://www.youtube.com/watch?v=EMrLrQDeC_M",
       "overview": "O primeiro-ministro britânico morre sob circunstâncias misteriosas, e o funeral atrai todos os líderes do mundo ocidental. O agente secreto Mike Banning descobre uma conspiração para assassinar todos os líderes mundiais presentes.",
       "genres": [
         "Ação",
@@ -147050,6 +147053,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/fG3S4zdgnsaF77tJGK3rA9tHBu4.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lzMS0CI3FLQYC5EgJoWeIaEt0lm.jpg",
       "logo_url": "/5CJUsFrgzP4PPX6ysFf56mbDhAa.png",
+      "trailer_url": "https://www.youtube.com/watch?v=gAI_4rRRvCo",
       "overview": "O astronauta Mark Watney é enviado a uma missão em Marte. Após uma severa tempestade ele é dado como morto, abandonado pelos colegas e acorda sozinho no misterioso planeta com escassos suprimentos, sem saber como reencontrar os companheiros ou retornar à Terra.",
       "genres": [
         "Ficção científica",
@@ -187204,6 +187208,78 @@
         840
       ],
       "video_message_id": 840
+    },
+    {
+      "tmdb_id": 1813355,
+      "ntv_id": "m_1813355",
+      "imdb_id": "tt50389959",
+      "title": "Uma História de Derry",
+      "original_title": "A Story of Derry",
+      "year": "2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9duTLm4Xk62wGIWJBfdco9lPHvW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+      "logo_url": "/g950QQO2CYuP7bzGHLwU68r4niS.png",
+      "trailer_url": null,
+      "overview": "Séculos antes da aparição do palhaço Pennywise em Derry, três jovens nativos americanos encontram um aterrorizante espírito ancestral na floresta.",
+      "genres": [
+        "Drama",
+        "Terror",
+        "Mistério"
+      ],
+      "cast": [
+        {
+          "name": "Kiawentiio",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nfvTxgypfRFjF3DMKhSyiXUiwD1.jpg"
+        },
+        {
+          "name": "Isabel DeRoy-Olson",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5Q00DYyruBqaJQuHqnu6qxVnpXT.jpg"
+        },
+        {
+          "name": "Michael Podemski",
+          "photo_url": "https://image.tmdb.org/t/p/w185/rKhfWIIQhiGKLyhB238wFCDv1nE.jpg"
+        },
+        {
+          "name": "Zahn McClarnon",
+          "photo_url": "https://image.tmdb.org/t/p/w185/54M2t1gziirkDdvj4SxAl6dXaVO.jpg"
+        },
+        {
+          "name": "MorningStar Angeline",
+          "photo_url": "https://image.tmdb.org/t/p/w185/nB1PCopniuETacJofZ254Cr4CFo.jpg"
+        },
+        {
+          "name": "Brandon Oakes",
+          "photo_url": "https://image.tmdb.org/t/p/w185/iiEiwcEaOObQXHoOitU1wstZmMF.jpg"
+        },
+        {
+          "name": "Jennifer Podemski",
+          "photo_url": "https://image.tmdb.org/t/p/w185/5LlDHLrj0QRyQ0IpPgXr419tXRF.jpg"
+        },
+        {
+          "name": "Kimberly Guerrero",
+          "photo_url": null
+        },
+        {
+          "name": "Brenda Odjick",
+          "photo_url": null
+        },
+        {
+          "name": "Thosh Collins",
+          "photo_url": "https://image.tmdb.org/t/p/w185/fOnqZREIdxVllZFgkz7GU1FbXd9.jpg"
+        },
+        {
+          "name": "Eric Trask",
+          "photo_url": "https://image.tmdb.org/t/p/w185/n5cvVnT2zMsVMOrzq0uLgJUpmO.jpg"
+        },
+        {
+          "name": "Steven Thompson",
+          "photo_url": null
+        }
+      ],
+      "message_ids": [
+        3304
+      ],
+      "video_message_id": 3304
     },
     {
       "tmdb_id": 843527,
